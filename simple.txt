@@ -86,6 +86,7 @@
 ||www.cricket.com.au^
 ||healthhubmorayfield.com.au^
 ||www.healthhubmorayfield.com.au^
+||leauksesee.autos^
 ||2aed6ghjsb4436qtebuqk3gfzq0xeauy.lambda-url.us-east-1.on.aws^
 ||geoedge.be^
 ||rumcdn.geoedge.be^
@@ -186,6 +187,8 @@
 ||adopdmp.adop.cc^
 ||compass.adop.cc^
 ||data.adop.cc^
+||fanza.cc^
+||help.fanza.cc^
 ||img.hotvideo.cc^
 ||maturepornvideos.cc^
 ||tagbucket.cc^
@@ -339,6 +342,7 @@
 ||ex.co^
 ||content.ex.co^
 ||player.ex.co^
+||finized.co^
 ||frdjs-2.co^
 ||xml-v4.frdjs-2.co^
 ||gotoda.co^
@@ -534,6 +538,8 @@
 ||406afea59d.2799f73c61.com^
 ||289b829a6e.com^
 ||93c4aa8d38.289b829a6e.com^
+||28e096686b.com^
+||b2fda60d3a.28e096686b.com^
 ||295a9f642d.com^
 ||5265caeee4.295a9f642d.com^
 ||2989f3f0ff.com^
@@ -1199,6 +1205,8 @@
 ||cdn.aduzz.com^
 ||www.aduzz.com^
 ||advantageshallwayasks.com^
+||adventurewallpaper.com^
+||lp.adventurewallpaper.com^
 ||adversal.com^
 ||go.adversal.com^
 ||advertica-cdn.com^
@@ -2386,6 +2394,7 @@
 ||s9.cnzz.com^
 ||www.cnzz.com^
 ||z2.cnzz.com^
+||co5457chu.com^
 ||coaxeswir.com^
 ||jq.coaxeswir.com^
 ||cobalten.com^
@@ -2473,6 +2482,7 @@
 ||insights-tag.convertkit.com^
 ||convertsial.com^
 ||conviva.com^
+||appgw.conviva.com^
 ||cws.conviva.com^
 ||f353bd2204bc43767a48f154127f3c9c08d27a60.cws.conviva.com^
 ||chs03.cookie-script.com^
@@ -2481,6 +2491,7 @@
 ||cookie-cdn.cookiepro.com^
 ||cookieyes.com^
 ||log.cookieyes.com^
+||coolbearsdaily58.com^
 ||cooperatecleave.com^
 ||cootek.com^
 ||ime.cootek.com^
@@ -3264,6 +3275,8 @@
 ||fekybctoozk.com^
 ||www.fekybctoozk.com^
 ||festivefranchisetorrent.com^
+||fetanews.com^
+||1.fetanews.com^
 ||fgislklsqqytr.com^
 ||www.fgislklsqqytr.com^
 ||fhenzejas.com^
@@ -3470,6 +3483,7 @@
 ||gatetrace.com^
 ||web.gatetrace.com^
 ||gaysdates.com^
+||aoodrb.gaysdates.com^
 ||kdwma.gaysdates.com^
 ||gazetanovostey.com^
 ||assets.gazetanovostey.com^
@@ -3705,6 +3719,7 @@
 ||metric.gstatic.com^
 ||oty0id-dnsotls-ds.metric.gstatic.com^
 ||xcleq8-dnsotls-ds.metric.gstatic.com^
+||gstguj.com^
 ||gtaqzidhaluc.com^
 ||ra.gtimg.com^
 ||gtvtbzoo.com^
@@ -4077,6 +4092,7 @@
 ||www.igetnaughty.com^
 ||igijsyqli.com^
 ||www.igijsyqli.com^
+||iglucentral.com^
 ||ignoringinconvenience.com^
 ||igodigital.com^
 ||collect.igodigital.com^
@@ -4309,6 +4325,7 @@
 ||ja2n2u30a6rgyd.com^
 ||jaavnacsdw.com^
 ||jacsmuvkymw.com^
+||jactakxzyo.com^
 ||janrain.com^
 ||quilt-cdn.janrain.com^
 ||jaqwtyajwp.com^
@@ -4533,6 +4550,8 @@
 ||kronosspell.com^
 ||ktaehxdlf.com^
 ||www.ktaehxdlf.com^
+||ktbeegfm.com^
+||www.ktbeegfm.com^
 ||ktkjmp.com^
 ||video.ktkjmp.com^
 ||ktqwplnifkalnx.com^
@@ -5015,6 +5034,7 @@
 ||go.mnaspm.com^
 ||mndsrv.com^
 ||icon.mndsrv.com^
+||ss.mndsrv.com^
 ||mneylinkpass.com^
 ||mniumlapsers.com^
 ||az.mniumlapsers.com^
@@ -5043,6 +5063,7 @@
 ||moengage.com^
 ||cdn.moengage.com^
 ||sdk-01.moengage.com^
+||mojirater.com^
 ||momentoinsuree.com^
 ||monetizer.com^
 ||app.monetizer.com^
@@ -5208,6 +5229,7 @@
 ||networknmedia.com^
 ||constellation.networknmedia.com^
 ||neupwvhayjm.com^
+||new-twinks.com^
 ||new8803.com^
 ||new8806.com^
 ||www.new8806.com^
@@ -5336,6 +5358,7 @@
 ||o333o.com^
 ||a.o333o.com^
 ||cdn.o333o.com^
+||s.o333o.com^
 ||o4uxrk33.com^
 ||oagnatch.com^
 ||oakapsot.com^
@@ -5404,6 +5427,7 @@
 ||api.omappapi.com^
 ||omitneitherrover.com^
 ||omkodwcmaofr.com^
+||omkzwysusorg.com^
 ||omnitagjs.com^
 ||hb-api.omnitagjs.com^
 ||visitor.omnitagjs.com^
@@ -5835,6 +5859,8 @@
 ||pt.protoawe.com^
 ||protoawegw.com^
 ||api-protected.protoawegw.com^
+||proton-tm.com^
+||www.proton-tm.com^
 ||prototypewailrubber.com^
 ||proverbnoncommittalvault.com^
 ||prowlenthusiasticcongest.com^
@@ -6500,6 +6526,8 @@
 ||serverbid.com^
 ||e.serverbid.com^
 ||sevokop.com^
+||sex-vip.com^
+||www.sex-vip.com^
 ||sexadnetwork.com^
 ||sexcash.com^
 ||tracking.sexcash.com^
@@ -6642,6 +6670,8 @@
 ||staging-cdn.snigelweb.com^
 ||snitcher.com^
 ||snid.snitcher.com^
+||snowplowanalytics.com^
+||collector.snowplowanalytics.com^
 ||snrcmgqe.com^
 ||www.snrcmgqe.com^
 ||snugglethesheep.com^
@@ -7257,6 +7287,8 @@
 ||tvpixel.com^
 ||c.tvpixel.com^
 ||twazzyoidwlfe.com^
+||tweqgvmnjdjexw.com^
+||www.tweqgvmnjdjexw.com^
 ||twilio.com^
 ||stun.twilio.com^
 ||global.stun.twilio.com^
@@ -8227,6 +8259,8 @@
 ||zoukooso.com^
 ||zquotfuofx.com^
 ||www.zquotfuofx.com^
+||zrotary.com^
+||app.zrotary.com^
 ||ztumuvofzbfe.com^
 ||zuebao.com^
 ||ads.zuebao.com^
@@ -8508,6 +8542,8 @@
 ||ntlysearchingf.info^
 ||onbet88.info^
 ||onetouch24.info^
+||onetouch8.info^
+||video.onetouch8.info^
 ||orgotitedu.info^
 ||ourtshipanditlas.info^
 ||ozonestsscareer.info^
@@ -8522,6 +8558,7 @@
 ||spacert-2.info^
 ||spapersonhe.info^
 ||engine.spotscenered.info^
+||terperbelomo.info^
 ||thesandonesof.info^
 ||thetresindidn.info^
 ||tobabarsoeveng.info^
@@ -8790,6 +8827,7 @@
 ||visitor-analytics.io^
 ||loadbalancer.visitor-analytics.io^
 ||visits.visitor-analytics.io^
+||wurfl.io^
 ||xoso66.io^
 ||yellowblue.io^
 ||hb.yellowblue.io^
@@ -9406,6 +9444,7 @@
 ||dq06u9lt5akr2.cloudfront.net^
 ||dq3yxnlzwhcys.cloudfront.net^
 ||drda5yf9kgz5p.cloudfront.net^
+||drt1fhpy4haqm.cloudfront.net^
 ||ds88pc0kw6cvc.cloudfront.net^
 ||dsh7ky7308k4b.cloudfront.net^
 ||du0pud0sdlmzf.cloudfront.net^
@@ -9576,6 +9615,8 @@
 ||cartera-cdn.freetls.fastly.net^
 ||confiant-integrations.global.ssl.fastly.net^
 ||flashcore.net^
+||flndboy.net^
+||aoodrb.flndboy.net^
 ||foapsovi.net^
 ||footprint.net^
 ||secure.footprint.net^
@@ -9634,7 +9675,10 @@
 ||go.hentaigold.net^
 ||hoogajee.net^
 ||hoowooze.net^
+||hotboysnearby.net^
+||aoodrb.hotboysnearby.net^
 ||mwgkq.hotboysnearby.net^
+||xbeqjx.hotboysnearby.net^
 ||houdodoo.net^
 ||hs-analytics.net^
 ||js.hs-analytics.net^
@@ -9855,6 +9899,7 @@
 ||cdn.popcash.net^
 ||cdn2.popcash.net^
 ||dcba.popcash.net^
+||static.popcash.net^
 ||popmonetizer.net^
 ||xml.popmonetizer.net^
 ||pouluwie.net^
@@ -10368,6 +10413,8 @@
 ||www.majesticrepresentative.pro^
 ||meryjane.pro^
 ||nebutorsonerin.pro^
+||negative-might.pro^
+||www.negative-might.pro^
 ||nifty-drive.pro^
 ||www.nifty-drive.pro^
 ||nikugrawe.pro^
@@ -10380,6 +10427,7 @@
 ||patithatspartal.pro^
 ||peanuts.pro^
 ||phiduvuka.pro^
+||pitiful-tongue.pro^
 ||ptufubimu.pro^
 ||www.ptufubimu.pro^
 ||realnewslongdays.pro^
@@ -10665,6 +10713,7 @@
 ||areaw.aqnazbbjlenqe.top^
 ||arqznlwqqklqe.top^
 ||aynn.arqznlwqqklqe.top^
+||avatraffic.top^
 ||awwqyewjrqzqa.top^
 ||alze.awwqyewjrqzqa.top^
 ||awyebweybejyj.top^
@@ -10871,6 +10920,8 @@
 ||znel.zrkyzwrwjlwqe.top^
 ||zvbkyrbjvlelz.top^
 ||zlbe.zvbkyrbjvlelz.top^
+||zvbkyrbjvlnka.top^
+||zlbe.zvbkyrbjvlnka.top^
 ||zvjvkjeqlbwmj.top^
 ||zqba.zvjvkjeqlbwmj.top^
 ||zwajbqnwvvwyw.top^
@@ -11263,6 +11314,7 @@
 ||m.five88.win^
 ||gem88.win^
 ||ad.gem88.win^
+||qc.gem88.win^
 ||hitclub.win^
 ||luckyspin.win^
 ||www.luckyspin.win^
@@ -11411,6 +11463,7 @@
 ||hqawqssuvqyl.xyz^
 ||hrpmqvndvxc.xyz^
 ||htejxmjwli.xyz^
+||htlaaogcreeepuj.xyz^
 ||hxaubnrfgxke.xyz^
 ||ievaoixvcy.xyz^
 ||ikadmethe.xyz^
@@ -11572,6 +11625,8 @@
 ||www.xtraffic.xyz^
 ||xtremeserve.xyz^
 ||xycstlfoagh.xyz^
+||yazuda.xyz^
+||b.yazuda.xyz^
 ||yeeowl.xyz^
 ||bee.yeeowl.xyz^
 ||yekijicvbylqh.xyz^
@@ -11613,8 +11668,7 @@
 /error_?204/
 /funcript.*\.php/
 /gamingadult.*\.gif/
-/generate_?204/
-/gen_?204/
+/gen(erate)?_?204/
 /goog(ima|le_funding_choices)\.js/$script
 /imgur\/.*\.gif/
 /index\/ping/
@@ -11965,6 +12019,16 @@ twitter.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timelin
 twitter.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.18', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.18.content.itemContent.promotedMetadata')
 twitter.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.19', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.19.content.itemContent.promotedMetadata')
 twitter.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.20', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.20.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.21', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.21.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.22', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.22.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.23', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.23.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.24', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.24.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.25', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.25.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.26', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.26.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.27', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.27.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.28', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.28.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.29', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.29.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.30', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.30.content.itemContent.promotedMetadata')
 twitter.com#%#//scriptlet('json-prune', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.1', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.1.content.items.0.item.itemContent.promotedMetadata')
 twitter.com#%#//scriptlet('json-prune', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.2', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.2.content.items.0.item.itemContent.promotedMetadata')
 twitter.com#%#//scriptlet('json-prune', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.3', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.3.content.items.0.item.itemContent.promotedMetadata')
@@ -11996,6 +12060,16 @@ twitter.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.i
 twitter.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.18', 'data.user.result.timeline_v2.timeline.instructions.*.entries.18.content.itemContent.promotedMetadata')
 twitter.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.19', 'data.user.result.timeline_v2.timeline.instructions.*.entries.19.content.itemContent.promotedMetadata')
 twitter.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.20', 'data.user.result.timeline_v2.timeline.instructions.*.entries.20.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.21', 'data.user.result.timeline_v2.timeline.instructions.*.entries.21.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.22', 'data.user.result.timeline_v2.timeline.instructions.*.entries.22.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.23', 'data.user.result.timeline_v2.timeline.instructions.*.entries.23.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.24', 'data.user.result.timeline_v2.timeline.instructions.*.entries.24.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.25', 'data.user.result.timeline_v2.timeline.instructions.*.entries.25.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.26', 'data.user.result.timeline_v2.timeline.instructions.*.entries.26.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.27', 'data.user.result.timeline_v2.timeline.instructions.*.entries.27.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.28', 'data.user.result.timeline_v2.timeline.instructions.*.entries.28.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.29', 'data.user.result.timeline_v2.timeline.instructions.*.entries.29.content.itemContent.promotedMetadata')
+twitter.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.30', 'data.user.result.timeline_v2.timeline.instructions.*.entries.30.content.itemContent.promotedMetadata')
 ! With BAB, can override Math.floor=void 0 or document.body.insertBefore=void 0 will have same effects
 ! Change imgur to imgur old frontpage: imgur.com#%#document.cookie="frontpagebetav2=0;domain=.imgur.com";
 123s.link,1link.vip,link1s.com#%#window.addEventListener("load",function(){for(var e of document.querySelectorAll('[class*="banner" i]'))e.classList.remove(...e.className.match(/(\S+)?banner(\S+)?/gi)),"undefined"!=typeof app_vars&&(app_vars.counter_value=6,app_vars.force_disable_adblock=0),"undefined"!=typeof go_popup&&(go_popup=void 0)});
