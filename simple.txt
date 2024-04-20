@@ -408,6 +408,7 @@
 ||viads.co^
 ||videocampaign.co^
 ||ads.videy.co^
+||ads3.videy.co^
 ||wdfl.co^
 ||r.wdfl.co^
 ||winbet99.co^
@@ -543,6 +544,8 @@
 ||s6-viet.227290wss.com^
 ||2443march2024.com^
 ||32472.2443march2024.com^
+||246755be17.com^
+||b37c6c9b6b.246755be17.com^
 ||24f6bf5f7e.com^
 ||be48b25c25.24f6bf5f7e.com^
 ||24kworldresidences.com^
@@ -981,6 +984,8 @@
 ||8a351b33de.9d407e803d.com^
 ||9e1852531b.com^
 ||bfd2d865a7.9e1852531b.com^
+||9edb4a8944.com^
+||7d6a43730c.9edb4a8944.com^
 ||9ee93ebe3a.com^
 ||dd2512ce33.9ee93ebe3a.com^
 ||9f5c4f7827.com^
@@ -2931,6 +2936,7 @@
 ||backend.dna-delivery.com^
 ||dnb.com^
 ||dunsregistered.dnb.com^
+||dnknbtntt.com^
 ||dntchnyghet.com^
 ||www.dntchnyghet.com^
 ||dnudlvqqsc.com^
@@ -3039,6 +3045,7 @@
 ||embed.dugout.com^
 ||dumbpop.com^
 ||dummieseardrum.com^
+||dusunkerntor.com^
 ||dvokgydenwaksi.com^
 ||www.dvokgydenwaksi.com^
 ||dvoyy3qexr.com^
@@ -3845,6 +3852,7 @@
 ||www.gptkjrseu.com^
 ||gqjfoggtbyhkgw.com^
 ||graceofnoon.com^
+||gnar.grammarly.com^
 ||gravatkitysol.com^
 ||gravityrd-services.com^
 ||nguyenkim-sin.gravityrd-services.com^
@@ -3984,6 +3992,8 @@
 ||heplhvadpmkq.com^
 ||www.heplhvadpmkq.com^
 ||heratheacle.com^
+||hesoorda.com^
+||ak.hesoorda.com^
 ||hetaint.com^
 ||ak.hetaint.com^
 ||hetapus.com^
@@ -4342,6 +4352,8 @@
 ||inflectionquake.com^
 ||infolinks.com^
 ||resources.infolinks.com^
+||informereng.com^
+||static.informereng.com^
 ||inforsea.com^
 ||pixel.inforsea.com^
 ||ingivergrimier.com^
@@ -5592,6 +5604,7 @@
 ||jb.octylsrewet.com^
 ||ocumknxm.com^
 ||www.ocumknxm.com^
+||odbpadovzocm.com^
 ||odologyelicit.com^
 ||odysseus-nua.com^
 ||usd.odysseus-nua.com^
@@ -6195,6 +6208,7 @@
 ||qawbaxcpeku.com^
 ||qbxaebqkg.com^
 ||www.qbxaebqkg.com^
+||qciocqacgo.com^
 ||qcjpabrqdmov.com^
 ||qffywkqeia.com^
 ||qgxbluhsgad.com^
@@ -6310,6 +6324,7 @@
 ||clients.ragezone.com^
 ||rahimsafi.com^
 ||app.rahimsafi.com^
+||raigauho.com^
 ||rainyautumnnews.com^
 ||20664.rainyautumnnews.com^
 ||raiphupi.com^
@@ -6407,6 +6422,8 @@
 ||tags.remixd.com^
 ||remockdazzle.com^
 ||wy.remockdazzle.com^
+||remove-adverts.com^
+||dist.remove-adverts.com^
 ||remuetaking.com^
 ||bb.remuetaking.com^
 ||renomeeguze.com^
@@ -6562,6 +6579,7 @@
 ||rundsp.com^
 ||match.rundsp.com^
 ||rusenov.com^
+||rutfadsziog.com^
 ||rvadnet.com^
 ||partner.rvadnet.com^
 ||rvigxvvpkgvvbo.com^
@@ -6673,6 +6691,8 @@
 ||creative.schjmp.com^
 ||go.schjmp.com^
 ||schmalzierloanshiftreengaging.com^
+||scorchads.com^
+||serve.scorchads.com^
 ||scorchthorny.com^
 ||scorecardresearch.com^
 ||b.scorecardresearch.com^
@@ -7261,6 +7281,7 @@
 ||tfosrv.com^
 ||tgpsew.com^
 ||thaiguxu.com^
+||thaksaubie.com^
 ||thaninncoos.com^
 ||thanks-page.com^
 ||thanosofcos5.com^
@@ -8090,6 +8111,7 @@
 ||wfuossjholw.com^
 ||wg-aff.com^
 ||track.wg-aff.com^
+||whacairdake.com^
 ||whagrogiva.com^
 ||whaodvfkydib.com^
 ||whataboutnews.com^
@@ -8361,6 +8383,8 @@
 ||www.yammer.com^
 ||yatbzuwo.com^
 ||www.yatbzuwo.com^
+||yavaajoure.com^
+||ps.yavaajoure.com^
 ||yawcoynag.com^
 ||yawnspuker.com^
 ||ybs2ffs7v.com^
@@ -8465,7 +8489,6 @@
 ||www.zbdvvwpia.com^
 ||zbwkapoit.com^
 ||www.zbwkapoit.com^
-||zdassets.com^
 ||ekr.zdassets.com^
 ||static.zdassets.com^
 ||zebraicrudista.com^
@@ -8978,7 +9001,10 @@
 ||swisscodemonkeys.github.io^
 ||gmwin.io^
 ||plausible.gofile.io^
+||grammarly.io^
 ||f-log-js-plugin.grammarly.io^
+||femetrics.grammarly.io^
+||website.femetrics.grammarly.io^
 ||grsm.io^
 ||hotbit.io^
 ||www.hotbit.io^
@@ -9363,6 +9389,7 @@
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^
 ||choidebet.me^
 ||ad.choidebet.me^
+||cowboy2u4me.me^
 ||dabet.me^
 ||empiresystems.me^
 ||collector.empiresystems.me^
@@ -10014,8 +10041,11 @@
 ||hoowooze.net^
 ||hotboysnearby.net^
 ||aoodrb.hotboysnearby.net^
+||jnvkdd.hotboysnearby.net^
+||kemrkb.hotboysnearby.net^
 ||mwgkq.hotboysnearby.net^
 ||xbeqjx.hotboysnearby.net^
+||zojjgm.hotboysnearby.net^
 ||houdodoo.net^
 ||hs-analytics.net^
 ||js.hs-analytics.net^
@@ -10541,6 +10571,8 @@
 ||nutgame.online^
 ||ohholo.online^
 ||padconer.online^
+||partdrop.online^
+||trk.partdrop.online^
 ||sameradar-1.online^
 ||snailsreligion.online^
 ||trk.snailsreligion.online^
@@ -11010,6 +11042,8 @@
 ||www.takiparkrb.site^
 ||tertracks.site^
 ||trk.tertracks.site^
+||timeevc.site^
+||www.timeevc.site^
 ||updservice.site^
 ||vasgenerete.site^
 ||may88.so^
@@ -11042,6 +11076,9 @@
 ||analytics.shorte.st^
 ||collector.shorte.st^
 ||static.shorte.st^
+||nadiokufe.store^
+||sv.nadiokufe.store^
+||www.nadiokufe.store^
 ||piaroankenyte.store^
 ||viadata.store^
 ||bbwsex.su^
@@ -11171,6 +11208,7 @@
 ||charactfinnier.top^
 ||chawedsonrai.top^
 ||claspsbonded.top^
+||clewsyne.top^
 ||clusterdamages.top^
 ||coccusjailors.top^
 ||coffeevizored.top^
@@ -11201,6 +11239,8 @@
 ||feededspreath.top^
 ||ferrelkines.top^
 ||fingahvf.top^
+||five88.top^
+||v1.five88.top^
 ||flenchnenes.top^
 ||fluffdarky.top^
 ||fondlescany.top^
@@ -11234,6 +11274,8 @@
 ||jeqa.jbrnmlmweaaka.top^
 ||jeannvalmvvzv.top^
 ||jkrw.jeannvalmvvzv.top^
+||jeannvazzvyzv.top^
+||jkrw.jeannvazzvyzv.top^
 ||jerjrqqazamvw.top^
 ||jqkj.jerjrqqazamvw.top^
 ||jjkwrqjzkmbjw.top^
@@ -11314,6 +11356,8 @@
 ||porkoltlinear.top^
 ||portendbedrite.top^
 ||push-notifications.top^
+||qbnyeqynazeyk.top^
+||qayv.qbnyeqynazeyk.top^
 ||qbqzbzbmezbwq.top^
 ||qryk.qbqzbzbmezbwq.top^
 ||qbrrrlarmaebk.top^
@@ -11436,6 +11480,8 @@
 ||zlbe.zvbkyrbjvlnka.top^
 ||zvjvkjeqlbwmj.top^
 ||zqba.zvjvkjeqlbwmj.top^
+||zvylzwkalkemj.top^
+||zbjy.zvylzwkalkemj.top^
 ||zwajbqnwvvwyw.top^
 ||zjwy.zwajbqnwvvwyw.top^
 ||zwbbkjvarevbe.top^
@@ -12085,6 +12131,7 @@
 ||ptoockex.xyz^
 ||ptouckop.xyz^
 ||pugehjjxdr.xyz^
+||pultftmpcotnik.xyz^
 ||purgoaho.xyz^
 ||pushpad.xyz^
 ||pxjxcqccxlwmojw.xyz^
@@ -12093,6 +12140,7 @@
 ||qiwlywetmp.xyz^
 ||qlgdmygpysftw.xyz^
 ||qmnqvmratp.xyz^
+||qmrshxjr.xyz^
 ||qoltkemp.xyz^
 ||qqyaarvtrw.xyz^
 ||qtoyngxgdoxkf.xyz^
@@ -12143,6 +12191,7 @@
 ||uihgypgegf.xyz^
 ||uloaludu.xyz^
 ||uovmejkplcojm.xyz^
+||urqepqwqnr.xyz^
 ||utcjptmsgga.xyz^
 ||uwx1.xyz^
 ||rt.uwx1.xyz^
@@ -12151,6 +12200,7 @@
 ||veukrnmen.xyz^
 ||videobaba.xyz^
 ||revive.videobaba.xyz^
+||videofileconvertpro.xyz^
 ||vmcnsykhhdmltv.xyz^
 ||vodcdn.xyz^
 ||media.vodcdn.xyz^
@@ -12672,7 +12722,7 @@ myreadingmanga.info#%#Object.defineProperty(window,"adConfig",{value:void 0,writ
 nhentai.net#%#window.addEventListener("DOMContentLoaded",function(){"undefined"!=typeof _n_app&&Object.defineProperties(_n_app,{analytics:{value:void 0,writable:!1},exoclick:{value:void 0,writable:!1},popunder:{value:void 0,writable:!1},xhamster:{value:void 0,writable:!1}})});
 online-python.com#%#localStorage.setItem("theme","dark");
 onlinegdb.com#%#var t=setInterval(function(){"function"==typeof savefile&&(Object.defineProperty(self,"savefile",{value:function(){return!0},writable:!1}),clearInterval(t))},100);Object.defineProperty(self,"no_ads",{value:!0,writable:!1});
-rule34.xxx#%#window.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("span[data-nosnippet]").forEach(e=>e.remove())});
+rule34.xxx#%#window.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("[data-nosnippet]").forEach(e=>e.remove())});
 saostar.vn#%#window.addEventListener("DOMContentLoaded",function(){var e=document.querySelector("div.layout > div.t--0");null!=e&&e.remove(),null!=(e=document.getElementById("articlepage"))&&e.classList.remove("is-ads"),["div.w--160","div.w--300","div.article-medbottom"].forEach(t=>{null!=(e=document.querySelector(t))&&e.remove()})});
 sbchill.com,sblongvu.com,streamsss.net,watchsb.com#%#Object.defineProperties(window,{check:{value:void 0,writable:!1},isadb:{value:void 0,writable:!1},minimalUserResponseInMiliseconds:{value:void 0,writable:!1},tryCount:{value:void 0,writable:!1},__Y:{value:void 0,writable:!1}}),window.addEventListener("DOMContentLoaded",function(){"undefined"!=typeof player&&(player.setVolume(0),player.setMute(!0),localStorage.setItem("jwplayer.volume",0),localStorage.setItem("jwplayer.mute",!0))});
 tcpvpn.com,vpnsplit.com#%#window.addEventListener("DOMContentLoaded",function(){document.getElementById("blockblockA").remove(),document.getElementById("blockblockB").style.display="block"});
