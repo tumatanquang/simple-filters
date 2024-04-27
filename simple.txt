@@ -591,6 +591,8 @@
 ||dce64d66b2.2b15b8e193.com^
 ||2bac5b4837.com^
 ||4aa702b79e.2bac5b4837.com^
+||2bd1f18377.com^
+||516d924a88.2bd1f18377.com^
 ||2da69cc358.com^
 ||9c3fa7532b.2da69cc358.com^
 ||2e4b7fc71a.com^
@@ -915,6 +917,8 @@
 ||52ac9f7637.8aaee039a0.com^
 ||8ar7dbcwtr.com^
 ||static-web-vn.8ar7dbcwtr.com^
+||8c1204d49f.com^
+||c150420df3.8c1204d49f.com^
 ||8c22d403cf.com^
 ||77be761a72.8c22d403cf.com^
 ||8d1dce99ab.com^
@@ -1005,6 +1009,8 @@
 ||a-ads.com^
 ||acceptable.a-ads.com^
 ||ad.a-ads.com^
+||a0e351a3aa.com^
+||96b600f50a.a0e351a3aa.com^
 ||a11k.com^
 ||b.a11k.com^
 ||a166994a16.com^
@@ -1089,6 +1095,7 @@
 ||acloudvideos.com^
 ||cdn.acloudvideos.com^
 ||acoudsoarom.com^
+||acpsarqpipze.com^
 ||acqvoluum.com^
 ||track.acqvoluum.com^
 ||acscdn.com^
@@ -2004,6 +2011,7 @@
 ||bat.bing.com^
 ||c.bing.com^
 ||binomnet.com^
+||bipmwuhisvp.com^
 ||birlerskababs.com^
 ||bitget.com^
 ||static.bitget.com^
@@ -3139,6 +3147,8 @@
 ||901268600b.ec1e2c92b3.com^
 ||ec5e727d37.com^
 ||50abe8a408.ec5e727d37.com^
+||ecaecc3e17.com^
+||70b25fad84.ecaecc3e17.com^
 ||echobox.com^
 ||service.echobox.com^
 ||trackerapi.service.echobox.com^
@@ -4003,6 +4013,8 @@
 ||aps.hearstnp.com^
 ||heavedmealock.com^
 ||lr.heavedmealock.com^
+||hectordehort.com^
+||op.hectordehort.com^
 ||hedgehoghugsyou.com^
 ||heextending.com^
 ||heezingwardian.com^
@@ -5085,6 +5097,7 @@
 ||matreedknifes.com^
 ||mattpalm.com^
 ||maw5r7y9s9helley.com^
+||maximumingrow.com^
 ||maxmind.com^
 ||device.maxmind.com^
 ||www.maxonclick.com^
@@ -5758,6 +5771,7 @@
 ||oqfpuzaltac.com^
 ||oqxehynxtckgha.com^
 ||www.oqxehynxtckgha.com^
+||console-telemetry.oci.oraclecloud.com^
 ||oranegfodnd.com^
 ||oranum.com^
 ||www.oranum.com^
@@ -6189,6 +6203,7 @@
 ||dw.pukekotautog.com^
 ||pulbrydwixm.com^
 ||pulpsbarndomed.com^
+||punapflalap.com^
 ||punoqlaslbas.com^
 ||punosy.com^
 ||source.punosy.com^
@@ -7183,6 +7198,9 @@
 ||sonic-us.supersonicads.com^
 ||outcome-arm-ext-med-ext.sonic-us.supersonicads.com^
 ||supply-media.com^
+||supplyframe.com^
+||ads.supplyframe.com^
+||search.supplyframe.com^
 ||cdn.surfcountor.com^
 ||survicate.com^
 ||survey.survicate.com^
@@ -7338,6 +7356,8 @@
 ||thebrighttag.com^
 ||s.thebrighttag.com^
 ||theekedgleamed.com^
+||theepsie.com^
+||ak.theepsie.com^
 ||thefacux.com^
 ||thegioi24.com^
 ||icdn.thegioi24.com^
@@ -8391,6 +8411,7 @@
 ||ups.analytics.yahoo.com^
 ||beap-bc.yahoo.com^
 ||cricket.yahoo.com^
+||csp.yahoo.com^
 ||fc.yahoo.com^
 ||jill.fc.yahoo.com^
 ||b.gemini.yahoo.com^
@@ -8910,6 +8931,7 @@
 ||eownouncillors.info^
 ||ericanthesion.info^
 ||funtikapa.info^
+||getrunkhomuto.info^
 ||www.gfae.info^
 ||go-static.info^
 ||st.go-static.info^
@@ -8937,6 +8959,7 @@
 ||onetouch24.info^
 ||onetouch8.info^
 ||video.onetouch8.info^
+||onservantasr.info^
 ||orgotitedu.info^
 ||ourtshipanditlas.info^
 ||ozonestsscareer.info^
@@ -8944,6 +8967,7 @@
 ||prchecker.info^
 ||pr.prchecker.info^
 ||qirls.info^
+||quitesousefulhe.info^
 ||razeraqrassm.info^
 ||relandssymphoking.info^
 ||rydohimowa.info^
@@ -9531,6 +9555,7 @@
 ||7kjdnfkjghdf7.monster^
 ||9akjsbkjdas9.monster^
 ||openvip.monster^
+||thekey.monster^
 ||yourporn.movie^
 ||eu.yourporn.movie^
 ||mailchi.mp^
@@ -9746,6 +9771,7 @@
 ||d1418wpyaxxvno.cloudfront.net^
 ||d14u0p1qkech25.cloudfront.net^
 ||d15kdpgjg3unno.cloudfront.net^
+||d16sobzswqonxq.cloudfront.net^
 ||d18g6t7whf8ejf.cloudfront.net^
 ||d18t35yyry2k49.cloudfront.net^
 ||d1a3jb5hjny5s4.cloudfront.net^
@@ -10398,6 +10424,8 @@
 ||shareaholic.net^
 ||www.shareaholic.net^
 ||shoubsee.net^
+||singular.net^
+||sdk-api-v1.singular.net^
 ||smaato.net^
 ||ad.smaato.net^
 ||api.ad.smaato.net^
@@ -10527,6 +10555,7 @@
 ||xxxadultsex.net^
 ||edgecast-cf-prod.yahoo.net^
 ||edgecast-vod.yahoo.net^
+||alpha-gpt.mail.yahoo.net^
 ||gpt.mail.yahoo.net^
 ||sombrero.yahoo.net^
 ||dns-7rd6c5tyn.sombrero.yahoo.net^
@@ -11300,6 +11329,7 @@
 ||deslimepitier.top^
 ||dgafgadsgkjg.top^
 ||dicolicbarrer.top^
+||doingsyud.top^
 ||drublylamboy.top^
 ||eaudigonal.top^
 ||elqqmvqkvjemm.top^
@@ -11360,6 +11390,10 @@
 ||jqkj.jerjrqqazamvw.top^
 ||jjkwrqjzkmbjw.top^
 ||jrqy.jjkwrqjzkmbjw.top^
+||jnbknnrnnzjwr.top^
+||jzlr.jnbknnrnnzjwr.top^
+||jnyyrybjjlzbv.top^
+||jalw.jnyyrybjjlzbv.top^
 ||jraqzmbyqnjwl.top^
 ||jqba.jraqzmbyqnjwl.top^
 ||jrkbnvkvraerw.top^
@@ -11456,6 +11490,8 @@
 ||qejbj.qqvlbzlbqeaav.top^
 ||qqvlbzlqbyebj.top^
 ||qejbj.qqvlbzlqbyebj.top^
+||qqyqeqqwbrqlq.top^
+||qvak.qqyqeqqwbrqlq.top^
 ||qualifyicod.top^
 ||quinoanitrile.top^
 ||qwoia04qi.top^
@@ -11478,6 +11514,7 @@
 ||reckdimout.top^
 ||red88.top^
 ||api.red88.top^
+||refeelhatfuls.top^
 ||refpa.top^
 ||regaldthight.top^
 ||regulationprivilegescan.top^
@@ -12158,6 +12195,7 @@
 ||kxkqqycs.xyz^
 ||lajaajcogokmgm.xyz^
 ||larsepso.xyz^
+||leghfawp.xyz^
 ||lentinesox.xyz^
 ||leqpdlaq.xyz^
 ||lillianmeyer.xyz^
@@ -12167,6 +12205,7 @@
 ||lltyfiqsdgsvnr.xyz^
 ||lumupu.xyz^
 ||t.lumupu.xyz^
+||luonxumpaams.xyz^
 ||medadelem.xyz^
 ||media3s.xyz^
 ||img.media3s.xyz^
@@ -12283,6 +12322,7 @@
 ||uovmejkplcojm.xyz^
 ||urqepqwqnr.xyz^
 ||utcjptmsgga.xyz^
+||utdhcgbovqdp.xyz^
 ||uwx1.xyz^
 ||rt.uwx1.xyz^
 ||vabsirte.xyz^
@@ -12867,7 +12907,7 @@ fandom.com##.bottom-ads-container,.page__right-rail,.top-ads-container
 fingau.com,getpczone.com,rahim-soft.com,uploadrar.com###commonId > a.btn.btn-info.btn-lg,#commonId > a:nth-child(2) > img,#nofilepage ins,[class^="banner"]
 fullboys.com,rimsgay.com##.video-ad
 genius.com##[class^="DfpAd__" i],[class^="InreadContainer__" i],[class^="RightSidebar__" i],[class^="SectionLeaderboard__" i]
-hentaivn.autos,hentaivn.fun,hentaivn.in,hentaivn.la,hentaivn.lat,hentaivn.lol,hentaivn.moe,hentaivn.net,hentaivn.run,hentaivn.team,hentaivn.tv,xhentaivn.com###over,#page_ads_right,#qx-300x250,.a_d_s_115,.a_d_s_50,.qc_main,.qx_135,.size_70,.size_80,[class*="qx_main" i]
+hentaivn.autos,hentaivn.fun,hentaivn.icu,hentaivn.in,hentaivn.la,hentaivn.lat,hentaivn.lol,hentaivn.moe,hentaivn.net,hentaivn.run,hentaivn.team,hentaivn.tv,xhentaivn.com###over,#page_ads_right,#qx-300x250,.a_d_s_115,.a_d_s_50,.qc_main,.qx_135,.size_70,.size_80,[class*="qx_main" i]
 hentaiz.net###rmcard1,img.hidden-mobile,img.visible-mobile
 hentaiz.vip##.d-none.d-lg-block
 link1s.com###baolink1s
@@ -12901,5 +12941,5 @@ xda-developers.com###spot_container_content_above,#spot_rsb_below,#spot_rsb_top,
 xhamster.com,xhamster2.com##aside[data-role="yld-pcpromo"],div.xp-banner-pause,div.xp-subscribe,div.yld-pcbottom-widget-section.yld-pc,div.yld-pccam-thumb,div.yld-pcno-ts-init,div.yld-pcpremium-n-overlay,div.yld-pcxplayer-hover-menu,div[data-role="promo-messages-wrapper"],div[data-role="yld-pcbanner-underplayer"],div[data-role="yld-pcbottom"],div[data-testid="right-banner-section"]
 xnxx.com,xnxx3.com,xvideos.com,xvideos.es,xvideos3.com###ad-footer,#ad-footer2,#ad-header-mobile-contener,#content-ad-top-zone-contener,#video-ad,.no-rotate,.remove-ads,.thumb-ad-gold,.thumb-nat-exo-ad,.video-click-handler,div#content > div#video-right.exo-ad-ins-container,div#video-right ~ div[class]:not([id]),div.thumb-block.video-ad
 xvideos98.xxx##[id$="-adx" i]
-yahoo.com###ad_xfpad_base,#Billboard-ad,#dialogue-wrapper,#feat-bar,#login-ads-gpt-iframe,#my-adsFOOT,#my-adsFPAD-base,#my-adsHPSPON-base,#my-adsLDRB,#my-adsLREC-base,#my-adsLREC4-base,#my-adsMON,#sda-Horizon,#sda-LREC-iframe,#sda-LREC3-iframe,.ad-transition,.fbtdv2,.login-bg-inner,.native-ad-item,.stream-ad,.stream-sm-ad,iframe:not([id="recaptcha-iframe"]),[data-test-id*="-ad-" i],[href*="beap.gemini.yahoo.com"]
+yahoo.com###ad_xfpad_base,#Billboard-ad,#dialogue-wrapper,#feat-bar,#login-ads-gpt-iframe,#my-adsFOOT,#my-adsFPAD-base,#my-adsHPSPON-base,#my-adsLDRB,#my-adsLREC-base,#my-adsLREC4-base,#my-adsMON,#sda-Horizon,#sda-LREC-iframe,#sda-LREC3-iframe,.ad-transition,.fbtdv2,.login-bg-inner,.native-ad-item,.stream-ad,.stream-sm-ad,iframe:not([id$="-iframe"]),[data-test-id*="-ad-" i],[href*="beap.gemini.yahoo.com"]
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com###masthead-ad,#player-ads,.html5-video-player.ad-showing .ytp-title,.video-ads,.ytd-display-ad-renderer,.ytp-ad-action-interstitial,.ytp-ad-display-override,.ytp-ad-module,.ytp-featured-product,ad-slot-renderer,div[class^="promoted-"],ytd-ad-slot-renderer,ytd-carousel-ad-renderer,ytd-display-ad-renderer,ytd-display-ad-renderer.style-scope,ytd-in-feed-ad-layout-renderer,ytd-merch-shelf-renderer,ytd-promoted-sparkles-text-search-renderer,ytd-promoted-sparkles-web-renderer,ytm-compact-playlist-renderer,ytm-companion-slot.scwnr-content,ytm-promoted-sparkles-text-search-renderer,ytm-promoted-sparkles-web-renderer,ytm-promoted-video-renderer,[layout*="display-ad" i]
