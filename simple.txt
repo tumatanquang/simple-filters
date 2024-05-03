@@ -423,6 +423,8 @@
 ||0e626f0bd1.00d2e2e5ef.com^
 ||00d84987c0.com^
 ||e811d895f4.00d84987c0.com^
+||0115b2b799.com^
+||383e3851cf.0115b2b799.com^
 ||0165672dd6.com^
 ||93f9e9c378.0165672dd6.com^
 ||016e6eadad.com^
@@ -752,6 +754,8 @@
 ||5402369b6e.5cf8606941.com^
 ||5d63ec2d2f.com^
 ||14bf1e4c98.5d63ec2d2f.com^
+||5ede78f7a0.com^
+||84a0e8beca.5ede78f7a0.com^
 ||5eef1ed9ac.com^
 ||f9755640df.5eef1ed9ac.com^
 ||5f249e1d30.com^
@@ -1006,6 +1010,8 @@
 ||2b1e8020e4.9efc2a7246.com^
 ||9f5c4f7827.com^
 ||5b5956e8fb.9f5c4f7827.com^
+||9fbdc30642.com^
+||0afc4c07a9.9fbdc30642.com^
 ||mt.9gag.com^
 ||privacy-api.9gag.com^
 ||recommend.9gag.com^
@@ -1020,6 +1026,8 @@
 ||b.a11k.com^
 ||a166994a16.com^
 ||43d18c4a3b.a166994a16.com^
+||a1bbcd100e.com^
+||2b6b88fc7b.a1bbcd100e.com^
 ||a2z.com^
 ||advertising.a2z.com^
 ||publishers.advertising.a2z.com^
@@ -1548,6 +1556,7 @@
 ||track1.aniview.com^
 ||anlcld.com^
 ||anniversarytoothbrush.com^
+||anpqispuvzta.com^
 ||antaciddjebel.com^
 ||antananarbdivu.com^
 ||antcixn.com^
@@ -1587,6 +1596,7 @@
 ||aoflix.com^
 ||advertising.aol.com^
 ||aoms8xa9b.com^
+||ap2h9d2g3.com^
 ||aparn-ryo.com^
 ||aperchwagered.com^
 ||a.apkpure.com^
@@ -2019,6 +2029,7 @@
 ||bat.bing.com^
 ||c.bing.com^
 ||binomnet.com^
+||binomnet3.com^
 ||bipmwuhisvp.com^
 ||birlerskababs.com^
 ||bitget.com^
@@ -3477,6 +3488,7 @@
 ||1.fetanews.com^
 ||fffbd1538e.com^
 ||7dfbbed0e7.fffbd1538e.com^
+||ffyaxgruqa.com^
 ||fgislklsqqytr.com^
 ||www.fgislklsqqytr.com^
 ||fhenzejas.com^
@@ -5555,6 +5567,7 @@
 ||nixanbhwenar.com^
 ||log4x.nixcdn.com^
 ||stc-nas.nixcdn.com^
+||njnuo4ocp.com^
 ||nkeokgokfkuz.com^
 ||nkezkyvmyr.com^
 ||nklwltrpzhy.com^
@@ -7126,6 +7139,7 @@
 ||stagepopkek.com^
 ||stakingsmile.com^
 ||stalesummer.com^
+||starkuno.com^
 ||starpassing.com^
 ||starsports.com^
 ||m.starsports.com^
@@ -7855,6 +7869,8 @@
 ||api.tinhot.uodoo.com^
 ||flow.video.uodoo.com^
 ||upgulpinon.com^
+||uplatiason.com^
+||ak.uplatiason.com^
 ||uplynk.com^
 ||content.uplynk.com^
 ||content-aapm1.uplynk.com^
@@ -8562,6 +8578,7 @@
 ||yovqnwnmpzz.com^
 ||www.yovqnwnmpzz.com^
 ||yqmxfz.com^
+||yrhnw7h63.com^
 ||ytaslwfsq.com^
 ||www.ytaslwfsq.com^
 ||ytimm.com^
@@ -8854,6 +8871,7 @@
 ||m.xvideos.fr^
 ||www.xvideos.fr^
 ||68gb8.fun^
+||betcome.fun^
 ||blamedbuckie.fun^
 ||choigem.fun^
 ||ad.choigem.fun^
@@ -8953,6 +8971,7 @@
 ||web.analysiscloud.info^
 ||aphycolourses.info^
 ||attacketslovern.info^
+||bitrix.info^
 ||bvmgo.info^
 ||go.bvmgo.info^
 ||camshq.info^
@@ -11395,6 +11414,8 @@
 ||eqqnewnqekeww.top^
 ||eklm.eqqnewnqekeww.top^
 ||exaltprizers.top^
+||ezyebrweyqbw.top^
+||eab.ezyebrweyqbw.top^
 ||feededspreath.top^
 ||ferrelkines.top^
 ||fingahvf.top^
@@ -11470,6 +11491,7 @@
 ||kkvvynnjbbeke.top^
 ||kjvr.kkvvynnjbbeke.top^
 ||knudsenunmast.top^
+||koshareselfed.top^
 ||kqqzyjrmnemzr.top^
 ||keja.kqqzyjrmnemzr.top^
 ||krbqynmlerbzr.top^
@@ -11512,6 +11534,7 @@
 ||nichtfaeroe.top^
 ||nievetacunjer.top^
 ||nonevilkhamti.top^
+||noyousgulgul.top^
 ||obeselysass.top^
 ||oculistfilters.top^
 ||oolongcensing.top^
@@ -11526,6 +11549,8 @@
 ||porkoltlinear.top^
 ||portendbedrite.top^
 ||push-notifications.top^
+||qambywazvyyj.top^
+||qewq.qambywazvyyj.top^
 ||qbnyeqynazeyk.top^
 ||qayv.qbnyeqynazeyk.top^
 ||qbqzbzbmezbwq.top^
@@ -11694,6 +11719,9 @@
 ||d1.blueseed.tv^
 ||d2.blueseed.tv^
 ||static.blueseed.tv^
+||dabet.tv^
+||api.dabet.tv^
+||sock.dabet.tv^
 ||go88.tv^
 ||tai.go88.tv^
 ||iris.tv^
@@ -12294,10 +12322,12 @@
 ||ocfpydvdcyw.xyz^
 ||oldharper.xyz^
 ||onhuhdnxmb.xyz^
+||oobynhfrioyriye.xyz^
 ||oongouha.xyz^
 ||oqvrrutawlkvpwo.xyz^
 ||outchops.xyz^
 ||owdanlytvtfkrb.xyz^
+||pakyjphmx.xyz^
 ||panbay.xyz^
 ||x.panbay.xyz^
 ||patranally.xyz^
@@ -12443,7 +12473,7 @@
 ||gameland.zone^
 ||api-csn-s.gameland.zone^
 ! /^(?!.*uploads\.js).*ads.*\.js/$match-case,script
-/(?<!(tag-suggest-))popup/$domain=~drive.google.com|~stackoverflow.com|~wikipedia.org
+/(?<!(magnific|tag-suggest)-)popup/$domain=~drive.google.com|~stackoverflow.com|~wikipedia.org
 /-ads-.*\.gif/
 /.*(?<!(uplo))ads.*\.js/$match-case,script
 /.*_ads\.js/
@@ -12897,7 +12927,7 @@ boyfriendtv.com#%#Object.defineProperties(window,{adblock:{value:void 0},adInter
 camelliatransgroup.com,dhcc.uk#%#Object.defineProperties(window,{KiemTraAnh3Chap:{value:void 0,writable:!1},topContentBanneri9:{value:void 0,writable:!1}});
 check-host.net#%#Object.defineProperty(window,"ad_prepend",{value:void 0,writable:!1});
 d0000d.com,do0od.com,dood.la,dood.pm,dood.re,dood.so,dood.to,dood.wf,dood.yt,doods.pro,dooood.com,ds2play.com#%#Object.defineProperties(window,{check:{value:function(){},writable:!1},minimalUserResponseInMiliseconds:{value:void 0,writable:!1},tryCount:{value:void 0,writable:!1}}),window.addEventListener("DOMContentLoaded",function(){dsplayer.on("keydown",function(e){e.ctrlKey&&"s"===e.key&&null!==dsplayer.cache_.src&&(e.preventDefault(),!0==confirm("Download video?")&&window.open(dsplayer.cache_.src))}),Object.defineProperties(window,{disabledEvent:{value:function(){},writable:!1},DoodPop:{value:void 0,writable:!1},googleAd:{value:null,writable:!0},hab:{value:function(){return!1},writable:!1},minimalUserResponseInMiliseconds:{value:void 0,writable:!1},PushOpen:{value:function(){},writable:!1},sendGA:{value:function(){},writable:!1},tryCount:{value:void 0,writable:!1}}),"undefined"!=typeof dsplayer&&(dsplayer.volume(0),dsplayer.muted(!0),localStorage.setItem("volume",0))});
-diffchecker.com#%#var t=setInterval(function(){var e=document.querySelectorAll('.hide-print[class*="ad-block"]');e.forEach(r=>{r.remove(),0==e.length&&clearInterval(t)})},100);
+diffchecker.com#%#var t=setInterval(function(){var e=document.querySelectorAll('form > .hide-print');e.forEach(r=>{r.remove(),0==e.length&&clearInterval(t)})},100);
 fingau.com,frdl.to,getpczone.com,rahim-soft.com,uploadrar.com#%#window.addEventListener("load",function(){var e=document.getElementById("adblock_detected");null!=e&&(e.value=0)});
 frdl.to#%#Object.defineProperties(window,{googleAd:{value:null,writable:!0},hab:{value:function(){return!1},writable:!1}}),window.addEventListener("load",function(){var e=document.getElementById("downloadbtn");null!=e&&e&&(e.disabled=!1),null!=(e=document.getElementById("countdown"))&&e.remove()});
 fullboys.com,rimsgay.com#%#window.addEventListener("DOMContentLoaded",function(){var n=setInterval(function(){"undefined"!=typeof $&&"function"==typeof $.isFunction&&((e("#loadMore")||e("#btn-download"))&&($("#loadMore").off("click"),$("#btn-download").off("click")),e("#loadMore")||e("#btn-download")||clearInterval(n),"function"==typeof downloadURI&&$("#btn-download").click(function(){downloadURI(document.getElementById("LinkMedia").value,document.getElementById("NameMedia").value)}))},100);function e(n){var n=document.querySelector(n);if(null==n)return!1;var e=$._data(n,"events");return!!e&&!!e.click}});
