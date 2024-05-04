@@ -478,6 +478,8 @@
 ||12a640bb5e.com^
 ||f96b968227.12a640bb5e.com^
 ||12ezo5v60.com^
+||13199960a1.com^
+||da7b22a400.13199960a1.com^
 ||13b696a4c1.com^
 ||3b3e1ed0b3.13b696a4c1.com^
 ||13e72f87ba.com^
@@ -1976,6 +1978,7 @@
 ||kv.bessioutdrew.com^
 ||best-bons.com^
 ||best-free-apps.com^
+||bestadsforyou.com^
 ||bestcond1tions.com^
 ||bestsafefast.com^
 ||tds.bestsafefast.com^
@@ -3034,6 +3037,7 @@
 ||cdn.engine.phn.doublepimp.com^
 ||doublepimpads.com^
 ||doubleverify.com^
+||pub.doubleverify.com^
 ||tps30.doubleverify.com^
 ||doublyconversion.com^
 ||dovewallet.com^
@@ -3486,6 +3490,8 @@
 ||festivefranchisetorrent.com^
 ||fetanews.com^
 ||1.fetanews.com^
+||ffbd26c481.com^
+||3fb4026cec.ffbd26c481.com^
 ||fffbd1538e.com^
 ||7dfbbed0e7.fffbd1538e.com^
 ||ffyaxgruqa.com^
@@ -3801,6 +3807,7 @@
 ||gmxvmvptfm.com^
 ||gnenuelnn.com^
 ||www.gnenuelnn.com^
+||gnnnzxuzv.com^
 ||gnpge.com^
 ||dts.gnpge.com^
 ||go2affise.com^
@@ -4833,10 +4840,10 @@
 ||kusduqduncw.com^
 ||kuwin09.com^
 ||kvaaa.com^
-||kxcdn.com^
 ||webpushrapp-3744.kxcdn.com^
 ||kxfwgqkuojcq.com^
 ||www.kxfwgqkuojcq.com^
+||kzylmevazmu.com^
 ||la3c05lr3o.com^
 ||labadena.com^
 ||a.labadena.com^
@@ -4968,6 +4975,7 @@
 ||linkvertise.com^
 ||publisher.linkvertise.com^
 ||lionquerychord.com^
+||lipqkoxzy.com^
 ||liquorsref.com^
 ||literallisten.com^
 ||littlecdn.com^
@@ -5551,6 +5559,7 @@
 ||www.nhksyoei.com^
 ||nhmgxbpafsh.com^
 ||nicsorts-accarade.com^
+||nifodcoccsm.com^
 ||nikkimull.com^
 ||www.nikkimull.com^
 ||nilreels.com^
@@ -8849,9 +8858,12 @@
 ||alsace3dconcept.fr^
 ||app-carspach.fr^
 ||arcadie-du-souleyan.fr^
+||bois-concept-paca.fr^
 ||chevalier-mazenc.fr^
 ||cliniqueveterinairegrandangles.fr^
 ||cyclindoor.fr^
+||energeia-solutions.fr^
+||entreprise-couverture41.fr^
 ||fredleplombier.fr^
 ||leadplace.fr^
 ||sync-uid.leadplace.fr^
@@ -11320,6 +11332,8 @@
 ||areaw.aqnazbbjlenqe.top^
 ||aqqjqkmyvwka.top^
 ||arrj.aqqjqkmyvwka.top^
+||arewzvqaavyan.top^
+||anra.arewzvqaavyan.top^
 ||arewzvqaavyze.top^
 ||anra.arewzvqaavyze.top^
 ||arqznlwqqklqe.top^
@@ -11379,6 +11393,7 @@
 ||carbowasher.top^
 ||casavasjamlike.top^
 ||catharskeek.top^
+||caulisnombles.top^
 ||charactfinnier.top^
 ||chawedsonrai.top^
 ||claspsbonded.top^
@@ -11565,6 +11580,8 @@
 ||qzjv.qeqaqnvrzbrkb.top^
 ||qmqjvrekmylbk.top^
 ||qlzy.qmqjvrekmylbk.top^
+||qnlrljjkmjqk.top^
+||qyjk.qnlrljjkmjqk.top^
 ||qqrbvrmenrynq.top^
 ||qnav.qqrbvrmenrynq.top^
 ||qqvlbzlbqeaav.top^
@@ -12171,6 +12188,7 @@
 ||bocphot.xyz^
 ||cdn.bocphot.xyz^
 ||brksxofnsadkb.xyz^
+||brumgllcrjefyhr.xyz^
 ||bsnkskjowxp.xyz^
 ||bsynpqwjnuvl.xyz^
 ||btgweugwdpdd.xyz^
@@ -12191,6 +12209,7 @@
 ||cwbjfveg.xyz^
 ||d1272serve.xyz^
 ||c.d1272serve.xyz^
+||daboovip.xyz^
 ||datpsrdjm.xyz^
 ||dcdaadaafd.xyz^
 ||cli.dcdaadaafd.xyz^
@@ -12277,6 +12296,7 @@
 ||kbdxahlvyjfy.xyz^
 ||keapeiros.xyz^
 ||kentedbycathy.xyz^
+||ksdoonpwphugss.xyz^
 ||kupvvngwyxhgwk.xyz^
 ||kxkqqycs.xyz^
 ||lajaajcogokmgm.xyz^
@@ -12814,7 +12834,7 @@ $cookie=/__utm[a-z]/
 306t.com,sn9.us#%#//scriptlet('json-prune', 'pop')
 306t.com,sn9.us#%#//scriptlet('json-prune', 'xhr')
 boyfriendtv.com#%#//scriptlet('prevent-addEventListener', 'chujBlokowacieDone')
-camelliatransgroup.com,dhcc.uk,getpczone.com,javadecompilers.com,listvpn.net,quaanhdaocuteo.com,rahim-soft.com,uploadrar.com#%#//scriptlet('prevent-bab')
+camelliatransgroup.com,dhcc.uk,fingau.com,getpczone.com,javadecompilers.com,listvpn.net,quaanhdaocuteo.com,rahim-soft.com,uploadrar.com#%#//scriptlet('prevent-bab')
 dualeotruyenme.com,dualeotruyenpk.com,dualeotruyenus.com,dualeotruyenww.com,dualeotruyenz.com#%#//scriptlet('prevent-addEventListener', 'click', 'popunder_last_time')
 fingau.com,getpczone.com,hitomi.la,rahim-soft.com,uploadrar.com#%#//scriptlet('set-constant', 'X', 'emptyArr')
 fullboys.com,rimsgay.com#%#//scriptlet('prevent-element-src-loading', 'script' ,'adsbygoogle')
