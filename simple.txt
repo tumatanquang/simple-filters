@@ -195,6 +195,7 @@
 ||maturepornvideos.cc^
 ||tagbucket.cc^
 ||taiv8.cc^
+||ww8827.cc^
 ||xprivate.cc^
 ||pre.xprivate.cc^
 ||mp4.center^
@@ -635,6 +636,9 @@
 ||348b32dca9.com^
 ||feb452335f.348b32dca9.com^
 ||34pavouhj7.com^
+||3577599.com^
+||api.3577599.com^
+||www.3577599.com^
 ||360bet1.com^
 ||www.360bet1.com^
 ||360bet2.com^
@@ -5256,6 +5260,7 @@
 ||fpt.microsoft.com^
 ||fpt2.microsoft.com^
 ||www.update.microsoft.com^
+||vlscppe.microsoft.com^
 ||windowsupdate.microsoft.com^
 ||email.microsoftemail.com^
 ||click.email.microsoftemail.com^
@@ -6937,6 +6942,9 @@
 ||ecma.sidebyz.com^
 ||siftscience.com^
 ||cdn.siftscience.com^
+||signalfx.com^
+||us1.signalfx.com^
+||rum-ingest.us1.signalfx.com^
 ||significantoperativeclearance.com^
 ||sikqmlgsh.com^
 ||www.sikqmlgsh.com^
@@ -7252,6 +7260,8 @@
 ||ads.supplyframe.com^
 ||search.supplyframe.com^
 ||cdn.surfcountor.com^
+||surveymonkey.com^
+||widget.surveymonkey.com^
 ||survicate.com^
 ||survey.survicate.com^
 ||surveys-static.survicate.com^
@@ -7897,6 +7907,7 @@
 ||urbanairship.com^
 ||web-sdk.urbanairship.com^
 ||urchin.com^
+||urekamedia.com^
 ||solution.urekamedia.com^
 ||urimnugocfr.com^
 ||www.urldelivery.com^
@@ -7906,6 +7917,7 @@
 ||www.urubhfce.com^
 ||usabilla.com^
 ||w.usabilla.com^
+||usefathom.com^
 ||collect.usefathom.com^
 ||useinsider.com^
 ||api.useinsider.com^
@@ -8145,6 +8157,7 @@
 ||vyfrxuytzn.com^
 ||vymhnxjyj.com^
 ||www.vymhnxjyj.com^
+||vz142.com^
 ||vzhzlraxtwgyn.com^
 ||www.vzhzlraxtwgyn.com^
 ||vzksnszthuq.com^
@@ -10990,6 +11003,8 @@
 ||halleyperson.pro^
 ||herreperolsof.pro^
 ||hinnehecalrec.pro^
+||hr99.pro^
+||www.hr99.pro^
 ||hugregregy.pro^
 ||ignorantmethod.pro^
 ||infatuated-warning.pro^
@@ -12495,7 +12510,7 @@
 ! /^(?!.*uploads\.js).*ads.*\.js/$match-case,script
 /(?<!(magnific|tag-suggest)-)popup/$domain=~drive.google.com|~stackoverflow.com|~wikipedia.org
 /-ads-.*\.gif/
-/.*(?<!(uplo))ads.*\.js/$match-case,script
+/.*(?<!(down|up)lo)ads.*\.js/$match-case,script
 /.*_ads\.js/
 /3(0|5)0(-|x)2?5?0/
 /728(-|x)90/
