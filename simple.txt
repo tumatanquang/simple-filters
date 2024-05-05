@@ -7,6 +7,9 @@
 ||clrt.ai^
 ||9969.clrt.ai^
 ||js.clrt.ai^
+||engagement.ai^
+||cdn.engagement.ai^
+||chat.engagement.ai^
 ||ezoic.ai^
 ||lode88.ai^
 ||l1.lode88.ai^
@@ -123,6 +126,7 @@
 ||did.didhelper.biz^
 ||go4s.biz^
 ||mindmeters.biz^
+||monkeytosport.biz^
 ||moonmedias.biz^
 ||mplayvideos.biz^
 ||omnitrend.biz^
@@ -181,6 +185,8 @@
 ||sewedwebspot.casa^
 ||sinewedretore.casa^
 ||unfurlyawweed.casa^
+||psi.cash^
+||widget.psi.cash^
 ||rev.cat^
 ||errors.rev.cat^
 ||12388bet.cc^
@@ -205,10 +211,14 @@
 ||track.mp4.center^
 ||ipmytv.cf^
 ||arguesdevex.cfd^
+||asdfdr.cfd^
 ||cojwly.cfd^
+||dgedss.cfd^
+||ertyui5e5.cfd^
 ||ji95rtg.cfd^
 ||pgvnyxf.cfd^
 ||rvmessage.cfd^
+||serty5.cfd^
 ||upstagecarvers.cfd^
 ||vickykilled.cfd^
 ||crisp.chat^
@@ -216,9 +226,14 @@
 ||blueoyster.click^
 ||www.blueoyster.click^
 ||collecting.click^
+||dfyui8r5rs.click^
+||ertytrs.click^
 ||growleading.click^
 ||cdn.growleading.click^
+||iou6d.click^
+||koiddc.click^
 ||pocli.click^
+||pokjhgrs.click^
 ||r5uuklquq8ngd.click^
 ||redirectsstm.click^
 ||ss.redirectsstm.click^
@@ -732,6 +747,8 @@
 ||api.500px.com^
 ||51tracking.com^
 ||datasinksensorsdata.51tracking.com^
+||536e9f9126.com^
+||cf7f345e1e.536e9f9126.com^
 ||536fbeeea4.com^
 ||fdc21e01c7.536fbeeea4.com^
 ||538ad181ab.com^
@@ -814,7 +831,10 @@
 ||6863fd0afc.com^
 ||a238e82f8a.6863fd0afc.com^
 ||68aq8q352.com^
+||68d6b65e65.com^
+||c59049439d.68d6b65e65.com^
 ||68gamebai2030.com^
+||68gamevn.com^
 ||69b61ba7d6.com^
 ||3f4340fabe.69b61ba7d6.com^
 ||6a34d15d38.com^
@@ -1692,6 +1712,7 @@
 ||www.apptornado.com^
 ||aptausad.com^
 ||apzdfakiso.com^
+||aqrkrahkynta.com^
 ||arbourrenewal.com^
 ||archipelagopreviously.com^
 ||archipelagopuppy.com^
@@ -1711,6 +1732,7 @@
 ||arnchealpa.com^
 ||arsnivyr.com^
 ||arswabluchan.com^
+||arvigorothan.com^
 ||arwobaton.com^
 ||ak.arwobaton.com^
 ||arzanphearse.com^
@@ -2831,6 +2853,7 @@
 ||dapkgviodzzj.com^
 ||www.dapkgviodzzj.com^
 ||daqjtigulal.com^
+||daringsupport.com^
 ||dartonim.com^
 ||datadoghq.com^
 ||logs.datadoghq.com^
@@ -4707,6 +4730,8 @@
 ||pre.ads.justpremium.com^
 ||justwatch.com^
 ||widget.justwatch.com^
+||jwalf.com^
+||p.jwalf.com^
 ||jwplatform.com^
 ||content.jwplatform.com^
 ||entitlements.jwplayer.com^
@@ -4840,6 +4865,8 @@
 ||www.kuesjmznhhid.com^
 ||kufjuksuhqpo.com^
 ||kukrosti.com^
+||kurumaokes.com^
+||ss.kurumaokes.com^
 ||kusciwaqfkaw.com^
 ||kusduqduncw.com^
 ||kuwin09.com^
@@ -6416,6 +6443,7 @@
 ||quotessrchtab.com^
 ||high.quotessrchtab.com^
 ||quxsiraqxla.com^
+||quxtpanaxd.com^
 ||qvhpvztmlt.com^
 ||www.qvhpvztmlt.com^
 ||qwl6qkgaiofi.com^
@@ -7456,6 +7484,7 @@
 ||promoted.ticketmaster.com^
 ||tidiochat.com^
 ||widget-v4.tidiochat.com^
+||tidyllama.com^
 ||tijfsicakspc.com^
 ||ads.tiktok.com^
 ||analytics.tiktok.com^
@@ -9731,6 +9760,8 @@
 ||yahoo.adtrackers.net^
 ||yasni.adtrackers.net^
 ||zoover.adtrackers.net^
+||adxfire.net^
+||cdn.adxfire.net^
 ||adzerk.net^
 ||e-9660.adzerk.net^
 ||agurgeed.net^
@@ -10469,6 +10500,7 @@
 ||backend.europe-west4gcp0.pubnative.net^
 ||got.pubnative.net^
 ||mock-dsp.pubnative.net^
+||pumpedwombat.net^
 ||purplecore.net^
 ||publisher.purplecore.net^
 ||push-sdk.net^
@@ -11046,6 +11078,8 @@
 ||rural-report.pro^
 ||satisfied-tour.pro^
 ||senhation.pro^
+||similarlength.pro^
+||www.similarlength.pro^
 ||slight-responsibility.pro^
 ||splendidfeel.pro^
 ||www.splendidfeel.pro^
@@ -11335,6 +11369,8 @@
 ||ajw.amrnlnllyqan.top^
 ||amvmzbmqvrmvn.top^
 ||akbe.amvmzbmqvrmvn.top^
+||aneartuilles.top^
+||annumfolial.top^
 ||anorexyskerry.top^
 ||anqnbzyjlkymw.top^
 ||aznv.anqnbzyjlkymw.top^
@@ -11353,6 +11389,8 @@
 ||anra.arewzvqaavyze.top^
 ||arqznlwqqklqe.top^
 ||aynn.arqznlwqqklqe.top^
+||aryabzeyyynnv.top^
+||anke.aryabzeyyynnv.top^
 ||augendsfrisky.top^
 ||avatraffic.top^
 ||awwqyewjrqzqa.top^
@@ -11441,8 +11479,11 @@
 ||emkyrzrnknnyv.top^
 ||eqmm.emkyrzrnknnyv.top^
 ||encratysalvo.top^
+||enzajjbkybkkj.top^
+||embm.enzajjbkybkkj.top^
 ||eqqnewnqekeww.top^
 ||eklm.eqqnewnqekeww.top^
+||eulogyargin.top^
 ||exaltprizers.top^
 ||ezyebrweyqbw.top^
 ||eab.ezyebrweyqbw.top^
@@ -11491,6 +11532,7 @@
 ||jkrw.jeannvazzvyzv.top^
 ||jerjrqqazamvw.top^
 ||jqkj.jerjrqqazamvw.top^
+||jinguisiacal.top^
 ||jjkwrqjzkmbjw.top^
 ||jrqy.jjkwrqjzkmbjw.top^
 ||jnbknnrnnzjwr.top^
@@ -11549,6 +11591,7 @@
 ||mikvahbarbes.top^
 ||milordshoofers.top^
 ||sp.milordshoofers.top^
+||minuterblanco.top^
 ||mmmmunity.top^
 ||moghulremarks.top^
 ||monopoliseshrub.top^
@@ -11639,6 +11682,7 @@
 ||scepterbequote.top^
 ||sedarimundated.top^
 ||severereptic.top^
+||shofarloved.top^
 ||shrapimplume.top^
 ||sin88.top^
 ||sn1.sin88.top^
@@ -11647,7 +11691,9 @@
 ||sloydcostive.top^
 ||spikscursen.top^
 ||stannelberated.top^
+||surnayruffle.top^
 ||tai789.top^
+||takessutures.top^
 ||tampoewretch.top^
 ||tarblezetas.top^
 ||taxismaned.top^
@@ -11720,6 +11766,7 @@
 ||zjlw.zwbbkjvarevbe.top^
 ||zwjezmzneeaqa.top^
 ||zkqe.zwjezmzneeaqa.top^
+||zymessuppl.top^
 ||zymurgyharmers.top^
 ||zzbmanarqlzre.top^
 ||zeez.zzbmanarqlzre.top^
@@ -12198,6 +12245,7 @@
 ||bkoigauba.xyz^
 ||blkolhjcjuf.xyz^
 ||bmcwwjfpoxgc.xyz^
+||bmjidc.xyz^
 ||boardmotion.xyz^
 ||trk.boardmotion.xyz^
 ||bocphot.xyz^
@@ -12312,6 +12360,7 @@
 ||keapeiros.xyz^
 ||kentedbycathy.xyz^
 ||ksdoonpwphugss.xyz^
+||ksnooastqr.xyz^
 ||kupvvngwyxhgwk.xyz^
 ||kxkqqycs.xyz^
 ||lajaajcogokmgm.xyz^
@@ -12396,6 +12445,7 @@
 ||qqyaarvtrw.xyz^
 ||qtoyngxgdoxkf.xyz^
 ||quettefors.xyz^
+||qvdvkkul.xyz^
 ||qvhalfvo.xyz^
 ||qwwpmsmrrdntjws.xyz^
 ||raxflydrdy.xyz^
@@ -13041,7 +13091,7 @@ link1s.com###baolink1s
 luckypatchers.com##div.l-cookie
 mail.yahoo.com##div[data-test-id="right-rail-ad"],div[data-test-id="darla-container"],div[data-test-id="ad-viewability-tracker"],div[data-name="infinite-scroll-content"] > ul > li[data-test-id="infinite-scroll-PENCIL"],[data-test-id^="pencil-ad"]
 mangaxy.com,nhomdich.com,truyentranh8.org,truyentranh86.com,truyentranhtam.com###quangcaoCatFish,.embed-responsive,[class*="tt8-quangcao" i],iframe
-mediafire.com###frame1
+mediafire.com###cookie-accept-footer,#frame1
 metruyencv.com##div#js-read__body ~ div[class="mt-3"]
 mixdrop.to,mixdrop.co##body > div[class][style^="position:absolute;"][style*=";width: 100%;height: 100%;z-index:"],div[style^="position:absolute;"][style*="z-index:"][onclick]
 msn.com###displayAdCard,.me-stripe,display-ads
