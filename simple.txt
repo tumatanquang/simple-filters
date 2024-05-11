@@ -776,6 +776,8 @@
 ||dd15b806f5.57debc89a6.com^
 ||592eb4ef33.com^
 ||dfd1240c9c.592eb4ef33.com^
+||5afd9ec0ab.com^
+||47dff461d7.5afd9ec0ab.com^
 ||5b7cb7236e.com^
 ||40dd6c8f55.5b7cb7236e.com^
 ||5c530d2179.com^
@@ -855,6 +857,8 @@
 ||021f9bc640.6a34d15d38.com^
 ||6b70b1086b.com^
 ||658df0f059.6b70b1086b.com^
+||6b856ee58e.com^
+||b69ea60ce2.6b856ee58e.com^
 ||6b9559e0b0.com^
 ||5026828f75.6b9559e0b0.com^
 ||6ce02869b9.com^
@@ -1459,6 +1463,7 @@
 ||ahtokvdaznhy.com^
 ||aibixby.com^
 ||prd-apne2-ucs.aibixby.com^
+||aiphaneest.com^
 ||airpackapp.com^
 ||static.airpackapp.com^
 ||aitsatho.com^
@@ -3734,6 +3739,8 @@
 ||atom.gamedistribution.com^
 ||tag.atom.gamedistribution.com^
 ||msgrt.gamedistribution.com^
+||gamelopte.com^
+||www.gamelopte.com^
 ||as.gamevui.com^
 ||gaming-adult.com^
 ||www.gaming-adult.com^
@@ -4603,6 +4610,7 @@
 ||www.irmcjtqdzrp.com^
 ||irncdn.com^
 ||ironthro5man.com^
+||isatonabench.com^
 ||isclix.com^
 ||go.isclix.com^
 ||islandmob.com^
@@ -6979,6 +6987,7 @@
 ||sdk.sharethrough.com^
 ||shauksug.com^
 ||sheerbenchmeltdown.com^
+||sheisnotateacher.com^
 ||sherrisfobbing.com^
 ||xn.sherrisfobbing.com^
 ||c-api-bit.shopeemobile.com^
@@ -8086,6 +8095,7 @@
 ||vetdeberg.com^
 ||vfgte.com^
 ||v.vfgte.com^
+||vfyjfodaca.com^
 ||vfyxjsclor.com^
 ||vgfutxwgq.com^
 ||www.vgfutxwgq.com^
@@ -10544,6 +10554,7 @@
 ||psairees.net^
 ||ptauxofi.net^
 ||ptewauta.net^
+||ptugnins.net^
 ||pubguru.net^
 ||a3.pubguru.net^
 ||a3orig.pubguru.net^
@@ -11595,6 +11606,8 @@
 ||jaundergemmule.top^
 ||jbkelaajaaknj.top^
 ||jvyr.jbkelaajaaknj.top^
+||jbkelaajaalnv.top^
+||jvyr.jbkelaajaalnv.top^
 ||jbrnmlmweaaka.top^
 ||jeqa.jbrnmlmweaaka.top^
 ||jeannvalmvvzv.top^
@@ -11628,6 +11641,7 @@
 ||jjmll.jwbqmzmyklqlw.top^
 ||kaayqbamkbywr.top^
 ||kqvj.kaayqbamkbywr.top^
+||kamponggnatho.top^
 ||kbywyjnbejqke.top^
 ||krrwe.kbywyjnbejqke.top^
 ||keppendragoon.top^
@@ -12449,6 +12463,7 @@
 ||ksnooastqr.xyz^
 ||kupvvngwyxhgwk.xyz^
 ||kxkqqycs.xyz^
+||kyhurcppyrfxt.xyz^
 ||lajaajcogokmgm.xyz^
 ||larsepso.xyz^
 ||leghfawp.xyz^
@@ -12676,30 +12691,8 @@
 /videojs(_5)?\.vast/
 /zone(id|\?pub)=/
 /\.codes\/.*\.js/$script
-/\.com\/accounts\/CheckConnection/
-/\.com\/allow-preferred\//
-/\.com\/api\/stats\/playback/
-/\.com\/common\/cavalry_endpoint\.php/
-/\.com\/get_midroll_info/
-/\.com\/gsi\/client/
-/\.com\/gsi\/status/
-/\.com\/gsi\/style/
-/\.com\/js\/th\//
-/\.com\/log/$match-case,third-party
-/\.com\/logging\/falco/
-/\.com\/nb\//
-/\.com\/onetag/
-/\.com\/o\/oauth2\/iframe/
-/\.com\/pagead//
-/\.com\/pcs//
-/\.com\/pcs\/activeview/
-/\.com\/ptracking/
-/\.com\/silver-surfer\.html/
-/\.com\/tr\//
-/\.com\/youtubei\/v1\/att\/get/
-/\.com\/youtubei\/v1\/guide/
-/\.com\/youtubei\/v1\/log_event/
-/\.com\/youtubei\/v1\/player\/ad_break/
+/\.com\/(accounts\/CheckConnection|common\/cavalry_endpoint\.php|get_midroll_info|logging\/falco|onetag|o\/oauth2\/iframe|silver-surfer\.html)/
+/\.com\/(allow-preferred|gsi|js\/th|nb|pagead|pcs|tr)\//
 /\/(1(px)?|p(x|ing|ix)?|tracking)\.gif/
 /\/(assets|js)\/jquery\/jquery([\d\-\.]+)?\.min\.js\?v=[\d\.]+(&type=\w+)?/
 /\/.*adpia.*\//
@@ -12707,10 +12700,8 @@
 /\/aas\//
 /\/abn\//
 /\/ad(asia-ad-network-origin|engine|nw_logging|overlay|tags|x)\//
-/\/ad-lib(rary)?\//
-/\/ad-sp\//
-/\/ads(banner|ense)\//
-/\/ads(idservices)?\//
+/\/ad-(lib(rary)?|sp)\//
+/\/ads(banner|ense|idservices)?\//
 /\/ads.*\//
 /\/ads\.js/$script
 /\/ads\/ad\.js/$script
@@ -12719,8 +12710,7 @@
 /\/ad_stats\//
 /\/affiliates\//
 /\/ane-preroll-\d+\//
-/\/api\/spots\//
-/\/api\/tracking/
+/\/api\/(spots|tracking)\/?/
 /\/asdf\//
 /\/banner(ads|s)?\//
 /\/be(acon|havior|tter-adsmanager)\//
@@ -12768,7 +12758,6 @@
 /\/promo(t(ions?|ed_content)?)?\//
 /\/push(redirect|_open)\//
 /\/pus\/script/
-/\/px\.js/$script
 /\/qc-new\//
 /\/qhoroqro\//
 /\/quangcao\//
@@ -12802,11 +12791,11 @@
 /\/[a-z]+\.[a-z]{3,}\?aHR/
 /\/[a-z]{12,}\/[a-z]{5,}\.js\?(gcb=[\d\-]+&)?cb=\d+/$script
 /\/[a-z]{4}\/[a-z]{3}ass[a-z0-9\.]+\.js$/$script
-/\/\/[a-zA-Z\.]+\/(?!(archive|jwplayer|plugins))[a-zA-Z]{7,}\/[a-zA-Z]{7,}\.js$/$script
+/\/\/[a-zA-Z\.]+\/(?!(archive|jwplayer|plug-?ins?|resources?))[a-zA-Z]{7,}\/[a-zA-Z]{7,}\.js$/$script
 /\/\/[a-zA-Z\.]+\/[a-zA-Z0-9]{2}\/[a-zA-Z0-9]{2}\/[a-zA-Z0-9]{2}\/[a-zA-Z0-9]{32}\.js$/$script
 /\/_td_api\//
 /\/_xa\/ads(_batch)?/
-/\b(ad-block|ad-recovery(\.min)?|am-push-cps|analytic|analytics(\.min)?|bann|bn_inters|brt|cast_sender|cmdakui|cookieconsent(\.min)?|ezgifcom|gemini|goog(ima|le_funding_choices)|invoke|jwpsrv|nmash|pop(under|up)?|pwabuilder-sw|revamp|rum|video-ad|xads|xghiaut|xvideo-js|yellowai)\.js/$script
+/\b(ad-block|ad-recovery(\.min)?|am-push-cps|analytic|analytics(\.min)?|bann|bn_inters|brt|cast_sender|cmdakui|cookieconsent(\.min)?|ezgifcom|gemini|goog(ima|le_funding_choices)|invoke|jwpsrv|nmash|pop(under|up)?|pwabuilder-sw|px|revamp|rum|video-ad|xads|xghiaut|xvideo-js|yellowai)\.js/$script
 /\b(advertise|ad\.|affiliate|banner|devtools|OneSignal|prebid|show-promote|stickyads|tag|vast).*\.js/$script
 /_\/ban_.*\.js/$script
 1x1.png
@@ -12909,6 +12898,11 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||twitter.com/i/api/1.1/jot/
 ||vimeo.com/ablincoln/
 ||yandex.com/clck/click
+||youtube.com/api/stats/playback
+||youtube.com/youtubei/v1/att/get
+||youtube.com/youtubei/v1/guide
+||youtube.com/youtubei/v1/log_event
+||youtube.com/youtubei/v1/player/ad_break
 $removeparam=/^(gclid|yclid|fbclid|utm_source|utm_medium|utm_campaign|utm_term|utm_content|utm_referrer|utm_location)=/
 $cookie=/__utm[a-z]/
 306t.com,sn9.us#%#//scriptlet('json-prune', 'confirm_url')
