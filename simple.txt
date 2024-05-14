@@ -425,6 +425,7 @@
 ||smrturl.co^
 ||thabet888.co^
 ||tidio.co^
+||code.tidio.co^
 ||socket.tidio.co^
 ||viads.co^
 ||videocampaign.co^
@@ -511,6 +512,8 @@
 ||b6d8052764.13e72f87ba.com^
 ||14165563f4.com^
 ||d0efd49cd3.14165563f4.com^
+||144a0bcf96.com^
+||b73b66d5e6.144a0bcf96.com^
 ||148dfe140d0f3d5e.com^
 ||14a3d6c4df.com^
 ||89f4d517fd.14a3d6c4df.com^
@@ -546,6 +549,7 @@
 ||c7c9cb797a.1f6bf6f5a3.com^
 ||1f98dc1262.com^
 ||72bb8fff9d.1f98dc1262.com^
+||1fkx796mw.com^
 ||1jutu5nnx.com^
 ||1k3.com^
 ||1k3static.com^
@@ -947,6 +951,8 @@
 ||ef68b6d176.813d8347e7.com^
 ||81438456aa.com^
 ||6a423ac897.81438456aa.com^
+||84190de182.com^
+||9b802eccae.84190de182.com^
 ||84284a87a4.com^
 ||0729a1e027.84284a87a4.com^
 ||8578eb3ec8.com^
@@ -1179,6 +1185,7 @@
 ||ad97da966d.com^
 ||b1ac717d8b.ad97da966d.com^
 ||adnetwork.adasiaholdings.com^
+||adblock-360.com^
 ||adblock-one-protection.com^
 ||adcalm.com^
 ||adcampo.com^
@@ -1866,6 +1873,8 @@
 ||b0d2583d75.com^
 ||937feb7da3.b0d2583d75.com^
 ||b12stop.com^
+||b14e96118f.com^
+||7e4a6fbed2.b14e96118f.com^
 ||b1a9bbebdb.com^
 ||7886c997c8.b1a9bbebdb.com^
 ||b1c3e3dfed.com^
@@ -2082,8 +2091,17 @@
 ||assets.bilsyndication.com^
 ||biltag.bilsyndication.com^
 ||services.bilsyndication.com^
+||a4.bing.com^
 ||bat.bing.com^
 ||c.bing.com^
+||www.c.bing.com^
+||commerce.bing.com^
+||dps.bing.com^
+||g.bing.com^
+||r.g.bing.com^
+||raka.bing.com^
+||testfamilysafety.bing.com^
+||bingads.com^
 ||binomnet.com^
 ||binomnet3.com^
 ||bipmwuhisvp.com^
@@ -2297,6 +2315,7 @@
 ||www.bzrmxfxu.com^
 ||bzwcgscqnf.com^
 ||www.bzwcgscqnf.com^
+||bzynkoqilza.com^
 ||c1c491d137.com^
 ||e47d773ccb.c1c491d137.com^
 ||c212a79d53.com^
@@ -2965,6 +2984,8 @@
 ||derevya2sh8ka09.com^
 ||destroyedspear.com^
 ||devflatsome.com^
+||dex-trade.com^
+||api.dex-trade.com^
 ||dexchangeinc.com^
 ||www.dexchangeinc.com^
 ||df4a3bc10a.com^
@@ -3233,6 +3254,8 @@
 ||901268600b.ec1e2c92b3.com^
 ||ec5e727d37.com^
 ||50abe8a408.ec5e727d37.com^
+||eca8bef536.com^
+||217eda37ff.eca8bef536.com^
 ||ecaecc3e17.com^
 ||70b25fad84.ecaecc3e17.com^
 ||echobox.com^
@@ -3903,8 +3926,11 @@
 ||analytics.google.com^
 ||cello.client-channel.google.com^
 ||android.clients.google.com^
+||addons-pa.clients6.google.com^
 ||feedback-pa.clients6.google.com^
 ||ogads-pa.clients6.google.com^
+||peoplestack-pa.clients6.google.com^
+||waa-pa.clients6.google.com^
 ||corp.google.com^
 ||uberproxy-pen-redirect.corp.google.com^
 ||cse.google.com^
@@ -4117,6 +4143,10 @@
 ||helen-geu.com^
 ||heleric.com^
 ||hello888999.com^
+||helpcrunch.com^
+||embed.helpcrunch.com^
+||widget.helpcrunch.com^
+||dex.widget.helpcrunch.com^
 ||helpwire.com^
 ||www.helpwire.com^
 ||hem41xm47.com^
@@ -4937,6 +4967,8 @@
 ||ladsdown.com^
 ||ladsecz.com^
 ||ladsoks.com^
+||laikaush.com^
+||ak.laikaush.com^
 ||lainaumi.com^
 ||lalaping.com^
 ||static.lalaping.com^
@@ -5108,6 +5140,7 @@
 ||flx907.lporirxe.com^
 ||lpxtqptab.com^
 ||www.lpxtqptab.com^
+||lpyomvxamo.com^
 ||lrcontent.com^
 ||auth.lrcontent.com^
 ||lreqmoonpjka.com^
@@ -5171,6 +5204,7 @@
 ||makespram.com^
 ||maltunfaithfulpredominant.com^
 ||mambcaopskfy.com^
+||mamcijmusos.com^
 ||mamydirect.com^
 ||js.mamydirect.com^
 ||events.mangarockhd.com^
@@ -5773,6 +5807,7 @@
 ||oeuvresvexable.com^
 ||offaces-butional.com^
 ||offerimage.com^
+||offernow24.com^
 ||offersbid.com^
 ||email2.office.com^
 ||click.email2.office.com^
@@ -6403,6 +6438,7 @@
 ||qlsvowqnbzu.com^
 ||www.qlsvowqnbzu.com^
 ||qmvhceuclmc.com^
+||qnp16tstw.com^
 ||qoqv.com^
 ||aegis.qq.com^
 ||beacon.qq.com^
@@ -9198,6 +9234,8 @@
 ||branch.io^
 ||api.branch.io^
 ||cdn.branch.io^
+||chatra.io^
+||call.chatra.io^
 ||clarium.io^
 ||protected-by.clarium.io^
 ||coinroad.io^
@@ -10552,6 +10590,8 @@
 ||prvtx.net^
 ||ip.prvtx.net^
 ||psairees.net^
+||psaltauw.net^
+||ak.psaltauw.net^
 ||ptauxofi.net^
 ||ptewauta.net^
 ||ptugnins.net^
@@ -10640,6 +10680,7 @@
 ||taiphaib.net^
 ||tauphaub.net^
 ||tauvoojo.net^
+||teksishe.net^
 ||thaickoo.net^
 ||thefap.net^
 ||thench.net^
@@ -10905,6 +10946,9 @@
 ||browser-update.org^
 ||1558334541.rsc.cdn77.org^
 ||cdnondemand.org^
+||cleantalk.org^
+||moderate.cleantalk.org^
+||moderate1-v4.cleantalk.org^
 ||closwbay9bak.org^
 ||ipv4.closwbay9bak.org^
 ||ipv6.closwbay9bak.org^
@@ -11374,6 +11418,8 @@
 ||vidsreal.space^
 ||zimmishakam.space^
 ||zoccoscarred.space^
+||adj.st^
+||k5nc.adj.st^
 ||bsw.digitru.st^
 ||cdn.digitru.st^
 ||prebid.digitru.st^
@@ -11488,6 +11534,7 @@
 ||azwkjjkwkqlka.top^
 ||abmw.azwkjjkwkqlka.top^
 ||babhanananym.top^
+||babuaberger.top^
 ||bargingaricin.top^
 ||bassarazit.top^
 ||bbnnjqwqaryya.top^
@@ -11507,6 +11554,7 @@
 ||bmjlzyjrkmqal.top^
 ||bwqa.bmjlzyjrkmqal.top^
 ||bookedbonce.top^
+||britishsorehon.top^
 ||brmwmmnleermr.top^
 ||bleaw.brmwmmnleermr.top^
 ||brmwmmnleervv.top^
@@ -11555,6 +11603,8 @@
 ||embeamratline.top^
 ||emkyrzrnknjyb.top^
 ||eqmm.emkyrzrnknjyb.top^
+||emkyrzrnknmzj.top^
+||eqmm.emkyrzrnknmzj.top^
 ||emkyrzrnknnyv.top^
 ||eqmm.emkyrzrnknnyv.top^
 ||emporyproved.top^
@@ -11594,6 +11644,7 @@
 ||harpinhaster.top^
 ||hauteinakebia.top^
 ||hiedgored.top^
+||histssenaah.top^
 ||holeyforty.top^
 ||hulloooctyls.top^
 ||hyalinsbenami.top^
@@ -11631,6 +11682,8 @@
 ||jqba.jraqzmbyqnjwl.top^
 ||jrkbnvkvraerw.top^
 ||jwyl.jrkbnvkvraerw.top^
+||jrnkmlemannnj.top^
+||jwby.jrnkmlemannnj.top^
 ||jrnkmlrajnbnj.top^
 ||jwby.jrnkmlrajnbnj.top^
 ||jvbzzmnrbzwyl.top^
@@ -11697,6 +11750,7 @@
 ||naifshinnied.top^
 ||nichtfaeroe.top^
 ||nievetacunjer.top^
+||noddydexies.top^
 ||nonevilkhamti.top^
 ||noyousgulgul.top^
 ||obeselysass.top^
@@ -11834,6 +11888,8 @@
 ||zrly.zjjranmzzbqjw.top^
 ||zjmmkjqwwjbzl.top^
 ||zrke.zjmmkjqwwjbzl.top^
+||zjrnyrrlbjaay.top^
+||zajw.zjrnyrrlbjaay.top^
 ||zjrnyrrlbjzaz.top^
 ||zajw.zjrnyrrlbjzaz.top^
 ||zjyeblzvzjjke.top^
@@ -12430,6 +12486,7 @@
 ||hnpbhdatgo.xyz^
 ||hostg.xyz^
 ||www.hostg.xyz^
+||howqfivgnqkr.xyz^
 ||hpwlfhwydefe.xyz^
 ||hqawqssuvqyl.xyz^
 ||hrpmqvndvxc.xyz^
@@ -12441,6 +12498,7 @@
 ||hypqxpxwvfsfx.xyz^
 ||ievaoixvcy.xyz^
 ||ikadmethe.xyz^
+||ir3.xyz^
 ||itahandkeight.xyz^
 ||itonawqumewu.xyz^
 ||ivemwjkbkjtb.xyz^
@@ -12523,8 +12581,10 @@
 ||crm.platformbot.xyz^
 ||playground.xyz^
 ||ads.playground.xyz^
+||pnasbdmyulja.xyz^
 ||pogothere.xyz^
 ||psoompou.xyz^
+||pssjsbrpihl.xyz^
 ||pssy.xyz^
 ||d.pssy.xyz^
 ||ptaungoo.xyz^
@@ -12671,7 +12731,7 @@
 /(csi|error|gen(erate)?)_?204/
 /(fac|fp\.rev11|ntfc|out|promo|vast)\.php/
 /(sa-sdk-javascript|web-vitals)@/
-/.*(?<!(down|up)lo)ads.*\.js/$match-case,script
+/.*(?<!(downlo|spre|uplo))ads.*\.js/$match-case,script
 /.*(_ads)\.js/$script
 /3(0|5)0(-|x)2?5?0/
 /728(-|x)90/
@@ -12868,12 +12928,17 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 @@||uploads.services.disqus.com^
 ||api.github.com/_private/browser/stats
 ||b.cdnst.net/javascript/
+||bing.com/fd/ls/
+||bing.com/hp/api/v1/imagegallery
+||bing.com/hp/api/v1/msnpopularnow
+||bing.com/images/sbi
 ||chaturbate.com^$third-party,subdocument
 ||data.mail.yahoo.com/xobni/
 ||developer.mozilla.org/pong/
 ||developer.mozilla.org/submit/mdn-yari/
 ||facebook.com/tr?id=
 ||gemini.google.com/_/BardChatUi/jserror
+||gstatic.com/feedback/
 ||i.imgur.com/*.gif$domain=yaoimangaonline.com,third-party
 ||images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/
 ||ipinfo.io/rt?r=err

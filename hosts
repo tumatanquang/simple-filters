@@ -426,6 +426,7 @@
 0.0.0.0 smrturl.co
 0.0.0.0 thabet888.co
 0.0.0.0 tidio.co
+0.0.0.0 code.tidio.co
 0.0.0.0 socket.tidio.co
 0.0.0.0 viads.co
 0.0.0.0 videocampaign.co
@@ -512,6 +513,8 @@
 0.0.0.0 b6d8052764.13e72f87ba.com
 0.0.0.0 14165563f4.com
 0.0.0.0 d0efd49cd3.14165563f4.com
+0.0.0.0 144a0bcf96.com
+0.0.0.0 b73b66d5e6.144a0bcf96.com
 0.0.0.0 148dfe140d0f3d5e.com
 0.0.0.0 14a3d6c4df.com
 0.0.0.0 89f4d517fd.14a3d6c4df.com
@@ -547,6 +550,7 @@
 0.0.0.0 c7c9cb797a.1f6bf6f5a3.com
 0.0.0.0 1f98dc1262.com
 0.0.0.0 72bb8fff9d.1f98dc1262.com
+0.0.0.0 1fkx796mw.com
 0.0.0.0 1jutu5nnx.com
 0.0.0.0 1k3.com
 0.0.0.0 1k3static.com
@@ -948,6 +952,8 @@
 0.0.0.0 ef68b6d176.813d8347e7.com
 0.0.0.0 81438456aa.com
 0.0.0.0 6a423ac897.81438456aa.com
+0.0.0.0 84190de182.com
+0.0.0.0 9b802eccae.84190de182.com
 0.0.0.0 84284a87a4.com
 0.0.0.0 0729a1e027.84284a87a4.com
 0.0.0.0 8578eb3ec8.com
@@ -1180,6 +1186,7 @@
 0.0.0.0 ad97da966d.com
 0.0.0.0 b1ac717d8b.ad97da966d.com
 0.0.0.0 adnetwork.adasiaholdings.com
+0.0.0.0 adblock-360.com
 0.0.0.0 adblock-one-protection.com
 0.0.0.0 adcalm.com
 0.0.0.0 adcampo.com
@@ -1867,6 +1874,8 @@
 0.0.0.0 b0d2583d75.com
 0.0.0.0 937feb7da3.b0d2583d75.com
 0.0.0.0 b12stop.com
+0.0.0.0 b14e96118f.com
+0.0.0.0 7e4a6fbed2.b14e96118f.com
 0.0.0.0 b1a9bbebdb.com
 0.0.0.0 7886c997c8.b1a9bbebdb.com
 0.0.0.0 b1c3e3dfed.com
@@ -2083,8 +2092,17 @@
 0.0.0.0 assets.bilsyndication.com
 0.0.0.0 biltag.bilsyndication.com
 0.0.0.0 services.bilsyndication.com
+0.0.0.0 a4.bing.com
 0.0.0.0 bat.bing.com
 0.0.0.0 c.bing.com
+0.0.0.0 www.c.bing.com
+0.0.0.0 commerce.bing.com
+0.0.0.0 dps.bing.com
+0.0.0.0 g.bing.com
+0.0.0.0 r.g.bing.com
+0.0.0.0 raka.bing.com
+0.0.0.0 testfamilysafety.bing.com
+0.0.0.0 bingads.com
 0.0.0.0 binomnet.com
 0.0.0.0 binomnet3.com
 0.0.0.0 bipmwuhisvp.com
@@ -2298,6 +2316,7 @@
 0.0.0.0 www.bzrmxfxu.com
 0.0.0.0 bzwcgscqnf.com
 0.0.0.0 www.bzwcgscqnf.com
+0.0.0.0 bzynkoqilza.com
 0.0.0.0 c1c491d137.com
 0.0.0.0 e47d773ccb.c1c491d137.com
 0.0.0.0 c212a79d53.com
@@ -2966,6 +2985,8 @@
 0.0.0.0 derevya2sh8ka09.com
 0.0.0.0 destroyedspear.com
 0.0.0.0 devflatsome.com
+0.0.0.0 dex-trade.com
+0.0.0.0 api.dex-trade.com
 0.0.0.0 dexchangeinc.com
 0.0.0.0 www.dexchangeinc.com
 0.0.0.0 df4a3bc10a.com
@@ -3234,6 +3255,8 @@
 0.0.0.0 901268600b.ec1e2c92b3.com
 0.0.0.0 ec5e727d37.com
 0.0.0.0 50abe8a408.ec5e727d37.com
+0.0.0.0 eca8bef536.com
+0.0.0.0 217eda37ff.eca8bef536.com
 0.0.0.0 ecaecc3e17.com
 0.0.0.0 70b25fad84.ecaecc3e17.com
 0.0.0.0 echobox.com
@@ -3904,8 +3927,11 @@
 0.0.0.0 analytics.google.com
 0.0.0.0 cello.client-channel.google.com
 0.0.0.0 android.clients.google.com
+0.0.0.0 addons-pa.clients6.google.com
 0.0.0.0 feedback-pa.clients6.google.com
 0.0.0.0 ogads-pa.clients6.google.com
+0.0.0.0 peoplestack-pa.clients6.google.com
+0.0.0.0 waa-pa.clients6.google.com
 0.0.0.0 corp.google.com
 0.0.0.0 uberproxy-pen-redirect.corp.google.com
 0.0.0.0 cse.google.com
@@ -4118,6 +4144,10 @@
 0.0.0.0 helen-geu.com
 0.0.0.0 heleric.com
 0.0.0.0 hello888999.com
+0.0.0.0 helpcrunch.com
+0.0.0.0 embed.helpcrunch.com
+0.0.0.0 widget.helpcrunch.com
+0.0.0.0 dex.widget.helpcrunch.com
 0.0.0.0 helpwire.com
 0.0.0.0 www.helpwire.com
 0.0.0.0 hem41xm47.com
@@ -4938,6 +4968,8 @@
 0.0.0.0 ladsdown.com
 0.0.0.0 ladsecz.com
 0.0.0.0 ladsoks.com
+0.0.0.0 laikaush.com
+0.0.0.0 ak.laikaush.com
 0.0.0.0 lainaumi.com
 0.0.0.0 lalaping.com
 0.0.0.0 static.lalaping.com
@@ -5109,6 +5141,7 @@
 0.0.0.0 flx907.lporirxe.com
 0.0.0.0 lpxtqptab.com
 0.0.0.0 www.lpxtqptab.com
+0.0.0.0 lpyomvxamo.com
 0.0.0.0 lrcontent.com
 0.0.0.0 auth.lrcontent.com
 0.0.0.0 lreqmoonpjka.com
@@ -5172,6 +5205,7 @@
 0.0.0.0 makespram.com
 0.0.0.0 maltunfaithfulpredominant.com
 0.0.0.0 mambcaopskfy.com
+0.0.0.0 mamcijmusos.com
 0.0.0.0 mamydirect.com
 0.0.0.0 js.mamydirect.com
 0.0.0.0 events.mangarockhd.com
@@ -5774,6 +5808,7 @@
 0.0.0.0 oeuvresvexable.com
 0.0.0.0 offaces-butional.com
 0.0.0.0 offerimage.com
+0.0.0.0 offernow24.com
 0.0.0.0 offersbid.com
 0.0.0.0 email2.office.com
 0.0.0.0 click.email2.office.com
@@ -6404,6 +6439,7 @@
 0.0.0.0 qlsvowqnbzu.com
 0.0.0.0 www.qlsvowqnbzu.com
 0.0.0.0 qmvhceuclmc.com
+0.0.0.0 qnp16tstw.com
 0.0.0.0 qoqv.com
 0.0.0.0 aegis.qq.com
 0.0.0.0 beacon.qq.com
@@ -9199,6 +9235,8 @@
 0.0.0.0 branch.io
 0.0.0.0 api.branch.io
 0.0.0.0 cdn.branch.io
+0.0.0.0 chatra.io
+0.0.0.0 call.chatra.io
 0.0.0.0 clarium.io
 0.0.0.0 protected-by.clarium.io
 0.0.0.0 coinroad.io
@@ -10553,6 +10591,8 @@
 0.0.0.0 prvtx.net
 0.0.0.0 ip.prvtx.net
 0.0.0.0 psairees.net
+0.0.0.0 psaltauw.net
+0.0.0.0 ak.psaltauw.net
 0.0.0.0 ptauxofi.net
 0.0.0.0 ptewauta.net
 0.0.0.0 ptugnins.net
@@ -10641,6 +10681,7 @@
 0.0.0.0 taiphaib.net
 0.0.0.0 tauphaub.net
 0.0.0.0 tauvoojo.net
+0.0.0.0 teksishe.net
 0.0.0.0 thaickoo.net
 0.0.0.0 thefap.net
 0.0.0.0 thench.net
@@ -10906,6 +10947,9 @@
 0.0.0.0 browser-update.org
 0.0.0.0 1558334541.rsc.cdn77.org
 0.0.0.0 cdnondemand.org
+0.0.0.0 cleantalk.org
+0.0.0.0 moderate.cleantalk.org
+0.0.0.0 moderate1-v4.cleantalk.org
 0.0.0.0 closwbay9bak.org
 0.0.0.0 ipv4.closwbay9bak.org
 0.0.0.0 ipv6.closwbay9bak.org
@@ -11375,6 +11419,8 @@
 0.0.0.0 vidsreal.space
 0.0.0.0 zimmishakam.space
 0.0.0.0 zoccoscarred.space
+0.0.0.0 adj.st
+0.0.0.0 k5nc.adj.st
 0.0.0.0 bsw.digitru.st
 0.0.0.0 cdn.digitru.st
 0.0.0.0 prebid.digitru.st
@@ -11489,6 +11535,7 @@
 0.0.0.0 azwkjjkwkqlka.top
 0.0.0.0 abmw.azwkjjkwkqlka.top
 0.0.0.0 babhanananym.top
+0.0.0.0 babuaberger.top
 0.0.0.0 bargingaricin.top
 0.0.0.0 bassarazit.top
 0.0.0.0 bbnnjqwqaryya.top
@@ -11508,6 +11555,7 @@
 0.0.0.0 bmjlzyjrkmqal.top
 0.0.0.0 bwqa.bmjlzyjrkmqal.top
 0.0.0.0 bookedbonce.top
+0.0.0.0 britishsorehon.top
 0.0.0.0 brmwmmnleermr.top
 0.0.0.0 bleaw.brmwmmnleermr.top
 0.0.0.0 brmwmmnleervv.top
@@ -11556,6 +11604,8 @@
 0.0.0.0 embeamratline.top
 0.0.0.0 emkyrzrnknjyb.top
 0.0.0.0 eqmm.emkyrzrnknjyb.top
+0.0.0.0 emkyrzrnknmzj.top
+0.0.0.0 eqmm.emkyrzrnknmzj.top
 0.0.0.0 emkyrzrnknnyv.top
 0.0.0.0 eqmm.emkyrzrnknnyv.top
 0.0.0.0 emporyproved.top
@@ -11595,6 +11645,7 @@
 0.0.0.0 harpinhaster.top
 0.0.0.0 hauteinakebia.top
 0.0.0.0 hiedgored.top
+0.0.0.0 histssenaah.top
 0.0.0.0 holeyforty.top
 0.0.0.0 hulloooctyls.top
 0.0.0.0 hyalinsbenami.top
@@ -11632,6 +11683,8 @@
 0.0.0.0 jqba.jraqzmbyqnjwl.top
 0.0.0.0 jrkbnvkvraerw.top
 0.0.0.0 jwyl.jrkbnvkvraerw.top
+0.0.0.0 jrnkmlemannnj.top
+0.0.0.0 jwby.jrnkmlemannnj.top
 0.0.0.0 jrnkmlrajnbnj.top
 0.0.0.0 jwby.jrnkmlrajnbnj.top
 0.0.0.0 jvbzzmnrbzwyl.top
@@ -11698,6 +11751,7 @@
 0.0.0.0 naifshinnied.top
 0.0.0.0 nichtfaeroe.top
 0.0.0.0 nievetacunjer.top
+0.0.0.0 noddydexies.top
 0.0.0.0 nonevilkhamti.top
 0.0.0.0 noyousgulgul.top
 0.0.0.0 obeselysass.top
@@ -11835,6 +11889,8 @@
 0.0.0.0 zrly.zjjranmzzbqjw.top
 0.0.0.0 zjmmkjqwwjbzl.top
 0.0.0.0 zrke.zjmmkjqwwjbzl.top
+0.0.0.0 zjrnyrrlbjaay.top
+0.0.0.0 zajw.zjrnyrrlbjaay.top
 0.0.0.0 zjrnyrrlbjzaz.top
 0.0.0.0 zajw.zjrnyrrlbjzaz.top
 0.0.0.0 zjyeblzvzjjke.top
@@ -12431,6 +12487,7 @@
 0.0.0.0 hnpbhdatgo.xyz
 0.0.0.0 hostg.xyz
 0.0.0.0 www.hostg.xyz
+0.0.0.0 howqfivgnqkr.xyz
 0.0.0.0 hpwlfhwydefe.xyz
 0.0.0.0 hqawqssuvqyl.xyz
 0.0.0.0 hrpmqvndvxc.xyz
@@ -12442,6 +12499,7 @@
 0.0.0.0 hypqxpxwvfsfx.xyz
 0.0.0.0 ievaoixvcy.xyz
 0.0.0.0 ikadmethe.xyz
+0.0.0.0 ir3.xyz
 0.0.0.0 itahandkeight.xyz
 0.0.0.0 itonawqumewu.xyz
 0.0.0.0 ivemwjkbkjtb.xyz
@@ -12524,8 +12582,10 @@
 0.0.0.0 crm.platformbot.xyz
 0.0.0.0 playground.xyz
 0.0.0.0 ads.playground.xyz
+0.0.0.0 pnasbdmyulja.xyz
 0.0.0.0 pogothere.xyz
 0.0.0.0 psoompou.xyz
+0.0.0.0 pssjsbrpihl.xyz
 0.0.0.0 pssy.xyz
 0.0.0.0 d.pssy.xyz
 0.0.0.0 ptaungoo.xyz
