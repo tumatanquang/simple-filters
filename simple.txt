@@ -972,6 +972,8 @@
 ||9b802eccae.84190de182.com^
 ||84284a87a4.com^
 ||0729a1e027.84284a87a4.com^
+||845d6bbf60.com^
+||9418b95070.845d6bbf60.com^
 ||8578eb3ec8.com^
 ||8194e6d1d6.8578eb3ec8.com^
 ||85c0a6a0ea.com^
@@ -1058,6 +1060,8 @@
 ||e7ffc638d2.994e4a6044.com^
 ||99fe352223.com^
 ||7a6f845350.99fe352223.com^
+||9a08103287.com^
+||f8260e364f.9a08103287.com^
 ||9a55672b0c.com^
 ||299bf6b4b4.9a55672b0c.com^
 ||9a7c81f58e.com^
@@ -1819,6 +1823,7 @@
 ||ast2ya4ee8wtnax.com^
 ||astoapsu.com^
 ||astrandconifer.com^
+||aswjtiwryakv.com^
 ||athbzeobts.com^
 ||atimaze.com^
 ||random-affiliate.atimaze.com^
@@ -2962,6 +2967,7 @@
 ||dateforlocals.com^
 ||datismelysee.com^
 ||bd.datismelysee.com^
+||daukshewing.com^
 ||db20da1532.com^
 ||f38f126b76.db20da1532.com^
 ||h5hosting.dbankcdn.com^
@@ -4396,6 +4402,8 @@
 ||sf16-static.i18n-pglstatp.com^
 ||sf19-fe-tos-sg.i18n-pglstatp.com^
 ||i5iog3mlrw.com^
+||i90006.com^
+||www.i90006.com^
 ||i9020.com^
 ||www.i9020.com^
 ||i91155.com^
@@ -5706,6 +5714,8 @@
 ||newrtbbid.com^
 ||newscadence.com^
 ||www.newscadence.com^
+||newsforyourmood.com^
+||www.newsforyourmood.com^
 ||newsfrompluto.com^
 ||www.newsfrompluto.com^
 ||newsgenious.com^
@@ -8092,6 +8102,7 @@
 ||api.tinhot.uodoo.com^
 ||flow.video.uodoo.com^
 ||upgulpinon.com^
+||upkoffingr.com^
 ||uplatiason.com^
 ||ak.uplatiason.com^
 ||uplynk.com^
@@ -11659,6 +11670,8 @@
 ||avatraffic.top^
 ||awwqyewjrqzqa.top^
 ||alze.awwqyewjrqzqa.top^
+||awwqyewklqkev.top^
+||alze.awwqyewklqkev.top^
 ||awyebweybejyj.top^
 ||aaba.awyebweybejyj.top^
 ||ayahspollent.top^
@@ -11882,6 +11895,7 @@
 ||lyjznnazrrnay.top^
 ||lrqz.lyjznnazrrnay.top^
 ||mandantnutter.top^
+||mezairibices.top^
 ||microcynoid.top^
 ||mikvahbarbes.top^
 ||milordshoofers.top^
@@ -12652,6 +12666,7 @@
 ||gloogeed.xyz^
 ||gnssivagwelwspe.xyz^
 ||goahouma.xyz^
+||greejoiti.xyz^
 ||hethisisath.xyz^
 ||heycdn56.xyz^
 ||hiljcovbfk.xyz^
