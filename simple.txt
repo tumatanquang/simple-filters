@@ -1190,6 +1190,7 @@
 ||cdn15.acloudimages.com^
 ||acloudvideos.com^
 ||cdn.acloudvideos.com^
+||acmdihtumpuj.com^
 ||acoudsoarom.com^
 ||acpsarqpipze.com^
 ||acqvoluum.com^
@@ -3047,6 +3048,8 @@
 ||banners.dfbanners.com^
 ||dfd1ec534a.com^
 ||08d0fe3dc4.dfd1ec534a.com^
+||dffc7e343b.com^
+||dbd9542946.dffc7e343b.com^
 ||dfxofvzd.com^
 ||www.dfxofvzd.com^
 ||dgqlwqedzowhqb.com^
@@ -3536,6 +3539,8 @@
 ||fd35bb45c8.f4823894ba.com^
 ||f5e03754b3.com^
 ||552f323934.f5e03754b3.com^
+||f5ea66a9f7.com^
+||75357f7aec.f5ea66a9f7.com^
 ||f5f84f4d83.com^
 ||9673fad07f.f5f84f4d83.com^
 ||f63777e43d.com^
@@ -4322,6 +4327,7 @@
 ||hoddlegamey.com^
 ||hoglinsu.com^
 ||hoickpinyons.com^
+||holahupa.com^
 ||hollercatastrophe.com^
 ||honestlyvicinityscene.com^
 ||honorableland.com^
@@ -8118,6 +8124,8 @@
 ||uptimecdn.com^
 ||uptimerobot.com^
 ||api.uptimerobot.com^
+||uqnic.com^
+||analytics.uqnic.com^
 ||uqpteaabjil.com^
 ||urbanairship.com^
 ||web-sdk.urbanairship.com^
@@ -10998,6 +11006,17 @@
 ||apostle.onl^
 ||clkn.apostle.onl^
 ||clkn3.apostle.onl^
+||07c225f3.online^
+||0.07c225f3.online^
+||1.07c225f3.online^
+||2.07c225f3.online^
+||3.07c225f3.online^
+||4.07c225f3.online^
+||5.07c225f3.online^
+||6.07c225f3.online^
+||7.07c225f3.online^
+||8.07c225f3.online^
+||9.07c225f3.online^
 ||2t91c.online^
 ||9tez.online^
 ||adtrace.online^
@@ -11749,6 +11768,7 @@
 ||dgafgadsgkjg.top^
 ||dicolicbarrer.top^
 ||doingsyud.top^
+||drouketprecox.top^
 ||drublylamboy.top^
 ||eaekjnvyyvkbm.top^
 ||ennlw.eaekjnvyyvkbm.top^
@@ -11836,6 +11856,8 @@
 ||jrqy.jjkwrqjzkmbjw.top^
 ||jjkwrqjzkmebj.top^
 ||jrqy.jjkwrqjzkmebj.top^
+||jnajyrqvnelmj.top^
+||jjmey.jnajyrqvnelmj.top^
 ||jnbknnrnnzjwr.top^
 ||jzlr.jnbknnrnnzjwr.top^
 ||jnyyrybjjlzbv.top^
@@ -12573,6 +12595,7 @@
 ||ationuctladd.xyz^
 ||atnstxqed.xyz^
 ||austinhudson.xyz^
+||b0eb63.xyz^
 ||baghoorg.xyz^
 ||banquet-dratted-sundial.xyz^
 ||begantotireo.xyz^
@@ -12753,6 +12776,7 @@
 ||advertising.ntuplay.xyz^
 ||nvuwqcfdux.xyz^
 ||ocfpydvdcyw.xyz^
+||oigmpohwiwac.xyz^
 ||oldharper.xyz^
 ||onhuhdnxmb.xyz^
 ||oobynhfrioyriye.xyz^
@@ -12866,6 +12890,7 @@
 ||vnpebdmbac.xyz^
 ||vodcdn.xyz^
 ||media.vodcdn.xyz^
+||voothood.xyz^
 ||vropgvsukk.xyz^
 ||vrsrunqkfh.xyz^
 ||vusfqprrmuj.xyz^
