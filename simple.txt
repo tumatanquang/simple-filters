@@ -494,6 +494,8 @@
 ||82c39cef22.0a3036d0e7.com^
 ||0b5bd8c4a8.com^
 ||a6d71f6df6.0b5bd8c4a8.com^
+||0b85c2f9bb.com^
+||7bee0eee4c.0b85c2f9bb.com^
 ||0d76bd13e8.com^
 ||a388f2a7d8.0d76bd13e8.com^
 ||0eade9dd8d.com^
@@ -795,6 +797,9 @@
 ||dd15b806f5.57debc89a6.com^
 ||586ee111d1.com^
 ||6c4ab5bf6a.586ee111d1.com^
+||5888678.com^
+||api.5888678.com^
+||vn.5888678.com^
 ||592eb4ef33.com^
 ||dfd1240c9c.592eb4ef33.com^
 ||5afd9ec0ab.com^
@@ -857,6 +862,7 @@
 ||9a9c55f07d.665166e5a9.com^
 ||6686vn17.com^
 ||6686vn23.com^
+||6686vn80.com^
 ||66i9bet.com^
 ||www.66i9bet.com^
 ||6789live.com^
@@ -2457,6 +2463,8 @@
 ||i.i.cbsi.com^
 ||som.cbsi.com^
 ||vidtech.cbsinteractive.com^
+||cc176a49cd.com^
+||7fcb44bf36.cc176a49cd.com^
 ||ccjzuavqrh.com^
 ||ccksdwtuzmadx.com^
 ||www.ccksdwtuzmadx.com^
@@ -3991,9 +3999,14 @@
 ||cello.client-channel.google.com^
 ||android.clients.google.com^
 ||addons-pa.clients6.google.com^
+||appsgrowthpromo-pa.clients6.google.com^
 ||feedback-pa.clients6.google.com^
 ||ogads-pa.clients6.google.com^
 ||peoplestack-pa.clients6.google.com^
+||peoplestackwebexperiments-pa.clients6.google.com^
+||realtimesupport.clients6.google.com^
+||scone-pa.clients6.google.com^
+||signaler-pa.clients6.google.com^
 ||waa-pa.clients6.google.com^
 ||corp.google.com^
 ||uberproxy-pen-redirect.corp.google.com^
@@ -4178,6 +4191,9 @@
 ||hauchiwu.com^
 ||ak.hauchiwu.com^
 ||hawkyeye5ssnd.com^
+||hb88010.com^
+||hb88013.com^
+||cdn.hb88013.com^
 ||hb88a.com^
 ||www.hb88a.com^
 ||hbplatform.com^
@@ -4388,6 +4404,7 @@
 ||hw-area.com^
 ||www.hw-area.com^
 ||hwaatwmcudc.com^
+||hwpdwosisgpxtrm.com^
 ||hwydwovzuob.com^
 ||hxgqqxopf.com^
 ||www.hxgqqxopf.com^
@@ -4902,6 +4919,10 @@
 ||kampyle.com^
 ||udc-neb.kampyle.com^
 ||kangaroohiccups.com^
+||kangxinzhiyuan.com^
+||be-source.kangxinzhiyuan.com^
+||vd004-fluid.kangxinzhiyuan.com^
+||vd004-nfaa-api.kangxinzhiyuan.com^
 ||kapkmobuqh.com^
 ||kapluxmazzu.com^
 ||kargo.com^
@@ -5585,6 +5606,8 @@
 ||mtttvrit.com^
 ||www.mtttvrit.com^
 ||btg.mtvnservices.com^
+||mu121.com^
+||upload.mu121.com^
 ||muffinyourself.com^
 ||mugpothop.com^
 ||mulleysnutmeg.com^
@@ -6010,6 +6033,7 @@
 ||optyruntchan.com^
 ||opvanillishan.com^
 ||oqfpuzaltac.com^
+||oqfrudzatovc.com^
 ||oqxehynxtckgha.com^
 ||www.oqxehynxtckgha.com^
 ||console-telemetry.oci.oraclecloud.com^
@@ -6519,6 +6543,11 @@
 ||qgxbluhsgad.com^
 ||qh014.com^
 ||www.qh014.com^
+||qh089.com^
+||upload.qh089.com^
+||qh375.com^
+||api.qh375.com^
+||www.qh375.com^
 ||qhip.com^
 ||qhres2.com^
 ||ssl.qhres2.com^
@@ -7287,6 +7316,7 @@
 ||mtrx.go.sonobi.com^
 ||sync.go.sonobi.com^
 ||sopalk.com^
+||sordimtaulee.com^
 ||sosigninggrudge.com^
 ||w.soundcloud.com^
 ||static.sourcetobin.com^
@@ -9746,6 +9776,8 @@
 ||one.exness.link^
 ||gameiwincasino.link^
 ||googlemobileadssdk.page.link^
+||service-station.link^
+||i18n-querier-prod-vd004.service-station.link^
 ||songspk.link^
 ||vvvwin.link^
 ||zog.link^
@@ -10446,6 +10478,7 @@
 ||gamewin79vip.net^
 ||gayalllance.net^
 ||laqzab.gayalllance.net^
+||geewooheene.net^
 ||gejeegho.net^
 ||new-sentry.gitlab.net^
 ||trx.gitlab.net^
@@ -11795,6 +11828,7 @@
 ||exaltprizers.top^
 ||ezyebrweyqbw.top^
 ||eab.ezyebrweyqbw.top^
+||falterehakeems.top^
 ||feededspreath.top^
 ||ferrelkines.top^
 ||fibretent.top^
@@ -12066,6 +12100,8 @@
 ||zwmnj.zakbyajvaqlrj.top^
 ||zallbbwykqrwz.top^
 ||zwwna.zallbbwykqrwz.top^
+||zarjzwlqnwqew.top^
+||zwwzz.zarjzwlqnwqew.top^
 ||zarjzwlqnwrba.top^
 ||zwwzz.zarjzwlqnwrba.top^
 ||zarkjmynvywy.top^
@@ -12150,6 +12186,8 @@
 ||dabet.tv^
 ||api.dabet.tv^
 ||sock.dabet.tv^
+||forooqso.tv^
+||ak.forooqso.tv^
 ||go88.tv^
 ||tai.go88.tv^
 ||iris.tv^
@@ -12741,6 +12779,7 @@
 ||lentinesox.xyz^
 ||leqpdlaq.xyz^
 ||lillianmeyer.xyz^
+||linkref.xyz^
 ||lksoghgm.xyz^
 ||lleadupthere.xyz^
 ||llnpucstr.xyz^
@@ -12811,6 +12850,7 @@
 ||purgoaho.xyz^
 ||pushpad.xyz^
 ||pxjxcqccxlwmojw.xyz^
+||pyvoddppouqtg.xyz^
 ||qefutrpgga.xyz^
 ||qhuccanuhubf.xyz^
 ||qiwlywetmp.xyz^
@@ -12961,6 +13001,7 @@
 /catfish.*/
 /cdn-cgi\/apps\/.*\.js/$script
 /cdn-cgi\/zaraz/
+/detect(\.|-)?dev\.js/
 /dfp\.min\.js/$domain=fastssh.com
 /funcript.*\.php/
 /imgur\/.*\.gif/
@@ -13182,6 +13223,8 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||s.yimg.com/nq/
 ||s.yimg.com/os/yaft/
 ||s.yimg.com/rq/
+||support.google.com/apis/logjourney
+||support.google.com/s/clientsidestreamz
 ||terabox.com/api/ad/
 ||terabox.com/api/analytics
 ||terabox.com/api/getsyscfg*web_video_play_patch_ad_area*web_share_ads_adsterra_config
@@ -13214,6 +13257,7 @@ $cookie=/__utm[a-z]/
 306t.com,sn9.us#%#//scriptlet('json-prune', 'file.popad')
 306t.com,sn9.us#%#//scriptlet('json-prune', 'pop')
 306t.com,sn9.us#%#//scriptlet('json-prune', 'xhr')
+anime3s.com#%#//scriptlet('remove-attr', 'disable-devtool-auto', 'script')
 bing.com#%#//scriptlet('json-prune', 'relatedAds')
 boyfriendtv.com#%#//scriptlet('prevent-addEventListener', 'chujBlokowacieDone')
 camelliatransgroup.com,dhcc.uk,fingau.com,getpczone.com,javadecompilers.com,listvpn.net,quaanhdaocuteo.com,rahim-soft.com,uploadrar.com,wokaz.com#%#//scriptlet('prevent-bab')
@@ -13321,7 +13365,7 @@ twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.time
 123s.link,1link.vip,link1s.com#%#window.addEventListener("load",function(){document.querySelectorAll('[class*="banner" i]').forEach(e=>e.classList.remove(...e.className.match(/(\S+)?banner(\S+)?/gi))),"undefined"!=typeof app_vars&&(app_vars.counter_value=6,app_vars.force_disable_adblock=0),"undefined"!=typeof go_popup&&(go_popup=void 0)});
 adguard.com#%#window.addEventListener("load",function(){document.querySelectorAll(".language-adblock").forEach(e=>e.classList.remove("language-adblock"))});
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.sa,amazon.se,amazon.sg,bblink.com,live.com,mmo1s.com,naver.com,oraclecloud.com#%#var t=setInterval(function(){var a=document.querySelectorAll('[class*="banner" i]');a.forEach(e=>{e.classList.remove(...e.className.match(/(\S+)?banner(\S+)?/gi)),0==a.length&&clearInterval(t)})},100);
-animet.net#%#constructor=void 0,Object.defineProperty=void 0,window.popunder=void 0,window.addEventListener("load",function(){redirectCU=void 0});
+animet.net,animet1.net#%#constructor=void 0,Object.defineProperty=void 0,window.popunder=void 0,window.addEventListener("load",function(){redirectCU=void 0});
 anonyviet.com#%#Object.defineProperties(window,{adblock_validURL:{value:void 0,writable:!1},adsClasses:{value:void 0,writable:!1},chp_adblock_browser:{value:void 0,writable:!1},reqServers:{value:void 0,writable:!1}});
 apkmirror.com#%#Math.floor=void 0,Object.defineProperties(window,{APKMez:{value:void 0,writable:!1},ezstandalone:{value:void 0,writable:!1},googlefc:{value:void 0,writable:!1},tabadcode:{value:void 0,writable:!1}});
 appvn.com#%#Math.floor=void 0,setTimeout=void 0,window.addEventListener("load",function(){adcashMacros=void 0;var o=document.querySelector("#info");null!=o&&(o.style.display="block")});
@@ -13385,8 +13429,9 @@ mail.yahoo.com#?#div[data-test-id="pencil-ad"]
 mail.yahoo.com#?#div[data-test-id="video-container"]
 ###bottomads,#fbox-background,#tads,#tadsb,#taw,#tvcap,.ad,.ad-300,.ad-box,.ad-choices,.ad-container,.adbox,.admz,.ads,.banner,.cu-container,.dle_b_yandex,.float-ck,.imgac,.js-consent-banner,.med,.pl-carousel-wrapper,.sidebar-ad,.top-ads-container,div[data-id^="CarouselPLA"],[class$="-ads" i],[class$="_ads" i],[class*="-ads-" i],[class*="300x250" i],[class*="ad-wrapper" i],[class*="adblock" i],[class*="adsbygoogle" i],[class*="adsbyvli" i],[class*="adslot" i],[class*="advertisement" i],[class*="advertising" i],[class*="adwrapper" i],[class*="catfix" i],[class*="exoclick" i],[class*="ezoic" i],[class*="google-ad" i],[class*="pb-f-ads" i],[class*="quangcao" i],[class*="revamp" i],[class*="sam-slot" i],[class*="sponsor" i],[class*="taitro" i],[class*="_ads_" i],[class^="ad-top" i],[class^="ads" i],[class^="apreload-popup" i],[class^="catfish" i],[class^="inx-" i],[data-cid="TOP_PLA" i],[href*="bet"] img[src*=".gif"],[href*="doubleclick.net"],[href*="googlesyndication.com"],[id$="-ads" i],[id$="_ads" i],[id*="adblock" i],[id*="advertising" i],[id*="banner" i],[id*="catfish" i],[id*="exoclick" i],[id*="ezoic" i],[id*="gpt-ad" i],[id*="PixFuture" i],[id*="quangcao" i],[id*="ScriptRoot" i],[id*="sponsor" i],[id^="adm-slot" i],[id^="admzone" i],[id^="ads" i],[id^="advert" i],[id^="rf" i],[rel*="sponsored" i],[rel="nofollow"][target="_blank"][href*="?invitecode=" i],[rel="nofollow"][target="_blank"][href*="bet"],[rel="nofollow"][target="_blank"][href*="Register?a=" i],[rel="nofollow"][target="_blank"][rel="nofollow"] img[src*=".quoracdn.net"]
 9gag.com###stream-0 > article:last-child,#stream-1 > article.post-cell:nth-child(2),#stream-2 > article:nth-child(2),.inline-ad-container,section.block-ad,section.salt-container,[id*="sidebar-stream" i] > h4:first-child
-animet.net###inx-content,#inx-overlay,.gnarty-offads,.gnartyx-offads
-animevietsub.tv##.Dvr-300
+anime3s.com##div.jw-logo
+animet.net,animet1.net###inx-content,#inx-overlay,.gnarty-offads,.gnartyx-offads
+animevietsub.art,animevietsub.tv##.ad-center-header,.Ads,.Adv,.Dvr-300,.home_ads,div[class^="ads-"]
 apkmirror.com###appmanager_sppostswidget-2,#bottom-slider,.OUTBRAIN,.ai-track,.pushbullet-subscribe-widget,[class*="outbrain_ad" i],[id*="ai_widget" i]
 apkpure.com###policy-info,.chrome-install-pop,.js-ad-slot
 baidu.com###branding_ads,#web-right-view,.ad-multi-tips,.ad-platform-tips,.cps_wrap,.j_click_stats,.video-ad-creative-card
