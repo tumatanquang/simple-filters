@@ -779,8 +779,10 @@
 ||c365b42d0b.50005582df.com^
 ||500px.com^
 ||api.500px.com^
+||508ec56533e3937e.com^
 ||51tracking.com^
 ||datasinksensorsdata.51tracking.com^
+||523c579923fd35aa.com^
 ||536e9f9126.com^
 ||cf7f345e1e.536e9f9126.com^
 ||536fbeeea4.com^
@@ -808,6 +810,7 @@
 ||40dd6c8f55.5b7cb7236e.com^
 ||5c530d2179.com^
 ||a778de2012.5c530d2179.com^
+||5c577fc74618431b.com^
 ||5cb068fb21.com^
 ||a757fa57e7.5cb068fb21.com^
 ||5cbbdb4434.com^
@@ -974,6 +977,7 @@
 ||ef68b6d176.813d8347e7.com^
 ||81438456aa.com^
 ||6a423ac897.81438456aa.com^
+||815e8fa24ebb8686.com^
 ||84190de182.com^
 ||9b802eccae.84190de182.com^
 ||84284a87a4.com^
@@ -992,6 +996,7 @@
 ||864feb57ruary.com^
 ||86811111.com^
 ||www.86811111.com^
+||86cb1dcb13ba5a1a.com^
 ||86e7d35526.com^
 ||efd8d8a247.86e7d35526.com^
 ||87bcb027cf.com^
@@ -1007,6 +1012,8 @@
 ||77be761a72.8c22d403cf.com^
 ||8d1dce99ab.com^
 ||6440d83992.8d1dce99ab.com^
+||8d96fe2f01.com^
+||fe9a1074c9.8d96fe2f01.com^
 ||8e41249557.com^
 ||44bbccb192.8e41249557.com^
 ||8ec9b7706a.com^
@@ -2381,6 +2388,8 @@
 ||c43a3cd8f99413891.com^
 ||c4cdca50cc.com^
 ||096783c985.c4cdca50cc.com^
+||c50021876c67fd14.com^
+||c5b39ff13b3259df.com^
 ||c5cdfd1601.com^
 ||426b5ba3f1.c5cdfd1601.com^
 ||c67524ad03.com^
@@ -2929,6 +2938,8 @@
 ||czxmmcswwa.com^
 ||www.czxmmcswwa.com^
 ||czyawbalfh.com^
+||d03804f2c8.com^
+||7a75c56234.d03804f2c8.com^
 ||d03dbe8a1b.com^
 ||c53b96fd6b.d03dbe8a1b.com^
 ||d0e7d68ceb.com^
@@ -2943,6 +2954,7 @@
 ||f796282911.d4b138a7aa.com^
 ||d4c7df9561.com^
 ||471154b096.d4c7df9561.com^
+||d4d48974197052ea.com^
 ||d52a6b131d.com^
 ||ecf31c06c3.d52a6b131d.com^
 ||d5835d1c448d1c8ddc04.com^
@@ -3206,6 +3218,7 @@
 ||drctcldfefwr.com^
 ||730239.drctcldfefwr.com^
 ||dreamsnest.com^
+||dribturbot.com^
 ||event.api.drift.com^
 ||metrics.api.drift.com^
 ||js.driftt.com^
@@ -3534,6 +3547,7 @@
 ||9797eebeee.f029332141.com^
 ||f092680893.com^
 ||2839f789ab.f092680893.com^
+||f185cefa37b1806e.com^
 ||f28bb1a86f.com^
 ||dd148b0fb2.f28bb1a86f.com^
 ||f397fd95eb.com^
@@ -4751,6 +4765,7 @@
 ||ithoahie.com^
 ||itineraryupper.com^
 ||itjsprogram.com^
+||itndownloads.com^
 ||itnuzleafan.com^
 ||itponytaa.com^
 ||ak.itponytaa.com^
@@ -4910,6 +4925,7 @@
 ||www.jwyiyqptg.com^
 ||jxoqwdbqen.com^
 ||www.jxoqwdbqen.com^
+||jzalpuzutp.com^
 ||jzeoqdjcyp.com^
 ||k3betfzapp.com^
 ||kabquravcofq.com^
@@ -6963,6 +6979,7 @@
 ||ak.sail-horizon.com^
 ||api.sail-personalize.com^
 ||api.sail-track.com^
+||saiticcording.com^
 ||salesforce.com^
 ||my.salesforce.com^
 ||exness.my.salesforce.com^
@@ -7112,6 +7129,7 @@
 ||serconius.com^
 ||serconmp.com^
 ||serenesurf.com^
+||serinuswelling.com^
 ||servedby-buysellads.com^
 ||m.servedby-buysellads.com^
 ||servenobid.com^
@@ -7311,6 +7329,7 @@
 ||track.sohu.com^
 ||solemik.com^
 ||solvusserosal.com^
+||0.somenewforyou.com^
 ||sonobi.com^
 ||go.sonobi.com^
 ||mtrx.go.sonobi.com^
@@ -9268,6 +9287,7 @@
 ||analysiscloud.info^
 ||web.analysiscloud.info^
 ||aphycolourses.info^
+||asnothycan.info^
 ||attacketslovern.info^
 ||bitrix.info^
 ||bvmgo.info^
@@ -9902,6 +9922,7 @@
 ||api-v2.zbet.me^
 ||z1.zbet.me^
 ||z3.zbet.me^
+||zcode16.me^
 ||ztrck.me^
 ||s.zzcdn.me^
 ||images.adex.media^
@@ -10241,6 +10262,7 @@
 ||d3lcz8vpax4lo2.cloudfront.net^
 ||d3mr7y154d2qg5.cloudfront.net^
 ||d3mzokty951c5w.cloudfront.net^
+||d3o9njeb29ydop.cloudfront.net^
 ||d3oy68whu51rnt.cloudfront.net^
 ||d3qilfrpqzfrg4.cloudfront.net^
 ||d3rb9wasp2y8gw.cloudfront.net^
@@ -11071,6 +11093,7 @@
 ||lskjnr.ccamymuax.online^
 ||cdnx.online^
 ||cevrikri.online^
+||codedome.online^
 ||cryptoinvesting.online^
 ||cygame.online^
 ||donkstar1.online^
@@ -11204,6 +11227,7 @@
 ||api.userway.org^
 ||cdn77.api.userway.org^
 ||cdn.userway.org^
+||webvisor.org^
 ||mc.webvisor.org^
 ||wpush.org^
 ||sw.wpush.org^
@@ -11684,11 +11708,13 @@
 ||abominebootee.top^
 ||abortingulf.top^
 ||talthib.abortingulf.top^
+||abtfliping.top^
 ||actinonmouch.top^
 ||affpa.top^
 ||aigretenew.top^
 ||alarumscoronet.top^
 ||allsurvey24.top^
+||alludestussal.top^
 ||alulaeegbert.top^
 ||amrnlnllyqan.top^
 ||ajw.amrnlnllyqan.top^
@@ -11701,11 +11727,14 @@
 ||aznv.anqnbzyjlkymw.top^
 ||aosmicshacked.top^
 ||aphidsapprend.top^
+||appresthinters.top^
 ||appuifinlike.top^
 ||apritifyapok.top^
 ||aqkacuomfres.top^
 ||aqnazbbjlenqe.top^
 ||areaw.aqnazbbjlenqe.top^
+||aqqjqkmyvqvn.top^
+||arrj.aqqjqkmyvqvn.top^
 ||aqqjqkmyvwka.top^
 ||arrj.aqqjqkmyvwka.top^
 ||arewzvqaavyan.top^
@@ -11781,6 +11810,8 @@
 ||cesiumshent.top^
 ||charactfinnier.top^
 ||chawedsonrai.top^
+||choicesvendace.top^
+||chylifycrisis.top^
 ||claspsbonded.top^
 ||clewsyne.top^
 ||clusterdamages.top^
@@ -11852,6 +11883,7 @@
 ||gumasi.top^
 ||hruk.gumasi.top^
 ||hahdwaible.top^
+||haiariunsely.top^
 ||haijezoa.top^
 ||harpinhaster.top^
 ||hauteinakebia.top^
@@ -11933,6 +11965,7 @@
 ||krvemwbkazqjl.top^
 ||kayb.krvemwbkazqjl.top^
 ||latkelotong.top^
+||lentoidreboast.top^
 ||lilialconcoct.top^
 ||limoiditches.top^
 ||link789.top^
@@ -12061,6 +12094,7 @@
 ||sloydcostive.top^
 ||spikscursen.top^
 ||stannelberated.top^
+||stelaiatokal.top^
 ||subsumeactless.top^
 ||surnayruffle.top^
 ||tai789.top^
@@ -12811,6 +12845,7 @@
 ||nbr9.xyz^
 ||nnmtjmkae.xyz^
 ||npkkpknlwaslhtp.xyz^
+||nqfiqbhikfneiik.xyz^
 ||ntuplay.xyz^
 ||advertising.ntuplay.xyz^
 ||nvuwqcfdux.xyz^
@@ -13270,6 +13305,7 @@ fullboys.com,rimsgay.com#%#//scriptlet('set-constant', 'dembody', '2')
 fullboys.com,rimsgay.com#%#//scriptlet('set-constant', 'loadmoretam', '2')
 hitomi.la#%#//scriptlet('prevent-addEventListener', 'click', 'popMagic')
 idoitmyself.xyz,listvpn.net#%#//scriptlet('prevent-addEventListener', 'contextmenu')
+jsfiddle.net#%#//scriptlet('set-constant', '_bsa', 'false')
 listvpn.net,vpnsplit.com#%#//scriptlet('set-constant', 'adBlockDetected', 'noopFunc')
 listvpn.net,vpnsplit.com#%#//scriptlet('set-constant', 'checkAdBlocker', 'noopFunc')
 listvpn.net,vpnsplit.com#%#//scriptlet('set-constant', 'showNotification', 'noopFunc')
@@ -13381,14 +13417,15 @@ fullboys.com,rimsgay.com#%#window.addEventListener("DOMContentLoaded",function()
 getlink.tienichmaytinh.net#%#window.addEventListener("load",function(){"undefined"!=typeof app_vars&&(app_vars.counter_value=13,app_vars.force_disable_adblock=0)});
 github.com#%#window.addEventListener("load",function(){document.querySelectorAll(".highlight-text-adblock").forEach(t=>t.classList.remove("highlight-text-adblock"))});
 hdgay.net,hqq.to,hqq.tv,player.yaoimangaonline.com#%#0>document.cookie.indexOf("userid=")&&(document.cookie="userid=0"),Object.defineProperties(window,{__NA:{set:function(){},get:function(){return{}}},adblockcheck:{set:function(){},get:function(){return!1}},adbn:{set:function(){},get:function(){return""}},BetterJsPop:{set:function(){},get:function(){return{}}},cantOpenWindows:{set:function(){},get:function(){return!1}},doSecondPop:{set:function(){},get:function(){return function(){}}},doSecondPopU:{set:function(){},get:function(){return function(){}}},onerror:{set:function(){},get:function(){return function(){}}},popns:{set:function(){},get:function(){return""}},popUrl:{set:function(){},get:function(){}},startpops:{set:function(){},get:function(){return function(){}}},urllp:{set:function(){},get:function(){}}});
-hitomi.la#%#Object.defineProperty(window,"adConfig",{value:void 0,writable:!1}),window.addEventListener("DOMContentLoaded",function(){var e=document.querySelectorAll("ins[data-zoneid]");e.forEach(e=>e.remove()),(e=document.querySelector('.top-content div:first-child:not([class*="-"])'))&&e.remove(),(e=document.querySelector('.content div:first-child:not([class*="-"])'))&&e.remove(),(e=document.querySelector('.container div:nth-child(4):not([class*="-"])'))&&e.remove()});
+hitomi.la#%#window.addEventListener("DOMContentLoaded",function(){var e=document.querySelectorAll("ins[data-zoneid]");e.forEach(e=>e.remove()),(e=document.querySelector('.top-content div:first-child:not([class*="-"])'))&&e.remove(),(e=document.querySelector('.content div:first-child:not([class*="-"])'))&&e.remove(),(e=document.querySelector('.container div:nth-child(4):not([class*="-"])'))&&e.remove()});
+hitomi.la,myreadingmanga.info#%#Object.defineProperty(window,"adConfig",{value:void 0,writable:!1});
 idoitmyself.xyz#%#console.clear=void 0,document.write=void 0,window.open=void 0,Object.defineProperties(window,{devtoolsDetector:{value:void 0,writable:!1},ADS_CONFIG:{value:void 0,writable:!1},get_ads_func:{value:void 0,writable:!1},run:{value:void 0,writable:!1},loadAds:{value:void 0,writable:!1},ct_func:{value:void 0,writable:!1}}),Object.defineProperties(Object,{isEnable:{value:void 0,writable:!1},isOpen:{value:void 0,writable:!1}}),window.addEventListener("DOMContentLoaded",function(){document.querySelectorAll(".fx-right.fx-sda.affix").forEach(e=>e.remove()),$(window).off("load"),$("body").off("keydown"),setTimeout(function(){$("body").off("click")},1010)});
 imgur.com#%#window.usesABP=!1;
 kenhdammy.com#%#Object.defineProperties(window,{defeatIE:{value:void 0,writable:!1},defeatNS:{value:void 0,writable:!1},shortcut:{value:void 0,writable:!1},vtlai_popup:{value:void 0,writable:!1}}),Object.defineProperty(document,"oncontextmenu",{value:void 0,writable:!1});
 kimcartoon.si#%#window.check_adblock=!0,window.addEventListener("DOMContentLoaded",function(){document.querySelector("#container > #adsIfrme").removeAttribute("id")});
 mail.google.com,login.yahoo.com#%#var t=setInterval(function(){var a=document.querySelectorAll('[class*="ads" i]');a.forEach(s=>{s.classList.remove(...s.className.match(/(\S+)?ads(\S+)?/gi)),0==a.length&&clearInterval(t)})},100);
 mediafire.com#%#Object.defineProperties(window,{isInRect:{value:void 0,writable:!1},getDownloadUrl:{value:void 0,writable:!1},InfCustomFPSTAMobileFunc:{value:void 0,writable:!1},InfCustomSTAMobileFunc:{value:void 0,writable:!1},InfCustomFPSTAFunc:{value:void 0,writable:!1},InfCustomSTAMobileFunc:{value:void 0,writable:!1},InfCustomerCallback:{value:void 0,writable:!1},InfPreFastPopAttachCallback:{value:void 0,writable:!1},InfSkipBindDocumentClick:{value:void 0,writable:!1},InfMediafireMobileFunc:{value:void 0,writable:!1},rAb:{value:function(){},writable:!1}}),window.addEventListener("load",function(){var e=document.querySelector(".input.popsok");null!=e&&e.classList.remove("popsok"),null!=(e=document.querySelector(".dl-box"))&&e.classList.remove("ads")});
-myreadingmanga.info#%#Object.defineProperty(window,"adConfig",{value:void 0,writable:!1}),window.addEventListener("load",function(){"undefined"!=typeof player&&(player.volume(0),player.muted(!0),player.vastAds=function(){},localStorage.setItem("volume",0));var e=document.getElementsByClassName("video-container-ads")[0];null!=e&&(e.className="video-container")});
+myreadingmanga.info#%#window.addEventListener("load",function(){"undefined"!=typeof player&&(player.volume(0),player.muted(!0),player.vastAds=function(){},localStorage.setItem("volume",0));var e=document.getElementsByClassName("video-container-ads")[0];null!=e&&(e.className="video-container")});
 nhentai.net#%#window.addEventListener("DOMContentLoaded",function(){"undefined"!=typeof _n_app&&Object.defineProperties(_n_app,{analytics:{value:void 0,writable:!1},exoclick:{value:void 0,writable:!1},popunder:{value:void 0,writable:!1},xhamster:{value:void 0,writable:!1}})});
 online-python.com#%#localStorage.setItem("theme","dark");
 onlinegdb.com#%#var t=setInterval(function(){"function"==typeof savefile&&(Object.defineProperty(self,"savefile",{value:function(){return!0},writable:!1}),clearInterval(t))},100);Object.defineProperty(self,"no_ads",{value:!0,writable:!1});
@@ -13435,7 +13472,7 @@ animevietsub.art,animevietsub.tv##.ad-center-header,.Ads,.Adv,.Dvr-300,.home_ads
 apkmirror.com###appmanager_sppostswidget-2,#bottom-slider,.OUTBRAIN,.ai-track,.pushbullet-subscribe-widget,[class*="outbrain_ad" i],[id*="ai_widget" i]
 apkpure.com###policy-info,.chrome-install-pop,.js-ad-slot
 baidu.com###branding_ads,#web-right-view,.ad-multi-tips,.ad-platform-tips,.cps_wrap,.j_click_stats,.video-ad-creative-card
-bilibili.com###activity_vote,#bannerAd,#live_recommand_report,#slide_ad,[href*="cm.bilibili.com"]
+bilibili.com###activity_vote,#bannerAd,#live_recommand_report,#slide_ad,.pop-live-small-mode,.video-page-game-card-small,.video-page-special-card-small,[href*="cm.bilibili.com"]
 bilutvs.net##.ab1,.abp-header
 bing.com##div#adstop_gradiant_separator,div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_results > li.b_algo:has(> div.adsMvCarousel)
 blogtruyen.vn##.BT-Ads
