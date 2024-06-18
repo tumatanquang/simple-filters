@@ -261,6 +261,8 @@
 ||ampid.cloud^
 ||dreamdata.cloud^
 ||cdn.dreamdata.cloud^
+||matomo.cloud^
+||cdn.matomo.cloud^
 ||optmn.cloud^
 ||cdn.optmn.cloud^
 ||sailthru.cloud^
@@ -487,6 +489,8 @@
 ||fdaea0335d.04b73980ec.com^
 ||04c8b396bf.com^
 ||48e447dfea.04c8b396bf.com^
+||05951bf6a3.com^
+||ffb7c5bd32.05951bf6a3.com^
 ||05ae41c3fc.com^
 ||e275260174.05ae41c3fc.com^
 ||05b960757b.com^
@@ -755,6 +759,8 @@
 ||3pkf5m0gd.com^
 ||40209f514e.com^
 ||77a5198c32.40209f514e.com^
+||40aa881a9f.com^
+||27c83c607f.40aa881a9f.com^
 ||40f380afa3.com^
 ||eda08a019e.40f380afa3.com^
 ||4233f3ee2f.com^
@@ -871,6 +877,7 @@
 ||311f053054.62a401411b.com^
 ||62ca04e27a.com^
 ||ae2a82cf20.62ca04e27a.com^
+||633985.com^
 ||633c66f0dc.com^
 ||52c470b4ed.633c66f0dc.com^
 ||6374870abd.com^
@@ -949,6 +956,8 @@
 ||46496cf2ef.751685e7fa.com^
 ||76497105d4.com^
 ||2ed9f34a09.76497105d4.com^
+||7757139f7b.com^
+||505c675876.7757139f7b.com^
 ||776173f9e6.com^
 ||83c6c19972.776173f9e6.com^
 ||7789bets.com^
@@ -990,6 +999,8 @@
 ||dbd390fc66.7df3f71dc4.com^
 ||7dfbef87b6.com^
 ||8cf530b4c4.7dfbef87b6.com^
+||7e5f2028a6.com^
+||0c73bb2de3.7e5f2028a6.com^
 ||7f59b515a6.com^
 ||1b9b061720.7f59b515a6.com^
 ||800c7864eb.com^
@@ -2560,6 +2571,7 @@
 ||i.cdnkimg.com^
 ||cdnpure.com^
 ||a.cdnpure.com^
+||static.cdnpure.com^
 ||t3.cdnpure.com^
 ||cdnquality.com^
 ||cdnral.com^
@@ -3799,6 +3811,7 @@
 ||fopbandido.com^
 ||yr.fopbandido.com^
 ||for-j.com^
+||for885803.com^
 ||force.com^
 ||service.force.com^
 ||forfeitsubscribe.com^
@@ -4529,6 +4542,7 @@
 ||www.i9525.com^
 ||i98886.com^
 ||www.i98886.com^
+||i9916.com^
 ||i99906.com^
 ||www.i99906.com^
 ||i9bet105.com^
@@ -5684,6 +5698,8 @@
 ||identity.mparticle.com^
 ||jssdkcdns.mparticle.com^
 ||mpuqucafrtt.com^
+||mql5.com^
+||content.mql5.com^
 ||mqsrkvcpyzvnw.com^
 ||www.mqsrkvcpyzvnw.com^
 ||mqsysvirjoyjor.com^
@@ -5797,6 +5813,7 @@
 ||nbottkauyy.com^
 ||nctylivpwhpby.com^
 ||www.nctylivpwhpby.com^
+||ncubadmavfp.com^
 ||ndcpp-os.com^
 ||vc-brain.ndcpp-os.com^
 ||vc-mirror.ndcpp-os.com^
@@ -5818,6 +5835,7 @@
 ||twa.netcoresmartech.com^
 ||netdna-ssl.com^
 ||proxfree-nitrad.netdna-ssl.com^
+||only-d-c1zdfgtkbjjaqmbmnpb3owspbrocv2iz-1718517421080.nstool.netease.com^
 ||ichnaea-web.netflix.com^
 ||netprospex.com^
 ||api.netprospex.com^
@@ -6217,6 +6235,7 @@
 ||oxxtfunzyti.com^
 ||ozlofsviborc.com^
 ||ozlwhampaofq.com^
+||ozqowxogrolq.com^
 ||ozwolnonnotv.com^
 ||paddle.com^
 ||a.paddle.com^
@@ -6400,6 +6419,7 @@
 ||config.playwire.com^
 ||video.playwire.com^
 ||cdn.video.playwire.com^
+||srv.plesk.com^
 ||pluckypocket.com^
 ||plumbummoca.com^
 ||pmc.com^
@@ -7229,6 +7249,8 @@
 ||timber.sendtonews.com^
 ||sensifyfugged.com^
 ||sentimenthypocrisy.com^
+||sentinelbi.com^
+||cdn.sentinelbi.com^
 ||sentry-cdn.com^
 ||browser.sentry-cdn.com^
 ||septfd2em64eber.com^
@@ -7238,6 +7260,7 @@
 ||serinuswelling.com^
 ||servedby-buysellads.com^
 ||m.servedby-buysellads.com^
+||servedbyadbutler.com^
 ||servenobid.com^
 ||ads.servenobid.com^
 ||public.servenobid.com^
@@ -9241,6 +9264,8 @@
 ||static.bepolite.eu^
 ||c-stat.eu^
 ||top.c-stat.eu^
+||cookiehub.eu^
+||dn-kcu2.cookiehub.eu^
 ||datadoghq.eu^
 ||logs.datadoghq.eu^
 ||mobile-http-intake.logs.datadoghq.eu^
@@ -9482,6 +9507,7 @@
 ||spacert-2.info^
 ||spapersonhe.info^
 ||engine.spotscenered.info^
+||talsindustrateb.info^
 ||terperbelomo.info^
 ||thesandonesof.info^
 ||thetresindidn.info^
@@ -9498,6 +9524,7 @@
 ||wouldmakefeag.info^
 ||xo88.info^
 ||ycuratedhilarlym.info^
+||yrincelewasgiw.info^
 ||f8bet.ink^
 ||1rx.io^
 ||sync.1rx.io^
@@ -10442,6 +10469,7 @@
 ||dktr03lf4tq7h.cloudfront.net^
 ||dlem1deojpcg7.cloudfront.net^
 ||dmmzkfd82wayn.cloudfront.net^
+||dn0qt3r0xannq.cloudfront.net^
 ||dn6rwwtxa647p.cloudfront.net^
 ||dna8twue3dlxq.cloudfront.net^
 ||dnhfi5nn2dt67.cloudfront.net^
@@ -10453,6 +10481,7 @@
 ||drt1fhpy4haqm.cloudfront.net^
 ||ds88pc0kw6cvc.cloudfront.net^
 ||dsh7ky7308k4b.cloudfront.net^
+||dt3y1f1i1disy.cloudfront.net^
 ||du0pud0sdlmzf.cloudfront.net^
 ||dw55pg05c2rl5.cloudfront.net^
 ||dwbvu5ei5ikaz.cloudfront.net^
@@ -11891,6 +11920,8 @@
 ||ajw.amrnlnllyqan.top^
 ||amvmzbmqvrmvn.top^
 ||akbe.amvmzbmqvrmvn.top^
+||amwaenayzjjlm.top^
+||akya.amwaenayzjjlm.top^
 ||aneartuilles.top^
 ||annumfolial.top^
 ||anorexyskerry.top^
@@ -11962,6 +11993,8 @@
 ||biunialpawnie.top^
 ||bkzwzweeavewz.top^
 ||bqmr.bkzwzweeavewz.top^
+||bkzwzweeavmbr.top^
+||bqmr.bkzwzweeavmbr.top^
 ||blushtrek.top^
 ||m.blushtrek.top^
 ||bmjlzyjrkmqal.top^
@@ -12002,6 +12035,7 @@
 ||commamarrock.top^
 ||cotorosmileway.top^
 ||cowboysdrowses.top^
+||coyanlustral.top^
 ||d24ak3f2b.top^
 ||dangky789a.top^
 ||daubeoutplot.top^
@@ -12211,6 +12245,7 @@
 ||panisicelectre.top^
 ||parnasgiust.top^
 ||passionwarundi.top^
+||pelorusgravest.top^
 ||pinwaleunrigs.top^
 ||pointmuckman.top^
 ||porkoltlinear.top^
@@ -12279,6 +12314,7 @@
 ||scepterbequote.top^
 ||sedarimundated.top^
 ||severereptic.top^
+||sheeterhottery.top^
 ||shofarloved.top^
 ||shrapimplume.top^
 ||silesiaswifter.top^
@@ -12676,6 +12712,7 @@
 ||collect.ovp.vn^
 ||leanhduc.pro.vn^
 ||cdn.leanhduc.pro.vn^
+||s.pro.vn^
 ||qccoccocmedia.vn^
 ||r88.vn^
 ||realclick.vn^
@@ -13026,12 +13063,14 @@
 ||leghfawp.xyz^
 ||lentinesox.xyz^
 ||leqpdlaq.xyz^
+||lhahlsnojifb.xyz^
 ||lillianmeyer.xyz^
 ||linkref.xyz^
 ||lksoghgm.xyz^
 ||lleadupthere.xyz^
 ||llnpucstr.xyz^
 ||lltyfiqsdgsvnr.xyz^
+||lsstejgbu.xyz^
 ||lumupu.xyz^
 ||t.lumupu.xyz^
 ||luonxumpaams.xyz^
@@ -13163,6 +13202,7 @@
 ||tviaxbdpdepfnji.xyz^
 ||uaulqccqu.xyz^
 ||ucelbyxnfv.xyz^
+||ugailidsay.xyz^
 ||ugmlvbveapjq.xyz^
 ||uihgypgegf.xyz^
 ||uloaludu.xyz^

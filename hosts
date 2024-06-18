@@ -262,6 +262,8 @@
 0.0.0.0 ampid.cloud
 0.0.0.0 dreamdata.cloud
 0.0.0.0 cdn.dreamdata.cloud
+0.0.0.0 matomo.cloud
+0.0.0.0 cdn.matomo.cloud
 0.0.0.0 optmn.cloud
 0.0.0.0 cdn.optmn.cloud
 0.0.0.0 sailthru.cloud
@@ -488,6 +490,8 @@
 0.0.0.0 fdaea0335d.04b73980ec.com
 0.0.0.0 04c8b396bf.com
 0.0.0.0 48e447dfea.04c8b396bf.com
+0.0.0.0 05951bf6a3.com
+0.0.0.0 ffb7c5bd32.05951bf6a3.com
 0.0.0.0 05ae41c3fc.com
 0.0.0.0 e275260174.05ae41c3fc.com
 0.0.0.0 05b960757b.com
@@ -756,6 +760,8 @@
 0.0.0.0 3pkf5m0gd.com
 0.0.0.0 40209f514e.com
 0.0.0.0 77a5198c32.40209f514e.com
+0.0.0.0 40aa881a9f.com
+0.0.0.0 27c83c607f.40aa881a9f.com
 0.0.0.0 40f380afa3.com
 0.0.0.0 eda08a019e.40f380afa3.com
 0.0.0.0 4233f3ee2f.com
@@ -872,6 +878,7 @@
 0.0.0.0 311f053054.62a401411b.com
 0.0.0.0 62ca04e27a.com
 0.0.0.0 ae2a82cf20.62ca04e27a.com
+0.0.0.0 633985.com
 0.0.0.0 633c66f0dc.com
 0.0.0.0 52c470b4ed.633c66f0dc.com
 0.0.0.0 6374870abd.com
@@ -950,6 +957,8 @@
 0.0.0.0 46496cf2ef.751685e7fa.com
 0.0.0.0 76497105d4.com
 0.0.0.0 2ed9f34a09.76497105d4.com
+0.0.0.0 7757139f7b.com
+0.0.0.0 505c675876.7757139f7b.com
 0.0.0.0 776173f9e6.com
 0.0.0.0 83c6c19972.776173f9e6.com
 0.0.0.0 7789bets.com
@@ -991,6 +1000,8 @@
 0.0.0.0 dbd390fc66.7df3f71dc4.com
 0.0.0.0 7dfbef87b6.com
 0.0.0.0 8cf530b4c4.7dfbef87b6.com
+0.0.0.0 7e5f2028a6.com
+0.0.0.0 0c73bb2de3.7e5f2028a6.com
 0.0.0.0 7f59b515a6.com
 0.0.0.0 1b9b061720.7f59b515a6.com
 0.0.0.0 800c7864eb.com
@@ -2561,6 +2572,7 @@
 0.0.0.0 i.cdnkimg.com
 0.0.0.0 cdnpure.com
 0.0.0.0 a.cdnpure.com
+0.0.0.0 static.cdnpure.com
 0.0.0.0 t3.cdnpure.com
 0.0.0.0 cdnquality.com
 0.0.0.0 cdnral.com
@@ -3800,6 +3812,7 @@
 0.0.0.0 fopbandido.com
 0.0.0.0 yr.fopbandido.com
 0.0.0.0 for-j.com
+0.0.0.0 for885803.com
 0.0.0.0 force.com
 0.0.0.0 service.force.com
 0.0.0.0 forfeitsubscribe.com
@@ -4530,6 +4543,7 @@
 0.0.0.0 www.i9525.com
 0.0.0.0 i98886.com
 0.0.0.0 www.i98886.com
+0.0.0.0 i9916.com
 0.0.0.0 i99906.com
 0.0.0.0 www.i99906.com
 0.0.0.0 i9bet105.com
@@ -5685,6 +5699,8 @@
 0.0.0.0 identity.mparticle.com
 0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 mpuqucafrtt.com
+0.0.0.0 mql5.com
+0.0.0.0 content.mql5.com
 0.0.0.0 mqsrkvcpyzvnw.com
 0.0.0.0 www.mqsrkvcpyzvnw.com
 0.0.0.0 mqsysvirjoyjor.com
@@ -5798,6 +5814,7 @@
 0.0.0.0 nbottkauyy.com
 0.0.0.0 nctylivpwhpby.com
 0.0.0.0 www.nctylivpwhpby.com
+0.0.0.0 ncubadmavfp.com
 0.0.0.0 ndcpp-os.com
 0.0.0.0 vc-brain.ndcpp-os.com
 0.0.0.0 vc-mirror.ndcpp-os.com
@@ -5819,6 +5836,7 @@
 0.0.0.0 twa.netcoresmartech.com
 0.0.0.0 netdna-ssl.com
 0.0.0.0 proxfree-nitrad.netdna-ssl.com
+0.0.0.0 only-d-c1zdfgtkbjjaqmbmnpb3owspbrocv2iz-1718517421080.nstool.netease.com
 0.0.0.0 ichnaea-web.netflix.com
 0.0.0.0 netprospex.com
 0.0.0.0 api.netprospex.com
@@ -6218,6 +6236,7 @@
 0.0.0.0 oxxtfunzyti.com
 0.0.0.0 ozlofsviborc.com
 0.0.0.0 ozlwhampaofq.com
+0.0.0.0 ozqowxogrolq.com
 0.0.0.0 ozwolnonnotv.com
 0.0.0.0 paddle.com
 0.0.0.0 a.paddle.com
@@ -6401,6 +6420,7 @@
 0.0.0.0 config.playwire.com
 0.0.0.0 video.playwire.com
 0.0.0.0 cdn.video.playwire.com
+0.0.0.0 srv.plesk.com
 0.0.0.0 pluckypocket.com
 0.0.0.0 plumbummoca.com
 0.0.0.0 pmc.com
@@ -7230,6 +7250,8 @@
 0.0.0.0 timber.sendtonews.com
 0.0.0.0 sensifyfugged.com
 0.0.0.0 sentimenthypocrisy.com
+0.0.0.0 sentinelbi.com
+0.0.0.0 cdn.sentinelbi.com
 0.0.0.0 sentry-cdn.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 septfd2em64eber.com
@@ -7239,6 +7261,7 @@
 0.0.0.0 serinuswelling.com
 0.0.0.0 servedby-buysellads.com
 0.0.0.0 m.servedby-buysellads.com
+0.0.0.0 servedbyadbutler.com
 0.0.0.0 servenobid.com
 0.0.0.0 ads.servenobid.com
 0.0.0.0 public.servenobid.com
@@ -9242,6 +9265,8 @@
 0.0.0.0 static.bepolite.eu
 0.0.0.0 c-stat.eu
 0.0.0.0 top.c-stat.eu
+0.0.0.0 cookiehub.eu
+0.0.0.0 dn-kcu2.cookiehub.eu
 0.0.0.0 datadoghq.eu
 0.0.0.0 logs.datadoghq.eu
 0.0.0.0 mobile-http-intake.logs.datadoghq.eu
@@ -9483,6 +9508,7 @@
 0.0.0.0 spacert-2.info
 0.0.0.0 spapersonhe.info
 0.0.0.0 engine.spotscenered.info
+0.0.0.0 talsindustrateb.info
 0.0.0.0 terperbelomo.info
 0.0.0.0 thesandonesof.info
 0.0.0.0 thetresindidn.info
@@ -9499,6 +9525,7 @@
 0.0.0.0 wouldmakefeag.info
 0.0.0.0 xo88.info
 0.0.0.0 ycuratedhilarlym.info
+0.0.0.0 yrincelewasgiw.info
 0.0.0.0 f8bet.ink
 0.0.0.0 1rx.io
 0.0.0.0 sync.1rx.io
@@ -10443,6 +10470,7 @@
 0.0.0.0 dktr03lf4tq7h.cloudfront.net
 0.0.0.0 dlem1deojpcg7.cloudfront.net
 0.0.0.0 dmmzkfd82wayn.cloudfront.net
+0.0.0.0 dn0qt3r0xannq.cloudfront.net
 0.0.0.0 dn6rwwtxa647p.cloudfront.net
 0.0.0.0 dna8twue3dlxq.cloudfront.net
 0.0.0.0 dnhfi5nn2dt67.cloudfront.net
@@ -10454,6 +10482,7 @@
 0.0.0.0 drt1fhpy4haqm.cloudfront.net
 0.0.0.0 ds88pc0kw6cvc.cloudfront.net
 0.0.0.0 dsh7ky7308k4b.cloudfront.net
+0.0.0.0 dt3y1f1i1disy.cloudfront.net
 0.0.0.0 du0pud0sdlmzf.cloudfront.net
 0.0.0.0 dw55pg05c2rl5.cloudfront.net
 0.0.0.0 dwbvu5ei5ikaz.cloudfront.net
@@ -11892,6 +11921,8 @@
 0.0.0.0 ajw.amrnlnllyqan.top
 0.0.0.0 amvmzbmqvrmvn.top
 0.0.0.0 akbe.amvmzbmqvrmvn.top
+0.0.0.0 amwaenayzjjlm.top
+0.0.0.0 akya.amwaenayzjjlm.top
 0.0.0.0 aneartuilles.top
 0.0.0.0 annumfolial.top
 0.0.0.0 anorexyskerry.top
@@ -11963,6 +11994,8 @@
 0.0.0.0 biunialpawnie.top
 0.0.0.0 bkzwzweeavewz.top
 0.0.0.0 bqmr.bkzwzweeavewz.top
+0.0.0.0 bkzwzweeavmbr.top
+0.0.0.0 bqmr.bkzwzweeavmbr.top
 0.0.0.0 blushtrek.top
 0.0.0.0 m.blushtrek.top
 0.0.0.0 bmjlzyjrkmqal.top
@@ -12003,6 +12036,7 @@
 0.0.0.0 commamarrock.top
 0.0.0.0 cotorosmileway.top
 0.0.0.0 cowboysdrowses.top
+0.0.0.0 coyanlustral.top
 0.0.0.0 d24ak3f2b.top
 0.0.0.0 dangky789a.top
 0.0.0.0 daubeoutplot.top
@@ -12212,6 +12246,7 @@
 0.0.0.0 panisicelectre.top
 0.0.0.0 parnasgiust.top
 0.0.0.0 passionwarundi.top
+0.0.0.0 pelorusgravest.top
 0.0.0.0 pinwaleunrigs.top
 0.0.0.0 pointmuckman.top
 0.0.0.0 porkoltlinear.top
@@ -12280,6 +12315,7 @@
 0.0.0.0 scepterbequote.top
 0.0.0.0 sedarimundated.top
 0.0.0.0 severereptic.top
+0.0.0.0 sheeterhottery.top
 0.0.0.0 shofarloved.top
 0.0.0.0 shrapimplume.top
 0.0.0.0 silesiaswifter.top
@@ -12677,6 +12713,7 @@
 0.0.0.0 collect.ovp.vn
 0.0.0.0 leanhduc.pro.vn
 0.0.0.0 cdn.leanhduc.pro.vn
+0.0.0.0 s.pro.vn
 0.0.0.0 qccoccocmedia.vn
 0.0.0.0 r88.vn
 0.0.0.0 realclick.vn
@@ -13027,12 +13064,14 @@
 0.0.0.0 leghfawp.xyz
 0.0.0.0 lentinesox.xyz
 0.0.0.0 leqpdlaq.xyz
+0.0.0.0 lhahlsnojifb.xyz
 0.0.0.0 lillianmeyer.xyz
 0.0.0.0 linkref.xyz
 0.0.0.0 lksoghgm.xyz
 0.0.0.0 lleadupthere.xyz
 0.0.0.0 llnpucstr.xyz
 0.0.0.0 lltyfiqsdgsvnr.xyz
+0.0.0.0 lsstejgbu.xyz
 0.0.0.0 lumupu.xyz
 0.0.0.0 t.lumupu.xyz
 0.0.0.0 luonxumpaams.xyz
@@ -13164,6 +13203,7 @@
 0.0.0.0 tviaxbdpdepfnji.xyz
 0.0.0.0 uaulqccqu.xyz
 0.0.0.0 ucelbyxnfv.xyz
+0.0.0.0 ugailidsay.xyz
 0.0.0.0 ugmlvbveapjq.xyz
 0.0.0.0 uihgypgegf.xyz
 0.0.0.0 uloaludu.xyz
