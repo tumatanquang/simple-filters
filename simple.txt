@@ -207,10 +207,15 @@
 ||adopdmp.adop.cc^
 ||compass.adop.cc^
 ||data.adop.cc^
+||dlios.cc^
+||ae88.dlios.cc^
+||api.dlios.cc^
 ||fanza.cc^
 ||help.fanza.cc^
 ||img.hotvideo.cc^
 ||k9vn.cc^
+||kbqp081.cc^
+||www.kbqp081.cc^
 ||maturepornvideos.cc^
 ||tagbucket.cc^
 ||taiv8.cc^
@@ -361,6 +366,7 @@
 ||g.tbcdn.cn^
 ||ttz5.cn^
 ||track.uc.cn^
+||uv60.cn^
 ||y5m4001.cn^
 ||m.y5m4001.cn^
 ||6sc.co^
@@ -744,6 +750,8 @@
 ||85da77c794.3bc9b1b89c.com^
 ||3c58498663.com^
 ||a40cbc1aef.3c58498663.com^
+||3d13c6ba2a.com^
+||f2009d2dde.3d13c6ba2a.com^
 ||3d285d98de.com^
 ||2a3fa3df2e.3d285d98de.com^
 ||3dbc026bec.com^
@@ -900,6 +908,8 @@
 ||ads.6789live.com^
 ||679king.com^
 ||www.679king.com^
+||683tu.com^
+||tyc.683tu.com^
 ||68456d1a69.com^
 ||25b4c57124.68456d1a69.com^
 ||6863fd0afc.com^
@@ -1625,6 +1635,8 @@
 ||allmobtip.com^
 ||allmygoodlife.com^
 ||allornamenti.com^
+||alltocon.com^
+||img.alltocon.com^
 ||allwowwords.com^
 ||t.allwowwords.com^
 ||almudestilths.com^
@@ -1666,11 +1678,15 @@
 ||z-na.amazon-adsystem.com^
 ||b8ubic-178-ppp.s3.ap-east-1.amazonaws.com^
 ||ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com^
+||876tc.s3.eu-west-3.amazonaws.com^
 ||adtechvideo.s3.amazonaws.com^
 ||broadstreet-common.s3.amazonaws.com^
 ||composer-display.s3.amazonaws.com^
 ||innertrends.s3.amazonaws.com^
 ||tmp-public-assets.s3.amazonaws.com^
+||225t.s3-accelerate.amazonaws.com^
+||595t.s3-accelerate.amazonaws.com^
+||tongyong.s3-accelerate.amazonaws.com^
 ||inneractive-assets.s3-eu-west-1.amazonaws.com^
 ||drwaiqwbfbh5tnyqhfr7dknnei.appsync-api.us-east-1.amazonaws.com^
 ||3tt0xhv5u7.execute-api.us-east-1.amazonaws.com^
@@ -1886,6 +1902,8 @@
 ||asiacpx.com^
 ||aslimasti.com^
 ||www.aslimasti.com^
+||asluvdiscon.com^
+||ak.asluvdiscon.com^
 ||asmodeusfields.com^
 ||asoulrox.com^
 ||asqqfuiw.com^
@@ -2284,6 +2302,8 @@
 ||b.bnrslks.com^
 ||boannre.com^
 ||boaswooned.com^
+||bobgames-prolister.com^
+||www.bobgames-prolister.com^
 ||bocoyoutage.com^
 ||bodelen.com^
 ||bognunub.com^
@@ -2478,6 +2498,7 @@
 ||cadrctlnk.com^
 ||cadsecz.com^
 ||cadskis.com^
+||cagakzcwyr.com^
 ||calepinphrasal.com^
 ||uh.calepinphrasal.com^
 ||callyourinformer.com^
@@ -3168,6 +3189,8 @@
 ||digitalcaramel.com^
 ||ads.digitalcaramel.com^
 ||dilutegulpedshirt.com^
+||dimacy.com^
+||www.dimacy.com^
 ||dimfarlow.com^
 ||directcpmfwr.com^
 ||675785.directcpmfwr.com^
@@ -3210,6 +3233,7 @@
 ||dmleonyc.com^
 ||pdc.dmleonyc.com^
 ||dmnprx.com^
+||dmuqumodgwm.com^
 ||dmxleo.com^
 ||ae.dmxleo.com^
 ||backend.dna-delivery.com^
@@ -3366,6 +3390,8 @@
 ||e2wysbacctt1.com^
 ||e30a86a427.com^
 ||251f86a5eb.e30a86a427.com^
+||e3103b0963.com^
+||c632b21431.e3103b0963.com^
 ||e335udnv6drg78b7.com^
 ||e374d4ca27.com^
 ||54c56b7936.e374d4ca27.com^
@@ -3392,6 +3418,8 @@
 ||go.eabids.com^
 ||static.eabids.com^
 ||earlapssmalm.com^
+||timejs.game.easebar.com^
+||bee.tc.easebar.com^
 ||track.easeus.com^
 ||lp.easyziptab.com^
 ||eatcells.com^
@@ -4026,6 +4054,7 @@
 ||ghskoqhz.com^
 ||www.ghskoqhz.com^
 ||giaimanhacai.com^
+||giaotiep365.com^
 ||giraffepiano.com^
 ||gisttorn.com^
 ||collector.github.com^
@@ -4210,6 +4239,7 @@
 ||grubsoan.com^
 ||grumblecrytopless.com^
 ||grychiphidu.com^
+||gsght.com^
 ||gsjln04hd.com^
 ||connectivitycheck.gstatic.com^
 ||csi.gstatic.com^
@@ -4324,6 +4354,8 @@
 ||fx.heezingwardian.com^
 ||helen-geu.com^
 ||heleric.com^
+||hello8877.com^
+||www.hello8877.com^
 ||hello888999.com^
 ||helpcrunch.com^
 ||embed.helpcrunch.com^
@@ -4355,6 +4387,9 @@
 ||hhklc.com^
 ||hhllryxtfgypz.com^
 ||www.hhllryxtfgypz.com^
+||hi678337.com^
+||api.hi678337.com^
+||www.hi678337.com^
 ||hi88088.com^
 ||m.hi88088.com^
 ||hicloud.com^
@@ -4569,6 +4604,8 @@
 ||www.i9bet189.com^
 ||i9bet211.com^
 ||www.i9bet211.com^
+||i9bet231.com^
+||www.i9bet231.com^
 ||www.i9bet444.com^
 ||i9bet49.com^
 ||www.i9bet49.com^
@@ -4674,7 +4711,15 @@
 ||t.imedia-stream.com^
 ||img-taboola.com^
 ||img.img-taboola.com^
+||img01ookaepoo.com^
+||img.img01ookaepoo.com^
+||img02aojeitoe.com^
+||img.img02aojeitoe.com^
+||imgbjfm2tl8.com^
+||img.imgbjfm2tl8.com^
 ||imgcdnbet.com^
+||imgq8my9rfs.com^
+||img.imgq8my9rfs.com^
 ||rt.imgur.com^
 ||t.imgur.com^
 ||imidicsecular.com^
@@ -5943,6 +5988,7 @@
 ||northsidesun.com^
 ||assets-v2.northsidesun.com^
 ||sponsors-v2.northsidesun.com^
+||notifpush.com^
 ||noucethy.com^
 ||novaonx.com^
 ||api-ldp.novaonx.com^
@@ -7012,6 +7058,8 @@
 ||roudoduor.com^
 ||ak.roudoduor.com^
 ||rouwhapt.com^
+||rouzebstrikaor.com^
+||ak.rouzebstrikaor.com^
 ||roymorgan.com^
 ||pixel.roymorgan.com^
 ||royvfccrlki.com^
@@ -7266,6 +7314,8 @@
 ||public.servenobid.com^
 ||serverbid.com^
 ||e.serverbid.com^
+||setupcmp.com^
+||cmp.setupcmp.com^
 ||sevokop.com^
 ||sex-vip.com^
 ||www.sex-vip.com^
@@ -7362,6 +7412,10 @@
 ||s.skimresources.com^
 ||idm.skplanet.com^
 ||skuligpzifan.com^
+||sky88.com^
+||api.sky88.com^
+||sock.sky88.com^
+||wp.sky88.com^
 ||sky88b.com^
 ||api.sky88b.com^
 ||wp.sky88b.com^
@@ -8871,6 +8925,7 @@
 ||www.xqobmjbwxu.com^
 ||xrukbwkdyvo.com^
 ||www.xrukbwkdyvo.com^
+||xss9.com^
 ||xszpuvwr7.com^
 ||xt.com^
 ||www.xt.com^
@@ -9148,6 +9203,7 @@
 ||ads.zuebao.com^
 ||zuh720.com^
 ||zumfzaamdxaw.com^
+||zumgizjidhp.com^
 ||zumorhshij.com^
 ||zunsoach.com^
 ||zuphaims.com^
@@ -9404,6 +9460,7 @@
 ||msstral.icu^
 ||smatr.icu^
 ||smelel.icu^
+||x-delivery.icu^
 ||huntnews.id^
 ||net18.iiiz^
 ||pushengage.im^
@@ -9783,6 +9840,9 @@
 ||collector.sophi.io^
 ||ml.sophi.io^
 ||dynpaywall-api-reuters.ml.sophi.io^
+||storeip-xeuiff.io^
+||api4.storeip-xeuiff.io^
+||api6.storeip-xeuiff.io^
 ||targetads.io^
 ||eye.targetads.io^
 ||dmp.tenmax.io^
@@ -10031,6 +10091,7 @@
 ||exness-trading.market^
 ||my.exness-trading.market^
 ||track.exness-trading.market^
+||spotim.market^
 ||sync.spotim.market^
 ||7reader.me^
 ||stattest.7reader.me^
@@ -10041,7 +10102,6 @@
 ||maroola.aditms.me^
 ||adlook.me^
 ||cdn.adlook.me^
-||ahacdn.me^
 ||cdn18685953.ahacdn.me^
 ||cdn52969391.ahacdn.me^
 ||b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me^
@@ -10309,7 +10369,6 @@
 ||cdn.bvmcdn.net^
 ||tenmax-static.cacafly.net^
 ||tenmaximg.cacafly.net^
-||cachefly.net^
 ||ambient.cachefly.net^
 ||gamma.cachefly.net^
 ||cagothie.net^
@@ -10682,6 +10741,7 @@
 ||laqzab.gayalllance.net^
 ||geewooheene.net^
 ||gejeegho.net^
+||get-gx.net^
 ||new-sentry.gitlab.net^
 ||trx.gitlab.net^
 ||snowplow.trx.gitlab.net^
@@ -10800,8 +10860,8 @@
 ||as.lifeporn.net^
 ||line-scdn.net^
 ||static.line-scdn.net^
+||lkqd.net^
 ||ad.lkqd.net^
-||llnwd.net^
 ||hs.llnwd.net^
 ||yahoovod.hs.llnwd.net^
 ||louchees.net^
@@ -11109,6 +11169,7 @@
 ||cdn.trdnewsnow.net^
 ||tubecup.net^
 ||notification.tubecup.net^
+||app.turbobit.net^
 ||turbocap.net^
 ||tb.turbocap.net^
 ||vo.turbocap.net^
@@ -12209,6 +12270,7 @@
 ||lmmjj.lqbvjmkwemboq.top^
 ||lyjznnazrrnay.top^
 ||lrqz.lyjznnazrrnay.top^
+||maizerhervati.top^
 ||mandantnutter.top^
 ||mesonatalie.top^
 ||mezairibices.top^
@@ -12267,6 +12329,8 @@
 ||qzjv.qeqaqnvrzbrkb.top^
 ||qmqjvrekmylbk.top^
 ||qlzy.qmqjvrekmylbk.top^
+||qmykwjrbjajwq.top^
+||qaaj.qmykwjrbjajwq.top^
 ||qnlrljjkmjqk.top^
 ||qyjk.qnlrljjkmjqk.top^
 ||qqrbvrmenrynq.top^
@@ -12298,6 +12362,7 @@
 ||razourslath.top^
 ||rbwbwytuuetnx.top^
 ||reassayhaidee.top^
+||recchedolcino.top^
 ||reckdimout.top^
 ||red88.top^
 ||api.red88.top^
@@ -12324,6 +12389,7 @@
 ||skycapenwing.top^
 ||slaggerundular.top^
 ||sloydcostive.top^
+||sorningdaroo.top^
 ||spikscursen.top^
 ||stannelberated.top^
 ||stelaiatokal.top^
@@ -12336,6 +12402,7 @@
 ||taxismaned.top^
 ||tefbawbee.top^
 ||km.tefbawbee.top^
+||teleutopasillo.top^
 ||tempestmarrube.top^
 ||tentyboma.top^
 ||theprizesure.top^
@@ -12426,6 +12493,8 @@
 ||zeez.zzbmanarqlraw.top^
 ||zzbmanarqlzre.top^
 ||zeez.zzbmanarqlzre.top^
+||zzjwblqeylbzw.top^
+||zbew.zzjwblqeylbzw.top^
 ||zzyryrybykjez.top^
 ||znva.zzyryrybykjez.top^
 ||zzyryrybykjvj.top^
@@ -12466,6 +12535,8 @@
 ||ovp.iris.tv^
 ||lookmeet.tv^
 ||lucky88.tv^
+||onnetwork.tv^
+||cdn.onnetwork.tv^
 ||red88.tv^
 ||api.red88.tv^
 ||sock.red88.tv^
@@ -12570,6 +12641,7 @@
 ||x2.xo88.us^
 ||xh.video^
 ||b52.vin^
+||dangky789.vin^
 ||five88.vin^
 ||v1.five88.vin^
 ||nbet.vin^
@@ -12928,6 +13000,7 @@
 ||trk.boardmotion.xyz^
 ||bocphot.xyz^
 ||cdn.bocphot.xyz^
+||brhxmepr.xyz^
 ||brksxofnsadkb.xyz^
 ||brumgllcrjefyhr.xyz^
 ||bsnkskjowxp.xyz^
@@ -12943,6 +13016,7 @@
 ||cdvivfvnyccn.xyz^
 ||chaipungie.xyz^
 ||choihitclub.xyz^
+||chymjnqhaklcgr.xyz^
 ||ckncdxlfq.xyz^
 ||clgt.xyz^
 ||cms100.xyz^
@@ -13032,6 +13106,7 @@
 ||igagmbjj.xyz^
 ||ikadmethe.xyz^
 ||ir3.xyz^
+||irbsafxc.xyz^
 ||itahandkeight.xyz^
 ||itonawqumewu.xyz^
 ||ivemwjkbkjtb.xyz^
@@ -13566,12 +13641,15 @@ $cookie=/__utm[a-z]/
 306t.com,sn9.us#%#//scriptlet('json-prune', 'file.popad')
 306t.com,sn9.us#%#//scriptlet('json-prune', 'pop')
 306t.com,sn9.us#%#//scriptlet('json-prune', 'xhr')
-anime3s.com#%#//scriptlet('remove-attr', 'disable-devtool-auto', 'script')
+anime3s.com,animet1.net#%#//scriptlet('abort-on-property-read', 'window.history')
+anime3s.com,animet1.net#%#//scriptlet('prevent-addEventListener', 'contextmenu')
+anime3s.com,animet1.net#%#//scriptlet('prevent-addEventListener', 'keydown')
+anime3s.com,animet1.net#%#//scriptlet('remove-attr', 'disable-devtool-auto')
 bing.com#%#//scriptlet('json-prune', 'relatedAds')
 boyfriendtv.com#%#//scriptlet('prevent-addEventListener', 'chujBlokowacieDone')
 camelliatransgroup.com,dhcc.uk,fingau.com,getpczone.com,javadecompilers.com,listvpn.net,quaanhdaocuteo.com,rahim-soft.com,uploadrar.com,wokaz.com#%#//scriptlet('prevent-bab')
 decompiler.com#%#//scriptlet('set-constant', 'baked32', 'true')
-dualeotruyenme.com,dualeotruyenpk.com,dualeotruyentop.com,dualeotruyenus.com,dualeotruyenww.com,dualeotruyenz.com#%#//scriptlet('prevent-addEventListener', 'click', 'popunder_last_time')
+dualeotruyenbot.com,dualeotruyenme.com,dualeotruyenpk.com,dualeotruyentop.com,dualeotruyenus.com,dualeotruyenww.com,dualeotruyenz.com#%#//scriptlet('prevent-addEventListener', 'click', 'popunder_last_time')
 fingau.com,getpczone.com,hitomi.la,rahim-soft.com,uploadrar.com,wokaz.com#%#//scriptlet('set-constant', 'X', 'emptyArr')
 fullboys.com,rimsgay.com#%#//scriptlet('prevent-element-src-loading', 'script' ,'adsbygoogle')
 fullboys.com,rimsgay.com#%#//scriptlet('set-constant', 'countdownpopaaa', 'noopFunc')
@@ -13676,7 +13754,7 @@ twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.time
 123s.link,1link.vip,link1s.com#%#window.addEventListener("load",function(){document.querySelectorAll('[class*="banner" i]').forEach(e=>e.classList.remove(...e.className.match(/(\S+)?banner(\S+)?/gi))),"undefined"!=typeof app_vars&&(app_vars.counter_value=6,app_vars.force_disable_adblock=0),"undefined"!=typeof go_popup&&(go_popup=void 0)});
 adguard.com#%#window.addEventListener("load",function(){document.querySelectorAll(".language-adblock").forEach(e=>e.classList.remove("language-adblock"))});
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.sa,amazon.se,amazon.sg,bblink.com,live.com,mmo1s.com,naver.com,oraclecloud.com#%#var t=setInterval(function(){var a=document.querySelectorAll('[class*="banner" i]');a.forEach(e=>{e.classList.remove(...e.className.match(/(\S+)?banner(\S+)?/gi)),0==a.length&&clearInterval(t)})},100);
-animet.net,animet1.net#%#constructor=void 0,Object.defineProperty=void 0,window.popunder=void 0,window.addEventListener("load",function(){redirectCU=void 0});
+animet.net,animet1.net#%#Object.defineProperties(window,{devtoolsDetector:{value:void 0,writable:!1},DisableDevtool:{value:void 0,writable:!1},popUp_17:{value:function(){},writable:!1},preloadBanner:{value:function(){},writable:!1},onkeydown:{value:void 0,writable:!1}}),Object.defineProperty(document,"onkeydown",{value:void 0,writable:!1});
 anonyviet.com#%#Object.defineProperties(window,{adblock_validURL:{value:void 0,writable:!1},adsClasses:{value:void 0,writable:!1},chp_adblock_browser:{value:void 0,writable:!1},reqServers:{value:void 0,writable:!1}});
 apkmirror.com#%#Math.floor=void 0,Object.defineProperties(window,{APKMez:{value:void 0,writable:!1},ezstandalone:{value:void 0,writable:!1},googlefc:{value:void 0,writable:!1},tabadcode:{value:void 0,writable:!1}});
 appvn.com#%#Math.floor=void 0,setTimeout=void 0,window.addEventListener("load",function(){adcashMacros=void 0;var o=document.querySelector("#info");null!=o&&(o.style.display="block")});
