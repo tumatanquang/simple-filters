@@ -527,6 +527,8 @@
 ||a388f2a7d8.0d76bd13e8.com^
 ||0eade9dd8d.com^
 ||6df90c4978.0eade9dd8d.com^
+||0f3f317f1d.com^
+||6fb345e22a.0f3f317f1d.com^
 ||0f6f763bf7.com^
 ||2dcc132857.0f6f763bf7.com^
 ||11029984.com^
@@ -553,6 +555,8 @@
 ||148dfe140d0f3d5e.com^
 ||14a3d6c4df.com^
 ||89f4d517fd.14a3d6c4df.com^
+||14a9004c2a.com^
+||ff14044536.14a9004c2a.com^
 ||15d113e19a.com^
 ||7913fb877d.15d113e19a.com^
 ||1624a08136.com^
@@ -1192,6 +1196,8 @@
 ||a48d53647a.com^
 ||21270a5ec2.a48d53647a.com^
 ||a4mt150303tl.com^
+||a5058f0d07.com^
+||6021bfc225.a5058f0d07.com^
 ||a5b80ef67b.com^
 ||146da3de3a.a5b80ef67b.com^
 ||a65768f777.com^
@@ -1226,6 +1232,8 @@
 ||abcshagiqwin.com^
 ||abendpoint.com^
 ||eu.abendpoint.com^
+||abf77420f8.com^
+||2d363be680.abf77420f8.com^
 ||abkoxlikbzs.com^
 ||abpicsrc.com^
 ||eu.abpicsrc.com^
@@ -5275,6 +5283,7 @@
 ||letmeads.com^
 ||ad.letmeads.com^
 ||letsg0x1.com^
+||lfaopvfpusu.com^
 ||lfeaqcozlbki.com^
 ||lfeeder.com^
 ||sc.lfeeder.com^
@@ -6701,6 +6710,7 @@
 ||bb.puss8.com^
 ||putrunsspawn.com^
 ||puwpush.com^
+||puzogjaqnom.com^
 ||puzojfxtaa.com^
 ||pl14985070.pvclouds.com^
 ||imp.pvnsolutions.com^
@@ -10954,6 +10964,8 @@
 ||d.aa.online-metrix.net^
 ||lar9e74powo4zbxztv44eowx7v5jsql634rbbp3m433e316391ae6208sac.d.aa.online-metrix.net^
 ||h.online-metrix.net^
+||oobsaurt.net^
+||ak.oobsaurt.net^
 ||oomsoapt.net^
 ||opencmp.net^
 ||cdn.opencmp.net^
@@ -12072,6 +12084,8 @@
 ||bjjk.bwmvzwkbqlkqk.top^
 ||bwvqjqmkllmvz.top^
 ||bajr.bwvqjqmkllmvz.top^
+||bwzlmmqrwqkll.top^
+||bnkv.bwzlmmqrwqkll.top^
 ||bwzlmmqrwqmea.top^
 ||bnkv.bwzlmmqrwqmea.top^
 ||bzzmlqyzjqrv.top^
@@ -12085,6 +12099,7 @@
 ||cesiumshent.top^
 ||charactfinnier.top^
 ||chawedsonrai.top^
+||chiminphr.top^
 ||choicesvendace.top^
 ||chylifycrisis.top^
 ||claspsbonded.top^
@@ -12225,6 +12240,8 @@
 ||jlrl.jvnvrqzwwvvmj.top^
 ||jvylyrellzvvr.top^
 ||jlka.jvylyrellzvvr.top^
+||jvylyrellzvzv.top^
+||jlka.jvylyrellzvzv.top^
 ||jwbqmzmyklqlw.top^
 ||jjmll.jwbqmzmyklqlw.top^
 ||kaayqbamkbywr.top^
@@ -12251,6 +12268,7 @@
 ||kayb.krvemwbkazqjl.top^
 ||latkelotong.top^
 ||lentoidreboast.top^
+||lilacingoose.top^
 ||lilialconcoct.top^
 ||limoiditches.top^
 ||link789.top^
@@ -13033,6 +13051,7 @@
 ||cli.dcdaadaafd.xyz^
 ||ddmax20.xyz^
 ||demclick.xyz^
+||devppqxvm.xyz^
 ||dhthrewdownth.xyz^
 ||dkiylncurkt.xyz^
 ||dqqwbijdbt.xyz^
@@ -13322,6 +13341,7 @@
 ||p.wwfx.xyz^
 ||wwhikftfmysi.xyz^
 ||x3x3x.xyz^
+||xcpcfdxy.xyz^
 ||xcwshhsmf.xyz^
 ||xe9o.xyz^
 ||xmcfnejayqwp.xyz^
@@ -13404,7 +13424,6 @@
 /\/ad\.js/$script
 /\/ad_stats\//
 /\/affiliates\//
-/\/analytics\//
 /\/ane-preroll-\d+\//
 /\/api\/(spots|tracking)\/?/
 /\/asdf\//
@@ -13840,7 +13859,7 @@ fandom.com##.bottom-ads-container,.page__right-rail,.top-ads-container
 fingau.com,getpczone.com,rahim-soft.com,uploadrar.com,wokaz.com###commonId > a.btn.btn-info.btn-lg,#commonId > a:nth-child(2) > img,#nofilepage ins,[class^="banner"]
 fullboys.com,rimsgay.com##.video-ad
 genius.com##[class^="DfpAd__" i],[class^="InreadContainer__" i],[class^="RightSidebar__" i],[class^="SectionLeaderboard__" i]
-hentaivn.autos,hentaivn.fun,hentaivn.icu,hentaivn.in,hentaivn.la,hentaivn.lat,hentaivn.lol,hentaivn.moe,hentaivn.net,hentaivn.run,hentaivn.team,hentaivn.tv,hentaivn.zone,zhentaivn.cc###over,#page_ads_right,#qx-300x250,.a_d_s_115,.a_d_s_50,.qc_main,.qx_135,.size_70,.size_80,[class*="qx_main" i]
+hentaivn.autos,hentaivn.bio,hentaivn.fun,hentaivn.icu,hentaivn.in,hentaivn.la,hentaivn.lat,hentaivn.lol,hentaivn.moe,hentaivn.net,hentaivn.run,hentaivn.team,hentaivn.tv,hentaivn.zone,zhentaivn.cc###over,#page_ads_right,#qx-300x250,.a_d_s_115,.a_d_s_50,.qc_main,.qx_135,.size_70,.size_80,[class*="qx_main" i]
 hentaiz.net###rmcard1,img.hidden-mobile,img.visible-mobile
 hentaiz.vip##.d-none.d-lg-block
 katfile.com##div#container > p:has(> a[target="_blank"][rel="noopener"])
