@@ -106,6 +106,8 @@
 ||xvideos.best^
 ||api.xvideos.best^
 ||bong888.bet^
+||gg.bet^
+||gg253.bet^
 ||ks.bet^
 ||pannet.ks.bet^
 ||ks11.bet^
@@ -278,6 +280,8 @@
 ||11bet.club^
 ||388bet.club^
 ||s.388bet.club^
+||789.club^
+||qc.789.club^
 ||allartand.club^
 ||allowandgo.club^
 ||antburape.club^
@@ -315,6 +319,8 @@
 ||dangky.ric.club^
 ||stopheritp.club^
 ||sum.club^
+||ta88.club^
+||t1.ta88.club^
 ||taigame789.club^
 ||taiiwin.club^
 ||thethaovua.club^
@@ -590,6 +596,7 @@
 ||1f98dc1262.com^
 ||72bb8fff9d.1f98dc1262.com^
 ||1fkx796mw.com^
+||1ggbettt.com^
 ||1jutu5nnx.com^
 ||1k3.com^
 ||1k3static.com^
@@ -923,6 +930,8 @@
 ||c59049439d.68d6b65e65.com^
 ||68gamebai2030.com^
 ||68gamevn.com^
+||699bfcf9d9.com^
+||3f85d85a52.699bfcf9d9.com^
 ||69b61ba7d6.com^
 ||3f4340fabe.69b61ba7d6.com^
 ||6a34d15d38.com^
@@ -1538,6 +1547,8 @@
 ||aeeg5idiuenbi7erger.com^
 ||aezhvlybcijv.com^
 ||www.aezhvlybcijv.com^
+||af54fe2566.com^
+||f110942df5.af54fe2566.com^
 ||afcnuchxgo.com^
 ||afcpatrk.com^
 ||track.afcpatrk.com^
@@ -2190,6 +2201,7 @@
 ||www.betteradsystem.com^
 ||betweendigital.com^
 ||ads.betweendigital.com^
+||betwingg.com^
 ||betyhupte.com^
 ||bewvgekx.com^
 ||www.bewvgekx.com^
@@ -3017,6 +3029,8 @@
 ||cutbr.com^
 ||cutenesscdn.com^
 ||img.cutenesscdn.com^
+||cv-static.com^
+||e1.cv-static.com^
 ||cvastico.com^
 ||kts.cvastico.com^
 ||ts.cvastico.com^
@@ -3623,6 +3637,7 @@
 ||exp-tas.com^
 ||default.exp-tas.com^
 ||expertcamomile.com^
+||explainplaysettwisting.com^
 ||explanationsacrifice.com^
 ||explorads.com^
 ||filter.explorads.com^
@@ -3711,6 +3726,8 @@
 ||fam-ad.com^
 ||img.fam-ad.com^
 ||services.fandom.com^
+||fantasigloble.com^
+||a.fantasigloble.com^
 ||api.faphouse.com^
 ||cnt.faphouse.com^
 ||pm.faphouse.com^
@@ -3938,6 +3955,9 @@
 ||www.fyber.com^
 ||fybkhsfntvuyat.com^
 ||www.fybkhsfntvuyat.com^
+||fyubin.com^
+||eu.fyubin.com^
+||click.eu.fyubin.com^
 ||fzipipalkri.com^
 ||fzrtrpbhkxx.com^
 ||www.fzrtrpbhkxx.com^
@@ -4057,6 +4077,7 @@
 ||getsitecontrol.com^
 ||l.getsitecontrol.com^
 ||gfutdskgthfqn.com^
+||ggbetpro.com^
 ||ghavjknuitkmh.com^
 ||ghbavfxidocfo.com^
 ||ghskoqhz.com^
@@ -5370,6 +5391,8 @@
 ||www.lizvojebj.com^
 ||ljwbrgipuqqnpe.com^
 ||www.ljwbrgipuqqnpe.com^
+||lk-static.com^
+||a1.lk-static.com^
 ||llahnch259.com^
 ||lliinks.com^
 ||lmdfmd.com^
@@ -5988,6 +6011,7 @@
 ||cg.nonentnastier.com^
 ||nonvegjokes.com^
 ||noolt.com^
+||22.noolt.com^
 ||32.noolt.com^
 ||noproblfr.com^
 ||nordfx.com^
@@ -6274,6 +6298,7 @@
 ||oversowcholam.com^
 ||ovfbxfngmlfqn.com^
 ||sentry.ovhcloud.com^
+||ovmktyoxglta.com^
 ||ovvwunawrt.com^
 ||ovyiakt1wzqz.com^
 ||owjuimhw.com^
@@ -6868,6 +6893,7 @@
 ||p.rapolok.com^
 ||raptapee.com^
 ||raspberrybenefactor.com^
+||rastrawteo.com^
 ||ravenjs.com^
 ||cdn.ravenjs.com^
 ||bvadtgs.scdn1.secure.raxcdn.com^
@@ -7324,6 +7350,10 @@
 ||public.servenobid.com^
 ||serverbid.com^
 ||e.serverbid.com^
+||serving-sys.com^
+||bs.serving-sys.com^
+||lm.serving-sys.com^
+||secure-ds.serving-sys.com^
 ||setupcmp.com^
 ||cmp.setupcmp.com^
 ||sevokop.com^
@@ -9140,6 +9170,7 @@
 ||zaytownglobal.com^
 ||zbdvvwpia.com^
 ||www.zbdvvwpia.com^
+||zbet.com^
 ||zbwkapoit.com^
 ||www.zbwkapoit.com^
 ||ekr.zdassets.com^
@@ -9392,6 +9423,7 @@
 ||tag.leadplace.fr^
 ||lebureaudesandrine.fr^
 ||main-tech-gestion.fr^
+||nacdebretagne.fr^
 ||oopt.fr^
 ||media.oopt.fr^
 ||regie.oopt.fr^
@@ -9424,6 +9456,7 @@
 ||whetherecyclo.fun^
 ||win79.fun^
 ||play.win79.fun^
+||tai.win79.fun^
 ||f8bet.fund^
 ||gtp.fyi^
 ||h26t67sx.ga^
@@ -9432,6 +9465,7 @@
 ||kubet88.games^
 ||x8.games^
 ||qc.x8.games^
+||11bet.gg^
 ||clean.gg^
 ||i.clean.gg^
 ||67u2gk.gq^
@@ -9481,11 +9515,13 @@
 ||4736.in^
 ||can-get-some.in^
 ||eu.can-get-some.in^
+||fabet.in^
 ||freebitco.in^
 ||track.freebitco.in^
 ||www.freshsms.in^
 ||static.growthrx.in^
 ||huntnews.in^
+||lucky88.in^
 ||m.mastisms.in^
 ||mazakmasti.in^
 ||onmeta.in^
@@ -9883,6 +9919,7 @@
 ||pixel.zprk.io^
 ||admajoracaffe.it^
 ||albertosilvahairspa.it^
+||wa.aruba.it^
 ||associazionecrea.it^
 ||blasterzone.it^
 ||dragonfru.it^
@@ -10018,6 +10055,7 @@
 ||remmbdockevrd.life^
 ||respincusser.life^
 ||shubasairy.life^
+||sotpprdjanssnow.life^
 ||themy-bestprizes.life^
 ||thosemungo.life^
 ||topcamsplays.life^
@@ -10143,6 +10181,7 @@
 ||piclick.me^
 ||www.piclick.me^
 ||q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me^
+||sin88.me^
 ||t2zc6vo8zj2ch6sh6kvu5vq8cjz4iv8v2aj1ckjy8zktaj8vm6visk6als8l.me^
 ||u7z5fgj3k9c0vkah2v8zj1zj7v6gkm2f8zjc9j2vk6o9p2zks3a6sjc2mj6h.me^
 ||vnxoso11.me^
@@ -10584,6 +10623,8 @@
 ||id.crwdcntrl.net^
 ||sync.crwdcntrl.net^
 ||tags.crwdcntrl.net^
+||crwds.net^
+||sat.crwds.net^
 ||event.csdn.net^
 ||kunpeng.csdn.net^
 ||kunyu.csdn.net^
@@ -11016,6 +11057,9 @@
 ||pingdom.net^
 ||rum-collector-2.pingdom.net^
 ||rum-static.pingdom.net^
+||plagubkril.net^
+||p.plagubkril.net^
+||sat.plagubkril.net^
 ||popads.net^
 ||c1.popads.net^
 ||c2.popads.net^
@@ -11311,6 +11355,8 @@
 ||cdnz013.one^
 ||cdnz035.one^
 ||cdnz073.one^
+||fantasi.one^
+||www.fantasi.one^
 ||globalcdn10.one^
 ||6mimp2ns5.globalcdn10.one^
 ||redporn.one^
@@ -11350,6 +11396,7 @@
 ||buneskdfi.online^
 ||ccamymuax.online^
 ||lskjnr.ccamymuax.online^
+||cdnx.online^
 ||cevrikri.online^
 ||codedome.online^
 ||cryptoinvesting.online^
@@ -11514,6 +11561,7 @@
 ||carrymecloser.pl^
 ||bhpinfo.com.pl^
 ||budujtaniej.com.pl^
+||eksperciusmiechu.com.pl^
 ||gastrokomis.com.pl^
 ||krainakrasnali.com.pl^
 ||masterquality.com.pl^
@@ -11601,6 +11649,8 @@
 ||ca.clcknads.pro^
 ||clknrtrg.pro^
 ||collaborator.pro^
+||da88.pro^
+||static.da88.pro^
 ||dinhvu.pro^
 ||diryleme.pro^
 ||dismalthroat.pro^
@@ -12054,6 +12104,8 @@
 ||babuaberger.top^
 ||bargingaricin.top^
 ||bassarazit.top^
+||bbmrraeajllwv.top^
+||bnja.bbmrraeajllwv.top^
 ||bbnnjqwqaryya.top^
 ||bleyk.bbnnjqwqaryya.top^
 ||bcgame.top^
@@ -12186,6 +12238,7 @@
 ||hesight.top^
 ||hiedgored.top^
 ||histssenaah.top^
+||hitclub.top^
 ||holeyforty.top^
 ||hulloooctyls.top^
 ||hyalinsbenami.top^
@@ -12321,6 +12374,7 @@
 ||oolongcensing.top^
 ||orbyacy.top^
 ||outsiftfictor.top^
+||outwalkrepass.top^
 ||paintednarra.top^
 ||panisicelectre.top^
 ||parnasgiust.top^
@@ -12519,6 +12573,8 @@
 ||znva.zzyryrybykjvj.top^
 ||zzyryrybykvva.top^
 ||znva.zzyryrybykvva.top^
+||zzyryrybykzve.top^
+||znva.zzyryrybykzve.top^
 ||admatic.com.tr^
 ||ads4.admatic.com.tr^
 ||ads5.admatic.com.tr^
@@ -12627,6 +12683,8 @@
 ||r.deflink.uk^
 ||sunwin.uk^
 ||lp.sunwin.uk^
+||vip79.uk^
+||lp.vip79.uk^
 ||blondsblendor.uno^
 ||bracketknolls.uno^
 ||endingdespond.uno^
@@ -12668,6 +12726,8 @@
 ||gameland.vip^
 ||api-csn-s.gameland.vip^
 ||kubetonline.vip^
+||rik.vip^
+||qc.rik.vip^
 ||tk9999.vip^
 ||upload.tk9999.vip^
 ||top88.vip^
@@ -12919,6 +12979,8 @@
 ||adultpics.wiki^
 ||im.adultpics.wiki^
 ||11bet.win^
+||789.win^
+||qc.789.win^
 ||789betvn.win^
 ||cbro.win^
 ||go.cbro.win^
@@ -12951,6 +13013,7 @@
 ||taiwin79.win^
 ||vao789club.win^
 ||xo88.win^
+||zo10.win^
 ||adsnetonline.work^
 ||cdnjs.work^
 ||go.cdnjs.work^
@@ -13028,6 +13091,7 @@
 ||eu.bvmbvc.xyz^
 ||bwwrovgwdfe.xyz^
 ||caicuptu.xyz^
+||ccqhlkceepvxlpc.xyz^
 ||cdnz046.xyz^
 ||cdnz052.xyz^
 ||cdnz099.xyz^
@@ -13208,6 +13272,7 @@
 ||outchops.xyz^
 ||ouwhejoacie.xyz^
 ||owdanlytvtfkrb.xyz^
+||oyxlalowyvb.xyz^
 ||pakyjphmx.xyz^
 ||panbay.xyz^
 ||x.panbay.xyz^
