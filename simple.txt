@@ -454,6 +454,8 @@
 ||get.sided.co^
 ||smrturl.co^
 ||thabet888.co^
+||theirbellstudio.co^
+||738376.theirbellstudio.co^
 ||tidio.co^
 ||code.tidio.co^
 ||socket.tidio.co^
@@ -497,6 +499,8 @@
 ||80c6b3a134.03505ed0f4.com^
 ||04112d69e3.com^
 ||5ea0ed72d6.04112d69e3.com^
+||04b6001ba9.com^
+||d0ce8193a8.04b6001ba9.com^
 ||04b73980ec.com^
 ||fdaea0335d.04b73980ec.com^
 ||04c8b396bf.com^
@@ -586,6 +590,8 @@
 ||722717a3db.1ab9ee01cb.com^
 ||1ac9365789.com^
 ||6177f8d3df.1ac9365789.com^
+||1c2884f59e.com^
+||8d9a34f9cc.1c2884f59e.com^
 ||1c447fc5b7.com^
 ||827a916646.1c447fc5b7.com^
 ||1ccbt.com^
@@ -846,6 +852,8 @@
 ||5888678.com^
 ||api.5888678.com^
 ||vn.5888678.com^
+||58c526d99b.com^
+||8f30b5f042.58c526d99b.com^
 ||592eb4ef33.com^
 ||dfd1240c9c.592eb4ef33.com^
 ||5afd9ec0ab.com^
@@ -1932,6 +1940,7 @@
 ||astoapsu.com^
 ||astrandconifer.com^
 ||aswjtiwryakv.com^
+||atcxfuazmav.com^
 ||athbzeobts.com^
 ||atimaze.com^
 ||random-affiliate.atimaze.com^
@@ -2147,6 +2156,7 @@
 ||bea988787c.com^
 ||bd2e9c4479.bea988787c.com^
 ||beabsolom.com^
+||beamagemammetsforsakes.com^
 ||beataemusky.com^
 ||bebi.com^
 ||c.bebi.com^
@@ -2455,6 +2465,7 @@
 ||bvmcdn.com^
 ||bvnjgjfh.com^
 ||www.bvnjgjfh.com^
+||bwuacbcuqarj.com^
 ||bxczchdxynw.com^
 ||www.bxczchdxynw.com^
 ||bygliscortor.com^
@@ -3056,6 +3067,8 @@
 ||7a75c56234.d03804f2c8.com^
 ||d03dbe8a1b.com^
 ||c53b96fd6b.d03dbe8a1b.com^
+||d0e564588b.com^
+||332e4cb7aa.d0e564588b.com^
 ||d0e7d68ceb.com^
 ||857b870736.d0e7d68ceb.com^
 ||d2f86da573.com^
@@ -3254,6 +3267,9 @@
 ||dlfvgndsdfsn.com^
 ||dmleonyc.com^
 ||pdc.dmleonyc.com^
+||i3.dmm.com^
+||stat.i3.dmm.com^
+||trac.i3.dmm.com^
 ||dmnprx.com^
 ||dmuqumodgwm.com^
 ||dmxleo.com^
@@ -3762,6 +3778,8 @@
 ||www.fbsbx.com^
 ||fc0a58af2e.com^
 ||93fb52900c.fc0a58af2e.com^
+||admin.blog.fc2.com^
+||clap.fc2.com^
 ||fc29334d79.com^
 ||77b0619134.fc29334d79.com^
 ||fc7c8be451.com^
@@ -5267,6 +5285,7 @@
 ||lapre28rmcat2.com^
 ||lataurir.com^
 ||www.latestsms.com^
+||latinwayy.com^
 ||latoken.com^
 ||laudulut.com^
 ||launchdarkly.com^
@@ -6294,6 +6313,7 @@
 ||outshroomishan.com^
 ||ak.outshroomishan.com^
 ||outsliggooa.com^
+||overcrowdsillyturret.com^
 ||overkirliaan.com^
 ||oversowcholam.com^
 ||ovfbxfngmlfqn.com^
@@ -6536,6 +6556,8 @@
 ||porkbun-bodis.com^
 ||pornamigo.com^
 ||live.pornamigo.com^
+||porndudegirls.com^
+||iframe.porndudegirls.com^
 ||hubt.pornhub.com^
 ||stats.pornnperfect.com^
 ||aa.pornvideotop.com^
@@ -7184,6 +7206,7 @@
 ||safedk.com^
 ||config.safedk.com^
 ||edge.safedk.com^
+||safewebserviceai.com^
 ||sail-horizon.com^
 ||ak.sail-horizon.com^
 ||api.sail-personalize.com^
@@ -9168,6 +9191,7 @@
 ||zaubanel.com^
 ||zav4gln44kez.com^
 ||zaytownglobal.com^
+||zazpurtapg.com^
 ||zbdvvwpia.com^
 ||www.zbdvvwpia.com^
 ||zbet.com^
@@ -9928,20 +9952,30 @@
 ||fermentowinebar.it^
 ||html.it^
 ||adserver.html.it^
+||kingofegypt.it^
 ||orasenti.it^
+||pasticceriapagamonci.it^
 ||rollipop.it^
 ||sicuredilemiliaromagna.it^
 ||snai.it^
 ||affiliazioniads.snai.it^
 ||soletirimborsa.it^
+||studiomarrani.it^
 ||adingo.jp^
 ||i.adingo.jp^
 ||pdn.adingo.jp^
 ||sh.adingo.jp^
 ||cdn-fluct.sh.adingo.jp^
+||adpon.jp^
+||ad.adpon.jp^
 ||adsee.jp^
 ||linker.adsee.jp^
 ||cnobi.jp^
+||cds.dmm.co.jp^
+||api.cds.dmm.co.jp^
+||dap.dmm.co.jp^
+||cdj.dap.dmm.co.jp^
+||widget-view.dmm.co.jp^
 ||i-mobile.co.jp^
 ||imp-adedge.i-mobile.co.jp^
 ||spcdnsp.i-mobile.co.jp^
@@ -10432,6 +10466,8 @@
 ||revenue-mapping-api.ccgateway.net^
 ||script-api.ccgateway.net^
 ||tag-api-2-1.ccgateway.net^
+||ceegriwuwoa.net^
+||ak.ceegriwuwoa.net^
 ||cegrithy.net^
 ||chartbeat.net^
 ||ping.chartbeat.net^
@@ -10503,6 +10539,7 @@
 ||d2ajue4o5x1lc3.cloudfront.net^
 ||d2b4jmuffp1l21.cloudfront.net^
 ||d2er1uyk6qcknh.cloudfront.net^
+||d2ezz24t9nm0vu.cloudfront.net^
 ||d2fbkzyicji7c4.cloudfront.net^
 ||d2glav2919q4cw.cloudfront.net^
 ||d2j042cj1421wi.cloudfront.net^
@@ -11359,6 +11396,8 @@
 ||www.fantasi.one^
 ||globalcdn10.one^
 ||6mimp2ns5.globalcdn10.one^
+||globalcdn23.one^
+||qyrb0mw60.globalcdn23.one^
 ||redporn.one^
 ||bb.redporn.one^
 ||xads.one^
@@ -11886,6 +11925,8 @@
 ||68gbapp21.shop^
 ||68gbapp22.shop^
 ||68link7.shop^
+||bumpkinclon.shop^
+||roscianwaltron.shop^
 ||vuabet88.shop^
 ||zerodeltanode.shop^
 ||as7.zerodeltanode.shop^
@@ -11921,6 +11962,8 @@
 ||g0dy.site^
 ||hincludingse.site^
 ||hoemasfat.site^
+||imagechat.site^
+||my.imagechat.site^
 ||inmense.site^
 ||api.inmense.site^
 ||k9gj.site^
@@ -12108,6 +12151,8 @@
 ||bnja.bbmrraeajllwv.top^
 ||bbnnjqwqaryya.top^
 ||bleyk.bbnnjqwqaryya.top^
+||bbwzzwrmerzjk.top^
+||bzkz.bbwzzwrmerzjk.top^
 ||bcgame.top^
 ||bespewrooibok.top^
 ||bestcontentfood.top^
@@ -12411,6 +12456,8 @@
 ||qejbj.qqvlbzlbqeaav.top^
 ||qqvlbzlqbyebj.top^
 ||qejbj.qqvlbzlqbyebj.top^
+||qqvlbzlqbyylq.top^
+||qejbj.qqvlbzlqbyylq.top^
 ||qqyqeqqwbrqlq.top^
 ||qvak.qqyqeqqwbrqlq.top^
 ||qualifyicod.top^
@@ -13045,6 +13092,7 @@
 ||adult.xyz^
 ||cdn.adult.xyz^
 ||aemtukvt.xyz^
+||afjvsoohhwxk.xyz^
 ||aikkcmybgl.xyz^
 ||aleisy.xyz^
 ||amgaugapiemc.xyz^
@@ -13107,6 +13155,7 @@
 ||coumasha.xyz^
 ||cwbjfveg.xyz^
 ||cwcgqrfneqle.xyz^
+||cwdicupen.xyz^
 ||d1272serve.xyz^
 ||c.d1272serve.xyz^
 ||daboovip.xyz^
@@ -13418,6 +13467,7 @@
 ||stats.xtraffic.xyz^
 ||www.xtraffic.xyz^
 ||xtremeserve.xyz^
+||xuywofqewwyasil.xyz^
 ||xycstlfoagh.xyz^
 ||yazuda.xyz^
 ||b.yazuda.xyz^
@@ -13924,7 +13974,7 @@ fandom.com##.bottom-ads-container,.page__right-rail,.top-ads-container
 fingau.com,getpczone.com,rahim-soft.com,uploadrar.com,wokaz.com###commonId > a.btn.btn-info.btn-lg,#commonId > a:nth-child(2) > img,#nofilepage ins,[class^="banner"]
 fullboys.com,rimsgay.com##.video-ad
 genius.com##[class^="DfpAd__" i],[class^="InreadContainer__" i],[class^="RightSidebar__" i],[class^="SectionLeaderboard__" i]
-hentaivn.autos,hentaivn.bio,hentaivn.fun,hentaivn.icu,hentaivn.in,hentaivn.la,hentaivn.lat,hentaivn.lol,hentaivn.moe,hentaivn.net,hentaivn.run,hentaivn.team,hentaivn.tv,hentaivn.zone,zhentaivn.cc###over,#page_ads_right,#qx-300x250,.a_d_s_115,.a_d_s_50,.qc_main,.qx_135,.size_70,.size_80,[class*="qx_main" i]
+hentaihvn.tv,hentaivn.autos,hentaivn.bio,hentaivn.fun,hentaivn.icu,hentaivn.in,hentaivn.la,hentaivn.lat,hentaivn.lol,hentaivn.moe,hentaivn.net,hentaivn.run,hentaivn.team,hentaivn.tv,hentaivn.zone,zhentaivn.cc###over,#page_ads_right,#qx-300x250,.a_d_s_115,.a_d_s_50,.qc_main,.qx_135,.size_70,.size_80,[class*="qx_main" i]
 hentaiz.net###rmcard1,img.hidden-mobile,img.visible-mobile
 hentaiz.vip##.d-none.d-lg-block
 katfile.com##div#container > p:has(> a[target="_blank"][rel="noopener"])
