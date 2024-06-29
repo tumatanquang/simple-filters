@@ -11,6 +11,8 @@
 ||cdn.engagement.ai^
 ||chat.engagement.ai^
 ||ezoic.ai^
+||fiza.ai^
+||app.fiza.ai^
 ||hybrid.ai^
 ||dm.hybrid.ai^
 ||intent.ai^
@@ -153,6 +155,8 @@
 ||www.trafficfactory.biz^
 ||cds.y2mate.biz^
 ||eyep.blog^
+||mouthdistance.bond^
+||trk.mouthdistance.bond^
 ||winbet.boo^
 ||trrsf.com.br^
 ||s1.trrsf.com.br^
@@ -277,6 +281,7 @@
 ||stpd.cloud^
 ||videoportalsaving.cloud^
 ||tds.videoportalsaving.cloud^
+||sentry-int.zalo.cloud^
 ||11bet.club^
 ||388bet.club^
 ||s.388bet.club^
@@ -671,6 +676,8 @@
 ||d2e99ee8a3.299f70c6b2.com^
 ||29dc237c9b.com^
 ||b439570158.29dc237c9b.com^
+||2a4722f5ee.com^
+||260c0346d4.2a4722f5ee.com^
 ||2a6d9e5059.com^
 ||79b7ef984f.2a6d9e5059.com^
 ||2ajsvd12.com^
@@ -2271,6 +2278,8 @@
 ||www.bitget.com^
 ||bitrix24.com^
 ||cdn.bitrix24.com^
+||bizible.com^
+||cdn.bizible.com^
 ||bizseasky.com^
 ||euob.bizseasky.com^
 ||obseu.bizseasky.com^
@@ -2781,6 +2790,7 @@
 ||www.closedmyvideo.com^
 ||nel.cloudflare.com^
 ||a.nel.cloudflare.com^
+||tr.www.cloudflare.com^
 ||metrics.cloudflarebolt.com^
 ||cloudflareinsights.com^
 ||static.cloudflareinsights.com^
@@ -3422,6 +3432,8 @@
 ||30c692a17b.e218cdc27d.com^
 ||e2572292c5.com^
 ||7cdd9f6208.e2572292c5.com^
+||e2bec62b64.com^
+||24cb69f5dd.e2bec62b64.com^
 ||e2ertt.com^
 ||e2fa67be2a.com^
 ||f05afeecf9.e2fa67be2a.com^
@@ -3733,6 +3745,8 @@
 ||an.facebook.com^
 ||graph.facebook.com^
 ||graph-fallback.facebook.com^
+||api.facemojikeyboard.com^
+||globalapi.facemojikeyboard.com^
 ||facilitategovernor.com^
 ||fadf617f13.com^
 ||6bc84d8134.fadf617f13.com^
@@ -4171,6 +4185,7 @@
 ||alt7-mtalk.google.com^
 ||alt8-mtalk.google.com^
 ||analytics.google.com^
+||android.apis.google.com^
 ||cello.client-channel.google.com^
 ||android.clients.google.com^
 ||addons-pa.clients6.google.com^
@@ -4220,15 +4235,18 @@
 ||firebaseinappmessaging.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaselogging.googleapis.com^
+||firebaselogging-pa.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
 ||firebasestorage.googleapis.com^
 ||imasdk.googleapis.com^
 ||jnn-pa.googleapis.com^
 ||notifications-pa.googleapis.com^
 ||optimizationguide-pa.googleapis.com^
+||play.googleapis.com^
 ||safebrowsing.googleapis.com^
 ||gadasource.storage.googleapis.com^
 ||pendo-static-5709969800560640.storage.googleapis.com^
+||update.googleapis.com^
 ||userlocation.googleapis.com^
 ||googleoptimize.com^
 ||www.googleoptimize.com^
@@ -4285,6 +4303,7 @@
 ||grubsnuchale.com^
 ||grubsoan.com^
 ||grumblecrytopless.com^
+||grunikpazp.com^
 ||grychiphidu.com^
 ||gsght.com^
 ||gsjln04hd.com^
@@ -5657,7 +5676,9 @@
 ||micronsecho.com^
 ||ads.microsoft.com^
 ||about.ads.microsoft.com^
+||pipe.aria.microsoft.com^
 ||browser.pipe.aria.microsoft.com^
+||mobile.pipe.aria.microsoft.com^
 ||ps.azurewaf.microsoft.com^
 ||bingads.microsoft.com^
 ||advertise.bingads.microsoft.com^
@@ -5669,11 +5690,17 @@
 ||events.data.microsoft.com^
 ||browser.events.data.microsoft.com^
 ||eu-office.events.data.microsoft.com^
+||self.events.data.microsoft.com^
 ||web.vortex.data.microsoft.com^
+||edge.microsoft.com^
+||cloudmessaging.edge.microsoft.com^
+||access-point.cloudmessaging.edge.microsoft.com^
+||prod-eastasia.access-point.cloudmessaging.edge.microsoft.com^
 ||fpt.microsoft.com^
 ||fpt2.microsoft.com^
 ||www.update.microsoft.com^
 ||vlscppe.microsoft.com^
+||wcpstatic.microsoft.com^
 ||windowsupdate.microsoft.com^
 ||email.microsoftemail.com^
 ||click.email.microsoftemail.com^
@@ -5804,6 +5831,7 @@
 ||mrgreekroad.com^
 ||mrgrekeroad.com^
 ||msgose.com^
+||api.msn.com^
 ||arc.msn.com^
 ||c.msn.com^
 ||data.msn.com^
@@ -6255,6 +6283,7 @@
 ||opvanillishan.com^
 ||oqfpuzaltac.com^
 ||oqfrudzatovc.com^
+||oqnjfotketk.com^
 ||oqxehynxtckgha.com^
 ||www.oqxehynxtckgha.com^
 ||console-telemetry.oci.oraclecloud.com^
@@ -8585,6 +8614,9 @@
 ||ads.vidoomy.com^
 ||www.vidsdelivery.com^
 ||vidvas3.com^
+||vidyard.com^
+||cdn.vidyard.com^
+||play.vidyard.com^
 ||viglink.com^
 ||cdn.viglink.com^
 ||s.viimun.com^
@@ -8909,6 +8941,7 @@
 ||wststatic.com^
 ||wtgufgmma.com^
 ||wtymhapirfaz.com^
+||wugowrbcuva.com^
 ||wurtkoxudcka.com^
 ||wuuhwsaiyyunrbp.com^
 ||wuzbhjpvsf.com^
@@ -8925,6 +8958,7 @@
 ||xcdnx.com^
 ||s.xcdnx.com^
 ||xdiwbc.com^
+||xdownloadright.com^
 ||xdvsijtlhr.com^
 ||www.xdvsijtlhr.com^
 ||xg4ken.com^
@@ -9411,6 +9445,8 @@
 ||graphql.usercentrics.eu^
 ||web0.eu^
 ||gdpr.web0.eu^
+||remerge.events^
+||ap3.remerge.events^
 ||taicamp88.fan^
 ||analysis.fi^
 ||ecdn.analysis.fi^
@@ -9548,6 +9584,8 @@
 ||lucky88.in^
 ||m.mastisms.in^
 ||mazakmasti.in^
+||adjust.net.in^
+||app.adjust.net.in^
 ||onmeta.in^
 ||platform.onmeta.in^
 ||oxbet.in^
@@ -10231,6 +10269,8 @@
 ||sentry-mini.zalo.me^
 ||sp.zalo.me^
 ||px.za.zalo.me^
+||zapps.me^
+||analytics.zapps.me^
 ||tech.zapps.me^
 ||zascdn.me^
 ||adtima-common.zascdn.me^
@@ -10292,6 +10332,8 @@
 ||assets.rbl.ms^
 ||pages-stats.rbl.ms^
 ||res.rbl.ms^
+||sfx.ms^
+||oneclient.sfx.ms^
 ||bestwinterclck.name^
 ||1255.bestwinterclck.name^
 ||new-hot.name^
@@ -10817,6 +10859,8 @@
 ||freehostedscripts.net^
 ||freeimagecdn.net^
 ||cdn.freeimagecdn.net^
+||fullres.net^
+||t.fullres.net^
 ||rv.furaffinity.net^
 ||fuseplatform.net^
 ||cdn.fuseplatform.net^
@@ -10976,6 +11020,12 @@
 ||microad.net^
 ||j.microad.net^
 ||jgl.microad.net^
+||api.microsoftapp.net^
+||sapphire.api.microsoftapp.net^
+||bingviz.microsoftapp.net^
+||gateway.bingviz.microsoftapp.net^
+||sapphire.microsoftapp.net^
+||cdn.sapphire.microsoftapp.net^
 ||mobon.net^
 ||img.mobon.net^
 ||mocmubse.net^
@@ -11522,6 +11572,8 @@
 ||w3.css-validator.org^
 ||dangkyrikvip.org^
 ||dashif.org^
+||discourse.org^
+||www.discourse.org^
 ||dlgaapper.org^
 ||api-iw.dlgaapper.org^
 ||etingplansfor.org^
@@ -11925,6 +11977,7 @@
 ||68gbapp21.shop^
 ||68gbapp22.shop^
 ||68link7.shop^
+||ataxiasfaulds.shop^
 ||bumpkinclon.shop^
 ||roscianwaltron.shop^
 ||vuabet88.shop^
@@ -12171,6 +12224,8 @@
 ||bwqa.bmjlzyjrkmqal.top^
 ||bookedbonce.top^
 ||britishsorehon.top^
+||brmwmmnleeqvz.top^
+||bleaw.brmwmmnleeqvz.top^
 ||brmwmmnleermr.top^
 ||bleaw.brmwmmnleermr.top^
 ||brmwmmnleervv.top^
@@ -12245,6 +12300,7 @@
 ||eqqnewnqekeww.top^
 ||eklm.eqqnewnqekeww.top^
 ||equiptmullein.top^
+||erratatoecap.top^
 ||eulogyargin.top^
 ||exaltprizers.top^
 ||ezyebrweyqbw.top^
@@ -12274,6 +12330,7 @@
 ||guardeebepaste.top^
 ||gumasi.top^
 ||hruk.gumasi.top^
+||hagdenlupulic.top^
 ||hahdwaible.top^
 ||haiariunsely.top^
 ||haijezoa.top^
@@ -12509,6 +12566,7 @@
 ||slaggerundular.top^
 ||sloydcostive.top^
 ||sorningdaroo.top^
+||speakwaymen.top^
 ||spikscursen.top^
 ||stannelberated.top^
 ||stelaiatokal.top^
@@ -12549,6 +12607,8 @@
 ||wrapchunnia.top^
 ||xads.top^
 ||yowpalt.top^
+||zakbyajvaqbyl.top^
+||zwmnj.zakbyajvaqbyl.top^
 ||zakbyajvaqlrj.top^
 ||zwmnj.zakbyajvaqlrj.top^
 ||zallbbwykqrwz.top^
@@ -12980,12 +13040,20 @@
 ||adtima-media.zadn.vn^
 ||adtima-static.zadn.vn^
 ||res.zadn.vn^
+||stc-zmp.zadn.vn^
 ||streaming-cms-plo.zadn.vn^
+||zagoo.zadn.vn^
+||zinstant.zadn.vn^
 ||znews-mcloud-bf-s2.zadn.vn^
+||zagoo.vn^
+||api-zgc.zagoo.vn^
 ||socialsb.zalopay.vn^
 ||tracking.zalopay.vn^
 ||zmeli.zapps.vn^
 ||zbet.vn^
+||h5.zdn.vn^
+||logo-zp.zdn.vn^
+||zinst-stc.zdn.vn^
 ||zplayer-trk.zdn.vn^
 ||srv.mp3.zing.vn^
 ||n.zing.vn^
@@ -13211,6 +13279,7 @@
 ||get-me-wow.xyz^
 ||ghnvfncbleiu.xyz^
 ||ginsicih.xyz^
+||glbxqsvjy.xyz^
 ||gloogeed.xyz^
 ||gnssivagwelwspe.xyz^
 ||goahouma.xyz^
@@ -13263,6 +13332,7 @@
 ||ksnooastqr.xyz^
 ||kupvvngwyxhgwk.xyz^
 ||kxkqqycs.xyz^
+||kyfjiudgnaouwbj.xyz^
 ||kyhurcppyrfxt.xyz^
 ||lajaajcogokmgm.xyz^
 ||larsepso.xyz^
@@ -13636,6 +13706,7 @@ beacon
 bropush
 bscframe$domain=~accounts.google.com|~translate.google.com.vn
 cashfish
+discourse-adplugin
 fuckadblock
 full-page-script
 Get_Stream_Bets
@@ -13708,11 +13779,18 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||chaturbate.com^$third-party,subdocument
 ||cloud.google.com/log
 ||cnet.com/ext/
+||community.cloudflare.com/deprecation-collector/
+||community.cloudflare.com/discourse-interstitial/
 ||console.cloud.google.com/p/heartbeat
 ||console.cloud.google.com/p/ping
 ||data.mail.yahoo.com/xobni/
 ||developer.mozilla.org/pong/
 ||developer.mozilla.org/submit/mdn-yari/
+||discourse-cdn.com/*/browser-update*.js
+||discourse-cdn.com/*/discourse-adplugin*.js
+||discourse-cdn.com/*/discourse-deprecation*.js
+||discourse-cdn.com/*/discourse-interstitials*.js
+||discourse-cdn.com/*/google-universal-analytics*.js
 ||facebook.com/tr?id=
 ||gemini.google.com/_/BardChatUi/jserror
 ||google.com/log?

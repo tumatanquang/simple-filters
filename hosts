@@ -12,6 +12,8 @@
 0.0.0.0 cdn.engagement.ai
 0.0.0.0 chat.engagement.ai
 0.0.0.0 ezoic.ai
+0.0.0.0 fiza.ai
+0.0.0.0 app.fiza.ai
 0.0.0.0 hybrid.ai
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 intent.ai
@@ -154,6 +156,8 @@
 0.0.0.0 www.trafficfactory.biz
 0.0.0.0 cds.y2mate.biz
 0.0.0.0 eyep.blog
+0.0.0.0 mouthdistance.bond
+0.0.0.0 trk.mouthdistance.bond
 0.0.0.0 winbet.boo
 0.0.0.0 trrsf.com.br
 0.0.0.0 s1.trrsf.com.br
@@ -278,6 +282,7 @@
 0.0.0.0 stpd.cloud
 0.0.0.0 videoportalsaving.cloud
 0.0.0.0 tds.videoportalsaving.cloud
+0.0.0.0 sentry-int.zalo.cloud
 0.0.0.0 11bet.club
 0.0.0.0 388bet.club
 0.0.0.0 s.388bet.club
@@ -672,6 +677,8 @@
 0.0.0.0 d2e99ee8a3.299f70c6b2.com
 0.0.0.0 29dc237c9b.com
 0.0.0.0 b439570158.29dc237c9b.com
+0.0.0.0 2a4722f5ee.com
+0.0.0.0 260c0346d4.2a4722f5ee.com
 0.0.0.0 2a6d9e5059.com
 0.0.0.0 79b7ef984f.2a6d9e5059.com
 0.0.0.0 2ajsvd12.com
@@ -2272,6 +2279,8 @@
 0.0.0.0 www.bitget.com
 0.0.0.0 bitrix24.com
 0.0.0.0 cdn.bitrix24.com
+0.0.0.0 bizible.com
+0.0.0.0 cdn.bizible.com
 0.0.0.0 bizseasky.com
 0.0.0.0 euob.bizseasky.com
 0.0.0.0 obseu.bizseasky.com
@@ -2782,6 +2791,7 @@
 0.0.0.0 www.closedmyvideo.com
 0.0.0.0 nel.cloudflare.com
 0.0.0.0 a.nel.cloudflare.com
+0.0.0.0 tr.www.cloudflare.com
 0.0.0.0 metrics.cloudflarebolt.com
 0.0.0.0 cloudflareinsights.com
 0.0.0.0 static.cloudflareinsights.com
@@ -3423,6 +3433,8 @@
 0.0.0.0 30c692a17b.e218cdc27d.com
 0.0.0.0 e2572292c5.com
 0.0.0.0 7cdd9f6208.e2572292c5.com
+0.0.0.0 e2bec62b64.com
+0.0.0.0 24cb69f5dd.e2bec62b64.com
 0.0.0.0 e2ertt.com
 0.0.0.0 e2fa67be2a.com
 0.0.0.0 f05afeecf9.e2fa67be2a.com
@@ -3734,6 +3746,8 @@
 0.0.0.0 an.facebook.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph-fallback.facebook.com
+0.0.0.0 api.facemojikeyboard.com
+0.0.0.0 globalapi.facemojikeyboard.com
 0.0.0.0 facilitategovernor.com
 0.0.0.0 fadf617f13.com
 0.0.0.0 6bc84d8134.fadf617f13.com
@@ -4172,6 +4186,7 @@
 0.0.0.0 alt7-mtalk.google.com
 0.0.0.0 alt8-mtalk.google.com
 0.0.0.0 analytics.google.com
+0.0.0.0 android.apis.google.com
 0.0.0.0 cello.client-channel.google.com
 0.0.0.0 android.clients.google.com
 0.0.0.0 addons-pa.clients6.google.com
@@ -4221,15 +4236,18 @@
 0.0.0.0 firebaseinappmessaging.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 firebasestorage.googleapis.com
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 jnn-pa.googleapis.com
 0.0.0.0 notifications-pa.googleapis.com
 0.0.0.0 optimizationguide-pa.googleapis.com
+0.0.0.0 play.googleapis.com
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 gadasource.storage.googleapis.com
 0.0.0.0 pendo-static-5709969800560640.storage.googleapis.com
+0.0.0.0 update.googleapis.com
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 googleoptimize.com
 0.0.0.0 www.googleoptimize.com
@@ -4286,6 +4304,7 @@
 0.0.0.0 grubsnuchale.com
 0.0.0.0 grubsoan.com
 0.0.0.0 grumblecrytopless.com
+0.0.0.0 grunikpazp.com
 0.0.0.0 grychiphidu.com
 0.0.0.0 gsght.com
 0.0.0.0 gsjln04hd.com
@@ -5658,7 +5677,9 @@
 0.0.0.0 micronsecho.com
 0.0.0.0 ads.microsoft.com
 0.0.0.0 about.ads.microsoft.com
+0.0.0.0 pipe.aria.microsoft.com
 0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 ps.azurewaf.microsoft.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 advertise.bingads.microsoft.com
@@ -5670,11 +5691,17 @@
 0.0.0.0 events.data.microsoft.com
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 eu-office.events.data.microsoft.com
+0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 web.vortex.data.microsoft.com
+0.0.0.0 edge.microsoft.com
+0.0.0.0 cloudmessaging.edge.microsoft.com
+0.0.0.0 access-point.cloudmessaging.edge.microsoft.com
+0.0.0.0 prod-eastasia.access-point.cloudmessaging.edge.microsoft.com
 0.0.0.0 fpt.microsoft.com
 0.0.0.0 fpt2.microsoft.com
 0.0.0.0 www.update.microsoft.com
 0.0.0.0 vlscppe.microsoft.com
+0.0.0.0 wcpstatic.microsoft.com
 0.0.0.0 windowsupdate.microsoft.com
 0.0.0.0 email.microsoftemail.com
 0.0.0.0 click.email.microsoftemail.com
@@ -5805,6 +5832,7 @@
 0.0.0.0 mrgreekroad.com
 0.0.0.0 mrgrekeroad.com
 0.0.0.0 msgose.com
+0.0.0.0 api.msn.com
 0.0.0.0 arc.msn.com
 0.0.0.0 c.msn.com
 0.0.0.0 data.msn.com
@@ -6256,6 +6284,7 @@
 0.0.0.0 opvanillishan.com
 0.0.0.0 oqfpuzaltac.com
 0.0.0.0 oqfrudzatovc.com
+0.0.0.0 oqnjfotketk.com
 0.0.0.0 oqxehynxtckgha.com
 0.0.0.0 www.oqxehynxtckgha.com
 0.0.0.0 console-telemetry.oci.oraclecloud.com
@@ -8586,6 +8615,9 @@
 0.0.0.0 ads.vidoomy.com
 0.0.0.0 www.vidsdelivery.com
 0.0.0.0 vidvas3.com
+0.0.0.0 vidyard.com
+0.0.0.0 cdn.vidyard.com
+0.0.0.0 play.vidyard.com
 0.0.0.0 viglink.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 s.viimun.com
@@ -8910,6 +8942,7 @@
 0.0.0.0 wststatic.com
 0.0.0.0 wtgufgmma.com
 0.0.0.0 wtymhapirfaz.com
+0.0.0.0 wugowrbcuva.com
 0.0.0.0 wurtkoxudcka.com
 0.0.0.0 wuuhwsaiyyunrbp.com
 0.0.0.0 wuzbhjpvsf.com
@@ -8926,6 +8959,7 @@
 0.0.0.0 xcdnx.com
 0.0.0.0 s.xcdnx.com
 0.0.0.0 xdiwbc.com
+0.0.0.0 xdownloadright.com
 0.0.0.0 xdvsijtlhr.com
 0.0.0.0 www.xdvsijtlhr.com
 0.0.0.0 xg4ken.com
@@ -9412,6 +9446,8 @@
 0.0.0.0 graphql.usercentrics.eu
 0.0.0.0 web0.eu
 0.0.0.0 gdpr.web0.eu
+0.0.0.0 remerge.events
+0.0.0.0 ap3.remerge.events
 0.0.0.0 taicamp88.fan
 0.0.0.0 analysis.fi
 0.0.0.0 ecdn.analysis.fi
@@ -9549,6 +9585,8 @@
 0.0.0.0 lucky88.in
 0.0.0.0 m.mastisms.in
 0.0.0.0 mazakmasti.in
+0.0.0.0 adjust.net.in
+0.0.0.0 app.adjust.net.in
 0.0.0.0 onmeta.in
 0.0.0.0 platform.onmeta.in
 0.0.0.0 oxbet.in
@@ -10232,6 +10270,8 @@
 0.0.0.0 sentry-mini.zalo.me
 0.0.0.0 sp.zalo.me
 0.0.0.0 px.za.zalo.me
+0.0.0.0 zapps.me
+0.0.0.0 analytics.zapps.me
 0.0.0.0 tech.zapps.me
 0.0.0.0 zascdn.me
 0.0.0.0 adtima-common.zascdn.me
@@ -10293,6 +10333,8 @@
 0.0.0.0 assets.rbl.ms
 0.0.0.0 pages-stats.rbl.ms
 0.0.0.0 res.rbl.ms
+0.0.0.0 sfx.ms
+0.0.0.0 oneclient.sfx.ms
 0.0.0.0 bestwinterclck.name
 0.0.0.0 1255.bestwinterclck.name
 0.0.0.0 new-hot.name
@@ -10818,6 +10860,8 @@
 0.0.0.0 freehostedscripts.net
 0.0.0.0 freeimagecdn.net
 0.0.0.0 cdn.freeimagecdn.net
+0.0.0.0 fullres.net
+0.0.0.0 t.fullres.net
 0.0.0.0 rv.furaffinity.net
 0.0.0.0 fuseplatform.net
 0.0.0.0 cdn.fuseplatform.net
@@ -10977,6 +11021,12 @@
 0.0.0.0 microad.net
 0.0.0.0 j.microad.net
 0.0.0.0 jgl.microad.net
+0.0.0.0 api.microsoftapp.net
+0.0.0.0 sapphire.api.microsoftapp.net
+0.0.0.0 bingviz.microsoftapp.net
+0.0.0.0 gateway.bingviz.microsoftapp.net
+0.0.0.0 sapphire.microsoftapp.net
+0.0.0.0 cdn.sapphire.microsoftapp.net
 0.0.0.0 mobon.net
 0.0.0.0 img.mobon.net
 0.0.0.0 mocmubse.net
@@ -11523,6 +11573,8 @@
 0.0.0.0 w3.css-validator.org
 0.0.0.0 dangkyrikvip.org
 0.0.0.0 dashif.org
+0.0.0.0 discourse.org
+0.0.0.0 www.discourse.org
 0.0.0.0 dlgaapper.org
 0.0.0.0 api-iw.dlgaapper.org
 0.0.0.0 etingplansfor.org
@@ -11926,6 +11978,7 @@
 0.0.0.0 68gbapp21.shop
 0.0.0.0 68gbapp22.shop
 0.0.0.0 68link7.shop
+0.0.0.0 ataxiasfaulds.shop
 0.0.0.0 bumpkinclon.shop
 0.0.0.0 roscianwaltron.shop
 0.0.0.0 vuabet88.shop
@@ -12172,6 +12225,8 @@
 0.0.0.0 bwqa.bmjlzyjrkmqal.top
 0.0.0.0 bookedbonce.top
 0.0.0.0 britishsorehon.top
+0.0.0.0 brmwmmnleeqvz.top
+0.0.0.0 bleaw.brmwmmnleeqvz.top
 0.0.0.0 brmwmmnleermr.top
 0.0.0.0 bleaw.brmwmmnleermr.top
 0.0.0.0 brmwmmnleervv.top
@@ -12246,6 +12301,7 @@
 0.0.0.0 eqqnewnqekeww.top
 0.0.0.0 eklm.eqqnewnqekeww.top
 0.0.0.0 equiptmullein.top
+0.0.0.0 erratatoecap.top
 0.0.0.0 eulogyargin.top
 0.0.0.0 exaltprizers.top
 0.0.0.0 ezyebrweyqbw.top
@@ -12275,6 +12331,7 @@
 0.0.0.0 guardeebepaste.top
 0.0.0.0 gumasi.top
 0.0.0.0 hruk.gumasi.top
+0.0.0.0 hagdenlupulic.top
 0.0.0.0 hahdwaible.top
 0.0.0.0 haiariunsely.top
 0.0.0.0 haijezoa.top
@@ -12510,6 +12567,7 @@
 0.0.0.0 slaggerundular.top
 0.0.0.0 sloydcostive.top
 0.0.0.0 sorningdaroo.top
+0.0.0.0 speakwaymen.top
 0.0.0.0 spikscursen.top
 0.0.0.0 stannelberated.top
 0.0.0.0 stelaiatokal.top
@@ -12550,6 +12608,8 @@
 0.0.0.0 wrapchunnia.top
 0.0.0.0 xads.top
 0.0.0.0 yowpalt.top
+0.0.0.0 zakbyajvaqbyl.top
+0.0.0.0 zwmnj.zakbyajvaqbyl.top
 0.0.0.0 zakbyajvaqlrj.top
 0.0.0.0 zwmnj.zakbyajvaqlrj.top
 0.0.0.0 zallbbwykqrwz.top
@@ -12981,12 +13041,20 @@
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 adtima-static.zadn.vn
 0.0.0.0 res.zadn.vn
+0.0.0.0 stc-zmp.zadn.vn
 0.0.0.0 streaming-cms-plo.zadn.vn
+0.0.0.0 zagoo.zadn.vn
+0.0.0.0 zinstant.zadn.vn
 0.0.0.0 znews-mcloud-bf-s2.zadn.vn
+0.0.0.0 zagoo.vn
+0.0.0.0 api-zgc.zagoo.vn
 0.0.0.0 socialsb.zalopay.vn
 0.0.0.0 tracking.zalopay.vn
 0.0.0.0 zmeli.zapps.vn
 0.0.0.0 zbet.vn
+0.0.0.0 h5.zdn.vn
+0.0.0.0 logo-zp.zdn.vn
+0.0.0.0 zinst-stc.zdn.vn
 0.0.0.0 zplayer-trk.zdn.vn
 0.0.0.0 srv.mp3.zing.vn
 0.0.0.0 n.zing.vn
@@ -13212,6 +13280,7 @@
 0.0.0.0 get-me-wow.xyz
 0.0.0.0 ghnvfncbleiu.xyz
 0.0.0.0 ginsicih.xyz
+0.0.0.0 glbxqsvjy.xyz
 0.0.0.0 gloogeed.xyz
 0.0.0.0 gnssivagwelwspe.xyz
 0.0.0.0 goahouma.xyz
@@ -13264,6 +13333,7 @@
 0.0.0.0 ksnooastqr.xyz
 0.0.0.0 kupvvngwyxhgwk.xyz
 0.0.0.0 kxkqqycs.xyz
+0.0.0.0 kyfjiudgnaouwbj.xyz
 0.0.0.0 kyhurcppyrfxt.xyz
 0.0.0.0 lajaajcogokmgm.xyz
 0.0.0.0 larsepso.xyz
