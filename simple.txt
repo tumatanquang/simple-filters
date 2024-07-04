@@ -256,6 +256,7 @@
 ||ertytrs.click^
 ||growleading.click^
 ||cdn.growleading.click^
+||hutzpaquayful.click^
 ||iou6d.click^
 ||koiddc.click^
 ||pocli.click^
@@ -916,6 +917,8 @@
 ||52c470b4ed.633c66f0dc.com^
 ||6374870abd.com^
 ||aa48423cd0.6374870abd.com^
+||63912b9175.com^
+||6c7b3cb9ad.63912b9175.com^
 ||64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com^
 ||a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com^
 ||65566a6ab6.com^
@@ -1145,6 +1148,8 @@
 ||984335278d.com^
 ||fc56d67c2e.984335278d.com^
 ||989bet11.com^
+||9940a60a9a.com^
+||8551ed05a8.9940a60a9a.com^
 ||994e4a6044.com^
 ||e7ffc638d2.994e4a6044.com^
 ||99fe352223.com^
@@ -1273,6 +1278,8 @@
 ||try.abtasty.com^
 ||abundantservantexact.com^
 ||abyocawlfe.com^
+||ac046e638f.com^
+||c2f7d2d036.ac046e638f.com^
 ||acacdn.com^
 ||academyenrage.com^
 ||accahurkaru.com^
@@ -2480,6 +2487,7 @@
 ||bygliscortor.com^
 ||bymyth.com^
 ||byrledmtscmd.com^
+||abtestvm.bytedance.com^
 ||lf1-cdn-tos.bytegoofy.com^
 ||bds-sg.byteoversea.com^
 ||bds-va.byteoversea.com^
@@ -3811,6 +3819,8 @@
 ||14ca75fd8b.fe267352e2.com^
 ||fe2b3bff76.com^
 ||10abbec5d4.fe2b3bff76.com^
+||fe7fbef413.com^
+||fcc222dcb2.fe7fbef413.com^
 ||featbooksterile.com^
 ||featherstage.com^
 ||feb6262526.com^
@@ -4242,7 +4252,6 @@
 ||jnn-pa.googleapis.com^
 ||notifications-pa.googleapis.com^
 ||optimizationguide-pa.googleapis.com^
-||play.googleapis.com^
 ||safebrowsing.googleapis.com^
 ||gadasource.storage.googleapis.com^
 ||pendo-static-5709969800560640.storage.googleapis.com^
@@ -4304,6 +4313,7 @@
 ||grubsoan.com^
 ||grumblecrytopless.com^
 ||grunikpazp.com^
+||gruwrebutnar.com^
 ||grychiphidu.com^
 ||gsght.com^
 ||gsjln04hd.com^
@@ -6819,6 +6829,7 @@
 ||qhres2.com^
 ||ssl.qhres2.com^
 ||s.ssl.qhres2.com^
+||qhuhkiasbvaj.com^
 ||qicjhawwod.com^
 ||qiclfoosmnm.com^
 ||qifwpepixziv.com^
@@ -7575,6 +7586,7 @@
 ||collector.snowplowanalytics.com^
 ||snrcmgqe.com^
 ||www.snrcmgqe.com^
+||mcs.snssdk.com^
 ||snugglethesheep.com^
 ||e.so.com^
 ||socde.com^
@@ -9271,6 +9283,9 @@
 ||cdn.ziffstatic.com^
 ||zigzagrowy.com^
 ||zijaipse.com^
+||mcs.zijieapi.com^
+||mon.zijieapi.com^
+||privacy.zijieapi.com^
 ||zikroarg.com^
 ||zimpolo.com^
 ||zkmkuphtemb.com^
@@ -11979,8 +11994,12 @@
 ||68link7.shop^
 ||ataxiasfaulds.shop^
 ||bumpkinclon.shop^
+||galootsmulcted.shop^
+||nikkounring.shop^
 ||roscianwaltron.shop^
+||tazeeabroose.shop^
 ||vuabet88.shop^
+||yanquisorigan.shop^
 ||zerodeltanode.shop^
 ||as7.zerodeltanode.shop^
 ||boyfriend.show^
@@ -12214,6 +12233,8 @@
 ||betesquirks.top^
 ||bikramclyses.top^
 ||biunialpawnie.top^
+||bkrzykbeyell.top^
+||brw.bkrzykbeyell.top^
 ||bkzwzweeavewz.top^
 ||bqmr.bkzwzweeavewz.top^
 ||bkzwzweeavmbr.top^
@@ -12242,6 +12263,8 @@
 ||bnkv.bwzlmmqrwqmea.top^
 ||bzzmlqyzjqrv.top^
 ||bmea.bzzmlqyzjqrv.top^
+||bzzmlqyzjvea.top^
+||bmea.bzzmlqyzjvea.top^
 ||caobabehight.top^
 ||caproyldrongos.top^
 ||carbowasher.top^
@@ -13208,6 +13231,7 @@
 ||bwwrovgwdfe.xyz^
 ||caicuptu.xyz^
 ||ccqhlkceepvxlpc.xyz^
+||cdjtvypcfd.xyz^
 ||cdnz046.xyz^
 ||cdnz052.xyz^
 ||cdnz099.xyz^
@@ -13399,6 +13423,7 @@
 ||pcyiyywulnmljcn.xyz^
 ||pezico.xyz^
 ||cdn.pezico.xyz^
+||pjwsxjugjrws.xyz^
 ||platformbot.xyz^
 ||crm.platformbot.xyz^
 ||playground.xyz^
