@@ -253,6 +253,7 @@
 ||www.blueoyster.click^
 ||collecting.click^
 ||dfyui8r5rs.click^
+||dissaitknelled.click^
 ||ertytrs.click^
 ||growleading.click^
 ||cdn.growleading.click^
@@ -838,6 +839,8 @@
 ||500px.com^
 ||api.500px.com^
 ||508ec56533e3937e.com^
+||5165c0c080.com^
+||4c21b1a532.5165c0c080.com^
 ||51tracking.com^
 ||datasinksensorsdata.51tracking.com^
 ||523c579923fd35aa.com^
@@ -3825,6 +3828,8 @@
 ||featherstage.com^
 ||feb6262526.com^
 ||c5fa208d2a.feb6262526.com^
+||fed18a1e5b.com^
+||06603bcbf0.fed18a1e5b.com^
 ||feedburner.com^
 ||feeds.feedburner.com^
 ||feedly.com^
@@ -7428,6 +7433,7 @@
 ||sexfordatings.com^
 ||sf-syn.com^
 ||c.sf-syn.com^
+||sfagwaokja.com^
 ||sffsdvc.com^
 ||www.sffsdvc.com^
 ||sg-form.com^
@@ -12681,6 +12687,8 @@
 ||zljl.zvrbanjymjmnj.top^
 ||zvylzwkalkemj.top^
 ||zbjy.zvylzwkalkemj.top^
+||zwajbqnjkvayl.top^
+||zjwy.zwajbqnjkvayl.top^
 ||zwajbqnwvvwyw.top^
 ||zjwy.zwajbqnwvvwyw.top^
 ||zwbbkjvarevbe.top^
@@ -13308,6 +13316,7 @@
 ||gnssivagwelwspe.xyz^
 ||goahouma.xyz^
 ||greejoiti.xyz^
+||gsbaapfmmoq.xyz^
 ||hethisisath.xyz^
 ||heycdn56.xyz^
 ||hiljcovbfk.xyz^
@@ -13468,6 +13477,7 @@
 ||eu.rollmeout.xyz^
 ||rollserver.xyz^
 ||cdn.rollserver.xyz^
+||routowoashie.xyz^
 ||rpjhinuuk.xyz^
 ||rrhscsdlwufu.xyz^
 ||rtxbdugpeumpmye.xyz^
