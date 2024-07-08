@@ -631,6 +631,8 @@
 ||2122aaa0e5.com^
 ||c6efeba89e.2122aaa0e5.com^
 ||2158novffp.com^
+||218cc08472.com^
+||54d6a7edfb.218cc08472.com^
 ||220t.com^
 ||2211039.com^
 ||2222039.com^
@@ -931,6 +933,7 @@
 ||65vk1fba34.com^
 ||665166e5a9.com^
 ||9a9c55f07d.665166e5a9.com^
+||6686bet31.com^
 ||6686vn17.com^
 ||6686vn23.com^
 ||6686vn80.com^
@@ -2740,6 +2743,7 @@
 ||ciscavossh.com^
 ||cisdwomasozv.com^
 ||cisfazpisju.com^
+||citadelpathstatue.com^
 ||civicscience.com^
 ||www138.civicscience.com^
 ||cj.com^
@@ -3408,6 +3412,7 @@
 ||duckswillsmoochyou.com^
 ||dugout.com^
 ||embed.dugout.com^
+||duloqtszesmu.com^
 ||dumbpop.com^
 ||dummieseardrum.com^
 ||dusunkerntor.com^
@@ -4364,6 +4369,7 @@
 ||gz06x5tqlj.com^
 ||gzbwdbipemilou.com^
 ||www.gzbwdbipemilou.com^
+||gzefitkcep.com^
 ||h-bid.com^
 ||static.h-bid.com^
 ||h12-media.com^
@@ -6310,6 +6316,8 @@
 ||s.orbsrv.com^
 ||originhermichermicpros.com^
 ||origunix.com^
+||orlandowaggons.com^
+||tj.orlandowaggons.com^
 ||orquideassp.com^
 ||tags.orquideassp.com^
 ||orraxckivsud.com^
@@ -7204,6 +7212,8 @@
 ||rufflebend.com^
 ||feb1904.rufflebend.com^
 ||rufflycouncil.com^
+||rummletornese.com^
+||tr.rummletornese.com^
 ||rumt-zh.com^
 ||run-syndicate.com^
 ||cdn.run-syndicate.com^
@@ -7641,6 +7651,7 @@
 ||sovrn.com^
 ||soysapslad.com^
 ||flagb98804.spankbang.com^
+||trans2bay2989.spankbang.com^
 ||spankbangdl.com^
 ||spatterjointposition.com^
 ||spavietchats.com^
@@ -7799,11 +7810,13 @@
 ||successfulpatience.com^
 ||suchbasementdarn.com^
 ||suctionautomobile.com^
+||sudospaces.com^
 ||suffocatepremise.com^
 ||sukoqgdpej.com^
 ||sumqpealkah.com^
 ||sunmaker.com^
 ||ads.sunmaker.com^
+||sunriseholler.com^
 ||superbdolly.com^
 ||superiorickyfreshen.com^
 ||superonclick.com^
@@ -8089,6 +8102,8 @@
 ||topdisplaycontent.com^
 ||www.topdisplaycontent.com^
 ||api-ad-admin.tophaw.com^
+||topkk198.com^
+||js.topkk198.com^
 ||topmosthospitable.com^
 ||topnews-24.com^
 ||www.topnews-24.com^
@@ -8885,6 +8900,8 @@
 ||pop.wioau.com^
 ||wirsauco.com^
 ||wishesen.com^
+||wissmell.com^
+||vd004-nfaa-static-an-bgp.wissmell.com^
 ||wistia.com^
 ||distillery.wistia.com^
 ||fast.wistia.com^
@@ -9294,6 +9311,8 @@
 ||privacy.zijieapi.com^
 ||zikroarg.com^
 ||zimpolo.com^
+||zintrack.com^
+||dash.zintrack.com^
 ||zkmkuphtemb.com^
 ||www.zkmkuphtemb.com^
 ||zlinkb.com^
@@ -9993,6 +10012,7 @@
 ||visitor-analytics.io^
 ||loadbalancer.visitor-analytics.io^
 ||visits.visitor-analytics.io^
+||webcrx.io^
 ||wurfl.io^
 ||xoso66.io^
 ||yellowblue.io^
@@ -10355,6 +10375,7 @@
 ||res.rbl.ms^
 ||sfx.ms^
 ||oneclient.sfx.ms^
+||p.sfx.ms^
 ||bestwinterclck.name^
 ||1255.bestwinterclck.name^
 ||new-hot.name^
@@ -11058,7 +11079,6 @@
 ||r.mradx.net^
 ||az416426.vo.msecnd.net^
 ||az690879.vo.msecnd.net^
-||amcdn.msftauth.net^
 ||mutcheng.net^
 ||myfonts.net^
 ||hello.myfonts.net^
@@ -12675,6 +12695,8 @@
 ||zvlz.zkjqyrjkwewzy.top^
 ||zkmkaebeevkww.top^
 ||zvkj.zkmkaebeevkww.top^
+||zkmkaebeevvqe.top^
+||zvkj.zkmkaebeevvqe.top^
 ||zrkyzwrwjlwqe.top^
 ||znel.zrkyzwrwjlwqe.top^
 ||zvbkyrbjvlelz.top^
@@ -13013,6 +13035,8 @@
 ||sz.shopee.vn^
 ||infra.sz.shopee.vn^
 ||df.infra.sz.shopee.vn^
+||sudo.vn^
+||proof.sudo.vn^
 ||ad.sunflower.vn^
 ||tebrand.vn^
 ||static.tebrand.vn^
@@ -13473,6 +13497,7 @@
 ||redboxbox.xyz^
 ||reswsentativ.xyz^
 ||rhctvugjhdkaqji.xyz^
+||rmhhgpqgxxr.xyz^
 ||rollmeout.xyz^
 ||eu.rollmeout.xyz^
 ||rollserver.xyz^
@@ -14066,7 +14091,7 @@ mail.yahoo.com#?#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"
 mail.yahoo.com#?#div[data-test-id="pencil-ad"]
 mail.yahoo.com#?#div[data-test-id="video-container"]
 ###bottomads,#fbox-background,#tads,#tadsb,#taw,#tvcap,.ad,.ad-300,.ad-box,.ad-choices,.ad-container,.adbox,.admz,.ads,.banner,.cu-container,.dle_b_yandex,.float-ck,.imgac,.js-consent-banner,.med,.pl-carousel-wrapper,.sidebar-ad,.top-ads-container,div[data-id^="CarouselPLA"],[class$="-ads" i],[class$="_ads" i],[class*="-ads-" i],[class*="300x250" i],[class*="ad-wrapper" i],[class*="adblock" i],[class*="adsbygoogle" i],[class*="adsbyvli" i],[class*="adslot" i],[class*="advertisement" i],[class*="advertising" i],[class*="adwrapper" i],[class*="catfix" i],[class*="exoclick" i],[class*="ezoic" i],[class*="google-ad" i],[class*="pb-f-ads" i],[class*="quangcao" i],[class*="revamp" i],[class*="sam-slot" i],[class*="sponsor" i],[class*="taitro" i],[class*="_ads_" i],[class^="ad-top" i],[class^="ads" i],[class^="apreload-popup" i],[class^="catfish" i],[class^="inx-" i],[data-cid="TOP_PLA" i],[href*="bet"] img[src*=".gif"],[href*="doubleclick.net"],[href*="googlesyndication.com"],[id$="-ads" i],[id$="_ads" i],[id*="adblock" i],[id*="advertising" i],[id*="banner" i],[id*="catfish" i],[id*="exoclick" i],[id*="ezoic" i],[id*="gpt-ad" i],[id*="PixFuture" i],[id*="quangcao" i],[id*="ScriptRoot" i],[id*="sponsor" i],[id^="adm-slot" i],[id^="admzone" i],[id^="ads" i],[id^="advert" i],[id^="rf" i],[rel*="sponsored" i],[rel="nofollow"][target="_blank"][href*="?invitecode=" i],[rel="nofollow"][target="_blank"][href*="bet"],[rel="nofollow"][target="_blank"][href*="Register?a=" i],[rel="nofollow"][target="_blank"][rel="nofollow"] img[src*=".quoracdn.net"]
-9gag.com###stream-0 > article:last-child,#stream-1 > article.post-cell:nth-child(2),#stream-2 > article:nth-child(2),.inline-ad-container,section.block-ad,section.salt-container,[id*="sidebar-stream" i] > h4:first-child
+9gag.com###stream-0 > article:last-child,#stream-1 > article.post-cell:nth-child(2),#stream-2 > article:nth-child(2),.inline-ad-container,.signup-list-banner,section.block-ad,section.salt-container,[id*="sidebar-stream" i] > h4:first-child
 anime3s.com##div.jw-logo
 animet.net,animet1.net###inx-content,#inx-overlay,.gnarty-offads,.gnartyx-offads
 animevietsub.art,animevietsub.tv##.ad-center-header,.Ads,.Adv,.Dvr-300,.home_ads,div[class^="ads-"]
@@ -14075,11 +14100,11 @@ apkpure.com###policy-info,.chrome-install-pop,.js-ad-slot
 baidu.com###branding_ads,#web-right-view,.ad-multi-tips,.ad-platform-tips,.cps_wrap,.j_click_stats,.video-ad-creative-card
 bilibili.com###activity_vote,#bannerAd,#live_recommand_report,#slide_ad,.pop-live-small-mode,.video-page-game-card-small,.video-page-special-card-small,[href*="cm.bilibili.com"]
 bilutvs.net##.ab1,.abp-header
-bing.com##div#adstop_gradiant_separator,div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"],ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_results > li.b_algo:has(div.b_attribution[data-partnertag])
+bing.com###adstop_gradiant_separator,div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"],ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_results > li.b_algo:has(div.b_attribution[data-partnertag])
 blogtruyen.vn##.BT-Ads
 boyfriendtv.com###js-ads-modal,#rightside2,.adblock,.eu-cookies,.js-right-no-ads,.vast-overlay,.video-extra-wrapper,.x-news-line,li.media-item.no-popup,[class$="advi" i],[href*="gobanner"],[src*="paysite"]
 camelliatransgroup.com,dhcc.uk##[id^="sticky-footer" i]
-check-host.net##div#content2 div[class$="tive"],div#content2 div[class^="mt-"]:not([id="terminal-frame"]),div.container > div.flex.w-full[id$="main"],div[id^="yourip"] > div[id^="host"]
+check-host.net##div#content2 div[class$="tive"],div#content2 div[class^="mt-"]:not([id="terminal-frame"]),div.container > div.flex.w-full[id$="main"],div[id^="yourip"] > div[class^="host"],div[id^="yourip"] > div[id^="host"]
 coderanch.com###txl,.forum-top-banner,.multbntab,.shngl
 dnschecker.org##div#all_tools_below_more_tools,div#cookie-box,div[data-freestar-ad]
 fancuongboylove.com##.body-top-ads,.c-ads
