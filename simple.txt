@@ -816,6 +816,8 @@
 ||dc2242d761.47c8d48301.com^
 ||4852cf38ec.com^
 ||8a5229006e.4852cf38ec.com^
+||485f197673.com^
+||02ab67b33b.485f197673.com^
 ||4cc95e229d.com^
 ||fcb7a8ebd3.4cc95e229d.com^
 ||4d658ab856.com^
@@ -934,6 +936,7 @@
 ||665166e5a9.com^
 ||9a9c55f07d.665166e5a9.com^
 ||6686bet31.com^
+||6686bet50.com^
 ||6686vn17.com^
 ||6686vn23.com^
 ||6686vn80.com^
@@ -1109,6 +1112,7 @@
 ||199a649a2a.8f74e1229c.com^
 ||8hello88.com^
 ||www.8hello88.com^
+||8live.com^
 ||8ozhygzz5eke.com^
 ||8suckhoe.com^
 ||icdn.8suckhoe.com^
@@ -1758,6 +1762,7 @@
 ||amuckstyvain.com^
 ||amunfezanttor.com^
 ||amusingbase.com^
+||amxntatujo.com^
 ||analytickz.com^
 ||sg-pacman.analytickz.com^
 ||analytics-s4.com^
@@ -2817,6 +2822,7 @@
 ||www.clurvypxvji.com^
 ||cmd368vnd.com^
 ||www.cmd368vnd.com^
+||cmuadjagpm.com^
 ||cn-rtb.com^
 ||feed.cn-rtb.com^
 ||t.cn-rtb.com^
@@ -3170,6 +3176,7 @@
 ||mobile-http-intake.logs.ddog-gov.com^
 ||public-trace-http-intake.logs.ddog-gov.com^
 ||rum-http-intake.logs.ddog-gov.com^
+||ddzk5l3bd.com^
 ||deatchshipsmotor.com^
 ||debaucky.com^
 ||debet2.com^
@@ -3415,6 +3422,8 @@
 ||duloqtszesmu.com^
 ||dumbpop.com^
 ||dummieseardrum.com^
+||durablesites.com^
+||agency1872126.durablesites.com^
 ||dusunkerntor.com^
 ||dvokgydenwaksi.com^
 ||www.dvokgydenwaksi.com^
@@ -3470,6 +3479,8 @@
 ||e67df3f29d.com^
 ||2e8c6ccd60.e67df3f29d.com^
 ||e702fa7de9d35c37.com^
+||e82ae52eec.com^
+||70d4a0bb45.e82ae52eec.com^
 ||e8a8e57eb3.com^
 ||e2e7aaca07.e8a8e57eb3.com^
 ||e942c12c75.com^
@@ -3771,7 +3782,6 @@
 ||falangerewires.com^
 ||fam-ad.com^
 ||img.fam-ad.com^
-||services.fandom.com^
 ||fantasigloble.com^
 ||a.fantasigloble.com^
 ||api.faphouse.com^
@@ -4366,6 +4376,8 @@
 ||i.gyazo.com^
 ||gyjffdsp.com^
 ||www.gyjffdsp.com^
+||gyppingargulus.com^
+||kx.gyppingargulus.com^
 ||gz06x5tqlj.com^
 ||gzbwdbipemilou.com^
 ||www.gzbwdbipemilou.com^
@@ -6154,6 +6166,7 @@
 ||obeysatman.com^
 ||obouckie.com^
 ||obsessionthree.com^
+||obzsijqreji.com^
 ||oc2tdxocb3ae0r.com^
 ||occurclaimed.com^
 ||occxhidubbh.com^
@@ -6779,6 +6792,8 @@
 ||pushance.com^
 ||pushazam.com^
 ||pushbizapi.com^
+||pushbrothers.com^
+||app.pushbrothers.com^
 ||pushbullet.com^
 ||api.pushbullet.com^
 ||widget.pushbullet.com^
@@ -6846,6 +6861,7 @@
 ||qicjhawwod.com^
 ||qiclfoosmnm.com^
 ||qifwpepixziv.com^
+||qifzadoshb.com^
 ||qiyukf.com^
 ||dag.qiyukf.com^
 ||qkppbcrtwetdj.com^
@@ -8059,6 +8075,7 @@
 ||api.tinypass.com^
 ||cdn.tinypass.com^
 ||experience.tinypass.com^
+||tinyswans.com^
 ||tipcatscarola.com^
 ||tipico.com^
 ||www.tipico.com^
@@ -10335,6 +10352,10 @@
 ||floater.playstream.media^
 ||xh.media^
 ||wpfc.ml^
+||8live.mobi^
+||api.8live.mobi^
+||sock.8live.mobi^
+||wp.8live.mobi^
 ||b52.mobi^
 ||game.b52.mobi^
 ||choimanclub.mobi^
@@ -12267,6 +12288,8 @@
 ||bqmr.bkzwzweeavmbr.top^
 ||blushtrek.top^
 ||m.blushtrek.top^
+||bmjlzyjrkmaya.top^
+||bwqa.bmjlzyjrkmaya.top^
 ||bmjlzyjrkmqal.top^
 ||bwqa.bmjlzyjrkmqal.top^
 ||bookedbonce.top^
@@ -12354,6 +12377,8 @@
 ||exaltprizers.top^
 ||ezyebrweyqbw.top^
 ||eab.ezyebrweyqbw.top^
+||ezzmmvzqzbnav.top^
+||eqyl.ezzmmvzqzbnav.top^
 ||falterehakeems.top^
 ||feededspreath.top^
 ||ferrelkines.top^
@@ -12875,6 +12900,8 @@
 ||thethaofabet.us^
 ||xo88.us^
 ||x2.xo88.us^
+||elements.video^
+||capi.elements.video^
 ||xh.video^
 ||b52.vin^
 ||dangky789.vin^
@@ -13448,6 +13475,7 @@
 ||outchops.xyz^
 ||ouwhejoacie.xyz^
 ||owdanlytvtfkrb.xyz^
+||oxgpumiu.xyz^
 ||oyxlalowyvb.xyz^
 ||pakyjphmx.xyz^
 ||panbay.xyz^
@@ -13481,6 +13509,7 @@
 ||qefutrpgga.xyz^
 ||qhuccanuhubf.xyz^
 ||qiwlywetmp.xyz^
+||qjvacxlgn.xyz^
 ||qlgdmygpysftw.xyz^
 ||qmnqvmratp.xyz^
 ||qmrshxjr.xyz^
@@ -13564,6 +13593,7 @@
 ||voothood.xyz^
 ||vropgvsukk.xyz^
 ||vrsrunqkfh.xyz^
+||vsjxlxpcvm.xyz^
 ||vusfqprrmuj.xyz^
 ||vvpojbsibm.xyz^
 ||vvusdebvclxpi.xyz^
@@ -13828,6 +13858,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 @@||uploads.disquscdn.com^
 @@||uploads.services.disqus.com^
 ||accounts.google.com/v3/signin/_/AccountsSignInUi/browserinfo
+||amazonaws.com/jsstore/
 ||api.github.com/_private/browser/stats
 ||b.cdnst.net/javascript/
 ||bing.com/api/*/mediation/clientauction
@@ -14023,6 +14054,7 @@ twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.time
 twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.30', 'data.user.result.timeline_v2.timeline.instructions.*.entries.30.content.itemContent.promotedMetadata')
 ! With BAB, can override Math.floor=void 0 or document.body.insertBefore=void 0 will have same effects
 ! Change imgur to imgur old frontpage: imgur.com#%#document.cookie="frontpagebetav2=0;domain=.imgur.com";
+! X (Twitter) hide content warning crap source code: https://greasyfork.org/en/scripts/437359-twitter-hide-content-warning-crap/code
 123s.link,1link.vip,link1s.com#%#window.addEventListener("load",function(){document.querySelectorAll('[class*="banner" i]').forEach(e=>e.classList.remove(...e.className.match(/(\S+)?banner(\S+)?/gi))),"undefined"!=typeof app_vars&&(app_vars.counter_value=6,app_vars.force_disable_adblock=0),"undefined"!=typeof go_popup&&(go_popup=void 0)});
 adguard.com#%#window.addEventListener("load",function(){document.querySelectorAll(".language-adblock").forEach(e=>e.classList.remove("language-adblock"))});
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.sa,amazon.se,amazon.sg,bblink.com,live.com,mmo1s.com,naver.com,oraclecloud.com#%#var t=setInterval(function(){var a=document.querySelectorAll('[class*="banner" i]');a.forEach(e=>{e.classList.remove(...e.className.match(/(\S+)?banner(\S+)?/gi)),0==a.length&&clearInterval(t)})},100);
@@ -14055,6 +14087,7 @@ myreadingmanga.info#%#window.addEventListener("load",function(){"undefined"!=typ
 nhentai.net#%#window.addEventListener("DOMContentLoaded",function(){"undefined"!=typeof _n_app&&Object.defineProperties(_n_app,{analytics:{value:void 0,writable:!1},exoclick:{value:void 0,writable:!1},popunder:{value:void 0,writable:!1},xhamster:{value:void 0,writable:!1}})});
 online-python.com#%#localStorage.setItem("theme","dark");
 onlinegdb.com#%#var t=setInterval(function(){"function"==typeof savefile&&(Object.defineProperty(self,"savefile",{value:function(){return!0},writable:!1}),clearInterval(t))},100);Object.defineProperty(self,"no_ads",{value:!0,writable:!1});
+pass.proton.me#%#var originalFetch=window.fetch;window.fetch=function(...s){return originalFetch(...s).then(async s=>{var t=await s.clone().json();return t&&t.Access&&t.Access.Plan&&(t.Access.Plan.AliasLimit=9999,t.Access.Plan.HideUpgrade=!0,t.Access.Plan.TotpLimit=9999,t.Access.Plan.VaultLimit=9999),new Response(JSON.stringify(t),{status:s.status,statusText:s.statusText,headers:s.headers})})};
 rule34.xxx#%#window.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("[data-nosnippet]").forEach(e=>e.remove())});
 saostar.vn#%#window.addEventListener("DOMContentLoaded",function(){var e=document.querySelector("div.layout > div.t--0");null!=e&&e.remove(),null!=(e=document.getElementById("articlepage"))&&e.classList.remove("is-ads"),["div.w--160","div.w--300","div.article-medbottom"].forEach(t=>{null!=(e=document.querySelector(t))&&e.remove()})});
 sbchill.com,sblongvu.com,streamsss.net,watchsb.com#%#Object.defineProperties(window,{check:{value:void 0,writable:!1},isadb:{value:void 0,writable:!1},minimalUserResponseInMiliseconds:{value:void 0,writable:!1},tryCount:{value:void 0,writable:!1},__Y:{value:void 0,writable:!1}}),window.addEventListener("DOMContentLoaded",function(){"undefined"!=typeof player&&(player.setVolume(0),player.setMute(!0),localStorage.setItem("jwplayer.volume",0),localStorage.setItem("jwplayer.mute",!0))});
@@ -14112,7 +14145,7 @@ fandom.com##.bottom-ads-container,.page__right-rail,.top-ads-container
 fingau.com,getpczone.com,rahim-soft.com,uploadrar.com,wokaz.com###commonId > a.btn.btn-info.btn-lg,#commonId > a:nth-child(2) > img,#nofilepage ins,[class^="banner"]
 fullboys.com,rimsgay.com##.video-ad
 genius.com##[class^="DfpAd__" i],[class^="InreadContainer__" i],[class^="RightSidebar__" i],[class^="SectionLeaderboard__" i]
-hentaihvn.tv,hentaivn.autos,hentaivn.bio,hentaivn.fun,hentaivn.icu,hentaivn.in,hentaivn.la,hentaivn.lat,hentaivn.lol,hentaivn.moe,hentaivn.net,hentaivn.run,hentaivn.team,hentaivn.tv,hentaivn.zone,zhentaivn.cc###over,#page_ads_right,#qx-300x250,.a_d_s_115,.a_d_s_50,.qc_main,.qx_135,.size_70,.size_80,[class*="qx_main" i]
+hentaihvn.tv,hentaivn.autos,hentaivn.bio,hentaivn.fun,hentaivn.homes,hentaivn.icu,hentaivn.in,hentaivn.la,hentaivn.lat,hentaivn.lol,hentaivn.moe,hentaivn.net,hentaivn.run,hentaivn.team,hentaivn.tv,hentaivn.zone,zhentaivn.cc,zhentaivnz.cc###over,#page_ads_right,#qx-300x250,.a_d_s_115,.a_d_s_50,.qc_main,.qx_135,.size_70,.size_80,[class*="qx_main" i]
 hentaiz.net###rmcard1,img.hidden-mobile,img.visible-mobile
 hentaiz.vip##.d-none.d-lg-block
 katfile.com##div#container > p:has(> a[target="_blank"][rel="noopener"])
