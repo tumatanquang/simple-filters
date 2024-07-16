@@ -30,6 +30,10 @@
 ||reporting.powerad.ai^
 ||rebel.ai^
 ||cdn.rebel.ai^
+||securiti.ai^
+||eu.securiti.ai^
+||app.eu.securiti.ai^
+||cdn-prod.eu.securiti.ai^
 ||vdo.ai^
 ||a.vdo.ai^
 ||yellow.ai^
@@ -270,6 +274,7 @@
 ||spfgood.click^
 ||sg.spfgood.click^
 ||subscribers.click^
+||tressesnitons.click^
 ||uofrm7yv.click^
 ||ampid.cloud^
 ||dreamdata.cloud^
@@ -1200,6 +1205,7 @@
 ||recommend.9gag.com^
 ||t.9gag.com^
 ||web-t.9gag.com^
+||9p6ij.com^
 ||a-ads.com^
 ||acceptable.a-ads.com^
 ||ad.a-ads.com^
@@ -2068,6 +2074,8 @@
 ||13f9514ce8.b2d43e2764.com^
 ||b397db8f50.com^
 ||abb6927da1.b397db8f50.com^
+||b3b526dee6.com^
+||c6e82a469d.b3b526dee6.com^
 ||b40c7bfff2.com^
 ||c9dd9c12e1.b40c7bfff2.com^
 ||b5c28f9b84.com^
@@ -2442,6 +2450,7 @@
 ||bshrdr.com^
 ||creative.bshrdr.com^
 ||go.bshrdr.com^
+||bsigqyaqam.com^
 ||btloader.com^
 ||bu3le2lp4t45e6i.com^
 ||buddhabangxxx.com^
@@ -3086,6 +3095,7 @@
 ||api.cxense.com^
 ||cdn.cxense.com^
 ||scdn.cxense.com^
+||cyownltxthaxj.com^
 ||cyvxvpipawyhz.com^
 ||www.cyvxvpipawyhz.com^
 ||cywwpqgmjmthyo.com^
@@ -3116,6 +3126,8 @@
 ||d52a6b131d.com^
 ||ecf31c06c3.d52a6b131d.com^
 ||d5835d1c448d1c8ddc04.com^
+||d58f989012.com^
+||67b3239ff1.d58f989012.com^
 ||d7c6491da0.com^
 ||d2621f99ff.d7c6491da0.com^
 ||d8bb72d31d.com^
@@ -3124,6 +3136,7 @@
 ||37558710ca.d8c2d47135.com^
 ||d8f0d7e2c9.com^
 ||de8fe6b459.d8f0d7e2c9.com^
+||dabet.com^
 ||dacmaiss.com^
 ||dacpibaqwsa.com^
 ||daijopimplo.com^
@@ -3207,6 +3220,7 @@
 ||28252.deliverytrafficnews.com^
 ||deliverytraffnews.com^
 ||1255.deliverytraffnews.com^
+||sm.dell.com^
 ||deloplen.com^
 ||demandbase.com^
 ||scripts.demandbase.com^
@@ -3397,6 +3411,7 @@
 ||ss.drip.com^
 ||try.drip.com^
 ||www.drip.com^
+||analytics.driverscloud.com^
 ||drmtoday.com^
 ||lic.drmtoday.com^
 ||dronedgentile.com^
@@ -3433,6 +3448,7 @@
 ||dwooltpzylk.com^
 ||dwoopjvhazta.com^
 ||dxbnanscrg.com^
+||dxubmxamhte.com^
 ||dynamicadx.com^
 ||dynamicyield.com^
 ||async-px.dynamicyield.com^
@@ -3768,6 +3784,8 @@
 ||f8betpp.com^
 ||fa3f4c916c.com^
 ||76d29181f8.fa3f4c916c.com^
+||fa8133311d.com^
+||c39555d503.fa8133311d.com^
 ||ads.facebook.com^
 ||an.facebook.com^
 ||graph.facebook.com^
@@ -3890,6 +3908,8 @@
 ||video-95566-default-rtdb.firebaseio.com^
 ||firtribe.com^
 ||fishpassportvocational.com^
+||five88.com^
+||v1.five88.com^
 ||fivetrafficroads.com^
 ||dkjfhuyd.fivetrafficroads.com^
 ||fizawhwpyda.com^
@@ -4100,6 +4120,8 @@
 ||generallyrefinelollipop.com^
 ||generashionvd.com^
 ||tds.generashionvd.com^
+||generation-nt.com^
+||cdn-notif.generation-nt.com^
 ||geneticocuby.com^
 ||gengingairt.com^
 ||genieessp.com^
@@ -4538,6 +4560,7 @@
 ||highrevenuegate.com^
 ||pl19200896.highrevenuegate.com^
 ||pl19879344.highrevenuegate.com^
+||highrevenuenetwork.com^
 ||highwebmedia.com^
 ||stream.highwebmedia.com^
 ||roomimg.stream.highwebmedia.com^
@@ -5217,6 +5240,7 @@
 ||kidnappingendless.com^
 ||kigcpofilaw.com^
 ||kiltzekujalf.com^
+||kimxzutzutug.com^
 ||kindjalvitalic.com^
 ||kindledrummerhitch.com^
 ||king688.com^
@@ -5460,6 +5484,7 @@
 ||lixi88vip.com^
 ||lizvojebj.com^
 ||www.lizvojebj.com^
+||ljdxtrklydv.com^
 ||ljwbrgipuqqnpe.com^
 ||www.ljwbrgipuqqnpe.com^
 ||lk-static.com^
@@ -5475,6 +5500,8 @@
 ||lobimax.com^
 ||lockingadmitted.com^
 ||locusflourishgarlic.com^
+||lode88.com^
+||l1.lode88.com^
 ||loggly.com^
 ||logs-01.loggly.com^
 ||loginfra.com^
@@ -5922,6 +5949,8 @@
 ||n1internet.com^
 ||n33d0nem0re.com^
 ||n7e4t5trg0u3yegn8szj9c8xjz5wf8szcj2a5h9dzxjs50salczs8azls0zm.com^
+||nagich.com^
+||aacdn.nagich.com^
 ||naiadsystems.com^
 ||hybridclient.naiadsystems.com^
 ||nginxborder-server.naiadsystems.com^
@@ -6176,6 +6205,7 @@
 ||ocmhood.com^
 ||cdn.ocmhood.com^
 ||sdk.ocmhood.com^
+||ocmosrlpo.com^
 ||ocnlitnreabp.com^
 ||ocsjkbpjoup.com^
 ||cdp-proxy.octaglobal.com^
@@ -6214,6 +6244,7 @@
 ||ogtakvkpoaxt.com^
 ||ogtjmaofpalj.com^
 ||ohkojloxdtw.com^
+||ohssriduxan.com^
 ||ohtctjiuow.com^
 ||ohvcasodlbut.com^
 ||ojzfinlhemu.com^
@@ -6937,6 +6968,9 @@
 ||secure.quantserve.com^
 ||quantumgraph.com^
 ||users.quantumgraph.com^
+||quantummetric.com^
+||cdn.quantummetric.com^
+||ingest.quantummetric.com^
 ||quariann.com^
 ||lispi.quariann.com^
 ||quecai.com^
@@ -7249,6 +7283,7 @@
 ||rvltfgyvx.com^
 ||rw88110.com^
 ||www.rw88110.com^
+||rwualrlizf.com^
 ||rxeosevsso.com^
 ||ryeeffortoccupy.com^
 ||ryvjgiyoxomii.com^
@@ -7691,6 +7726,8 @@
 ||hindi.sportskeeda.com^
 ||m.sportskeeda.com^
 ||www.sportskeeda.com^
+||sportslocalmedia.com^
+||ads.sportslocalmedia.com^
 ||m.sportzwiki.com^
 ||gae2-spclient.spotify.com^
 ||aka.spotxcdn.com^
@@ -8065,6 +8102,7 @@
 ||mcs-sg.tiktokv.com^
 ||mcs-va.tiktokv.com^
 ||mon.tiktokv.com^
+||timcarohvgaq.com^
 ||time-pick.com^
 ||log.tinnhac.com^
 ||static.tinnhac.com^
@@ -8190,6 +8228,7 @@
 ||trckswrm.com^
 ||activerevenue.trckswrm.com^
 ||driptrip.trckswrm.com^
+||trckr.treexy.com^
 ||trello.com^
 ||tremblingkeyboardassistant.com^
 ||tremorhub.com^
@@ -8697,6 +8736,7 @@
 ||vkivatoxcsa.com^
 ||vlacdcwvufpkt.com^
 ||vlitag.com^
+||cdn.vlitag.com^
 ||services.vlitag.com^
 ||tag.vlitag.com^
 ||vmcxdaynkhnekp.com^
@@ -8788,6 +8828,7 @@
 ||w7zglmcdreij.com^
 ||wadawada-stop-report-us.com^
 ||cdn.wadawada-stop-report-us.com^
+||wagenerfevers.com^
 ||wageredbrinies.com^
 ||fj.wageredbrinies.com^
 ||waisheph.com^
@@ -9002,6 +9043,7 @@
 ||wyimgydwxcy.com^
 ||wyorrmuftjp.com^
 ||www.wyorrmuftjp.com^
+||wziharasgcra.com^
 ||x7r3mk6ldr.com^
 ||xabxtuuaboxpgo.com^
 ||xadsmart.com^
@@ -9504,6 +9546,7 @@
 ||gdpr.web0.eu^
 ||remerge.events^
 ||ap3.remerge.events^
+||sao789.fan^
 ||taicamp88.fan^
 ||analysis.fi^
 ||ecdn.analysis.fi^
@@ -9533,6 +9576,8 @@
 ||entreprise-couverture41.fr^
 ||franceproimpression.fr^
 ||fredleplombier.fr^
+||galaxiemedia.fr^
+||cdn.galaxiemedia.fr^
 ||ifcolors.fr^
 ||lanadimartino.fr^
 ||leadplace.fr^
@@ -9564,6 +9609,7 @@
 ||hentaihaven.fun^
 ||cdn5.hentaihaven.fun^
 ||king52.fun^
+||kingme1.fun^
 ||nkyouvery.fun^
 ||onsideratio.fun^
 ||prederablyw.fun^
@@ -9771,6 +9817,8 @@
 ||aegis.anonymised.io^
 ||material.anonymised.io^
 ||static.anonymised.io^
+||appconsent.io^
+||cdn.appconsent.io^
 ||app.appzi.io^
 ||arc.io^
 ||static.arc.io^
@@ -9899,6 +9947,8 @@
 ||experiences.mrf.io^
 ||sdk.mrf.io^
 ||io.narrative.io^
+||nexx360.io^
+||cdn.nexx360.io^
 ||hb.nicherev.io^
 ||notix.io^
 ||ntv.io^
@@ -10290,6 +10340,8 @@
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^
 ||choidebet.me^
 ||ad.choidebet.me^
+||connectapi.me^
+||api.connectapi.me^
 ||cowboy2u4me.me^
 ||dabet.me^
 ||empiresystems.me^
@@ -10494,6 +10546,8 @@
 ||track.analitycs.net^
 ||anrdoezrs.net^
 ||www.anrdoezrs.net^
+||apigame.net^
+||api.apigame.net^
 ||apigee.net^
 ||cmg-prod.apigee.net^
 ||t.apkpure.net^
@@ -10951,6 +11005,7 @@
 ||go-mpulse.net^
 ||c.go-mpulse.net^
 ||s.go-mpulse.net^
+||s2.go-mpulse.net^
 ||grangilo.net^
 ||gravitec.net^
 ||cdn.gravitec.net^
@@ -12252,6 +12307,8 @@
 ||ayahspollent.top^
 ||ayerjjnzwkyww.top^
 ||awye.ayerjjnzwkyww.top^
+||ayllnlljvjabm.top^
+||ajyj.ayllnlljvjabm.top^
 ||ayyjenjkbnrya.top^
 ||awvn.ayyjenjkbnrya.top^
 ||azvneyrbeeaew.top^
@@ -12461,6 +12518,8 @@
 ||jwyl.jrkbnvkvraerw.top^
 ||jrnkmlemannnj.top^
 ||jwby.jrnkmlemannnj.top^
+||jrnkmlemanwnv.top^
+||jwby.jrnkmlemanwnv.top^
 ||jrnkmlrajnbnj.top^
 ||jwby.jrnkmlrajnbnj.top^
 ||jvbzzmnrbzwyl.top^
@@ -12504,6 +12563,8 @@
 ||lionizeaegagri.top^
 ||liquidsisterjoin.top^
 ||litanymelon.top^
+||lkvjnnjvvllqz.top^
+||lwky.lkvjnnjvvllqz.top^
 ||lkzlambrnlbvj.top^
 ||layb.lkzlambrnlbvj.top^
 ||lkzlambrnlvzb.top^
@@ -12785,6 +12846,7 @@
 ||dabet.tv^
 ||api.dabet.tv^
 ||sock.dabet.tv^
+||fa88.tv^
 ||forooqso.tv^
 ||ak.forooqso.tv^
 ||go88.tv^
@@ -13195,6 +13257,9 @@
 ||ad.gem88.win^
 ||qc.gem88.win^
 ||hitclub.win^
+||ku88.win^
+||api.ku88.win^
+||socket.ku88.win^
 ||luckyspin.win^
 ||www.luckyspin.win^
 ||may88.win^
@@ -13227,6 +13292,8 @@
 ||cbox.ws^
 ||www3.cbox.ws^
 ||www6.cbox.ws^
+||connectline.ws^
+||res.connectline.ws^
 ||redirect2719.ws^
 ||rmbl.ws^
 ||i.rmbl.ws^
@@ -13295,6 +13362,7 @@
 ||cdnz052.xyz^
 ||cdnz099.xyz^
 ||cdvivfvnyccn.xyz^
+||cdxhjnnyyga.xyz^
 ||chaipungie.xyz^
 ||choihitclub.xyz^
 ||chymjnqhaklcgr.xyz^
@@ -13466,6 +13534,7 @@
 ||nvuwqcfdux.xyz^
 ||ocfpydvdcyw.xyz^
 ||oigmpohwiwac.xyz^
+||oixrcjajslw.xyz^
 ||oldharper.xyz^
 ||omcxyekq.xyz^
 ||onhuhdnxmb.xyz^
@@ -13543,6 +13612,7 @@
 ||selsattherean.xyz^
 ||shookahi.xyz^
 ||sirdushi.xyz^
+||sjsmirigphnucwn.xyz^
 ||skpqsxgypo.xyz^
 ||skq3wosjd.xyz^
 ||mq.skq3wosjd.xyz^
@@ -13857,6 +13927,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 @@||s.yimg.com/nq/nr/js/mail_app_*.js
 @@||uploads.disquscdn.com^
 @@||uploads.services.disqus.com^
+||10minutemail.com/ub/
 ||accounts.google.com/v3/signin/_/AccountsSignInUi/browserinfo
 ||amazonaws.com/jsstore/
 ||api.github.com/_private/browser/stats
@@ -14087,7 +14158,7 @@ myreadingmanga.info#%#window.addEventListener("load",function(){"undefined"!=typ
 nhentai.net#%#window.addEventListener("DOMContentLoaded",function(){"undefined"!=typeof _n_app&&Object.defineProperties(_n_app,{analytics:{value:void 0,writable:!1},exoclick:{value:void 0,writable:!1},popunder:{value:void 0,writable:!1},xhamster:{value:void 0,writable:!1}})});
 online-python.com#%#localStorage.setItem("theme","dark");
 onlinegdb.com#%#var t=setInterval(function(){"function"==typeof savefile&&(Object.defineProperty(self,"savefile",{value:function(){return!0},writable:!1}),clearInterval(t))},100);Object.defineProperty(self,"no_ads",{value:!0,writable:!1});
-pass.proton.me#%#var originalFetch=window.fetch;window.fetch=function(...s){return originalFetch(...s).then(async s=>{var t=await s.clone().json();return t&&t.Access&&t.Access.Plan&&(t.Access.Plan.AliasLimit=9999,t.Access.Plan.HideUpgrade=!0,t.Access.Plan.TotpLimit=9999,t.Access.Plan.VaultLimit=9999),new Response(JSON.stringify(t),{status:s.status,statusText:s.statusText,headers:s.headers})})};
+pass.proton.me#%#var oFetch=window.fetch;window.fetch=function(...s){return oFetch(...s).then(async s=>{var e=await s.clone().json();return e&&e.Access&&e.Access.Plan&&(e.Access.Plan.AliasLimit=null,e.Access.Plan.DisplayName="Proton Plus",e.Access.Plan.HideUpgrade=!0,e.Access.Plan.InternalName="plus",e.Access.Plan.TotpLimit=null,e.Access.Plan.Type="plus",e.Access.Plan.VaultLimit=null),new Response(JSON.stringify(e),{status:s.status,statusText:s.statusText,headers:s.headers})})};
 rule34.xxx#%#window.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("[data-nosnippet]").forEach(e=>e.remove())});
 saostar.vn#%#window.addEventListener("DOMContentLoaded",function(){var e=document.querySelector("div.layout > div.t--0");null!=e&&e.remove(),null!=(e=document.getElementById("articlepage"))&&e.classList.remove("is-ads"),["div.w--160","div.w--300","div.article-medbottom"].forEach(t=>{null!=(e=document.querySelector(t))&&e.remove()})});
 sbchill.com,sblongvu.com,streamsss.net,watchsb.com#%#Object.defineProperties(window,{check:{value:void 0,writable:!1},isadb:{value:void 0,writable:!1},minimalUserResponseInMiliseconds:{value:void 0,writable:!1},tryCount:{value:void 0,writable:!1},__Y:{value:void 0,writable:!1}}),window.addEventListener("DOMContentLoaded",function(){"undefined"!=typeof player&&(player.setVolume(0),player.setMute(!0),localStorage.setItem("jwplayer.volume",0),localStorage.setItem("jwplayer.mute",!0))});
