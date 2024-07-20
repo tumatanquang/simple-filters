@@ -256,6 +256,7 @@
 ||blueoyster.click^
 ||www.blueoyster.click^
 ||collecting.click^
+||comarcalaveer.click^
 ||dfyui8r5rs.click^
 ||dissaitknelled.click^
 ||ertytrs.click^
@@ -878,6 +879,8 @@
 ||dfd1240c9c.592eb4ef33.com^
 ||5afd9ec0ab.com^
 ||47dff461d7.5afd9ec0ab.com^
+||5b4ed922fe.com^
+||027f8ac71a.5b4ed922fe.com^
 ||5b7cb7236e.com^
 ||40dd6c8f55.5b7cb7236e.com^
 ||5c530d2179.com^
@@ -1186,8 +1189,14 @@
 ||e84d68b6e3.9bf9309f6f.com^
 ||9c98029b1e.com^
 ||0f269944ac.9c98029b1e.com^
+||9d2cca15e4.com^
+||af6149c8d9.9d2cca15e4.com^
 ||9d407e803d.com^
 ||8a351b33de.9d407e803d.com^
+||9d603009eb.com^
+||5f1c44aaf7.9d603009eb.com^
+||9d8880ca57.com^
+||9db1ac1992.9d8880ca57.com^
 ||9e1852531b.com^
 ||bfd2d865a7.9e1852531b.com^
 ||9edb4a8944.com^
@@ -1486,6 +1495,7 @@
 ||adspyglass.com^
 ||www.adspyglass.com^
 ||adsrv4k.com^
+||adsterra.com^
 ||adsterratech.com^
 ||landings-cdn.adsterratech.com^
 ||adstructor.com^
@@ -1504,6 +1514,7 @@
 ||aka-cdn-vdms-test.adtechus.com^
 ||ums.adtechus.com^
 ||adtelligent.com^
+||ads16.adtelligent.com^
 ||ghb.adtelligent.com^
 ||sync.adtelligent.com^
 ||adthrive.com^
@@ -1629,6 +1640,7 @@
 ||ahtokvdaznhy.com^
 ||aibixby.com^
 ||prd-apne2-ucs.aibixby.com^
+||ailil-fzt.com^
 ||aiphaneest.com^
 ||airpackapp.com^
 ||static.airpackapp.com^
@@ -2237,6 +2249,7 @@
 ||bet365.com^
 ||members.bet365.com^
 ||mobile.bet365.com^
+||betbonuswin.com^
 ||betotodilea.com^
 ||betrad.com^
 ||l.betrad.com^
@@ -2702,6 +2715,7 @@
 ||chafesnitchenglish.com^
 ||chametzunbelt.com^
 ||xw.chametzunbelt.com^
+||chance-for-bigwin.com^
 ||chargebee.com^
 ||js.chargebee.com^
 ||linkvertise.chargebee.com^
@@ -2714,6 +2728,7 @@
 ||t2.chartboost.com^
 ||chatango.com^
 ||st.chatango.com^
+||ab.chatgpt.com^
 ||cheapenleaving.com^
 ||checkyofeed.com^
 ||chegg.com^
@@ -2738,6 +2753,7 @@
 ||chl7rysobc3ol6xla.com^
 ||choconart.com^
 ||choupsee.com^
+||chpadblock.com^
 ||stanb.chuckyluck.com^
 ||chullohagrode.com^
 ||chumsaft.com^
@@ -6208,6 +6224,8 @@
 ||ocmosrlpo.com^
 ||ocnlitnreabp.com^
 ||ocsjkbpjoup.com^
+||octafx.com^
+||www.octafx.com^
 ||cdp-proxy.octaglobal.com^
 ||clientlog.octaglobal.com^
 ||user-hits.octaglobal.com^
@@ -6247,6 +6265,7 @@
 ||ohssriduxan.com^
 ||ohtctjiuow.com^
 ||ohvcasodlbut.com^
+||ojgozbxurqc.com^
 ||ojzfinlhemu.com^
 ||okvgababvaxk.com^
 ||okx.com^
@@ -6368,6 +6387,7 @@
 ||orxbqsvibjxqvai.com^
 ||osano.com^
 ||cmp.osano.com^
+||oscohkajcjz.com^
 ||oseculretabout.com^
 ||osfajqzcybu.com^
 ||osharvrziafx.com^
@@ -6565,6 +6585,7 @@
 ||phloxsub73ulata.com^
 ||phortaub.com^
 ||phoudson.com^
+||phuapkol.com^
 ||phukrovo.com^
 ||phumpauk.com^
 ||ak.phumpauk.com^
@@ -6578,6 +6599,7 @@
 ||t.picsart.com^
 ||pierisrapgae.com^
 ||pignuwoa.com^
+||ads.pinterest.com^
 ||assets.pinterest.com^
 ||ct.pinterest.com^
 ||log.pinterest.com^
@@ -7356,6 +7378,7 @@
 ||hindi.santabanta.com^
 ||m.santabanta.com^
 ||saptorge.com^
+||sarcasticnotarycontrived.com^
 ||sardonic-track.com^
 ||sascdn.com^
 ||ced.sascdn.com^
@@ -7558,6 +7581,7 @@
 ||sikqmlgsh.com^
 ||www.sikqmlgsh.com^
 ||silentinevitable.com^
+||silktide.com^
 ||silversomewhatbudget.com^
 ||silwtuobsb.com^
 ||simplewebanalysis.com^
@@ -8711,6 +8735,8 @@
 ||s.viimun.com^
 ||viiruc.com^
 ||s.viiruc.com^
+||vilitram.com^
+||us.vilitram.com^
 ||player-telemetry.vimeo.com^
 ||fresnel.vimeocdn.com^
 ||fresnel-events.vimeocdn.com^
@@ -9405,6 +9431,7 @@
 ||zumorhshij.com^
 ||zunsoach.com^
 ||zuphaims.com^
+||zwywhipwam.com^
 ||zx-adnet.com^
 ||cdn.zx-adnet.com^
 ||zysheptany.com^
@@ -9623,6 +9650,7 @@
 ||f8bet.fund^
 ||gtp.fyi^
 ||h26t67sx.ga^
+||b52.game^
 ||manclub.game^
 ||dk8.games^
 ||kubet88.games^
@@ -9712,6 +9740,9 @@
 ||aphycolourses.info^
 ||asnothycan.info^
 ||attacketslovern.info^
+||b5bakipcols.info^
+||api4.b5bakipcols.info^
+||api6.b5bakipcols.info^
 ||bitrix.info^
 ||bvmgo.info^
 ||go.bvmgo.info^
@@ -10298,6 +10329,7 @@
 ||aegis.trovo.live^
 ||vipads.live^
 ||www.vipads.live^
+||worldstreams.live^
 ||yeahphimum.live^
 ||p06pvzv.yeahphimum.live^
 ||yohavemix.live^
@@ -10446,9 +10478,7 @@
 ||assets.rbl.ms^
 ||pages-stats.rbl.ms^
 ||res.rbl.ms^
-||sfx.ms^
 ||oneclient.sfx.ms^
-||p.sfx.ms^
 ||bestwinterclck.name^
 ||1255.bestwinterclck.name^
 ||new-hot.name^
@@ -11080,6 +11110,8 @@
 ||cdn.innity.net^
 ||installads.net^
 ||www.installads.net^
+||iptogreg.net^
+||ak.iptogreg.net^
 ||jerimpob.net^
 ||jomtingi.net^
 ||jouteetu.net^
@@ -11191,8 +11223,6 @@
 ||oaghoors.net^
 ||oagudole.net^
 ||oaphoace.net^
-||lifecycle.office.net^
-||content.lifecycle.office.net^
 ||ogtrk.net^
 ||jump.ogtrk.net^
 ||omoonsih.net^
@@ -11723,6 +11753,8 @@
 ||sdk.privacy-center.org^
 ||robohash.org^
 ||sc2mp3.org^
+||seamlessaccess.org^
+||service.seamlessaccess.org^
 ||setitoefanyor.org^
 ||skaip.org^
 ||apps.skaip.org^
@@ -12098,6 +12130,7 @@
 ||bumpkinclon.shop^
 ||galootsmulcted.shop^
 ||nikkounring.shop^
+||regearpieing.shop^
 ||roscianwaltron.shop^
 ||tazeeabroose.shop^
 ||vuabet88.shop^
@@ -12492,10 +12525,14 @@
 ||jkrw.jeannvalmvvzv.top^
 ||jeannvazzvkvw.top^
 ||jkrw.jeannvazzvkvw.top^
+||jeannvazzvlvl.top^
+||jkrw.jeannvazzvlvl.top^
 ||jeannvazzvyzv.top^
 ||jkrw.jeannvazzvyzv.top^
 ||jenwyrjervakv.top^
 ||jyrr.jenwyrjervakv.top^
+||jerjrqqazabnj.top^
+||jqkj.jerjrqqazabnj.top^
 ||jerjrqqazamvw.top^
 ||jqkj.jerjrqqazamvw.top^
 ||jinguisiacal.top^
@@ -13341,6 +13378,7 @@
 ||bkoigauba.xyz^
 ||blkolhjcjuf.xyz^
 ||bmcwwjfpoxgc.xyz^
+||bmhuinuvufblu.xyz^
 ||bmjidc.xyz^
 ||boardmotion.xyz^
 ||trk.boardmotion.xyz^
@@ -13499,10 +13537,12 @@
 ||lleadupthere.xyz^
 ||llnpucstr.xyz^
 ||lltyfiqsdgsvnr.xyz^
+||lmwapsljgquef.xyz^
 ||lsstejgbu.xyz^
 ||lumupu.xyz^
 ||t.lumupu.xyz^
 ||luonxumpaams.xyz^
+||lvxukdwnbc.xyz^
 ||medadelem.xyz^
 ||media3s.xyz^
 ||img.media3s.xyz^
@@ -13733,8 +13773,8 @@
 /(sa-sdk-javascript|web-vitals)@/
 /.*(?<!(downlo|spre|uplo))ads.*\.js/$match-case,script
 /.*(_ads)\.js/$script
-/3(0|5)0(-|x)2?5?0/
-/728(-|x)90/
+/3(0|5)0(-|x)2?5?0/$image
+/728(-|x)90/$image
 /adb(lock|-analytics)/
 /advertis(ement|ing)/
 /catfish.*/
@@ -13743,7 +13783,7 @@
 /detect(\.|-)?dev\.js/
 /dfp\.min\.js/$domain=fastssh.com
 /funcript.*\.php/
-/imgur\/.*\.gif/
+/imgur\/.*\.gif/$image
 /index\/ping/
 /matomo\.(js|php)/
 /prop(click|eller)/
@@ -13754,7 +13794,7 @@
 /\.com\/(accounts\/CheckConnection|common\/cavalry_endpoint\.php|get_midroll_info|logging\/falco|onetag|o\/oauth2\/iframe|silver-surfer\.html)/
 /\.com\/(allow-preferred|gsi|js\/th|nb|pagead|pcs|tr)\//
 /\/(1(px)?|p(x|ing|ix)?|tracking)\.gif/
-/\/(ad-block|ad-recovery(\.min)?|am-push-cps|analytic|analytics(\.min)?|bann|bn_inters|brt|cast_sender|cmdakui|cookieconsent(\.min)?|ezgifcom|gemini|goog(ima|le_funding_choices)|invoke|jwpsrv|nmash|pop(under|up)?|pwabuilder-sw|px|revamp|rum|video-ad|xads|xghiaut|xvideo-js|yellowai)\.js/$script
+/\/(ad-block|ad-recovery(\.min)?|am-push-cps|analytic|analytics(\.min)?|bann|bn_inters|brt|cast_sender|cmdakui|cookieconsent(\.min)?|ezgifcom|gemini|goog(ima|le_funding_choices)|invoke|jwpsrv|nmash|pop(under|up)?|promotion|pwabuilder-sw|px|revamp|rum|video-ad|xads|xghiaut|xvideo-js|yellowai)\.js/$script
 /\/(advertise|ad\.|affiliate|banner(?!Notifications?)|devtools|OneSignal|prebid|show-promote|stickyads|tag|vast).*\.js/$script
 /\/(assets|js)\/jquery\/jquery([\d\-\.]+)?\.min\.js\?v=[\d\.]+(&type=\w+)?/
 /\/.*adpia.*\//
