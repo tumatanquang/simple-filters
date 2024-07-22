@@ -274,6 +274,7 @@
 ||newtest4pc.set4theupdatesforever.click^
 ||spfgood.click^
 ||sg.spfgood.click^
+||stolatapa.click^
 ||subscribers.click^
 ||tressesnitons.click^
 ||uofrm7yv.click^
@@ -554,6 +555,8 @@
 ||6fb345e22a.0f3f317f1d.com^
 ||0f6f763bf7.com^
 ||2dcc132857.0f6f763bf7.com^
+||0f7d2e9c5b.com^
+||b00957f07f.0f7d2e9c5b.com^
 ||11029984.com^
 ||images.11029984.com^
 ||1234picz.com^
@@ -2431,10 +2434,30 @@
 ||brave888.com^
 ||record.brave888.com^
 ||braze.com^
+||dashboard-02.braze.com^
+||dashboard-03.braze.com^
+||dashboard-04.braze.com^
+||dashboard-05.braze.com^
+||dashboard-08.braze.com^
+||dashboard-09.braze.com^
 ||iad-01.braze.com^
 ||sdk.iad-01.braze.com^
+||iad-02.braze.com^
+||sdk.iad-02.braze.com^
+||iad-03.braze.com^
+||sdk.iad-03.braze.com^
+||iad-04.braze.com^
+||sdk.iad-04.braze.com^
+||iad-05.braze.com^
+||sdk.iad-05.braze.com^
 ||iad-06.braze.com^
 ||sdk.iad-06.braze.com^
+||iad-07.braze.com^
+||sdk.iad-07.braze.com^
+||iad-08.braze.com^
+||sdk.iad-08.braze.com^
+||iad-09.braze.com^
+||sdk.iad-09.braze.com^
 ||breakfastinvitingdetergent.com^
 ||brealtime.com^
 ||biddr.brealtime.com^
@@ -3072,6 +3095,7 @@
 ||csscloudstorage.com^
 ||csykhjry.com^
 ||www.csykhjry.com^
+||cteolsof.com^
 ||doubleclick.ctfile.com^
 ||mydisplay.ctfile.com^
 ||ctljdfkdz.com^
@@ -3527,6 +3551,7 @@
 ||go.eabids.com^
 ||static.eabids.com^
 ||earlapssmalm.com^
+||earringsatisfiedsplice.com^
 ||timejs.game.easebar.com^
 ||bee.tc.easebar.com^
 ||track.easeus.com^
@@ -3780,6 +3805,8 @@
 ||a1391330c0.f43f5a2390.com^
 ||f4823894ba.com^
 ||fd35bb45c8.f4823894ba.com^
+||f59408d48d.com^
+||e0593385f7.f59408d48d.com^
 ||f5e03754b3.com^
 ||552f323934.f5e03754b3.com^
 ||f5ea66a9f7.com^
@@ -4225,6 +4252,8 @@
 ||dts.gnpge.com^
 ||go2affise.com^
 ||wildbearads.go2affise.com^
+||go2sdk.com^
+||js.go2sdk.com^
 ||go6shde9nj2itle.com^
 ||go88n.com^
 ||goadx.com^
@@ -5382,6 +5411,7 @@
 ||laudulut.com^
 ||launchdarkly.com^
 ||app.launchdarkly.com^
+||clientstream.launchdarkly.com^
 ||events.launchdarkly.com^
 ||launchingonsetwhirlwind.com^
 ||laurieinevitablyhistorian.com^
@@ -5677,6 +5707,9 @@
 ||mediaoaktree.com^
 ||mediapalmtree.com^
 ||mediasply.com^
+||mediatradecraft.com^
+||cdn.mediatradecraft.com^
+||01.cdn.mediatradecraft.com^
 ||mediav.com^
 ||360fenxi.mediav.com^
 ||mediavine.com^
@@ -7009,6 +7042,8 @@
 ||quokkacheeks.com^
 ||a.quora.com^
 ||q.quora.com^
+||tch.quora.com^
+||tch134128.tch.quora.com^
 ||quotessrchtab.com^
 ||high.quotessrchtab.com^
 ||quxsiraqxla.com^
@@ -7875,6 +7910,10 @@
 ||stumbleupon.com^
 ||www.stumbleupon.com^
 ||stunthedge.com^
+||stytch.com^
+||elements.stytch.com^
+||js.stytch.com^
+||web.stytch.com^
 ||subiz-cdn.com^
 ||public-gcs.subiz-cdn.com^
 ||vcdn.subiz-cdn.com^
@@ -9287,6 +9326,7 @@
 ||yonxatuor.com^
 ||yoshki.com^
 ||cdn.yoshki.com^
+||gtm.you.com^
 ||you-cubez.com^
 ||www.you-cubez.com^
 ||interflow.youdao.com^
@@ -9398,6 +9438,7 @@
 ||zimpolo.com^
 ||zintrack.com^
 ||dash.zintrack.com^
+||zivadstceasz.com^
 ||zkmkuphtemb.com^
 ||www.zkmkuphtemb.com^
 ||zlinkb.com^
@@ -9890,6 +9931,8 @@
 ||cdn.connectad.io^
 ||i.connectad.io^
 ||sync-eu.connectad.io^
+||da88.io^
+||static.da88.io^
 ||dable.io^
 ||api.dable.io^
 ||static.dable.io^
@@ -10601,6 +10644,9 @@
 ||ausoafab.net^
 ||adncdnend.azureedge.net^
 ||consent.azureedge.net^
+||msadsscale.azureedge.net^
+||azurefd.net^
+||consentdeliveryfd.azurefd.net^
 ||appzi-collector-b.azurewebsites.net^
 ||bbangads.b-cdn.net^
 ||beamanalytics.b-cdn.net^
@@ -12350,6 +12396,8 @@
 ||abbj.azvneyrknevre.top^
 ||azwkjjkwkjeye.top^
 ||abmw.azwkjjkwkjeye.top^
+||azwkjjkwkjnvv.top^
+||abmw.azwkjjkwkjnvv.top^
 ||azwkjjkwkqlka.top^
 ||abmw.azwkjjkwkqlka.top^
 ||babhanananym.top^
@@ -13485,12 +13533,14 @@
 ||howqfivgnqkr.xyz^
 ||hpwlfhwydefe.xyz^
 ||hqawqssuvqyl.xyz^
+||hqxcfmovacctri.xyz^
 ||hrpmqvndvxc.xyz^
 ||hrtbslmklgujvr.xyz^
 ||htejxmjwli.xyz^
 ||htilucgfvcvqnq.xyz^
 ||htlaaogcreeepuj.xyz^
 ||huapydce.xyz^
+||hwxuptncpmohld.xyz^
 ||hxaubnrfgxke.xyz^
 ||hypqxpxwvfsfx.xyz^
 ||ievaoixvcy.xyz^
@@ -13981,6 +14031,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||chaturbate.com^$third-party,subdocument
 ||cloud.google.com/log
 ||cnet.com/ext/
+||codepen.io/cpe/csp
 ||community.cloudflare.com/deprecation-collector/
 ||community.cloudflare.com/discourse-interstitial/
 ||console.cloud.google.com/p/heartbeat
@@ -14013,6 +14064,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||nhentai.net/api/hit
 ||patreon.com/api/tracking
 ||pay.google.com/gp/p/_/InstantbuyFrontendBuyflowPayframeUi/jserror
+||quora.com/ajax/receive_POST
 ||quoracdn.net^$domain=dam18.net|haysex.net|hentaivl.tv|hentaivn.day|heo69.top|lenlut.net|mup69.net|phevkl.biz|phim3x.us|sexthailan.com|vlxx.ai|vlxx.moe|vlxxhot.net|vlxyz.net|vlxyz.tv|vnxx.xyz|xemsex.gg|xemsex.moe|xemsex.vc|xnxxpro.net|xnxxpro.xxx|xvideo3s.cc|xvideos.moe|xvideos98.pro|xvideos98.xxx,third-party
 ||s.yimg.com/aaq/
 ||s.yimg.com/av/ads/
@@ -14021,6 +14073,12 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||s.yimg.com/nq/
 ||s.yimg.com/os/yaft/
 ||s.yimg.com/rq/
+||script.wikia.nocookie.net/fandom-ae-assets/identity-service/*/static-consents.js
+||script.wikia.nocookie.net/fandom-ae-assets/platforms/*/ucp-desktop/main.bundle.js
+||script.wikia.nocookie.net/fandom-ae-assets/tracking-opt-in/*/tracking-opt-in*.js
+||services.fandom.com/icbm/api/loader?app=fandomdesktop
+||static.wikia.nocookie.net/silversurfer/prod/latest/marketingNotificationsUnit-pathfinder.js
+||static.wikia.nocookie.net/silversurfer/prod/latest/sdk.js
 ||support.google.com/apis/logjourney
 ||support.google.com/s/clientsidestreamz
 ||terabox.com/api/ad/
@@ -14034,6 +14092,11 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||yandex.ru/an/
 ||yastatic.net/partner-code-bundles/
 ||yastatic.net/safeframe-bundles/
+||you.com/api/get_nullstate_suggestions
+||you.com/api/logger
+||you.com/api/recordEvent
+||you.com/scripts/appsFlyer.js
+||you.com/scripts/gtm.js
 ||youtube.com/api/stats/ads?
 ||youtube.com/api/stats/atr?
 ||youtube.com/api/stats/playback
@@ -14252,7 +14315,7 @@ check-host.net##div#content2 div[class$="tive"],div#content2 div[class^="mt-"]:n
 coderanch.com###txl,.forum-top-banner,.multbntab,.shngl
 dnschecker.org##div#all_tools_below_more_tools,div#cookie-box,div[data-freestar-ad]
 fancuongboylove.com##.body-top-ads,.c-ads
-fandom.com##.bottom-ads-container,.page__right-rail,.top-ads-container
+fandom.com###WikiaBar,.bottom-ads-container,.page__right-rail,.top-ads-container,div[id^="featured-video"]
 fingau.com,getpczone.com,rahim-soft.com,uploadrar.com,wokaz.com###commonId > a.btn.btn-info.btn-lg,#commonId > a:nth-child(2) > img,#nofilepage ins,[class^="banner"]
 fullboys.com,rimsgay.com##.video-ad
 genius.com##[class^="DfpAd__" i],[class^="InreadContainer__" i],[class^="RightSidebar__" i],[class^="SectionLeaderboard__" i]
@@ -14272,7 +14335,7 @@ myreadingmanga.info##center,.imgtop
 pixiv.net##iframe:not([title*="reCAPTCHA"])
 poipiku.com##[class$="SideBarAd" i]
 pornhub.com##.ad-link,.adContainer,.adContainer,.pb_template,.premiumAdvertWrapper,.premiumPromoBannerWrapper,.removeAdLink,.sniperModeEngaged,.topAdContainter
-reddit.com##.adLinkBar,div[class*="ad-"],shreddit-ad-post,shreddit-comments-page-ad,shreddit-dynamic-ad-link,[class*="promoted" i],[class*="promotedlink" i],[class*="XPromoPill" i],[data-before-content*="advertisement" i],[href*="alb.reddit.com"],[post-outbound-link*="alb.reddit.com"]
+reddit.com##.adLinkBar,div[class*="ad-"]:not(.unread-notification),shreddit-ad-post,shreddit-comments-page-ad,shreddit-dynamic-ad-link,[class*="promoted" i],[class*="promotedlink" i],[class*="XPromoPill" i],[data-before-content*="advertisement" i],[href*="alb.reddit.com"],[post-outbound-link*="alb.reddit.com"]
 regex101.com###regex-app > div:first-child > div > div:nth-child(2),body > div:last-child > div > div > div:nth-child(3)
 regexr.com##.noad
 rottentomatoes.com###header_and_leaderboard,.legacy-home-spotlight
