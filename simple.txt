@@ -253,8 +253,10 @@
 ||vickykilled.cfd^
 ||crisp.chat^
 ||client.crisp.chat^
+||auldbosh.click^
 ||blueoyster.click^
 ||www.blueoyster.click^
+||catsupsfinspot.click^
 ||collecting.click^
 ||comarcalaveer.click^
 ||dfyui8r5rs.click^
@@ -265,6 +267,8 @@
 ||hutzpaquayful.click^
 ||iou6d.click^
 ||koiddc.click^
+||mastiffcarfax.click^
+||neighrewarn.click^
 ||pocli.click^
 ||pokjhgrs.click^
 ||r5uuklquq8ngd.click^
@@ -272,6 +276,7 @@
 ||ss.redirectsstm.click^
 ||set4theupdatesforever.click^
 ||newtest4pc.set4theupdatesforever.click^
+||sewarsocages.click^
 ||spfgood.click^
 ||sg.spfgood.click^
 ||stolatapa.click^
@@ -486,6 +491,8 @@
 ||wdfl.co^
 ||r.wdfl.co^
 ||winbet99.co^
+||zonka.co^
+||us-js.zonka.co^
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^
 ||rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes^
 ||ssm.codes^
@@ -820,6 +827,8 @@
 ||465c3b7fb1.com^
 ||588d37a62f.465c3b7fb1.com^
 ||4690y10pvpq8.com^
+||46bd8e62a2.com^
+||43a8f5806e.46bd8e62a2.com^
 ||4710af267.com^
 ||47c8d48301.com^
 ||dc2242d761.47c8d48301.com^
@@ -882,6 +891,8 @@
 ||dfd1240c9c.592eb4ef33.com^
 ||5afd9ec0ab.com^
 ||47dff461d7.5afd9ec0ab.com^
+||5b3fbababb.com^
+||24ac8b188b.5b3fbababb.com^
 ||5b4ed922fe.com^
 ||027f8ac71a.5b4ed922fe.com^
 ||5b7cb7236e.com^
@@ -1987,6 +1998,7 @@
 ||astrandconifer.com^
 ||aswjtiwryakv.com^
 ||atcxfuazmav.com^
+||atdphuojbb.com^
 ||athbzeobts.com^
 ||atimaze.com^
 ||random-affiliate.atimaze.com^
@@ -2247,6 +2259,7 @@
 ||bestcond1tions.com^
 ||bestsafefast.com^
 ||tds.bestsafefast.com^
+||bestsearchdeals.com^
 ||bestsmsmaza.com^
 ||bet20top.com^
 ||bet365.com^
@@ -2488,6 +2501,7 @@
 ||go.bshrdr.com^
 ||bsigqyaqam.com^
 ||btloader.com^
+||api.btloader.com^
 ||bu3le2lp4t45e6i.com^
 ||buddhabangxxx.com^
 ||buddylead.com^
@@ -2694,6 +2708,9 @@
 ||us-west1.cdngcloud.com^
 ||cluster-eu.cdnjquery.com^
 ||i.cdnkimg.com^
+||cdnland.com^
+||creatives.cdnland.com^
+||lp.cdnland.com^
 ||cdnpure.com^
 ||a.cdnpure.com^
 ||static.cdnpure.com^
@@ -2726,6 +2743,8 @@
 ||b5c8a7e42c.cf204c4d96.com^
 ||cf433af11b.com^
 ||dec6962e8c.cf433af11b.com^
+||cf5153f67e.com^
+||b0104c96dd.cf5153f67e.com^
 ||cfc553b16f.com^
 ||dad5a5047c.cfc553b16f.com^
 ||cfd546b20a.com^
@@ -3600,6 +3619,8 @@
 ||ee8806.com^
 ||eekrooha.com^
 ||eensoans.com^
+||efb566d3fe.com^
+||de97a02584.efb566d3fe.com^
 ||effateuncrisp.com^
 ||effectivecpmcontent.com^
 ||pl17109538.effectivecpmcontent.com^
@@ -3682,6 +3703,7 @@
 ||sugg.erothots.com^
 ||error-report.com^
 ||info.error-report.com^
+||report.error-report.com^
 ||errordirector.com^
 ||esf397vsf1nk.com^
 ||dsp-tr.eskimi.com^
@@ -3711,6 +3733,7 @@
 ||evosrv.com^
 ||cdn1.evosrv.com^
 ||evzhzppj5kel.com^
+||ewogloarge.com^
 ||exdynsrv.com^
 ||a.exdynsrv.com^
 ||ads.exdynsrv.com^
@@ -3840,6 +3863,7 @@
 ||6bc84d8134.fadf617f13.com^
 ||fadingamendable.com^
 ||fadsanz.com^
+||fajvrookjc.com^
 ||falangerewires.com^
 ||fam-ad.com^
 ||img.fam-ad.com^
@@ -5415,6 +5439,7 @@
 ||events.launchdarkly.com^
 ||launchingonsetwhirlwind.com^
 ||laurieinevitablyhistorian.com^
+||lautionsimpouse.com^
 ||amdc.lazada.com^
 ||lab-js-abtest.lazada.com^
 ||h-adashx.ut.lazada.com^
@@ -5560,6 +5585,8 @@
 ||loto678.com^
 ||lotteryhibernateauthorized.com^
 ||lotto4321.com^
+||lottoproject.com^
+||www.lottoproject.com^
 ||lousebankroll.com^
 ||lovefilm.com^
 ||openapi.lovefilm.com^
@@ -5923,6 +5950,7 @@
 ||jo.motfanner.com^
 ||moudmarauds.com^
 ||cdn.mouseflow.com^
+||mouwagroap.com^
 ||movementsspentlist.com^
 ||stun.services.mozilla.com^
 ||mp3mad.com^
@@ -6362,6 +6390,7 @@
 ||onzmiwhmyz.com^
 ||oohirdoadi.com^
 ||oovaufty.com^
+||opckzyams.com^
 ||opdowvamjv.com^
 ||opecloud.com^
 ||cdn.opecloud.com^
@@ -6956,6 +6985,7 @@
 ||qmvhceuclmc.com^
 ||qnp16tstw.com^
 ||qoqv.com^
+||qpeozxawqo.com^
 ||aegis.qq.com^
 ||beacon.qq.com^
 ||otheve.beacon.qq.com^
@@ -7097,6 +7127,7 @@
 ||readpeak.com^
 ||app.readpeak.com^
 ||readytosinglesmeet.com^
+||realcfadsblog.com^
 ||reallifecam.com^
 ||lt.reallifecam.com^
 ||static.reallifecam.com^
@@ -7378,6 +7409,7 @@
 ||salesforce.com^
 ||my.salesforce.com^
 ||exness.my.salesforce.com^
+||wp.salesforce.com^
 ||salesforceliveagent.com^
 ||la1-c2-lo2.salesforceliveagent.com^
 ||d.la1-c2-lo2.salesforceliveagent.com^
@@ -7524,6 +7556,7 @@
 ||cdn.sentinelbi.com^
 ||sentry-cdn.com^
 ||browser.sentry-cdn.com^
+||s1.sentry-cdn.com^
 ||septfd2em64eber.com^
 ||serconius.com^
 ||serconmp.com^
@@ -7621,6 +7654,9 @@
 ||silwtuobsb.com^
 ||simplewebanalysis.com^
 ||sipibowartern.com^
+||site.com^
+||my.site.com^
+||exness.my.site.com^
 ||site-config.com^
 ||site24x7rum.com^
 ||static.site24x7rum.com^
@@ -7696,6 +7732,7 @@
 ||www.smsjokes4u.com^
 ||m.smsrajni.com^
 ||b1681952.smushcdn.com^
+||smuzixnimofp.com^
 ||tr.snapchat.com^
 ||snapkit.com^
 ||api.snapkit.com^
@@ -8838,6 +8875,7 @@
 ||vrjeskpgamunj.com^
 ||vrsshsdaa.com^
 ||www.vrsshsdaa.com^
+||vryosxnm.com^
 ||vs23drop.com^
 ||vscdns.com^
 ||cdn1.vscdns.com^
@@ -9446,6 +9484,9 @@
 ||zlinkv.com^
 ||s.zlinkv.com^
 ||zmonei.com^
+||zonkafeedback.com^
+||apis.zonkafeedback.com^
+||us1.apis.zonkafeedback.com^
 ||zoominfo.com^
 ||ws.zoominfo.com^
 ||ws-assets.zoominfo.com^
@@ -9614,8 +9655,12 @@
 ||gdpr.web0.eu^
 ||remerge.events^
 ||ap3.remerge.events^
+||exmarkets.expert^
+||track.exmarkets.expert^
+||www.exmarkets.expert^
 ||sao789.fan^
 ||taicamp88.fan^
+||wi88.fan^
 ||analysis.fi^
 ||ecdn.analysis.fi^
 ||measure.analysis.fi^
@@ -9853,6 +9898,8 @@
 ||thetresindidn.info^
 ||tobabarsoeveng.info^
 ||tonsterandhantan.info^
+||topduppy.info^
+||u-7121.topduppy.info^
 ||traskiprik.info^
 ||apirvp4.traskiprik.info^
 ||apirvp6.traskiprik.info^
@@ -9865,6 +9912,7 @@
 ||xo88.info^
 ||ycuratedhilarlym.info^
 ||yrincelewasgiw.info^
+||affl.ink^
 ||f8bet.ink^
 ||1rx.io^
 ||sync.1rx.io^
@@ -9955,6 +10003,8 @@
 ||s.everestop.io^
 ||x.everestop.io^
 ||xstats.evoload.io^
+||exness.io^
+||sentry2.exness.io^
 ||firstimpression.io^
 ||ecdn.firstimpression.io^
 ||flygame.io^
@@ -10094,6 +10144,7 @@
 ||segment.io^
 ||api.segment.io^
 ||sentry.io^
+||33e437c2b49247e2995f75c8bde618e1.sentry.io^
 ||ingest.sentry.io^
 ||o1012665.ingest.sentry.io^
 ||o1051356.ingest.sentry.io^
@@ -11022,6 +11073,8 @@
 ||cm.everesttech.net^
 ||pixel.everesttech.net^
 ||sync-tm.everesttech.net^
+||exnesstrack.net^
+||one.exnesstrack.net^
 ||eyeota.net^
 ||ps.eyeota.net^
 ||ezoic.net^
@@ -11067,6 +11120,8 @@
 ||geewooheene.net^
 ||gejeegho.net^
 ||get-gx.net^
+||getsentry.net^
+||reload.getsentry.net^
 ||new-sentry.gitlab.net^
 ||trx.gitlab.net^
 ||snowplow.trx.gitlab.net^
@@ -11199,6 +11254,7 @@
 ||made4fcuck.net^
 ||gdzjq.made4fcuck.net^
 ||maikashu.net^
+||maithigloab.net^
 ||marketo.net^
 ||munchkin.marketo.net^
 ||masculinezone.net^
@@ -11311,6 +11367,7 @@
 ||c.otaserve.net^
 ||d.otaserve.net^
 ||oungimuk.net^
+||oupusoma.net^
 ||ourbrowser.net^
 ||oxbet.net^
 ||pagefair.net^
@@ -11612,7 +11669,9 @@
 ||free-coupons.network^
 ||pub.network^
 ||a.pub.network^
+||b.pub.network^
 ||c.pub.network^
+||d.pub.network^
 ||m.stripe.network^
 ||yoads.network^
 ||123abetterme.nl^
@@ -12175,6 +12234,8 @@
 ||ataxiasfaulds.shop^
 ||bumpkinclon.shop^
 ||galootsmulcted.shop^
+||izleskulked.shop^
+||knevelfamily.shop^
 ||nikkounring.shop^
 ||regearpieing.shop^
 ||roscianwaltron.shop^
@@ -12291,6 +12352,8 @@
 ||wattpad.ada.support^
 ||browsers.support^
 ||anglosmohegan.tech^
+||beget.tech^
+||alexx4g2.beget.tech^
 ||bestinnovative.tech^
 ||forsiteid6346.tech^
 ||jankersfittage.tech^
@@ -12408,6 +12471,8 @@
 ||bnja.bbmrraeajllwv.top^
 ||bbnnjqwqaryya.top^
 ||bleyk.bbnnjqwqaryya.top^
+||bbwzzwrmeqekw.top^
+||bzkz.bbwzzwrmeqekw.top^
 ||bbwzzwrmerzjk.top^
 ||bzkz.bbwzzwrmerzjk.top^
 ||bcgame.top^
@@ -12629,6 +12694,8 @@
 ||kittledtwang.top^
 ||kjanynlqvqyeb.top^
 ||kvlb.kjanynlqvqyeb.top^
+||kjvaqbvrjqzya.top^
+||klll.kjvaqbvrjqzya.top^
 ||kkvvynnjbbeke.top^
 ||kjvr.kkvvynnjbbeke.top^
 ||knudsenunmast.top^
@@ -12870,6 +12937,8 @@
 ||zvkj.zkmkaebeevvqe.top^
 ||zrkyzwrwjlwqe.top^
 ||znel.zrkyzwrwjlwqe.top^
+||zrrzblnzqkkaw.top^
+||zyve.zrrzblnzqkkaw.top^
 ||zvbkyrbjvlelz.top^
 ||zlbe.zvbkyrbjvlelz.top^
 ||zvbkyrbjvlnka.top^
@@ -13417,6 +13486,7 @@
 ||b0eb63.xyz^
 ||baghoorg.xyz^
 ||banquet-dratted-sundial.xyz^
+||bdoiupucaopfje.xyz^
 ||begantotireo.xyz^
 ||benonblkd.xyz^
 ||a.benonblkd.xyz^
@@ -13441,6 +13511,7 @@
 ||bvmbvc.xyz^
 ||eu.bvmbvc.xyz^
 ||bwwrovgwdfe.xyz^
+||byvlfrxsklci.xyz^
 ||caicuptu.xyz^
 ||ccqhlkceepvxlpc.xyz^
 ||cdjtvypcfd.xyz^
@@ -13587,6 +13658,7 @@
 ||lleadupthere.xyz^
 ||llnpucstr.xyz^
 ||lltyfiqsdgsvnr.xyz^
+||lmpkheqvuaw.xyz^
 ||lmwapsljgquef.xyz^
 ||lsstejgbu.xyz^
 ||lumupu.xyz^
@@ -13621,6 +13693,7 @@
 ||nqfiqbhikfneiik.xyz^
 ||ntuplay.xyz^
 ||advertising.ntuplay.xyz^
+||nvlyymomgxe.xyz^
 ||nvuwqcfdux.xyz^
 ||ocfpydvdcyw.xyz^
 ||oigmpohwiwac.xyz^
@@ -13762,6 +13835,8 @@
 ||wcgcddncqveiqia.xyz^
 ||wdovvgavm.xyz^
 ||weaptqsmbshwd.xyz^
+||werywell56.xyz^
+||go.werywell56.xyz^
 ||wfrhltaigw.xyz^
 ||whempine.xyz^
 ||wlfikqcd.xyz^
@@ -14062,8 +14137,13 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||news.google.com/swg/
 ||news.google.com/_/DotsSplashUi/
 ||nhentai.net/api/hit
+||onlinetexttools.com/api/v1/logs/
+||onlinetexttools.com/api/v1/stats
+||onlinetexttools.com/CACHE/js/discount.js
+||onlinetexttools.com/js/gsi.js
 ||patreon.com/api/tracking
 ||pay.google.com/gp/p/_/InstantbuyFrontendBuyflowPayframeUi/jserror
+||pixlr.com/fad/
 ||quora.com/ajax/receive_POST
 ||quoracdn.net^$domain=dam18.net|haysex.net|hentaivl.tv|hentaivn.day|heo69.top|lenlut.net|mup69.net|phevkl.biz|phim3x.us|sexthailan.com|vlxx.ai|vlxx.moe|vlxxhot.net|vlxyz.net|vlxyz.tv|vnxx.xyz|xemsex.gg|xemsex.moe|xemsex.vc|xnxxpro.net|xnxxpro.xxx|xvideo3s.cc|xvideos.moe|xvideos98.pro|xvideos98.xxx,third-party
 ||s.yimg.com/aaq/
@@ -14145,6 +14225,7 @@ mixdrop.to,mixdrop.co#%#//scriptlet('abort-on-property-write', '_pop')
 mixdrop.to,mixdrop.co#%#//scriptlet('prevent-addEventListener', 'click', 'dtnoppu')
 mixdrop.to,mixdrop.co#%#//scriptlet('set-constant', 'MDCore.adblock', '0')
 nhentai.net#%#//scriptlet('set-constant', 'N_BetterJsPop', 'emptyObj')
+onlinegdb.com,text-compare.com#%#//scriptlet('remove-attr', 'onload|onerror', 'script[data-cfasync="false"][src*="loader.min.js"][data]')
 speedtest.net#%#//scriptlet('set-constant', 'isBlocked', 'false')
 terabox.com#%#//scriptlet('json-prune', 'wap_share_ads_adsterra_config.cfg_list', 'download_sdk_conf_area.cfg_list')
 terabox.com#%#//scriptlet('json-prune', 'web_share_ads_adsterra_config.cfg_list', 'download_sdk_conf_area.cfg_list')
@@ -14154,78 +14235,6 @@ terabox.com#%#//scriptlet('json-prune', 'web_video_play_patch_ad_area.cfg_list.1
 terabox.com#%#//scriptlet('json-prune', 'web_video_play_patch_ad_area.cfg_list.1.ad_operation_flow_setting.0.count')
 terabox.com#%#//scriptlet('json-prune', 'web_video_play_patch_ad_area.cfg_list.1.ad_operation_flow_setting.0.downTime')
 terabox.com#%#//scriptlet('json-prune', 'web_video_play_patch_ad_area.cfg_list.1.ad_operation_flow_setting.0.totalTime')
-text-compare.com#%#//scriptlet('remove-attr', 'onload|onerror', 'script[data-cfasync="false"][src*="loader.min.js"][data]')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.1', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.1.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.2', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.2.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.3', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.3.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.4', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.4.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.5', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.5.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.6', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.6.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.7', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.7.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.8', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.8.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.9', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.9.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.10', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.10.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.11', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.11.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.12', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.12.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.13', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.13.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.14', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.14.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.15', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.15.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.16', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.16.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.17', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.17.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.18', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.18.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.19', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.19.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.20', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.20.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.21', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.21.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.22', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.22.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.23', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.23.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.24', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.24.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.25', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.25.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.26', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.26.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.27', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.27.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.28', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.28.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.29', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.29.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.30', 'data.search_by_raw_query.search_timeline.timeline.instructions.*.entries.30.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.1', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.1.content.items.0.item.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.2', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.2.content.items.0.item.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.3', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.3.content.items.0.item.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.4', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.4.content.items.0.item.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.5', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.5.content.items.0.item.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.6', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.6.content.items.0.item.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.7', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.7.content.items.0.item.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.8', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.8.content.items.0.item.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.9', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.9.content.items.0.item.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.10', 'data.threaded_conversation_with_injections_v2.instructions.*.entries.10.content.items.0.item.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.0', 'data.user.result.timeline_v2.timeline.instructions.*.entries.0.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.1', 'data.user.result.timeline_v2.timeline.instructions.*.entries.1.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.2', 'data.user.result.timeline_v2.timeline.instructions.*.entries.2.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.3', 'data.user.result.timeline_v2.timeline.instructions.*.entries.3.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.4', 'data.user.result.timeline_v2.timeline.instructions.*.entries.4.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.5', 'data.user.result.timeline_v2.timeline.instructions.*.entries.5.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.6', 'data.user.result.timeline_v2.timeline.instructions.*.entries.6.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.7', 'data.user.result.timeline_v2.timeline.instructions.*.entries.7.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.8', 'data.user.result.timeline_v2.timeline.instructions.*.entries.8.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.9', 'data.user.result.timeline_v2.timeline.instructions.*.entries.9.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.10', 'data.user.result.timeline_v2.timeline.instructions.*.entries.10.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.11', 'data.user.result.timeline_v2.timeline.instructions.*.entries.11.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.12', 'data.user.result.timeline_v2.timeline.instructions.*.entries.12.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.13', 'data.user.result.timeline_v2.timeline.instructions.*.entries.13.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.14', 'data.user.result.timeline_v2.timeline.instructions.*.entries.14.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.15', 'data.user.result.timeline_v2.timeline.instructions.*.entries.15.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.16', 'data.user.result.timeline_v2.timeline.instructions.*.entries.16.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.17', 'data.user.result.timeline_v2.timeline.instructions.*.entries.17.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.18', 'data.user.result.timeline_v2.timeline.instructions.*.entries.18.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.19', 'data.user.result.timeline_v2.timeline.instructions.*.entries.19.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.20', 'data.user.result.timeline_v2.timeline.instructions.*.entries.20.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.21', 'data.user.result.timeline_v2.timeline.instructions.*.entries.21.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.22', 'data.user.result.timeline_v2.timeline.instructions.*.entries.22.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.23', 'data.user.result.timeline_v2.timeline.instructions.*.entries.23.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.24', 'data.user.result.timeline_v2.timeline.instructions.*.entries.24.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.25', 'data.user.result.timeline_v2.timeline.instructions.*.entries.25.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.26', 'data.user.result.timeline_v2.timeline.instructions.*.entries.26.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.27', 'data.user.result.timeline_v2.timeline.instructions.*.entries.27.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.28', 'data.user.result.timeline_v2.timeline.instructions.*.entries.28.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.29', 'data.user.result.timeline_v2.timeline.instructions.*.entries.29.content.itemContent.promotedMetadata')
-twitter.com,x.com#%#//scriptlet('json-prune', 'data.user.result.timeline_v2.timeline.instructions.*.entries.30', 'data.user.result.timeline_v2.timeline.instructions.*.entries.30.content.itemContent.promotedMetadata')
 ! With BAB, can override Math.floor=void 0 or document.body.insertBefore=void 0 will have same effects
 ! Change imgur to imgur old frontpage: imgur.com#%#document.cookie="frontpagebetav2=0;domain=.imgur.com";
 ! X (Twitter) hide content warning crap source code: https://greasyfork.org/en/scripts/437359-twitter-hide-content-warning-crap/code
@@ -14261,6 +14270,7 @@ myreadingmanga.info#%#window.addEventListener("load",function(){"undefined"!=typ
 nhentai.net#%#window.addEventListener("DOMContentLoaded",function(){"undefined"!=typeof _n_app&&Object.defineProperties(_n_app,{analytics:{value:void 0,writable:!1},exoclick:{value:void 0,writable:!1},popunder:{value:void 0,writable:!1},xhamster:{value:void 0,writable:!1}})});
 online-python.com#%#localStorage.setItem("theme","dark");
 onlinegdb.com#%#var t=setInterval(function(){"function"==typeof savefile&&(Object.defineProperty(self,"savefile",{value:function(){return!0},writable:!1}),clearInterval(t))},100);Object.defineProperty(self,"no_ads",{value:!0,writable:!1});
+onlinetexttools.com#%#window.addEventListener("DOMContentLoaded",function(){document.body.dataset.is_premium="True",document.body.dataset.discount_modal="False",document.querySelectorAll('[data-subscription="free"]').forEach(e=>e.dataset.subscription="premium");var e=document.querySelector("button.widget-save-as");null!=e&&e.addEventListener("click",function(){setTimeout(function(){e.innerText="Download",e.disabled=!1},100)})});
 pass.proton.me#%#var oFetch=window.fetch;window.fetch=function(...s){return oFetch(...s).then(async s=>{var e=await s.clone().json();return e&&e.Access&&e.Access.Plan&&(e.Access.Plan.AliasLimit=null,e.Access.Plan.DisplayName="Proton Plus",e.Access.Plan.HideUpgrade=!0,e.Access.Plan.InternalName="plus",e.Access.Plan.TotpLimit=null,e.Access.Plan.Type="plus",e.Access.Plan.VaultLimit=null),new Response(JSON.stringify(e),{status:s.status,statusText:s.statusText,headers:s.headers})})};
 rule34.xxx#%#window.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("[data-nosnippet]").forEach(e=>e.remove())});
 saostar.vn#%#window.addEventListener("DOMContentLoaded",function(){var e=document.querySelector("div.layout > div.t--0");null!=e&&e.remove(),null!=(e=document.getElementById("articlepage"))&&e.classList.remove("is-ads"),["div.w--160","div.w--300","div.article-medbottom"].forEach(t=>{null!=(e=document.querySelector(t))&&e.remove()})});
@@ -14272,7 +14282,7 @@ tienichmaytinh.net#%#Object.defineProperties(window,{addClass:{value:void 0,writ
 topdammy.com,ungtycomicsvip.com,ungtytruyen.com,ungtytruyenvip.com#%#Object.defineProperties(window,{killCopy:{value:void 0,writable:!1},onload:{value:void 0,writable:!1},reEnable:{value:void 0,writable:!1}}),Object.defineProperty(document,"onselectstart",{value:void 0,writable:!1});
 turbobit.net,webtoons.com#%#window.addEventListener("DOMContentLoaded",function(){document.querySelectorAll('[class*="banner" i]').forEach(e=>e.classList.remove(...e.className.match(/(\S+)?banner(\S+)?/gi)))});
 twitter.com#%#document.cookie="night_mode=1;domain=.twitter.com",localStorage.setItem("volume",.01);
-twitter.com,x.com#%#!function(){var e=function(e,i){for(var n=[],t=Object.entries(e);t.length>0;){var o=t.pop();i.includes(o[0])&&n.push(o[1]),null!=o[1]&&"object"==typeof o[1]&&(t=t.concat(Object.entries(o[1])))}return n},i=function(i){for(var n of e(i,["media"]))if(Array.isArray(n))for(var t of n)"object"==typeof t&&(delete t.sensitive_media_warning,t.ext_sensitive_media_warning=null);for(var n of e(i,["legacy"]))null!=n&&n.hasOwnProperty("possibly_sensitive")&&"boolean"==typeof n.possibly_sensitive&&(n.possibly_sensitive=!1)},n=window.JSON.parse;Object.defineProperty(JSON,"parse",{value:function(e){var t=n(e);try{null!=t&&i(t)}catch(o){console.log(o)}return t},writable:!1})}();
+twitter.com,x.com#%#!function(){var e=(e,r)=>{for(var t=[],i=Object.entries(e);i.length;){var[s,o]=i.pop();r.includes(s)&&t.push(o),o&&"object"==typeof o&&i.push(...Object.entries(o))}return t},r=r=>{e(r,["media"]).forEach(e=>{Array.isArray(e)&&e.forEach(e=>{"object"==typeof e&&(delete e.sensitive_media_warning,e.ext_sensitive_media_warning=null)})}),e(r,["legacy"]).forEach(e=>{e&&e.hasOwnProperty("possibly_sensitive")&&"boolean"==typeof e.possibly_sensitive&&(e.possibly_sensitive=!1)})},t=r=>{e(r,["entries"]).forEach(e=>{if(Array.isArray(e))for(var r=e.length;--r>=0;)/^(promoted-tweet|pinned-tweets|who-to-subscribe)/.test(e[r].entryId)&&e.splice(r,1)})},i=r=>{e(r,["items"]).forEach(r=>{if(Array.isArray(r))for(var t=r.length;--t>=0;)e(r[t],["item"]).forEach(i=>{e(i,["itemContent"]).forEach(e=>{e&&Object.keys(e).some(e=>/promoted_?metadata/ig.test(e))&&r.splice(t,1)})})})},s=JSON.parse;Object.defineProperty(JSON,"parse",{value(e){var o;try{(o=s(e))&&(r(o),t(o),i(o))}catch(a){console.error(a)}return o},writable:!1})}();
 waaw.to#%#window.open=void 0,window.doSecondPop=void 0,window.detectZoom=void 0;
 x.com#%#document.cookie="night_mode=1;domain=.x.com",localStorage.setItem("volume",.01);
 xhamster.com#%#document.cookie="ts_popunder=true;domain=.xhamster.com",document.cookie="ts_popunder2=true;domain=.xhamster.com";
