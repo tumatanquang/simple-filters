@@ -965,6 +965,8 @@
 ||6686vn80.com^
 ||66i9bet.com^
 ||www.66i9bet.com^
+||6778056ac3.com^
+||9179ef7ec3.6778056ac3.com^
 ||6789live.com^
 ||ads.6789live.com^
 ||679king.com^
@@ -1036,6 +1038,8 @@
 ||7789bets.com^
 ||77bet15.com^
 ||77bet16.com^
+||77cae4574b.com^
+||060f670359.77cae4574b.com^
 ||77cdc6d130.com^
 ||bc930c99b5.77cdc6d130.com^
 ||77i9bet.com^
@@ -9443,7 +9447,6 @@
 ||zbwkapoit.com^
 ||www.zbwkapoit.com^
 ||ekr.zdassets.com^
-||static.zdassets.com^
 ||zebraicrudista.com^
 ||zemanta.com^
 ||b1sync.zemanta.com^
@@ -11408,6 +11411,7 @@
 ||pingdom.net^
 ||rum-collector-2.pingdom.net^
 ||rum-static.pingdom.net^
+||imp.pixiv.net^
 ||plagubkril.net^
 ||p.plagubkril.net^
 ||sat.plagubkril.net^
@@ -13621,6 +13625,7 @@
 ||hiophoosho.xyz^
 ||hlhhmedvt.xyz^
 ||hnpbhdatgo.xyz^
+||hokuipxhp.xyz^
 ||hostg.xyz^
 ||www.hostg.xyz^
 ||howqfivgnqkr.xyz^
@@ -14129,6 +14134,8 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||bing.com/hp/api/v1/msnpopularnow
 ||bing.com/images/sbi
 ||bing.com/retailexp/msn/api/*/trendingprods
+||cdn-go.cn/aegis/aegis-sdk/
+||cdn.jsdelivr.net/npm/yandex-metrica-watch/
 ||chaturbate.com^$third-party,subdocument
 ||cloud.google.com/log
 ||cnet.com/ext/
@@ -14139,6 +14146,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||console.cloud.google.com/p/ping
 ||data.mail.yahoo.com/xobni/
 ||dem.shopee.com/dem/entrance/
+||deo.shopeemobile.com/shopee/shopee-trackingsdk-live-sg/
 ||developer.mozilla.org/pong/
 ||developer.mozilla.org/submit/mdn-yari/
 ||discourse-cdn.com/*/browser-update*.js
