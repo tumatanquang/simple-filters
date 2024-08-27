@@ -11,6 +11,7 @@
 ||cdn.engagement.ai^
 ||chat.engagement.ai^
 ||ezoic.ai^
+||plusiable.finechat.ai^
 ||fiza.ai^
 ||app.fiza.ai^
 ||hybrid.ai^
@@ -254,6 +255,7 @@
 ||crisp.chat^
 ||client.crisp.chat^
 ||auldbosh.click^
+||bayamolupines.click^
 ||blueoyster.click^
 ||www.blueoyster.click^
 ||buzukiaevacue.click^
@@ -412,6 +414,7 @@
 ||amity.co^
 ||sse.amity.co^
 ||clickfilter.co^
+||craftedexpo.co^
 ||datadome.co^
 ||api-js.datadome.co^
 ||js.datadome.co^
@@ -684,6 +687,8 @@
 ||2684e4fd7f.com^
 ||24217ae8b1.2684e4fd7f.com^
 ||268stephe5en3king.com^
+||26fc91ec79.com^
+||45d31559c9.26fc91ec79.com^
 ||2799f73c61.com^
 ||406afea59d.2799f73c61.com^
 ||289b829a6e.com^
@@ -714,6 +719,8 @@
 ||516d924a88.2bd1f18377.com^
 ||2da69cc358.com^
 ||9c3fa7532b.2da69cc358.com^
+||2de65ef3dd.com^
+||3464d03874.2de65ef3dd.com^
 ||2e4b7fc71a.com^
 ||0a1c70608b.2e4b7fc71a.com^
 ||2e754b57ca.com^
@@ -742,6 +749,8 @@
 ||e04dbd6f50.3128e920ab.com^
 ||32abd54344.com^
 ||f6d49ce515.32abd54344.com^
+||3397afa9b2.com^
+||ab823c0616.3397afa9b2.com^
 ||33across.com^
 ||pixel.33across.com^
 ||ssc.33across.com^
@@ -1194,6 +1203,8 @@
 ||984335278d.com^
 ||fc56d67c2e.984335278d.com^
 ||989bet11.com^
+||98win44.com^
+||www.98win44.com^
 ||9940a60a9a.com^
 ||8551ed05a8.9940a60a9a.com^
 ||994e4a6044.com^
@@ -1317,6 +1328,7 @@
 ||abf77420f8.com^
 ||2d363be680.abf77420f8.com^
 ||abkoxlikbzs.com^
+||abmbmuzpymru.com^
 ||abpicsrc.com^
 ||eu.abpicsrc.com^
 ||abpjs23.com^
@@ -1983,6 +1995,7 @@
 ||arleavannya.com^
 ||armedtidying.com^
 ||arnchealpa.com^
+||arnffunhoos.com^
 ||arsnivyr.com^
 ||arswabluchan.com^
 ||arvigorothan.com^
@@ -2250,6 +2263,7 @@
 ||beeketing.com^
 ||sdk.beeketing.com^
 ||beenoper.com^
+||beestark.com^
 ||beewakiy.com^
 ||beforeignunlig.com^
 ||befrx.com^
@@ -2396,6 +2410,7 @@
 ||bluggyloord.com^
 ||ub.bluggyloord.com^
 ||blurbreimbursetrombone.com^
+||bmaafbjmya.com^
 ||bmcdn3.com^
 ||cdn.bmcdn3.com^
 ||media.bmcdn3.com^
@@ -3246,6 +3261,8 @@
 ||daukshewing.com^
 ||db20da1532.com^
 ||f38f126b76.db20da1532.com^
+||db2a85c464.com^
+||f2fcd50c02.db2a85c464.com^
 ||h5hosting.dbankcdn.com^
 ||h5hosting-dra.dbankcdn.com^
 ||h5hosting-dre.dbankcdn.com^
@@ -3593,6 +3610,8 @@
 ||eabids.com^
 ||go.eabids.com^
 ||static.eabids.com^
+||eaed8c304f.com^
+||264c95d3e9.eaed8c304f.com^
 ||earlapssmalm.com^
 ||earringsatisfiedsplice.com^
 ||timejs.game.easebar.com^
@@ -3864,6 +3883,8 @@
 ||9673fad07f.f5f84f4d83.com^
 ||f63777e43d.com^
 ||8d8039a1eb.f63777e43d.com^
+||f64ed11b16.com^
+||8d9a6d1c39.f64ed11b16.com^
 ||f794d2f9d9.com^
 ||ef106879f8.f794d2f9d9.com^
 ||f7e8aa0821.com^
@@ -4470,6 +4491,7 @@
 ||performance-events.guardianapis.com^
 ||guffawsuniplex.com^
 ||yv.guffawsuniplex.com^
+||guhomnfuzq.com^
 ||guiltlessbasketball.com^
 ||gumgum.com^
 ||g2.gumgum.com^
@@ -5622,6 +5644,8 @@
 ||lpavfihurg.com^
 ||lpaxcuolbha.com^
 ||flx907.lporirxe.com^
+||lputil.com^
+||cdn.lputil.com^
 ||lpxtqptab.com^
 ||www.lpxtqptab.com^
 ||lpyomvxamo.com^
@@ -5839,6 +5863,7 @@
 ||micronsecho.com^
 ||ads.microsoft.com^
 ||about.ads.microsoft.com^
+||adsdk.microsoft.com^
 ||pipe.aria.microsoft.com^
 ||browser.pipe.aria.microsoft.com^
 ||mobile.pipe.aria.microsoft.com^
@@ -6531,6 +6556,7 @@
 ||oversowcholam.com^
 ||ovfbxfngmlfqn.com^
 ||sentry.ovhcloud.com^
+||ovhobwrhenp.com^
 ||ovmktyoxglta.com^
 ||ovtvfydcyor.com^
 ||ovvwunawrt.com^
@@ -7403,6 +7429,7 @@
 ||rundsp.com^
 ||match.rundsp.com^
 ||rusenov.com^
+||rusty-platform.com^
 ||rutfadsziog.com^
 ||rvadnet.com^
 ||partner.rvadnet.com^
@@ -8269,6 +8296,7 @@
 ||tk88f.com^
 ||api.tk88f.com^
 ||www.tk88f.com^
+||tkitiwjiz.com^
 ||tkqlhce.com^
 ||www.tkqlhce.com^
 ||tlqiugripvg.com^
@@ -9069,6 +9097,10 @@
 ||whaodvfkydib.com^
 ||whataboutnews.com^
 ||whedauzy.com^
+||whitebit.com^
+||cdn.whitebit.com^
+||internal.whitebit.com^
+||p.whitebit.com^
 ||whookroo.com^
 ||ak.whookroo.com^
 ||whouseem.com^
@@ -9396,6 +9428,9 @@
 ||ynqlljbhp.com^
 ||www.ynqlljbhp.com^
 ||yochgktcxubkc.com^
+||yodimedia.com^
+||ajsc.yodimedia.com^
+||imgs2.yodimedia.com^
 ||yogar2ti8nf09.com^
 ||yolosong.com^
 ||yonhelioliskor.com^
@@ -10696,6 +10731,8 @@
 ||adzerk.net^
 ||e-9660.adzerk.net^
 ||agurgeed.net^
+||aimukreegee.net^
+||ak.aimukreegee.net^
 ||pxlclnmdecom-a.akamaihd.net^
 ||pxlgnpgecom-a.akamaihd.net^
 ||qsearch-a.akamaihd.net^
@@ -11876,6 +11913,7 @@
 ||featuregates.org^
 ||gatedata.org^
 ||snssdk.gatedata.org^
+||cdnads.geeksforgeeks.org^
 ||go2cloud.org^
 ||nostop.go2cloud.org^
 ||greetpanda.org^
@@ -11925,6 +11963,7 @@
 ||cdn.userway.org^
 ||webvisor.org^
 ||mc.webvisor.org^
+||widgetlogic.org^
 ||wpush.org^
 ||sw.wpush.org^
 ||x-cdn.org^
@@ -12284,6 +12323,8 @@
 ||puredsimula.shop^
 ||regearpieing.shop^
 ||roscianwaltron.shop^
+||saimiripullman.shop^
+||secundpopulus.shop^
 ||tazeeabroose.shop^
 ||vuabet88.shop^
 ||yanquisorigan.shop^
@@ -12539,6 +12580,7 @@
 ||bqmr.bkzwzweeavewz.top^
 ||bkzwzweeavmbr.top^
 ||bqmr.bkzwzweeavmbr.top^
+||bljyynzkzkyrv.top^
 ||blushtrek.top^
 ||m.blushtrek.top^
 ||bmjlzyjrkmaya.top^
@@ -12686,6 +12728,8 @@
 ||jvyr.jbkelaajaaknj.top^
 ||jbkelaajaalnv.top^
 ||jvyr.jbkelaajaalnv.top^
+||jbnznvnlywmyr.top^
+||jvbj.jbnznvnlywmyr.top^
 ||jbrnmlmweaaka.top^
 ||jeqa.jbrnmlmweaaka.top^
 ||jeannvalmvvzv.top^
@@ -12971,6 +13015,8 @@
 ||zrke.zjmmkjqwwjbzl.top^
 ||zjmmkjqwwjezy.top^
 ||zrke.zjmmkjqwwjezy.top^
+||zjmmkjqwwjnrj.top^
+||zrke.zjmmkjqwwjnrj.top^
 ||zjrnyrrlbjaay.top^
 ||zajw.zjrnyrrlbjaay.top^
 ||zjrnyrrlbjzaz.top^
@@ -13688,6 +13734,7 @@
 ||java8.xyz^
 ||meat.java8.xyz^
 ||jbkeefmtwsy.xyz^
+||jdefxiswwq.xyz^
 ||jeerouse.xyz^
 ||jgqdnbvwfi.xyz^
 ||jjkvkgpyi.xyz^
@@ -13697,6 +13744,7 @@
 ||kathrynmitchell.xyz^
 ||kbdxahlvyjfy.xyz^
 ||kbmlgnhs.xyz^
+||kcbwqetmilri.xyz^
 ||keapeiros.xyz^
 ||kentedbycathy.xyz^
 ||kftytkhurx.xyz^
@@ -13804,6 +13852,7 @@
 ||pyvoddppouqtg.xyz^
 ||qefutrpgga.xyz^
 ||qhuccanuhubf.xyz^
+||qiidcdqxi.xyz^
 ||qiwlywetmp.xyz^
 ||qjvacxlgn.xyz^
 ||qlgdmygpysftw.xyz^
@@ -13868,6 +13917,7 @@
 ||ucelbyxnfv.xyz^
 ||ugailidsay.xyz^
 ||ugmlvbveapjq.xyz^
+||uifxesrrpcsjstc.xyz^
 ||uihgypgegf.xyz^
 ||uloaludu.xyz^
 ||uovmejkplcojm.xyz^
@@ -14364,7 +14414,7 @@ xhamster.com,xhamster.desi,xhamster2.com#%#window.addEventListener("DOMContentLo
 xhamster.desi#%#document.cookie="ts_popunder=true;domain=.xhamster.desi",document.cookie="ts_popunder2=true;domain=.xhamster.desi";
 xhamster2.com#%#document.cookie="ts_popunder=true;domain=.xhamster2.com",document.cookie="ts_popunder2=true;domain=.xhamster2.com";
 y2mate.com,youtubepp.com#%#Object.defineProperties(window,{clickAds:{value:void 0,writable:!1},da_load_qc:{value:void 0,writable:!1},m_banner_app:{value:void 0,writable:!1}});
-yaoimangaonline.com#%#Object.defineProperties(window,{random_imglink:{value:void 0,writable:!1}}),window.addEventListener("DOMContentLoaded",function(){['#block-12','#block-16','#text-2','#text-28','.code-block'].forEach(e=>{var t=document.querySelector(e);null!=t&&t.remove()})});
+yaoimangaonline.com#%#Object.defineProperties(window,{random_imglink:{value:void 0,writable:!1}}),window.addEventListener("DOMContentLoaded",function(){['#block-12','#block-16','#block-19','#text-2','#text-28','.code-block'].forEach(e=>{var t=document.querySelector(e);null!=t&&t.remove()})});
 mail.yahoo.com#$##main { max-width: 2560px !important; }
 mail.yahoo.com#$##yucs { max-width: 2560px !important; }
 mail.yahoo.com#$##yuhead-bucket { max-width: 2560px !important; }
@@ -14403,7 +14453,7 @@ fandom.com###WikiaBar,.bottom-ads-container,.page__right-rail,.top-ads-container
 fingau.com,getpczone.com,rahim-soft.com,uploadrar.com,wokaz.com###commonId > a.btn.btn-info.btn-lg,#commonId > a:nth-child(2) > img,#nofilepage ins,[class^="banner"]
 fullboys.com,rimsgay.com##.video-ad
 genius.com##[class^="DfpAd__" i],[class^="InreadContainer__" i],[class^="RightSidebar__" i],[class^="SectionLeaderboard__" i]
-hentaihvn.tv,hentaivn.autos,hentaivn.bio,hentaivn.fun,hentaivn.homes,hentaivn.icu,hentaivn.in,hentaivn.la,hentaivn.lat,hentaivn.lol,hentaivn.moe,hentaivn.net,hentaivn.run,hentaivn.team,hentaivn.tv,hentaivn.zone,zhentaivn.cc,zhentaivnz.cc###over,#page_ads_right,#qx-300x250,.a_d_s_115,.a_d_s_50,.qc_main,.qx_135,.size_70,.size_80,[class*="qx_main" i]
+hentaiayame.com,hentaihvn.tv,hentaivn.autos,hentaivn.bio,hentaivn.fun,hentaivn.homes,hentaivn.icu,hentaivn.in,hentaivn.la,hentaivn.lat,hentaivn.lol,hentaivn.moe,hentaivn.net,hentaivn.run,hentaivn.team,hentaivn.tv,hentaivn.zone,zhentaivn.cc,zhentaivnz.cc###over,#page_ads_right,#qx-300x250,.a_d_s_115,.a_d_s_50,.qc_main,.qx_135,.size_70,.size_80,[class*="qx_main" i]
 hentaiz.net###rmcard1,img.hidden-mobile,img.visible-mobile
 hentaiz.vip##.d-none.d-lg-block
 home.blog,wordpress.com##.cookie-banner,.widget_eu_cookie_law_widget
