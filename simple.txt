@@ -83,6 +83,8 @@
 ||codecentric-website-923068.vercel.app^
 ||wife.app^
 ||api.wife.app^
+||dawncreations.art^
+||my.dawncreations.art^
 ||sync-dsp.ad-m.asia^
 ||adop.asia^
 ||cdn.adop.asia^
@@ -578,6 +580,8 @@
 ||2dcc132857.0f6f763bf7.com^
 ||0f7d2e9c5b.com^
 ||b00957f07f.0f7d2e9c5b.com^
+||100b57dcae.com^
+||a9529eca57.100b57dcae.com^
 ||11029984.com^
 ||images.11029984.com^
 ||11bet.com^
@@ -732,6 +736,8 @@
 ||9c3fa7532b.2da69cc358.com^
 ||2de65ef3dd.com^
 ||3464d03874.2de65ef3dd.com^
+||2defeeb8b2.com^
+||f7ae2f1035.2defeeb8b2.com^
 ||2e4b7fc71a.com^
 ||0a1c70608b.2e4b7fc71a.com^
 ||2e754b57ca.com^
@@ -742,6 +748,7 @@
 ||9d5ed16be3.2f2bef3deb.com^
 ||2f72472ace.com^
 ||39df3b1e7c.2f72472ace.com^
+||2h4els889.com^
 ||2hisnd.com^
 ||los.2hisnd.com^
 ||2llmonds4ehcr93nb.com^
@@ -844,6 +851,8 @@
 ||423991b7ca.com^
 ||0b78f5f34a.423991b7ca.com^
 ||5a932fbdb2.42ad8ba91b.com^
+||433bcaa83b.com^
+||65d9b4a4ad.433bcaa83b.com^
 ||44822.com^
 ||www.44822.com^
 ||44i9bet.com^
@@ -1017,6 +1026,8 @@
 ||3f4340fabe.69b61ba7d6.com^
 ||6a34d15d38.com^
 ||021f9bc640.6a34d15d38.com^
+||6a59fa5129.com^
+||36e2c762e2.6a59fa5129.com^
 ||6b70b1086b.com^
 ||658df0f059.6b70b1086b.com^
 ||6b856ee58e.com^
@@ -1122,6 +1133,8 @@
 ||81438456aa.com^
 ||6a423ac897.81438456aa.com^
 ||815e8fa24ebb8686.com^
+||817dae10e1.com^
+||4e7042dd58.817dae10e1.com^
 ||84190de182.com^
 ||9b802eccae.84190de182.com^
 ||84284a87a4.com^
@@ -1386,6 +1399,7 @@
 ||acsrlrvluu.com^
 ||acsshufxnu.com^
 ||www.acsshufxnu.com^
+||actscattydecode.com^
 ||acuityplatform.com^
 ||acxjepzmvqycf.com^
 ||www.acxjepzmvqycf.com^
@@ -1403,6 +1417,7 @@
 ||go.ad2upapp.com^
 ||ad97da966d.com^
 ||b1ac717d8b.ad97da966d.com^
+||adaptationreconsider.com^
 ||adnetwork.adasiaholdings.com^
 ||adblock-360.com^
 ||adblock-one-protection.com^
@@ -1534,6 +1549,8 @@
 ||local.adsbynimbus.com^
 ||adschill.com^
 ||cdn.adschill.com^
+||adsensecustomsearchads.com^
+||www.adsensecustomsearchads.com^
 ||adsenseguard.com^
 ||cdn.adsenseguard.com^
 ||adservme.com^
@@ -2079,6 +2096,7 @@
 ||auphoalt.com^
 ||authognu.com^
 ||ak.authognu.com^
+||auto-downloads.com^
 ||avantisvideo.com^
 ||cdn.avantisvideo.com^
 ||ff.avast.com^
@@ -2112,6 +2130,7 @@
 ||pt-static4.awestat.com^
 ||pt-static5.awestat.com^
 ||awfulcelebration.com^
+||awljfawar.com^
 ||awodrozu.com^
 ||4d3ac055.us-east-1.token.awswaf.com^
 ||45c2fc2a2095.4d3ac055.us-east-1.token.awswaf.com^
@@ -2413,6 +2432,7 @@
 ||ads.bkitsoftware.com^
 ||bkrtx.com^
 ||tags.bkrtx.com^
+||bktsauna.com^
 ||bkukhykrom.com^
 ||blabbyyelping.com^
 ||wo.blabbyyelping.com^
@@ -2462,6 +2482,10 @@
 ||www.bobgames-prolister.com^
 ||bocoyoutage.com^
 ||bodelen.com^
+||bodis.com^
+||click-euw1.bodis.com^
+||bodiscdn.com^
+||parking.bodiscdn.com^
 ||bognunub.com^
 ||bokomarratel.com^
 ||cy.bokomarratel.com^
@@ -2546,6 +2570,7 @@
 ||metrics.brightcove.com^
 ||brinkobdurate.com^
 ||britepool.com^
+||broadlyjukeboxunrevised.com^
 ||broadsheetblaze.com^
 ||bropush.com^
 ||brostraffic.com^
@@ -2635,6 +2660,8 @@
 ||bzwcgscqnf.com^
 ||www.bzwcgscqnf.com^
 ||bzynkoqilza.com^
+||c15b8ae2d0.com^
+||7ca9a62d56.c15b8ae2d0.com^
 ||c1c491d137.com^
 ||e47d773ccb.c1c491d137.com^
 ||c212a79d53.com^
@@ -2852,6 +2879,7 @@
 ||client.chickgoddess.com^
 ||chignonrelics.com^
 ||wp.chignonrelics.com^
+||childlessporcupinevaluables.com^
 ||chilicached.com^
 ||chimpstatic.com^
 ||chimukappa.com^
@@ -3390,6 +3418,7 @@
 ||www.dgqlwqedzowhqb.com^
 ||dgxmvglp.com^
 ||www.dgxmvglp.com^
+||dhepuldufahr.com^
 ||dianomi.com^
 ||data.dianomi.com^
 ||www.dianomi.com^
@@ -3646,6 +3675,8 @@
 ||50b1f7a005.e9a53154b4.com^
 ||e9a7f7045c.com^
 ||784807a175.e9a7f7045c.com^
+||e9d13e3e01.com^
+||0bcb1fbd02.e9d13e3e01.com^
 ||e9ea884443.com^
 ||f95b2a532b.e9ea884443.com^
 ||eabids.com^
@@ -3936,6 +3967,8 @@
 ||f8be4be498.com^
 ||56b01cfb58.f8be4be498.com^
 ||f8betpp.com^
+||f9f62da9a0.com^
+||3e8359d812.f9f62da9a0.com^
 ||fa3f4c916c.com^
 ||76d29181f8.fa3f4c916c.com^
 ||fa8133311d.com^
@@ -4045,6 +4078,7 @@
 ||tool.fi88mail.com^
 ||fickle-brush.com^
 ||fiddler2.com^
+||fidszeoqwjf.com^
 ||fieldofbachus.com^
 ||a.fiksu.com^
 ||filecryptobur.com^
@@ -5255,6 +5289,7 @@
 ||jiatianxiazhuangshi.com^
 ||live2.jiatianxiazhuangshi.com^
 ||jibaeolia.com^
+||jicamadoless.com^
 ||jighucme.com^
 ||jijpbehzw.com^
 ||www.jijpbehzw.com^
@@ -5440,6 +5475,8 @@
 ||static-forms.klaviyo.com^
 ||static-tracking.klaviyo.com^
 ||www.klaviyo.com^
+||klook.com^
+||affiliate.klook.com^
 ||kmeukiygmr.com^
 ||www.kmeukiygmr.com^
 ||kmqkdhqaqt.com^
@@ -5743,6 +5780,7 @@
 ||lyssapebble.com^
 ||lzqicpumq.com^
 ||www.lzqicpumq.com^
+||lzukrobrykk.com^
 ||lzxdx24yib.com^
 ||m0rsq075u.com^
 ||m2305.com^
@@ -6610,6 +6648,7 @@
 ||www.ourlittlenews.com^
 ||oustoope.com^
 ||outbrain.com^
+||amplify.outbrain.com^
 ||libs.outbrain.com^
 ||mv.outbrain.com^
 ||odb.outbrain.com^
@@ -7363,6 +7402,7 @@
 ||revampcdn.com^
 ||spn-v1.revampcdn.com^
 ||revcontent.com^
+||assets.revcontent.com^
 ||cdn.revcontent.com^
 ||images.revcontent.com^
 ||media.revcontent.com^
@@ -7820,6 +7860,11 @@
 ||sitewithg.com^
 ||sizeilksohs.com^
 ||sjymlvrcwn.com^
+||skcrtxr.com^
+||bidder.skcrtxr.com^
+||cdn.skcrtxr.com^
+||geo-worker.skcrtxr.com^
+||rpc.skcrtxr.com^
 ||skh731.com^
 ||skiddyteapots.com^
 ||skimresources.com^
@@ -8046,6 +8091,7 @@
 ||statisticresearch.com^
 ||statsforads.com^
 ||www.statsforads.com^
+||statshunt.com^
 ||statuewas.com^
 ||stawhoph.com^
 ||steadfastsystem.com^
@@ -8356,6 +8402,7 @@
 ||mon.tiktokv.com^
 ||timcarohvgaq.com^
 ||time-pick.com^
+||tingecauyuksehin.com^
 ||log.tinnhac.com^
 ||static.tinnhac.com^
 ||tintersloggish.com^
@@ -8685,11 +8732,13 @@
 ||uippcpkngb.com^
 ||uk88.com^
 ||k1.uk88.com^
+||ukankingwithea.com^
 ||ukgkugxpzqvqk.com^
 ||www.ukgkugxpzqvqk.com^
 ||ukhkcxmzesi.com^
 ||www.ukhkcxmzesi.com^
 ||ukmoamytfpbqu.com^
+||uksjogersamyre.com^
 ||ulqbnzfkdzval.com^
 ||www.ulqbnzfkdzval.com^
 ||ulrzovfukgkljw.com^
@@ -9921,6 +9970,7 @@
 ||11bet.gg^
 ||clean.gg^
 ||i.clean.gg^
+||syndicatedsearch.goog^
 ||67u2gk.gq^
 ||exodus.gr^
 ||axiabanners.exodus.gr^
@@ -10038,10 +10088,13 @@
 ||track6.iptrackywin.info^
 ||www.jdrc.info^
 ||jectoperranling.info^
+||k98n23skd.info^
+||www.k98n23skd.info^
 ||khatexcepeded.info^
 ||lbank.info^
 ||www.lbank.info^
 ||llcijevm.info^
+||loaksandtheir.info^
 ||lucklayed.info^
 ||mentxviewsinte.info^
 ||www.monyb.info^
@@ -10969,6 +11022,7 @@
 ||d10lpsik1i8c69.cloudfront.net^
 ||d10lumateci472.cloudfront.net^
 ||d11enq2rymy0yl.cloudfront.net^
+||d127s3e8wcl3q6.cloudfront.net^
 ||d1418wpyaxxvno.cloudfront.net^
 ||d14u0p1qkech25.cloudfront.net^
 ||d15kdpgjg3unno.cloudfront.net^
@@ -11349,6 +11403,7 @@
 ||hauganes.net^
 ||hdpornpictures.net^
 ||bb.hdpornpictures.net^
+||imgcdn.henho24h.net^
 ||hentaigold.net^
 ||go.hentaigold.net^
 ||heptix.net^
@@ -12280,6 +12335,8 @@
 ||rural-report.pro^
 ||satisfied-tour.pro^
 ||senhation.pro^
+||seovietnam.pro^
+||axx.seovietnam.pro^
 ||similarlength.pro^
 ||www.similarlength.pro^
 ||slight-responsibility.pro^
@@ -12397,6 +12454,8 @@
 ||sheru.ru^
 ||snotel.ru^
 ||softclicks.ru^
+||sttsmntz.ru^
+||worker.sttsmntz.ru^
 ||testingmetriksbre.ru^
 ||tns-counter.ru^
 ||www.tns-counter.ru^
@@ -12514,6 +12573,7 @@
 ||www.timeevc.site^
 ||updservice.site^
 ||vasgenerete.site^
+||volleyballachiever.site^
 ||zetcdn.site^
 ||spapi.zetcdn.site^
 ||may88.so^
@@ -13658,6 +13718,7 @@
 ||tai.rik.win^
 ||rikvip.win^
 ||tai.rikvip.win^
+||sun.win^
 ||taiwin79.win^
 ||vao789club.win^
 ||xo88.win^
@@ -13698,6 +13759,7 @@
 ||afjvsoohhwxk.xyz^
 ||aikkcmybgl.xyz^
 ||aleisy.xyz^
+||alqswhrwyxrf.xyz^
 ||amgaugapiemc.xyz^
 ||apicdn00.xyz^
 ||apicdn15.xyz^
@@ -13859,6 +13921,7 @@
 ||huapydce.xyz^
 ||hwxuptncpmohld.xyz^
 ||hxaubnrfgxke.xyz^
+||hyalooichbrjeom.xyz^
 ||hypqxpxwvfsfx.xyz^
 ||ievaoixvcy.xyz^
 ||ifopeiswl.xyz^
@@ -13869,6 +13932,7 @@
 ||itahandkeight.xyz^
 ||itonawqumewu.xyz^
 ||ivemwjkbkjtb.xyz^
+||ixibqwuskkpji.xyz^
 ||jacqsojijukj.xyz^
 ||jaurouth.xyz^
 ||java8.xyz^
@@ -13995,6 +14059,7 @@
 ||qefutrpgga.xyz^
 ||qhuccanuhubf.xyz^
 ||qiidcdqxi.xyz^
+||qilcsumxcsaqqn.xyz^
 ||qiwlywetmp.xyz^
 ||qjvacxlgn.xyz^
 ||qlgdmygpysftw.xyz^
@@ -14238,6 +14303,7 @@ stun:stun.l.google.com^
 /\/page(ad|speed_static)\//
 /\/perfecty-push-notifications\//
 /\/pixel\//
+/\/pop\/sps\.js/$script
 /\/porpoiseant\//
 /\/ppsuma[\d\-]+\.js/$script
 /\/prebid\//
@@ -14389,6 +14455,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||facebook.com/ajax/weblite_resources_timing_logging/
 ||facebook.com/tr?id=
 ||gemini.google.com/_/BardChatUi/jserror
+||google.com/adsense/domains/caf.js
 ||google.com/log?
 ||google.com/pagead/
 ||gstatic.com/feedback/
