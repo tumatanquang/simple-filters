@@ -113,6 +113,7 @@
 ||2aed6ghjsb4436qtebuqk3gfzq0xeauy.lambda-url.us-east-1.on.aws^
 ||geoedge.be^
 ||rumcdn.geoedge.be^
+||firestreamings.beauty^
 ||punosy.best^
 ||xvideos.best^
 ||api.xvideos.best^
@@ -333,6 +334,7 @@
 ||goph.club^
 ||gzbtdzprof.club^
 ||apilp-gateway.gzbtdzprof.club^
+||hit.club^
 ||hit22.club^
 ||intnotif.club^
 ||ngp4.intnotif.club^
@@ -748,6 +750,8 @@
 ||9d5ed16be3.2f2bef3deb.com^
 ||2f72472ace.com^
 ||39df3b1e7c.2f72472ace.com^
+||2f8a651b12.com^
+||6962d5ab53.2f8a651b12.com^
 ||2h4els889.com^
 ||2hisnd.com^
 ||los.2hisnd.com^
@@ -1683,6 +1687,8 @@
 ||affluentshinymulticultural.com^
 ||affmates.com^
 ||storage.affmates.com^
+||affoth.com^
+||t.affoth.com^
 ||affsuhgiyd.com^
 ||www.affsuhgiyd.com^
 ||afi-b.com^
@@ -2105,6 +2111,8 @@
 ||ipmcdn.avast.com^
 ||ncc.avast.com^
 ||aviewrodlet.com^
+||avlm3.com^
+||a.avlm3.com^
 ||avplayer.com^
 ||player.avplayer.com^
 ||www.avplayer.com^
@@ -2268,6 +2276,8 @@
 ||go.bbrdbr.com^
 ||bbvms.com^
 ||pubmatic.bbvms.com^
+||bbwafx.com^
+||t.bbwafx.com^
 ||bbywwimafntyjbm.com^
 ||bc84617c73.com^
 ||bd95c06536.bc84617c73.com^
@@ -2387,6 +2397,7 @@
 ||de.bidsxchange.com^
 ||bidvertiser.com^
 ||bdv.bidvertiser.com^
+||bifrufhci.com^
 ||big-loads.com^
 ||cm.bilibili.com^
 ||bilsyndication.com^
@@ -2469,6 +2480,10 @@
 ||cdn.bmcdn5.com^
 ||bmcdn6.com^
 ||cdn.bmcdn6.com^
+||bmndx.com^
+||eu.bmndx.com^
+||icon.eu.bmndx.com^
+||srv.eu.bmndx.com^
 ||bngprl.com^
 ||i.bngprl.com^
 ||bngpt.com^
@@ -3667,6 +3682,8 @@
 ||e702fa7de9d35c37.com^
 ||e82ae52eec.com^
 ||70d4a0bb45.e82ae52eec.com^
+||e890f5e345.com^
+||5930107e7f.e890f5e345.com^
 ||e8a8e57eb3.com^
 ||e2e7aaca07.e8a8e57eb3.com^
 ||e942c12c75.com^
@@ -4110,6 +4127,7 @@
 ||flashtalking.com^
 ||d9.flashtalking.com^
 ||flatepicbats.com^
+||fleraprt.com^
 ||flipboard.com^
 ||cdn.flipboard.com^
 ||flirtyhoookup.com^
@@ -4412,12 +4430,19 @@
 ||go2sdk.com^
 ||js.go2sdk.com^
 ||go6shde9nj2itle.com^
+||go88.com^
+||tai.go88.com^
 ||go88n.com^
 ||goadx.com^
 ||srv.goadx.com^
 ||gobiidinshore.com^
+||parking.godaddy.com^
+||aws.parking.godaddy.com^
+||api.aws.parking.godaddy.com^
 ||godnijijxyosvmm.com^
 ||godpvqnszo.com^
+||gogirllove.com^
+||zoqzeg.gogirllove.com^
 ||gomiso.com^
 ||gonet-ads.com^
 ||sync.gonet-ads.com^
@@ -6043,6 +6068,9 @@
 ||mndsrv.com^
 ||icon.mndsrv.com^
 ||ss.mndsrv.com^
+||mndx1.com^
+||eu.mndx1.com^
+||cdn4.eu.mndx1.com^
 ||mneylinkpass.com^
 ||mniumlapsers.com^
 ||az.mniumlapsers.com^
@@ -7896,6 +7924,8 @@
 ||slideff.com^
 ||slipdashedundermine.com^
 ||slk594.com^
+||sloffer1.com^
+||s.sloffer1.com^
 ||slwxkyggfw.com^
 ||smac-ad.com^
 ||js.smac-ad.com^
@@ -8127,6 +8157,7 @@
 ||streitmackled.com^
 ||stretchsquirrel.com^
 ||stripchat.com^
+||go.stripchat.com^
 ||stripchatgirls.com^
 ||m.stripe.com^
 ||q.stripe.com^
@@ -8634,6 +8665,7 @@
 ||twinrdsrv.com^
 ||cdn.twinrdsrv.com^
 ||twinrdsyn.com^
+||twinrdsyte.com^
 ||twistconcept.com^
 ||ads.twitter.com^
 ||ads-api.twitter.com^
@@ -8975,6 +9007,8 @@
 ||www.vfdhpahkvhpw.com^
 ||vfgte.com^
 ||v.vfgte.com^
+||vfgtf.com^
+||a.vfgtf.com^
 ||vfyjfodaca.com^
 ||vfyxjsclor.com^
 ||vgfutxwgq.com^
@@ -9366,6 +9400,8 @@
 ||xabxtuuaboxpgo.com^
 ||xadsmart.com^
 ||www.xadsmart.com^
+||xaloxfnusha.com^
+||www.xaloxfnusha.com^
 ||xammcokaho.com^
 ||xcdnx.com^
 ||s.xcdnx.com^
@@ -9941,6 +9977,7 @@
 ||blamedbuckie.fun^
 ||choigem.fun^
 ||ad.choigem.fun^
+||cutewebcams20.fun^
 ||forthfinge.fun^
 ||gamehotb52.fun^
 ||play.gamehotb52.fun^
@@ -9949,6 +9986,7 @@
 ||king52.fun^
 ||kingme1.fun^
 ||nkyouvery.fun^
+||only-cams.fun^
 ||onsideratio.fun^
 ||prederablyw.fun^
 ||reimpromot.fun^
@@ -11494,6 +11532,10 @@
 ||ad.lkqd.net^
 ||hs.llnwd.net^
 ||yahoovod.hs.llnwd.net^
+||llovelydate.net^
+||ww01.llovelydate.net^
+||zoqzeg.llovelydate.net^
+||ww25.zoqzeg.llovelydate.net^
 ||louchees.net^
 ||loukoost.net^
 ||luckyorange.net^
@@ -12306,6 +12348,9 @@
 ||majesticrepresentative.pro^
 ||www.majesticrepresentative.pro^
 ||meryjane.pro^
+||mxhnkn.pro^
+||ads.mxhnkn.pro^
+||ads-api.mxhnkn.pro^
 ||nebutorsonerin.pro^
 ||negative-might.pro^
 ||www.negative-might.pro^
@@ -12481,6 +12526,7 @@
 ||tt88.sale^
 ||www.tt88.sale^
 ||adtut.sbs^
+||cams-cake.sbs^
 ||pufgilsofp.sbs^
 ||two-tusked.sbs^
 ||bowuo5hikes.two-tusked.sbs^
@@ -13299,6 +13345,8 @@
 ||ovp.iris.tv^
 ||lookmeet.tv^
 ||lucky88.tv^
+||net88.tv^
+||n1.net88.tv^
 ||onnetwork.tv^
 ||cdn.onnetwork.tv^
 ||red88.tv^
@@ -13369,6 +13417,9 @@
 ||ted.dailymail.co.uk^
 ||ezoic.co.uk^
 ||cmpv2.standard.co.uk^
+||debet.uk^
+||d1.debet.uk^
+||socket.debet.uk^
 ||deflink.uk^
 ||r.deflink.uk^
 ||nbet.uk^
@@ -13394,8 +13445,11 @@
 ||asf4f.us^
 ||engine.asf4f.us^
 ||dangky789club.us^
+||debet.us^
 ||x.disq.us^
 ||fabet.us^
+||go88.us^
+||tai.go88.us^
 ||may88.us^
 ||red88.us^
 ||sky88.us^
@@ -13719,10 +13773,12 @@
 ||rikvip.win^
 ||tai.rikvip.win^
 ||sun.win^
+||lp.sun.win^
 ||taiwin79.win^
 ||vao789club.win^
 ||xo88.win^
 ||zo10.win^
+||lp.zo10.win^
 ||adsnetonline.work^
 ||cdnjs.work^
 ||go.cdnjs.work^
@@ -13755,6 +13811,7 @@
 ||d7.adsplay.xyz^
 ||adult.xyz^
 ||cdn.adult.xyz^
+||aejifopo.xyz^
 ||aemtukvt.xyz^
 ||afjvsoohhwxk.xyz^
 ||aikkcmybgl.xyz^
@@ -13825,6 +13882,7 @@
 ||cnbaoqjdilaoodm.xyz^
 ||coolehim.xyz^
 ||coumasha.xyz^
+||cshbglcfcmirnm.xyz^
 ||cwbjfveg.xyz^
 ||cwcgqrfneqle.xyz^
 ||cwdicupen.xyz^
@@ -14018,6 +14076,7 @@
 ||oldharper.xyz^
 ||omcxyekq.xyz^
 ||onhuhdnxmb.xyz^
+||onlyxcams.xyz^
 ||oobynhfrioyriye.xyz^
 ||oongouha.xyz^
 ||oqvrrutawlkvpwo.xyz^
@@ -14076,6 +14135,7 @@
 ||rcrajyrudrk.xyz^
 ||rcuafjdnsocpr.xyz^
 ||redboxbox.xyz^
+||rertessesse.xyz^
 ||reswsentativ.xyz^
 ||rhctvugjhdkaqji.xyz^
 ||rmhhgpqgxxr.xyz^
@@ -14653,6 +14713,7 @@ animet.net,animet1.net###inx-content,#inx-overlay,.gnarty-offads,.gnartyx-offads
 animevietsub.art,animevietsub.tv##.ad-center-header,.Ads,.Adv,.Dvr-300,.home_ads,div[class^="ads-"]
 apkmirror.com###appmanager_sppostswidget-2,#bottom-slider,.OUTBRAIN,.ai-track,.pushbullet-subscribe-widget,[class*="outbrain_ad" i],[id*="ai_widget" i]
 apkpure.com###policy-info,.chrome-install-pop,.js-ad-slot
+ayamehentai.cc,hentaiayame.com,hentaiayame.net,hentaihvn.tv,hentaivn.autos,hentaivn.bio,hentaivn.fun,hentaivn.homes,hentaivn.icu,hentaivn.in,hentaivn.la,hentaivn.lat,hentaivn.lol,hentaivn.moe,hentaivn.net,hentaivn.run,hentaivn.team,hentaivn.tv,hentaivn.zone,zhentaivn.cc,zhentaivnz.cc###over,#page_ads_right,#qx-300x250,.a_d_s_115,.a_d_s_50,.qc_main,.qx_135,.size_70,.size_80,[class*="qx_main" i]
 baidu.com###branding_ads,#web-right-view,.ad-multi-tips,.ad-platform-tips,.cps_wrap,.j_click_stats,.video-ad-creative-card
 bilibili.com###activity_vote,#bannerAd,#live_recommand_report,#slide_ad,.pop-live-small-mode,.video-page-game-card-small,.video-page-special-card-small,[href*="cm.bilibili.com"]
 bilutvs.net##.ab1,.abp-header
@@ -14668,7 +14729,6 @@ fandom.com###WikiaBar,.bottom-ads-container,.page__right-rail,.top-ads-container
 fingau.com,getpczone.com,rahim-soft.com,uploadrar.com,wokaz.com###commonId > a.btn.btn-info.btn-lg,#commonId > a:nth-child(2) > img,#nofilepage ins,[class^="banner"]
 fullboys.com,rimsgay.com##.video-ad
 genius.com##[class^="DfpAd__" i],[class^="InreadContainer__" i],[class^="RightSidebar__" i],[class^="SectionLeaderboard__" i]
-hentaiayame.com,hentaiayame.net,hentaihvn.tv,hentaivn.autos,hentaivn.bio,hentaivn.fun,hentaivn.homes,hentaivn.icu,hentaivn.in,hentaivn.la,hentaivn.lat,hentaivn.lol,hentaivn.moe,hentaivn.net,hentaivn.run,hentaivn.team,hentaivn.tv,hentaivn.zone,zhentaivn.cc,zhentaivnz.cc###over,#page_ads_right,#qx-300x250,.a_d_s_115,.a_d_s_50,.qc_main,.qx_135,.size_70,.size_80,[class*="qx_main" i]
 hentaiz.net###rmcard1,img.hidden-mobile,img.visible-mobile
 hentaiz.vip##.d-none.d-lg-block
 home.blog,wordpress.com##.cookie-banner,.widget_eu_cookie_law_widget
