@@ -734,6 +734,8 @@
 ||4aa702b79e.2bac5b4837.com^
 ||2bd1f18377.com^
 ||516d924a88.2bd1f18377.com^
+||2d1f81ac8e.com^
+||10aa70cac6.2d1f81ac8e.com^
 ||2da69cc358.com^
 ||9c3fa7532b.2da69cc358.com^
 ||2de65ef3dd.com^
@@ -951,6 +953,8 @@
 ||5402369b6e.5cf8606941.com^
 ||5d63ec2d2f.com^
 ||14bf1e4c98.5d63ec2d2f.com^
+||5ea36e0eb5.com^
+||0025704ca1.5ea36e0eb5.com^
 ||5ede78f7a0.com^
 ||84a0e8beca.5ede78f7a0.com^
 ||5eef1ed9ac.com^
@@ -1266,6 +1270,8 @@
 ||5f1c44aaf7.9d603009eb.com^
 ||9d8880ca57.com^
 ||9db1ac1992.9d8880ca57.com^
+||9db64e2814.com^
+||875ba7cc0a.9db64e2814.com^
 ||9e1852531b.com^
 ||bfd2d865a7.9e1852531b.com^
 ||9edb4a8944.com^
@@ -2253,6 +2259,7 @@
 ||barthnullary.com^
 ||xm.barthnullary.com^
 ||bartonpriority.com^
+||basa77.com^
 ||basnn14.com^
 ||basnn15.com^
 ||batescaup.com^
@@ -2832,6 +2839,8 @@
 ||cdrvrs.com^
 ||ce3ff5f2d4.com^
 ||10b00e9529.ce3ff5f2d4.com^
+||cef7cb85aa.com^
+||fdbbea0537.cef7cb85aa.com^
 ||ceilerstonguer.com^
 ||celaenomash.com^
 ||nr.celaenomash.com^
@@ -3536,6 +3545,7 @@
 ||st-n.domnovrek.com^
 ||dorkingvoust.com^
 ||dostophog.com^
+||dotofverse.com^
 ||dotomi.com^
 ||direct.ad.cpe.dotomi.com^
 ||web.hb.ad.cpe.dotomi.com^
@@ -3868,6 +3878,9 @@
 ||cdn1.evosrv.com^
 ||evzhzppj5kel.com^
 ||ewogloarge.com^
+||ex-mat.com^
+||ex2b.com^
+||pwapi.ex2b.com^
 ||exdynsrv.com^
 ||a.exdynsrv.com^
 ||ads.exdynsrv.com^
@@ -4582,6 +4595,7 @@
 ||grubsoan.com^
 ||grumblecrytopless.com^
 ||grunikpazp.com^
+||grushoungy.com^
 ||gruwrebutnar.com^
 ||grychiphidu.com^
 ||gsght.com^
@@ -5500,6 +5514,7 @@
 ||static-forms.klaviyo.com^
 ||static-tracking.klaviyo.com^
 ||www.klaviyo.com^
+||klmainprost.com^
 ||klook.com^
 ||affiliate.klook.com^
 ||kmeukiygmr.com^
@@ -6199,6 +6214,7 @@
 ||www.mylivechat.com^
 ||myoppo.com^
 ||dzbkjh1.myoppo.com^
+||myroledance.com^
 ||myrrhicfoeman.com^
 ||jc.myrrhicfoeman.com^
 ||mytuugocmexgw.com^
@@ -6550,6 +6566,8 @@
 ||onclickperformance.com^
 ||onclicksuper.com^
 ||onclicktop.com^
+||onefootball88.com^
+||skynet.onefootball88.com^
 ||onepointnews.com^
 ||img.onepointnews.com^
 ||onesignal.com^
@@ -6700,6 +6718,7 @@
 ||ovyiakt1wzqz.com^
 ||owjuimhw.com^
 ||owlunimmvn.com^
+||owmacsridwu.com^
 ||owrkwilxbw.com^
 ||owwhftwhukqgo.com^
 ||www.owwhftwhukqgo.com^
@@ -7613,6 +7632,7 @@
 ||config.safedk.com^
 ||edge.safedk.com^
 ||safewebserviceai.com^
+||sahpupxhyk.com^
 ||sail-horizon.com^
 ||ak.sail-horizon.com^
 ||api.sail-personalize.com^
@@ -7629,6 +7649,7 @@
 ||api.salesmartly.com^
 ||assets.salesmartly.com^
 ||msg.salesmartly.com^
+||saletrackpro.com^
 ||saltateblit.com^
 ||salutationcheerlessdemote.com^
 ||sam-media.com^
@@ -8140,6 +8161,7 @@
 ||stogivpi.com^
 ||stoorgel.com^
 ||ak.stoorgel.com^
+||storader.com^
 ||store4porn.com^
 ||storeip-shopify.com^
 ||api4.storeip-shopify.com^
@@ -8222,6 +8244,8 @@
 ||suvorzaqzac.com^
 ||suxazsahta.com^
 ||suzihaza.com^
+||sv88.com^
+||sv1.sv88.com^
 ||sv88d.com^
 ||sv1.sv88d.com^
 ||sv4.sv88d.com^
@@ -8506,6 +8530,8 @@
 ||tozoruaon.com^
 ||tpdads.com^
 ||cdn.tpdads.com^
+||tqlkg.com^
+||www.tqlkg.com^
 ||trackingshub.com^
 ||tracking.trackingshub.com^
 ||trackjs.com^
@@ -9020,6 +9046,7 @@
 ||t.vi-serve.com^
 ||viadeo.com^
 ||secure.viadeo.com^
+||viaklera.com^
 ||vianoivernom.com^
 ||viatepigan.com^
 ||vibiu-dau.com^
@@ -9170,7 +9197,11 @@
 ||www.vzhzlraxtwgyn.com^
 ||vzksnszthuq.com^
 ||www.vzksnszthuq.com^
+||w2script.com^
+||ip2loc.w2script.com^
 ||w7zglmcdreij.com^
+||w88bober.com^
+||www.w88bober.com^
 ||wadawada-stop-report-us.com^
 ||cdn.wadawada-stop-report-us.com^
 ||wagenerfevers.com^
@@ -9759,6 +9790,8 @@
 ||www.zquotfuofx.com^
 ||zrotary.com^
 ||app.zrotary.com^
+||ztdog.com^
+||cs10.ztdog.com^
 ||ztumuvofzbfe.com^
 ||zubahmqabbr.com^
 ||zuebao.com^
@@ -9877,7 +9910,9 @@
 ||fem.prod.postmedia.digital^
 ||scuddydecrial.digital^
 ||ad.tiny.do^
+||familyhostel.es^
 ||global-goservice.es^
+||havenlegal.es^
 ||landwarriors.es^
 ||proyectoeinstein.es^
 ||bepolite.eu^
@@ -9954,6 +9989,7 @@
 ||ifcolors.fr^
 ||kurtos.fr^
 ||lanadimartino.fr^
+||lea-tp-vesoul.fr^
 ||leadplace.fr^
 ||sync-uid.leadplace.fr^
 ||tag.leadplace.fr^
@@ -10008,6 +10044,9 @@
 ||11bet.gg^
 ||clean.gg^
 ||i.clean.gg^
+||exmarkets.global^
+||track.exmarkets.global^
+||www.exmarkets.global^
 ||syndicatedsearch.goog^
 ||67u2gk.gq^
 ||exodus.gr^
@@ -11128,6 +11167,7 @@
 ||d32jf5gjc44l9b.cloudfront.net^
 ||d32oduq093hvot.cloudfront.net^
 ||d33bhlp8xcppz2.cloudfront.net^
+||d33vw3iu5hs0zi.cloudfront.net^
 ||d34ostmuvf1nzw.cloudfront.net^
 ||d35k22e9287vnh.cloudfront.net^
 ||d35xxde4fgg0cx.cloudfront.net^
@@ -11890,6 +11930,8 @@
 ||smp-vos-store.vsmart.net^
 ||w55c.net^
 ||i.w55c.net^
+||w88ux.net^
+||cdn.w88ux.net^
 ||waitheja.net^
 ||wapsagnu.net^
 ||wapsisod.net^
@@ -12051,6 +12093,7 @@
 ||exclusivesearch.online^
 ||femax.online^
 ||hkerkisko.online^
+||jackpot-f8bet.online^
 ||ninkorant.online^
 ||norprogram.online^
 ||nutgame.online^
@@ -12130,6 +12173,8 @@
 ||dlgaapper.org^
 ||api-iw.dlgaapper.org^
 ||etingplansfor.org^
+||exnesstrack.org^
+||one.exnesstrack.org^
 ||featuregates.org^
 ||gatedata.org^
 ||snssdk.gatedata.org^
@@ -12584,6 +12629,7 @@
 ||cryptobrowser.site^
 ||get.cryptobrowser.site^
 ||tr.cryptobrowser.site^
+||digitalentertainment.site^
 ||dollphoin.site^
 ||api.dollphoin.site^
 ||dropby.site^
@@ -12593,6 +12639,8 @@
 ||api.firwinds.site^
 ||frap.site^
 ||frap.frap.site^
+||frontrics.site^
+||input.frontrics.site^
 ||g0dy.site^
 ||hincludingse.site^
 ||hoemasfat.site^
@@ -13856,6 +13904,7 @@
 ||brhxmepr.xyz^
 ||brksxofnsadkb.xyz^
 ||brumgllcrjefyhr.xyz^
+||bshnaylvcogntxl.xyz^
 ||bsnkskjowxp.xyz^
 ||bsynpqwjnuvl.xyz^
 ||btgweugwdpdd.xyz^
@@ -13904,6 +13953,7 @@
 ||dyhvtkijmeg.xyz^
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||ebhmrinptt.xyz^
+||ecgsfoitrgasqbf.xyz^
 ||eelroave.xyz^
 ||eephdgebkrwgw.xyz^
 ||eeptushe.xyz^
