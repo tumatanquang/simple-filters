@@ -536,6 +536,8 @@
 ||7452c605e9.02ea6adc36.com^
 ||03505ed0f4.com^
 ||80c6b3a134.03505ed0f4.com^
+||03db0d5d14.com^
+||d55875dd70.03db0d5d14.com^
 ||04112d69e3.com^
 ||5ea0ed72d6.04112d69e3.com^
 ||04b6001ba9.com^
@@ -1104,6 +1106,8 @@
 ||79a279edc7.com^
 ||b2bf1de4b3.79a279edc7.com^
 ||79xmz3lmss.com^
+||7a53b9303c.com^
+||2d91ee1fa3.7a53b9303c.com^
 ||7a7f07591f.com^
 ||108705d18d.7a7f07591f.com^
 ||7aa82805b9.com^
@@ -3443,6 +3447,7 @@
 ||dgxmvglp.com^
 ||www.dgxmvglp.com^
 ||dhepuldufahr.com^
+||diagramjawlineunhappy.com^
 ||dianomi.com^
 ||data.dianomi.com^
 ||www.dianomi.com^
@@ -7816,6 +7821,7 @@
 ||sexcash.com^
 ||tracking.sexcash.com^
 ||sexfordatings.com^
+||sezang3.com^
 ||sf-syn.com^
 ||c.sf-syn.com^
 ||sfagwaokja.com^
@@ -8370,6 +8376,13 @@
 ||tegleebs.com^
 ||telephoneinclination.com^
 ||tellmadeirafireplace.com^
+||temu.com^
+||app.temu.com^
+||pftk.temu.com^
+||sg.pftk.temu.com^
+||thtk.temu.com^
+||sg.thtk.temu.com^
+||www.temu.com^
 ||ad.tencentmusic.com^
 ||tendencysanction.com^
 ||ymg-api.terabox.com^
@@ -9075,6 +9088,7 @@
 ||vidyard.com^
 ||cdn.vidyard.com^
 ||play.vidyard.com^
+||vietnam03.com^
 ||viglink.com^
 ||cdn.viglink.com^
 ||s.viimun.com^
@@ -9514,6 +9528,9 @@
 ||cc.xtgreat.com^
 ||xthizbdwgebzqf.com^
 ||www.xthizbdwgebzqf.com^
+||xuan5.com^
+||admin.xuan5.com^
+||sdk.xuan5.com^
 ||xvaaa.com^
 ||xvlcbwlgpy.com^
 ||www.xvlcbwlgpy.com^
@@ -9869,6 +9886,7 @@
 ||cluster.xhamster.desi^
 ||cnt.xhamster.desi^
 ||collector.xhamster.desi^
+||fido.xhamster.desi^
 ||recoil.xhamster.desi^
 ||counter.dev^
 ||cdn.counter.dev^
@@ -9979,6 +9997,7 @@
 ||chevalier-mazenc.fr^
 ||cliniqueveterinairegrandangles.fr^
 ||cyclindoor.fr^
+||demfret.fr^
 ||energeia-solutions.fr^
 ||entreprise-couverture41.fr^
 ||franceproimpression.fr^
@@ -9986,6 +10005,7 @@
 ||galaxiemedia.fr^
 ||cdn.galaxiemedia.fr^
 ||gitedulin.fr^
+||glass-minut.fr^
 ||ifcolors.fr^
 ||kurtos.fr^
 ||lanadimartino.fr^
@@ -12094,6 +12114,7 @@
 ||femax.online^
 ||hkerkisko.online^
 ||jackpot-f8bet.online^
+||m4su.online^
 ||ninkorant.online^
 ||norprogram.online^
 ||nutgame.online^
@@ -12186,6 +12207,8 @@
 ||ipify.org^
 ||api.ipify.org^
 ||api64.ipify.org^
+||crashreport.libreoffice.org^
+||update-mar.libreoffice.org^
 ||lmp3.org^
 ||go.lmp3.org^
 ||mastercms.org^
@@ -12512,6 +12535,7 @@
 ||ioi24.ru^
 ||ad.mail.ru^
 ||an.mail.ru^
+||b2.mail.ru^
 ||cspreport.mail.ru^
 ||portal.mail.ru^
 ||r.mail.ru^
@@ -14034,6 +14058,7 @@
 ||ievaoixvcy.xyz^
 ||ifopeiswl.xyz^
 ||igagmbjj.xyz^
+||ihlofoimfbfrxde.xyz^
 ||ikadmethe.xyz^
 ||ir3.xyz^
 ||irbsafxc.xyz^
@@ -14762,7 +14787,7 @@ anime3s.com##div.jw-logo
 animet.net,animet1.net###inx-content,#inx-overlay,.gnarty-offads,.gnartyx-offads
 animevietsub.art,animevietsub.tv##.ad-center-header,.Ads,.Adv,.Dvr-300,.home_ads,div[class^="ads-"]
 apkmirror.com###appmanager_sppostswidget-2,#bottom-slider,.OUTBRAIN,.ai-track,.pushbullet-subscribe-widget,[class*="outbrain_ad" i],[id*="ai_widget" i]
-apkpure.com###policy-info,.chrome-install-pop,.js-ad-slot
+apkpure.com###policy-info,.chrome-install-pop,.js-ad-slot,.withdraw-entrance-fancy-wrap
 ayamehentai.cc,hentaiayame.com,hentaiayame.net,hentaihvn.tv,hentaivn.autos,hentaivn.bio,hentaivn.fun,hentaivn.homes,hentaivn.icu,hentaivn.in,hentaivn.la,hentaivn.lat,hentaivn.lol,hentaivn.moe,hentaivn.net,hentaivn.run,hentaivn.team,hentaivn.tv,hentaivn.zone,zhentaivn.cc,zhentaivnz.cc###over,#page_ads_right,#qx-300x250,.a_d_s_115,.a_d_s_50,.qc_main,.qx_135,.size_70,.size_80,[class*="qx_main" i]
 baidu.com###branding_ads,#web-right-view,.ad-multi-tips,.ad-platform-tips,.cps_wrap,.j_click_stats,.video-ad-creative-card
 bilibili.com###activity_vote,#bannerAd,#live_recommand_report,#slide_ad,.pop-live-small-mode,.video-page-game-card-small,.video-page-special-card-small,[href*="cm.bilibili.com"]
