@@ -630,6 +630,8 @@
 ||25470c9fb7.193bde9ab1.com^
 ||199a4ae627.com^
 ||6c0ac5872e.199a4ae627.com^
+||19bc0e31d4.com^
+||81aa281d56.19bc0e31d4.com^
 ||1a714ee67c.com^
 ||fa21aff8b2.1a714ee67c.com^
 ||1ab9ee01cb.com^
@@ -2252,7 +2254,6 @@
 ||banquetunarmedgrater.com^
 ||bantercubicle.com^
 ||api.baomoi.com^
-||jr.baomoi.com^
 ||log.baomoi.com^
 ||w-api.baomoi.com^
 ||za.baomoi.com^
@@ -2749,6 +2750,7 @@
 ||js.capndr.com^
 ||forms-as-a-service.capterra.com^
 ||captivatepestilentstormy.com^
+||captorbaryton.com^
 ||carbonads.com^
 ||cdn.carbonads.com^
 ||cardiwersg.com^
@@ -3315,6 +3317,8 @@
 ||d5835d1c448d1c8ddc04.com^
 ||d58f989012.com^
 ||67b3239ff1.d58f989012.com^
+||d5db478dde.com^
+||1d18dd4bc1.d5db478dde.com^
 ||d7c6491da0.com^
 ||d2621f99ff.d7c6491da0.com^
 ||d8bb72d31d.com^
@@ -5538,6 +5542,8 @@
 ||www.kolqhaaxhk.com^
 ||g4tagging.komando.com^
 ||korgiejoinyou.com^
+||kosseanmudpack.com^
+||as.kosseanmudpack.com^
 ||kotikinar2ko8tiki09.com^
 ||kotokot.com^
 ||kpbmqxucd.com^
@@ -6139,6 +6145,7 @@
 ||in-gmtdmp.mookie1.com^
 ||odr.mookie1.com^
 ||vn-gmtdmp.mookie1.com^
+||moonproofrebeliefdowning.com^
 ||mopub.com^
 ||ads.mopub.com^
 ||moratlefty.com^
@@ -13883,6 +13890,7 @@
 ||d7.adsplay.xyz^
 ||adult.xyz^
 ||cdn.adult.xyz^
+||adxuygbxljcoecn.xyz^
 ||aejifopo.xyz^
 ||aemtukvt.xyz^
 ||afjvsoohhwxk.xyz^
@@ -13973,6 +13981,7 @@
 ||djunvrucht.xyz^
 ||dkiylncurkt.xyz^
 ||dqqwbijdbt.xyz^
+||ducksisland.xyz^
 ||duf1ql28oaxcm3x6baf7wxvo6n29hrozqxbd13emc3na96i64j.xyz^
 ||dyhvtkijmeg.xyz^
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
@@ -14340,6 +14349,7 @@
 ||ypy12.xyz^
 ||yvytifkhtmhl.xyz^
 ||ywopyohpihnkppc.xyz^
+||ywrriwidhwaosyb.xyz^
 ||aimit.co.za^
 ||miabellabeauty.co.za^
 ||roachesandworms.co.za^
@@ -14679,7 +14689,7 @@ anime3s.com,animet1.net#%#//scriptlet('remove-attr', 'disable-devtool-auto')
 bing.com#%#//scriptlet('json-prune', 'relatedAds')
 boyfriendtv.com#%#//scriptlet('prevent-addEventListener', 'chujBlokowacieDone')
 camelliatransgroup.com,dhcc.uk,fingau.com,getpczone.com,javadecompilers.com,listvpn.net,quaanhdaocuteo.com,rahim-soft.com,uploadrar.com,wokaz.com#%#//scriptlet('prevent-bab')
-decompiler.com#%#//scriptlet('set-constant', 'baked32', 'true')
+decompiler.com#%#//scriptlet('set-constant', 'ax42', 'true')
 dualeotruyenbi.com,dualeotruyenbot.com,dualeotruyenme.com,dualeotruyenpk.com,dualeotruyentop.com,dualeotruyenus.com,dualeotruyenww.com,dualeotruyenz.com#%#//scriptlet('prevent-addEventListener', 'click', 'popunder_last_time')
 fingau.com,getpczone.com,hitomi.la,rahim-soft.com,uploadrar.com,wokaz.com#%#//scriptlet('set-constant', 'X', 'emptyArr')
 fullboys.com,rimsgay.com#%#//scriptlet('prevent-element-src-loading', 'script' ,'adsbygoogle')
