@@ -10,6 +10,7 @@
 ||engagement.ai^
 ||cdn.engagement.ai^
 ||chat.engagement.ai^
+||aiarticle.erweima.ai^
 ||ezoic.ai^
 ||plusiable.finechat.ai^
 ||fiza.ai^
@@ -490,6 +491,8 @@
 ||cdn.sided.co^
 ||get.sided.co^
 ||smrturl.co^
+||supabase.co^
+||jvumwxnfsrhwwwmihkxn.supabase.co^
 ||thabet888.co^
 ||theirbellstudio.co^
 ||738376.theirbellstudio.co^
@@ -1735,6 +1738,8 @@
 ||prd-apne2-ucs.aibixby.com^
 ||ailil-fzt.com^
 ||aiphaneest.com^
+||aiquickdraw.com^
+||file.aiquickdraw.com^
 ||airpackapp.com^
 ||static.airpackapp.com^
 ||aitsatho.com^
@@ -5737,6 +5742,8 @@
 ||azscus1-client-s.gateway.messenger.live.com^
 ||liveadexchanger.com^
 ||www.liveadexchanger.com^
+||livechat.com^
+||accounts.livechat.com^
 ||livechatinc.com^
 ||cdn.livechatinc.com^
 ||liveintent.com^
@@ -6207,6 +6214,7 @@
 ||client-registry.mutinycdn.com^
 ||mvdwjofacq.com^
 ||www.mvdwjofacq.com^
+||mxpnl.com^
 ||cdn.mxpnl.com^
 ||mxwgzxfn.com^
 ||www.mxwgzxfn.com^
@@ -10429,6 +10437,9 @@
 ||p-n.io^
 ||cdn.p-n.io^
 ||k.p-n.io^
+||pagesense.io^
+||cdn.pagesense.io^
+||zohotagmanager.cdn.pagesense.io^
 ||pangle.io^
 ||api16-access-sg.pangle.io^
 ||pangle-global.io^
@@ -10479,6 +10490,9 @@
 ||relap.io^
 ||segment.io^
 ||api.segment.io^
+||sellix.io^
+||cdn.sellix.io^
+||embed.sellix.io^
 ||sentry.io^
 ||33e437c2b49247e2995f75c8bde618e1.sentry.io^
 ||ingest.sentry.io^
@@ -14107,6 +14121,7 @@
 ||lentinesox.xyz^
 ||leqpdlaq.xyz^
 ||lhahlsnojifb.xyz^
+||lhukudauwklhd.xyz^
 ||lillianmeyer.xyz^
 ||linkref.xyz^
 ||lksoghgm.xyz^
@@ -14849,4 +14864,4 @@ xhamster.com,xhamster.desi,xhamster2.com##aside[data-role="yld-pcpromo"],div.xp-
 xnxx.com,xnxx3.com,xvideos.com,xvideos.es,xvideos3.com###ad-footer,#ad-footer2,#ad-header-mobile-contener,#content-ad-top-zone-contener,#video-ad,.no-rotate,.remove-ads,.thumb-ad-gold,.thumb-nat-exo-ad,.video-click-handler,div#content > div#video-right.exo-ad-ins-container,div#video-right ~ div[class]:not([id]),div.thumb-block.video-ad
 xvideos98.xxx##[id$="-adx" i]
 yahoo.com###ad_xfpad_base,#Billboard-ad,#dialogue-wrapper,#feat-bar,#login-ads-gpt-iframe,#my-adsFOOT,#my-adsFPAD-base,#my-adsHPSPON-base,#my-adsLDRB,#my-adsLREC-base,#my-adsLREC4-base,#my-adsMON,#sda-Horizon,#sda-LREC-iframe,#sda-LREC3-iframe,.ad-transition,.fbtdv2,.login-bg-inner,.native-ad-item,.stream-ad,.stream-sm-ad,iframe:not([id$="-iframe"]),[data-test-id*="-ad-" i],[href*="beap.gemini.yahoo.com"]
-youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com###masthead-ad,#player-ads,.html5-video-player.ad-showing .ytp-title,.video-ads,.ytd-display-ad-renderer,.ytp-ad-action-interstitial,.ytp-ad-display-override,.ytp-ad-module,.ytp-featured-product,ad-slot-renderer,div[class^="promoted-"],ytd-ad-slot-renderer,ytd-carousel-ad-renderer,ytd-display-ad-renderer,ytd-display-ad-renderer.style-scope,ytd-in-feed-ad-layout-renderer,ytd-merch-shelf-renderer,ytd-promoted-sparkles-text-search-renderer,ytd-promoted-sparkles-web-renderer,ytm-compact-playlist-renderer,ytm-companion-slot.scwnr-content,ytm-promoted-sparkles-text-search-renderer,ytm-promoted-sparkles-web-renderer,ytm-promoted-video-renderer,[layout*="display-ad" i]
+youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com###masthead-ad,#player-ads,.html5-video-player.ad-showing .ytp-title,.video-ads,.ytd-display-ad-renderer,.ytp-ad-action-interstitial,.ytp-ad-display-override,.ytp-ad-module,.ytp-featured-product,.ytp-suggested-action,ad-slot-renderer,div[class^="promoted-"],ytd-ad-slot-renderer,ytd-carousel-ad-renderer,ytd-display-ad-renderer,ytd-display-ad-renderer.style-scope,ytd-in-feed-ad-layout-renderer,ytd-merch-shelf-renderer,ytd-promoted-sparkles-text-search-renderer,ytd-promoted-sparkles-web-renderer,ytm-compact-playlist-renderer,ytm-companion-slot.scwnr-content,ytm-promoted-sparkles-text-search-renderer,ytm-promoted-sparkles-web-renderer,ytm-promoted-video-renderer,[layout*="display-ad" i]
