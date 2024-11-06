@@ -1156,6 +1156,8 @@
 ||9b802eccae.84190de182.com^
 ||84284a87a4.com^
 ||0729a1e027.84284a87a4.com^
+||8428db03e3.com^
+||747dc46a4d.8428db03e3.com^
 ||845d6bbf60.com^
 ||9418b95070.845d6bbf60.com^
 ||8578eb3ec8.com^
@@ -1258,6 +1260,8 @@
 ||f8260e364f.9a08103287.com^
 ||9a55672b0c.com^
 ||299bf6b4b4.9a55672b0c.com^
+||9a71b08258.com^
+||fbd25d3328.9a71b08258.com^
 ||9a7c81f58e.com^
 ||ce9ff432c8.9a7c81f58e.com^
 ||9a7e77df71.com^
@@ -2348,6 +2352,7 @@
 ||beholdascared.com^
 ||belia-glp.com^
 ||belickitungchan.com^
+||beliefnormandygarbage.com^
 ||bemobtrcks.com^
 ||rno2p.bemobtrcks.com^
 ||v2e81.bemobtrcks.com^
@@ -2435,6 +2440,8 @@
 ||binomnet.com^
 ||binomnet3.com^
 ||bipmwuhisvp.com^
+||birdeatsbug.com^
+||sdk.birdeatsbug.com^
 ||birlerskababs.com^
 ||bitget.com^
 ||static.bitget.com^
@@ -2630,6 +2637,8 @@
 ||sessions.bugsnag.com^
 ||buikolered.com^
 ||builthuosefor.com^
+||bukusukses.com^
+||tiktok.bukusukses.com^
 ||bullbatmohalim.com^
 ||bullionglidingscuttle.com^
 ||bullionyield.com^
@@ -2673,6 +2682,8 @@
 ||bwuacbcuqarj.com^
 ||bxczchdxynw.com^
 ||www.bxczchdxynw.com^
+||bydata.com^
+||pbjs-stream.bydata.com^
 ||bygliscortor.com^
 ||bymyth.com^
 ||byrledmtscmd.com^
@@ -3402,6 +3413,7 @@
 ||shtslma.debet3.com^
 ||declareave.com^
 ||declinedisobey.com^
+||dedicateimaginesoil.com^
 ||deductionkeepingbabysitter.com^
 ||deefauph.com^
 ||deepcoin.com^
@@ -3885,6 +3897,7 @@
 ||eurosptp.com^
 ||js1.eurosptp.com^
 ||ww.eurosptp.com^
+||eventexistence.com^
 ||eventucker.com^
 ||evidon.com^
 ||c.evidon.com^
@@ -5279,6 +5292,7 @@
 ||mon.isnssdk.com^
 ||pangolin16.isnssdk.com^
 ||tnc16-alisg.isnssdk.com^
+||isolatedovercomepasted.com^
 ||isrckajaxwu.com^
 ||istrictprovocativeforceful.com^
 ||itchytidying.com^
@@ -6666,6 +6680,7 @@
 ||oqnjfotketk.com^
 ||oqxehynxtckgha.com^
 ||www.oqxehynxtckgha.com^
+||guidedlearning.oracle.com^
 ||console-telemetry.oci.oraclecloud.com^
 ||oranegfodnd.com^
 ||oranum.com^
@@ -8654,6 +8669,7 @@
 ||www.trustedsite.com^
 ||trustmaxonline.com^
 ||21526.trustmaxonline.com^
+||widget.trustpilot.com^
 ||truvidplayer.com^
 ||stg.truvidplayer.com^
 ||analytics.truyen-hentai.com^
@@ -9947,6 +9963,7 @@
 ||global-goservice.es^
 ||havenlegal.es^
 ||landwarriors.es^
+||mashumana.es^
 ||proyectoeinstein.es^
 ||bepolite.eu^
 ||serving.bepolite.eu^
@@ -10499,6 +10516,7 @@
 ||o1012665.ingest.sentry.io^
 ||o1051356.ingest.sentry.io^
 ||o1053117.ingest.sentry.io^
+||o1056786.ingest.sentry.io^
 ||o121751.ingest.sentry.io^
 ||o1249262.ingest.sentry.io^
 ||o146504.ingest.sentry.io^
@@ -13969,6 +13987,7 @@
 ||cdxhjnnyyga.xyz^
 ||cegxsxftohl.xyz^
 ||chaipungie.xyz^
+||chetchacumt.xyz^
 ||choihitclub.xyz^
 ||chymjnqhaklcgr.xyz^
 ||ckncdxlfq.xyz^
@@ -14108,6 +14127,7 @@
 ||keapeiros.xyz^
 ||kentedbycathy.xyz^
 ||kftytkhurx.xyz^
+||kllkkijfp.xyz^
 ||ksdoonpwphugss.xyz^
 ||ksnooastqr.xyz^
 ||kupvvngwyxhgwk.xyz^
@@ -14582,6 +14602,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||10minutemail.com/ub/
 ||accounts.google.com/v3/signin/_/AccountsSignInUi/browserinfo
 ||amazonaws.com/jsstore/
+||amazonaws.com/telemetry.bydata/freeconvert/bydataAnalytics.js
 ||api.github.com/_private/browser/stats
 ||api.redgifs.com/v2/ads/slots
 ||b.cdnst.net/javascript/
@@ -14864,4 +14885,4 @@ xhamster.com,xhamster.desi,xhamster2.com##aside[data-role="yld-pcpromo"],div.xp-
 xnxx.com,xnxx3.com,xvideos.com,xvideos.es,xvideos3.com###ad-footer,#ad-footer2,#ad-header-mobile-contener,#content-ad-top-zone-contener,#video-ad,.no-rotate,.remove-ads,.thumb-ad-gold,.thumb-nat-exo-ad,.video-click-handler,div#content > div#video-right.exo-ad-ins-container,div#video-right ~ div[class]:not([id]),div.thumb-block.video-ad
 xvideos98.xxx##[id$="-adx" i]
 yahoo.com###ad_xfpad_base,#Billboard-ad,#dialogue-wrapper,#feat-bar,#login-ads-gpt-iframe,#my-adsFOOT,#my-adsFPAD-base,#my-adsHPSPON-base,#my-adsLDRB,#my-adsLREC-base,#my-adsLREC4-base,#my-adsMON,#sda-Horizon,#sda-LREC-iframe,#sda-LREC3-iframe,.ad-transition,.fbtdv2,.login-bg-inner,.native-ad-item,.stream-ad,.stream-sm-ad,iframe:not([id$="-iframe"]),[data-test-id*="-ad-" i],[href*="beap.gemini.yahoo.com"]
-youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com###masthead-ad,#player-ads,.html5-video-player.ad-showing .ytp-title,.video-ads,.ytd-display-ad-renderer,.ytp-ad-action-interstitial,.ytp-ad-display-override,.ytp-ad-module,.ytp-featured-product,.ytp-suggested-action,ad-slot-renderer,div[class^="promoted-"],ytd-ad-slot-renderer,ytd-carousel-ad-renderer,ytd-display-ad-renderer,ytd-display-ad-renderer.style-scope,ytd-in-feed-ad-layout-renderer,ytd-merch-shelf-renderer,ytd-promoted-sparkles-text-search-renderer,ytd-promoted-sparkles-web-renderer,ytm-compact-playlist-renderer,ytm-companion-slot.scwnr-content,ytm-promoted-sparkles-text-search-renderer,ytm-promoted-sparkles-web-renderer,ytm-promoted-video-renderer,[layout*="display-ad" i]
+youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com###masthead-ad,#player-ads,.html5-video-player.ad-showing .ytp-title,.video-ads,.ytd-display-ad-renderer,.ytp-ad-action-interstitial,.ytp-ad-display-override,.ytp-ad-module,.ytp-featured-product,.ytp-suggested-action-badge.ytp-suggested-action-badge-content-forward,ad-slot-renderer,div[class^="promoted-"],ytd-ad-slot-renderer,ytd-carousel-ad-renderer,ytd-display-ad-renderer,ytd-display-ad-renderer.style-scope,ytd-in-feed-ad-layout-renderer,ytd-merch-shelf-renderer,ytd-promoted-sparkles-text-search-renderer,ytd-promoted-sparkles-web-renderer,ytm-compact-playlist-renderer,ytm-companion-slot.scwnr-content,ytm-promoted-sparkles-text-search-renderer,ytm-promoted-sparkles-web-renderer,ytm-promoted-video-renderer,[layout*="display-ad" i]
