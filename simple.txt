@@ -360,6 +360,7 @@
 ||taiiwin.club^
 ||thethaovua.club^
 ||dk.thethaovua.club^
+||tip.club^
 ||titleefen.club^
 ||trackthetides.club^
 ||track4.trackthetides.club^
@@ -886,6 +887,10 @@
 ||fcb7a8ebd3.4cc95e229d.com^
 ||4d087f527f.com^
 ||2f8c99defc.4d087f527f.com^
+||4d33a4adbc.com^
+||724da29433.4d33a4adbc.com^
+||4d3f87f705.com^
+||6c67329704.4d3f87f705.com^
 ||4d658ab856.com^
 ||2c84016452.4d658ab856.com^
 ||4d93007.com^
@@ -1268,6 +1273,8 @@
 ||b1f2e1a0a9.9a7e77df71.com^
 ||9a857c6721.com^
 ||5c5991d906.9a857c6721.com^
+||9ac24ce7ee.com^
+||cbfe992d85.9ac24ce7ee.com^
 ||ak2.cdn.9appsdownloading.com^
 ||down2.download.9appsinstall.com^
 ||hl-img.download.9appsinstall.com^
@@ -2120,6 +2127,7 @@
 ||audacityprolong.com^
 ||augu3yhd485st.com^
 ||aukirtoo.com^
+||aukraugn.com^
 ||auphoalt.com^
 ||authognu.com^
 ||ak.authognu.com^
@@ -2511,6 +2519,7 @@
 ||bngprl.com^
 ||i.bngprl.com^
 ||bngpt.com^
+||bngtrak.com^
 ||bnmla.com^
 ||match.bnmla.com^
 ||bnrslks.com^
@@ -2529,6 +2538,8 @@
 ||bokomarratel.com^
 ||cy.bokomarratel.com^
 ||boloptrex.com^
+||bongacams.com^
+||bongacams8.com^
 ||bonshsrpfugrg.com^
 ||bookadil.com^
 ||bookmsg.com^
@@ -2756,6 +2767,7 @@
 ||calumetburka.com^
 ||yd.calumetburka.com^
 ||camterest.com^
+||go.camterest.com^
 ||canellecrazy.com^
 ||canoestallowrootsabre.com^
 ||canstrm.com^
@@ -2925,6 +2937,7 @@
 ||client.chickgoddess.com^
 ||chignonrelics.com^
 ||wp.chignonrelics.com^
+||chikraighotoops.com^
 ||childlessporcupinevaluables.com^
 ||chilicached.com^
 ||chimpstatic.com^
@@ -3662,6 +3675,7 @@
 ||dvokgydenwaksi.com^
 ||www.dvokgydenwaksi.com^
 ||dvoyy3qexr.com^
+||dweanmokpobd.com^
 ||dwin1.com^
 ||www.dwin1.com^
 ||dwooltpzylk.com^
@@ -3688,6 +3702,8 @@
 ||6185ca4d40.e0e5bc8f81.com^
 ||e15c53a231.com^
 ||1b05f610c5.e15c53a231.com^
+||e1d56c0a5f.com^
+||182ff42ced.e1d56c0a5f.com^
 ||e2059f0a49.com^
 ||2966f75d14.e2059f0a49.com^
 ||e218cdc27d.com^
@@ -4168,6 +4184,8 @@
 ||d9.flashtalking.com^
 ||flatepicbats.com^
 ||fleraprt.com^
+||flibzee.com^
+||www.flibzee.com^
 ||flipboard.com^
 ||cdn.flipboard.com^
 ||flirtyhoookup.com^
@@ -4246,6 +4264,7 @@
 ||friednourishment.com^
 ||friendfinder.com^
 ||friendshipmale.com^
+||frightenimpoliteoverstep.com^
 ||fringesdurocs.com^
 ||rx.fringesdurocs.com^
 ||fristminyas.com^
@@ -4441,6 +4460,7 @@
 ||gl-product-analytics.com^
 ||prd-278964.gl-product-analytics.com^
 ||collector.prd-278964.gl-product-analytics.com^
+||gl0a7loeki02do.com^
 ||glakychepy.com^
 ||www.glakychepy.com^
 ||glaresling.com^
@@ -5641,6 +5661,7 @@
 ||lanaisgoll.com^
 ||landnewseasy.com^
 ||1255.landnewseasy.com^
+||landslideprisonsimile.com^
 ||lapblra5do4j7rfit7e.com^
 ||lapre28rmcat2.com^
 ||larkenjoyedborn.com^
@@ -5782,6 +5803,8 @@
 ||lmiutil.com^
 ||cdn.lmiutil.com^
 ||lmxmkdprmaxso.com^
+||lnventivedate.com^
+||jnerkr.lnventivedate.com^
 ||loajawun.com^
 ||lobimax.com^
 ||lockingadmitted.com^
@@ -6251,6 +6274,7 @@
 ||myroledance.com^
 ||myrrhicfoeman.com^
 ||jc.myrrhicfoeman.com^
+||mytdsnet.com^
 ||mytuugocmexgw.com^
 ||mzcsuuuwox.com^
 ||www.mzcsuuuwox.com^
@@ -6286,6 +6310,7 @@
 ||cdn.nativestatic.com^
 ||nativewpsh.com^
 ||nativewpshep.com^
+||naustoglag.com^
 ||navelfletch.com^
 ||lcs.naver.com^
 ||cologger.shopping.naver.com^
@@ -6741,6 +6766,7 @@
 ||outshroomishan.com^
 ||ak.outshroomishan.com^
 ||outsliggooa.com^
+||ouzeeptaix.com^
 ||overcrowdsillyturret.com^
 ||overkirliaan.com^
 ||oversowcholam.com^
@@ -6768,6 +6794,8 @@
 ||ozlwhampaofq.com^
 ||ozqowxogrolq.com^
 ||ozwolnonnotv.com^
+||pa6ka.com^
+||p.pa6ka.com^
 ||paddle.com^
 ||a.paddle.com^
 ||cdn.paddle.com^
@@ -7052,6 +7080,8 @@
 ||profilesterility.com^
 ||profitablecpmnetwork.com^
 ||pl15939143.profitablecpmnetwork.com^
+||profitablecpmrate.com^
+||www.profitablecpmrate.com^
 ||profitablecreativeformat.com^
 ||www.profitablecreativeformat.com^
 ||profitabledisplaycontent.com^
@@ -7366,6 +7396,7 @@
 ||raptapee.com^
 ||raspberrybenefactor.com^
 ||rastrawteo.com^
+||raubecouja.com^
 ||ravenjs.com^
 ||cdn.ravenjs.com^
 ||bvadtgs.scdn1.secure.raxcdn.com^
@@ -7785,6 +7816,8 @@
 ||searchstax.com^
 ||app.searchstax.com^
 ||static.searchstax.com^
+||secretdatingclub.com^
+||lp.secretdatingclub.com^
 ||secureanalytic.com^
 ||securewponline.com^
 ||securybrowseapp.com^
@@ -8541,6 +8574,7 @@
 ||toapodazoay.com^
 ||ace-sync.toast.com^
 ||tobaitsie.com^
+||togailsaun.com^
 ||toglooman.com^
 ||toi-125b.com^
 ||tomstandi.com^
@@ -8857,6 +8891,8 @@
 ||sdk.unative.com^
 ||tr-un.unative.com^
 ||unawarelinkedlaid.com^
+||unblitzlean.com^
+||ak.unblitzlean.com^
 ||unblockia.com^
 ||cdn.unblockia.com^
 ||uncoreswizzle.com^
@@ -9070,6 +9106,7 @@
 ||asset.vergopjt.com^
 ||verifychocolate.com^
 ||verninchange.com^
+||vernmentorgent.com^
 ||verve.com^
 ||feedback.verve.com^
 ||vetdeberg.com^
@@ -10185,6 +10222,7 @@
 ||b5bakipcols.info^
 ||api4.b5bakipcols.info^
 ||api6.b5bakipcols.info^
+||barcode-inventory-system-and-inventory-management-software.info^
 ||bitrix.info^
 ||bvmgo.info^
 ||go.bvmgo.info^
@@ -10201,6 +10239,7 @@
 ||enclasmodifyt.info^
 ||eopleshouldt.info^
 ||eownouncillors.info^
+||erdreamsofcryin.info^
 ||ericanthesion.info^
 ||funtikapa.info^
 ||getrunkhomuto.info^
@@ -10259,6 +10298,9 @@
 ||tonsterandhantan.info^
 ||topduppy.info^
 ||u-7121.topduppy.info^
+||traipksgwz.info^
+||ipv4.traipksgwz.info^
+||ipv6.traipksgwz.info^
 ||traskiprik.info^
 ||apirvp4.traskiprik.info^
 ||apirvp6.traskiprik.info^
@@ -10704,6 +10746,7 @@
 ||js.users.51.la^
 ||girlszone.lat^
 ||www12.girlszone.lat^
+||knightdale.lat^
 ||allodiafeveret.life^
 ||awardbonus.life^
 ||barlessclueing.life^
@@ -10933,6 +10976,7 @@
 ||appsuse.monster^
 ||openvip.monster^
 ||thekey.monster^
+||summer-breathing.motorcycles^
 ||yourporn.movie^
 ||eu.yourporn.movie^
 ||mailchi.mp^
@@ -12072,6 +12116,7 @@
 ||b.pub.network^
 ||c.pub.network^
 ||d.pub.network^
+||revcontent.network^
 ||m.stripe.network^
 ||yoads.network^
 ||123abetterme.nl^
@@ -13957,6 +14002,8 @@
 ||a.beunblkd.xyz^
 ||beverlyhughes.xyz^
 ||bkoigauba.xyz^
+||blissgallery.xyz^
+||my.blissgallery.xyz^
 ||blkolhjcjuf.xyz^
 ||bmcwwjfpoxgc.xyz^
 ||bmhuinuvufblu.xyz^
@@ -14116,6 +14163,7 @@
 ||jdefxiswwq.xyz^
 ||jeerouse.xyz^
 ||jgqdnbvwfi.xyz^
+||jidroumsaghetu.xyz^
 ||jjkvkgpyi.xyz^
 ||jkpxvoyku.xyz^
 ||jpqvlpoqvmox.xyz^
@@ -14208,6 +14256,7 @@
 ||panbay.xyz^
 ||x.panbay.xyz^
 ||patranally.xyz^
+||pctonjqfeumouq.xyz^
 ||pcyiyywulnmljcn.xyz^
 ||pezico.xyz^
 ||cdn.pezico.xyz^
@@ -14366,6 +14415,7 @@
 ||stats.xtraffic.xyz^
 ||www.xtraffic.xyz^
 ||xtremeserve.xyz^
+||xumpvrreydab.xyz^
 ||xuywofqewwyasil.xyz^
 ||xycstlfoagh.xyz^
 ||yazuda.xyz^
@@ -14552,6 +14602,13 @@ side-ad
 track_click
 utx?
 videogoodput
+facebook.com#%#//scriptlet('json-prune', 'data.node.comet_sections', 'data.node.sponsored_data')
+facebook.com#%#//scriptlet('json-prune', 'data.node.sponsored_data')
+facebook.com#%#//scriptlet('json-prune', 'data.node.encrypted_tracking')
+facebook.com#%#//scriptlet('json-prune', 'data.node.click_tracking_linkshim_cb')
+facebook.com#%#//scriptlet('json-prune', 'data.node.encrypted_click_tracking')
+facebook.com#%#//scriptlet('json-prune', 'data.node.trackingdata')
+facebook.com#%#//scriptlet('json-prune', 'data.node.feed_backend_data')
 facebook.com#%#!function(){var e=new MutationObserver(function(){var m=document.querySelectorAll("div[id^='mount_']");{var e;e=0<m.length?document.querySelectorAll('div[role="feed"] > div[data-pagelet^="FeedUnit"] > div[class]:not([style*="height"])'):document.querySelectorAll('[id^="substream"] > div:not(.hidden_elem) div[id^="hyperfeed_story_id"]')}e.forEach(function(e){function n(e,n){for(0<m.length?"0"==(h=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span > span > span[data-content]')).length&&(h=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span[aria-label]')):h=e.querySelectorAll(".userContentWrapper h5 + div[data-testid] a [class] [class]"),socheck=0;socheck<h.length;socheck++)h[socheck].innerText.contains(n)&&(p=["1"],d=["1"],u=["1"],i=r=l=1,socheck=h.length)}function t(e,n,t,c,a){for(0<m.length?"0"==(h=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span > span > span[data-content]')).length&&(h=e.querySelectorAll('div[role="article"] span[dir="auto"] div[role="button"][tabindex]')):h=e.querySelectorAll(".userContentWrapper h5 + div[data-testid] > span a > [class] [class]"),"0"==h.length&&(h=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span[aria-label]')),socheck=0;socheck<h.length;socheck++){spancheck=0,1<h.length?(spancheck=h[socheck].querySelectorAll("span")[0],0==spancheck&&(spancheck=h[socheck].querySelectorAll("b")[0])):(spancheck=h[0].querySelectorAll("span")[socheck],0==spancheck&&(spancheck=h[0].querySelectorAll("b")[socheck]));var o=h[0];if(0!=spancheck&&spancheck){if(2==spancheck.children.length&&0<m.length)for(spancheck=spancheck.querySelectorAll("span:not([style])"),spcheck=0;spcheck<spancheck.length;spcheck++)spancheck[spcheck].innerText.contains(n)?s=1:!spancheck[spcheck].innerText.contains(t)||0!=spancheck[spcheck].offsetTop||spancheck[spcheck].innerText.contains(n)||spancheck[spcheck].innerText.contains(c)||spancheck[spcheck].innerText.contains(a)?!spancheck[spcheck].innerText.contains(c)||0!=spancheck[spcheck].offsetTop||spancheck[spcheck].innerText.contains(t)||spancheck[spcheck].innerText.contains(n)||spancheck[spcheck].innerText.contains(a)?!spancheck[spcheck].innerText.contains(a)||0!=spancheck[spcheck].offsetTop||spancheck[spcheck].innerText.contains(t)||spancheck[spcheck].innerText.contains(c)||spancheck[spcheck].innerText.contains(n)||(u=["1"],i=1):(d=["1"],r=1):(p=["1"],l=1);0==m.length&&((!(spancheck.innerText.contains(n)&&0==spancheck.offsetTop||h[0].innerText.contains(n)&&0==h[0].offsetTop)||spancheck.innerText.contains(t)&&!h[0].innerText.contains(t)||spancheck.innerText.contains(c)&&!h[0].innerText.contains(c)||spancheck.innerText.contains(a)&&!h[0].innerText.contains(a))&&(!o.innerText.contains(n)||0!=o.offsetTop||o.innerText.contains(t)||o.innerText.contains(c)||o.innerText.contains(a))?!spancheck.innerText.contains(t)||0!=spancheck.offsetTop||spancheck.innerText.contains(n)||spancheck.innerText.contains(c)||spancheck.innerText.contains(a)?!spancheck.innerText.contains(c)||0!=spancheck.offsetTop||spancheck.innerText.contains(t)||spancheck.innerText.contains(n)||spancheck.innerText.contains(a)?!spancheck.innerText.contains(a)||0!=spancheck.offsetTop||spancheck.innerText.contains(t)||spancheck.innerText.contains(c)||spancheck.innerText.contains(n)||(u=["1"],i=1):(d=["1"],r=1):(p=["1"],l=1):s=1)}}}function c(e,n,t,c,a){u=0<m.length?(h=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span span[data-content='+n+"]"),p=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span span[data-content='+t+"]"),d=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span span[data-content='+c+"]"),e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span span[data-content='+a+"]")):(h=e.querySelectorAll(".userContentWrapper h5 + div[data-testid] a [data-content="+n+"]"),p=e.querySelectorAll(".userContentWrapper h5 + div[data-testid] a [data-content="+t+"]"),d=e.querySelectorAll(".userContentWrapper h5 + div[data-testid] a [data-content="+c+"]"),e.querySelectorAll(".userContentWrapper h5 + div[data-testid] a [data-content="+a+"]"))}var s=0,l=0,r=0,i=0,h=0,p=0,d=0,u=0,a=e.querySelectorAll("div[style='width: 100%'] > a[href*='oculus.com/quest'] > div"),o=document.querySelector("[lang]"),k=document.querySelectorAll("link[rel='preload'][href*='/l/']");o=o?document.querySelector("[lang]").lang:"en";var y,g=e.querySelectorAll('a[ajaxify*="ad_id"] > span'),f=e.querySelectorAll('a[href*="ads/about"]'),S=e.querySelectorAll('a[href*="https://www.facebook.com/business/help"]');if("display: none !important;"!=e.getAttribute("style")&&!e.classList.contains("hidden_elem")&&(0<g.length||0<f.length||0<S.length?(T+=1,0<m.length?(""==(y=e.querySelectorAll("a[href]")[0].innerText)&&(y=e.querySelectorAll("a[href]")[1].innerText),""==y&&(y=e.querySelectorAll("a[href]")[0].querySelectorAll("a[aria-label]")[0].getAttribute("aria-label"))):y=e.querySelectorAll("a[href]")[2].innerText,console.log("--------"),console.log("Ad hidden from: "+y),console.log("Total ads hidden: "+T),console.log("F length: "+g.length),console.log("H length: "+f.length),console.log("I length (Paid partnership): "+S.length),console.log("--------"),e.style="display:none!important;"):0<a.length?(T+=1,y="Facebook",console.log("--------"),console.log("Ad hidden from: "+y),console.log("Total ads hidden: "+T),console.log("Non-declared ad"),console.log("--------"),e.style="display:none!important;"):"af"==o?n(e,"Geborg"):"de"==o||"nl"==o?c(e,"G","e","s","n"):"am"==o?n(e,"የተከፈለበት ማስታወቂያ"):"ar"==o?n(e,"مُموَّل"):"as"==o?n(e,"পৃষ্ঠপোষকতা কৰা"):"az"==o?n(e,"Sponsor dəstəkli"):"co"==o?n(e,"Spunsurizatu"):"bs"==o||"sl"==o||"cs"==o?c(e,"S","p","z","n"):"da"==o||"en"==o||"et"==o||"fy"==o||"it"==o||"ku"==o||"nb"==o||"nn"==o||"pl"==o||"sq"==o||"sv"==o||"zz"==o?0<m.length?k[0].href.contains("en_UD")?n(e,"pəɹosuodS"):k[0].href.contains("ja_KS")?n(e,"広告"):k[0].href.contains("tz_MA")?n(e,"ⵉⴷⵍ"):k[0].href.contains("sy_SY")?n(e,"ܒܘܕܩܐ ܡܡܘܘܢܐ"):k[0].href.contains("cb_IQ")?n(e,"پاڵپشتیکراو"):k[0].href.contains("ar_AR")?n(e,"مُموَّل"):k[0].href.contains("sz_PL")?n(e,"Szpōnzorowane"):k[0].href.contains("eo_EO")?n(e,"Reklamo"):k[0].href.contains("es_LA")?c(e,"P","u","c","d"):(c(e,"S","p","s","n"),"0"==h.length&&t(e,"S","p","s","n"),"0"==h.length&&n(e,"Sponsored")):document.querySelector("body").className.includes("Locale_en_UD")?n(e,"pəɹosuodS"):document.querySelector("body").className.includes("ja_KS")?n(e,"広告"):document.querySelector("body").className.includes("tz_MA")?n(e,"ⵉⴷⵍ"):document.querySelector("body").className.includes("sy_SY")?n(e,"ܒܘܕܩܐ ܡܡܘܘܢܐ"):document.querySelector("body").className.includes("cb_IQ")?n(e,"پاڵپشتیکراو"):document.querySelector("body").className.includes("ar_AR")?n(e,"مُموَّل"):document.querySelector("body").className.includes("sz_PL")?n(e,"Szpōnzorowane"):document.querySelector("body").className.includes("eo_EO")?n(e,"Reklamo"):document.querySelector("body").className.includes("es_LA")?c(e,"P","u","c","d"):(c(e,"S","p","s","n"),"0"==h.length&&t(e,"S","p","s","n")):"be"==o?n(e,"Рэклама"):"bg"==o?n(e,"Спонсорирано"):"mk"==o?n(e,"Спонзорирано"):"br"==o?n(e,"Paeroniet"):"ca"==o?n(e,"Patrocinat"):"gl"==o||"pt"==o?(n(e,"Patrocinado"),"0"==l&&c(e,"P","a","c","o")):"bn"==o?n(e,"সৌজন্যে"):"cb"==o?n(e,"پاڵپشتیکراو"):"cx"==o?c(e,"G","i","s","n"):"cy"==o?n(e,"Noddwyd"):"el"==o?n(e,"Χορηγούμενη"):"eo"==o?n(e,"Reklamo"):"es"==o?c(e,"P","u","c","d"):"eu"==o?n(e,"Babestua"):"fa"==o?n(e,"دارای پشتیبانی مالی"):"ff"==o?n(e,"Yoɓanaama"):"fi"==o?n(e,"Sponsoroitu"):"fo"==o?n(e,"Stuðlað"):"fr"==o?0<m.length?k[0].href.contains("fr_FR")?c(e,"S","p","s","n"):c(e,"C","o","m","n"):document.querySelector("body").className.includes("Locale_fr_FR")?c(e,"S","p","s","n"):c(e,"C","o","m","n"):"ga"==o?n(e,"Urraithe"):"gn"==o?n(e,"Oñepatrosinapyre"):"gu"==o?n(e,"પ્રાયોજિત"):"ha"==o?n(e,"Daukar Nauyi"):"he"==o?n(e,"ממומן"):"hr"==o?n(e,"Plaćeni oglas"):"ht"==o?n(e,"Peye"):"ne"==o||"mr"==o||"hi"==o?n(e,"प्रायोजित"):"hu"==o?c(e,"H","i","r","d"):"hy"==o?n(e,"Գովազդային"):"id"==o?c(e,"B","e","p","n"):"is"==o?n(e,"Kostað"):"ja"==o?n(e,"広告"):"ms"==o?n(e,"Ditaja"):"jv"==o?n(e,"Disponsori"):"ka"==o?n(e,"რეკლამა"):"kk"==o?n(e,"Демеушілік көрсеткен"):"km"==o?n(e,"បានឧបត្ថម្ភ"):"kn"==o?n(e,"ಪ್ರಾಯೋಜಿತ"):"ko"==o?n(e,"Sponsored"):"ky"==o?n(e,"Демөөрчүлөнгөн"):"lo"==o?n(e,"ຜູ້ສະໜັບສະໜູນ"):"lt"==o?n(e,"Remiama"):"lv"==o?n(e,"Apmaksāta reklāma"):"mg"==o?n(e,"Misy Mpiantoka"):"ml"==o?n(e,"സ്പോൺസർ ചെയ്തത്"):"mn"==o?n(e,"Ивээн тэтгэсэн"):"mt"==o?n(e,"Sponsorjat"):"my"==o?(n(e,"ပံ့ပိုးထားသည်"),"0"==l&&n(e,"အခပေးကြော်ငြာ")):"or"==o?n(e,"ପ୍ରଯୋଜିତ"):"pa"==o?n(e,"ਸਰਪ੍ਰਸਤੀ ਪ੍ਰਾਪਤ"):"ps"==o?n(e,"تمويل شوي"):"ro"==o?n(e,"Sponsorizat"):"ru"==o||"uk"==o?n(e,"Реклама"):"rw"==o?n(e,"Icyamamaza ndasukirwaho"):"sc"==o?n(e,"Patronadu de"):"si"==o?n(e,"අනුග්රාහක"):"sk"==o?n(e,"Sponzorované"):"sn"==o?n(e,"Zvabhadharirwa"):"so"==o?n(e,"La maalgeliyey"):"sr"==o?n(e,"Спонзорисано"):"sw"==o?n(e,"Imedhaminiwa"):"sy"==o?n(e,"ܒܘܕܩܐ ܡܡܘܘܢܐ"):"sz"==o?n(e,"Szpōnzorowane"):"ta"==o?n(e,"விளம்பரம்"):"te"==o?n(e,"ప్రాయోజితం చేయబడింది"):"tg"==o?n(e,"Бо сарпарастӣ"):"th"==o?n(e,"ได้รับการสนับสนุน"):"tl"==o?n(e,"May Sponsor"):"tr"==o?n(e,"Sponsorlu"):"tt"==o?n(e,"Хәйрияче"):"tz"==o?n(e,"ⵉⴷⵍ"):"ur"==o?n(e,"سپانسرڈ"):"uz"==o?n(e,"Reklama"):"vi"==o?n(e,"Được tài trợ"):"zh-Hans"==o?n(e,"赞助内容"):"zh-Hant"==o&&n(e,"贊助"),0<h.length&&0<p.length&&0<d.length&&0<u.length)){for(cont=0;cont<h.length;cont++)0<h[cont].offsetHeight&&(cont=h.length,s=1);for(cont1=0;cont1<p.length;cont1++)0<p[cont1].offsetHeight&&(cont1=p.length,l=1);for(cont2=0;cont2<d.length;cont2++)0<d[cont2].offsetHeight&&(cont2=d.length,r=1);for(cont3=0;cont3<u.length;cont3++)0<u[cont3].offsetHeight&&(cont3=u.length,i=1);1==s&&1==l&&1==r&&1==i&&(0<m.length&&""!=(y=e.querySelectorAll("a[href]")[1].innerText)||(y=e.querySelectorAll("a[href]")[2].innerText),T+=1,console.log("--------"),console.log("Ad hidden from: "+y),console.log("Total ads hidden: "+T),console.log("--------"),e.style="display:none!important;")}})}),T=0;e.observe(document,{childList:!0,subtree:!0})}();
 facebook.com#%#!function(){var e=new MutationObserver(function(){document.querySelectorAll('[id^="substream"] > div:not(.hidden_elem) div[id^="hyperfeed_story_id"]').forEach(function(e){function t(e,t){for(s=e.querySelectorAll('.userContentWrapper h5 + div[data-testid*="sub"] a [class] [class]'),socheck=0;socheck<s.length;socheck++)s[socheck].innerText.contains(t)&&(c=["1"],d=["1"],i=["1"],r=l=a=1,socheck=s.length)}function o(e,t,o,n,a){s=e.querySelectorAll('.userContentWrapper h5 + div[data-testid*="sub"] a [data-content='+t+"]"),c=e.querySelectorAll('.userContentWrapper h5 + div[data-testid*="sub"] a [data-content='+o+"]"),d=e.querySelectorAll('.userContentWrapper h5 + div[data-testid*="sub"] a [data-content='+n+"]"),i=e.querySelectorAll('.userContentWrapper h5 + div[data-testid*="sub"] a [data-content='+a+"]"),0==s.length&&(s=e.querySelectorAll('.userContentWrapper h5 + div[data-testid*="label"] a [data-content='+t+"]"),c=e.querySelectorAll('.userContentWrapper h5 + div[data-testid*="label"] a [data-content='+o+"]"),d=e.querySelectorAll('.userContentWrapper h5 + div[data-testid*="label"] a [data-content='+n+"]"),i=e.querySelectorAll('.userContentWrapper h5 + div[data-testid*="label"] a [data-content='+a+"]"))}var n=0,a=0,l=0,r=0,s=0,c=0,d=0,i=0,u=e.querySelectorAll("div[style='width: 100%'] > a[href*='oculus.com/quest'] > div"),h=document.querySelector("[lang]").lang,g=e.querySelectorAll('a[ajaxify*="ad_id"] > span'),p=e.querySelectorAll('a[href*="ads/about"]');if("display: none !important;"!=e.getAttribute("style")&&!e.classList.contains("hidden_elem")){if(0<g.length||0<p.length){f+=1;var y=e.querySelectorAll("a[href]")[2].innerText;console.log("--------"),console.log("Ad hidden from: "+y),console.log("Total ads hidden: "+f),console.log("F length: "+g.length),console.log("H length: "+p.length),console.log("--------"),e.style="display:none!important;"}else if(0<u.length){f+=1;y="Facebook";console.log("--------"),console.log("Ad hidden from: "+y),console.log("Total ads hidden: "+f),console.log("Non-declared ad"),console.log("--------"),e.style="display:none!important;"}else"af"==h?t(e,"Geborg"):"de"==h||"nl"==h?o(e,"G","e","s","n"):"am"==h?t(e,"የተከፈለበት ማስታወቂያ"):"ar"==h?t(e,"مُموَّل"):"as"==h?t(e,"পৃষ্ঠপোষকতা কৰা"):"az"==h?t(e,"Sponsor dəstəkli"):"co"==h?t(e,"Spunsurizatu"):"bs"==h||"sl"==h||"cs"==h?o(e,"S","p","z","n"):"da"==h||"en"==h||"et"==h||"fy"==h||"it"==h||"ku"==h||"nb"==h||"nn"==h||"pl"==h||"sq"==h||"sv"==h||"zz"==h?document.querySelector("body").className.includes("Locale_en_UD")?t(e,"pəɹosuodS"):o(e,"S","p","s","n"):"be"==h?t(e,"Рэклама"):"bg"==h?t(e,"Спонсорирано"):"mk"==h?t(e,"Спонзорирано"):"br"==h?t(e,"Paeroniet"):"ca"==h?t(e,"Patrocinat"):"gl"==h||"pt"==h?t(e,"Patrocinado"):"bn"==h?t(e,"সৌজন্যে"):"cb"==h?t(e,"پاڵپشتیکراو"):"cx"==h?o(e,"G","i","s","n"):"cy"==h?t(e,"Noddwyd"):"el"==h?t(e,"Χορηγούμενη"):"eo"==h?t(e,"Reklamo"):"es"==h?o(e,"P","u","c","d"):"eu"==h?t(e,"Babestua"):"fa"==h?t(e,"دارای پشتیبانی مالی"):"ff"==h?t(e,"Yoɓanaama"):"fi"==h?t(e,"Sponsoroitu"):"fo"==h?t(e,"Stuðlað"):"fr"==h?document.querySelector("body").className.includes("Locale_fr_FR")?o(e,"S","p","s","n"):o(e,"C","o","m","n"):"ga"==h?t(e,"Urraithe"):"gn"==h?t(e,"Oñepatrosinapyre"):"gu"==h?t(e,"પ્રાયોજિત"):"ha"==h?t(e,"Daukar Nauyi"):"he"==h?t(e,"ממומן"):"hr"==h?t(e,"Plaćeni oglas"):"ht"==h?t(e,"Peye"):"ne"==h||"mr"==h||"hi"==h?t(e,"प्रायोजित"):"hu"==h?o(e,"H","i","r","d"):"hy"==h?t(e,"Գովազդային"):"id"==h?o(e,"B","e","p","n"):"is"==h?t(e,"Kostað"):"ja"==h?t(e,"広告"):"ms"==h?t(e,"Ditaja"):"jv"==h?t(e,"Disponsori"):"ka"==h?t(e,"რეკლამა"):"kk"==h?t(e,"Демеушілік көрсеткен"):"km"==h?t(e,"បានឧបត្ថម្ភ"):"kn"==h?t(e,"ಪ್ರಾಯೋಜಿತ"):"ko"==h?t(e,"Sponsored"):"ky"==h?t(e,"Демөөрчүлөнгөн"):"lo"==h?t(e,"ຜູ້ສະໜັບສະໜູນ"):"lt"==h?t(e,"Remiama"):"lv"==h?t(e,"Apmaksāta reklāma"):"mg"==h?t(e,"Misy Mpiantoka"):"ml"==h?t(e,"സ്പോൺസർ ചെയ്തത്"):"mn"==h?t(e,"Ивээн тэтгэсэн"):"mt"==h?t(e,"Sponsorjat"):"my"==h?t(e,"ပံ့ပိုးထားသည်"):"or"==h?t(e,"ପ୍ରଯୋଜିତ"):"pa"==h?t(e,"ਸਰਪ੍ਰਸਤੀ ਪ੍ਰਾਪਤ"):"ps"==h?t(e,"تمويل شوي"):"ro"==h?t(e,"Sponsorizat"):"ru"==h||"uk"==h?t(e,"Реклама"):"rw"==h?t(e,"Icyamamaza ndasukirwaho"):"sc"==h?t(e,"Patronadu de"):"si"==h?t(e,"අනුග්‍රාහක"):"sk"==h?t(e,"Sponzorované"):"sn"==h?t(e,"Zvabhadharirwa"):"so"==h?t(e,"La maalgeliyey"):"sr"==h?t(e,"Спонзорисано"):"sw"==h?t(e,"Imedhaminiwa"):"sy"==h?t(e,"ܒܘܕܩܐ ܡܡܘܘܢܐ"):"sz"==h?t(e,"Szpōnzorowane"):"ta"==h?t(e,"விளம்பரம்"):"te"==h?t(e,"ప్రాయోజితం చేయబడింది"):"tg"==h?t(e,"Бо сарпарастӣ"):"th"==h?t(e,"ได้รับการสนับสนุน"):"tl"==h?t(e,"May Sponsor"):"tr"==h?t(e,"Sponsorlu"):"tt"==h?t(e,"Хәйрияче"):"tz"==h?t(e,"ⵉⴷⵍ"):"ur"==h?t(e,"سپانسرڈ"):"uz"==h?t(e,"Reklama"):"vi"==h?t(e,"Được tài trợ"):"zh-Hans"==h?t(e,"赞助内容"):"zh-Hant"==h&&t(e,"贊助");if(0<s.length&&0<c.length&&0<d.length&&0<i.length){for(cont=0;cont<s.length;cont++)0<s[cont].offsetHeight&&(cont=s.length,n=1);for(cont1=0;cont1<c.length;cont1++)0<c[cont1].offsetHeight&&(cont1=c.length,a=1);for(cont2=0;cont2<d.length;cont2++)0<d[cont2].offsetHeight&&(cont2=d.length,l=1);for(cont3=0;cont3<i.length;cont3++)0<i[cont3].offsetHeight&&(cont3=i.length,r=1);if(1==n&&1==a&&1==l&&1==r){y=e.querySelectorAll("a[href]")[2].innerText;f+=1,console.log("--------"),console.log("Ad hidden from: "+y),console.log("Total ads hidden: "+f),console.log("--------"),e.style="display:none!important;"}}}})}),f=0;e.observe(document,{childList:!0,subtree:!0,characterData:!0,attributes:!0})}();
 facebook.com#%#!function(){var b=0,d=[];new MutationObserver(function(){document.querySelectorAll("div[data-pagelet^=\"FeedUnit\"]:not([style*=\"display: none\"]), div[role=\"feed\"] > div:not([style*=\"display: none\"]), div[role=\"feed\"] > span:not([style*=\"display: none\"]), #ssrb_feed_start + div > div[class]:not([style*=\"display: none\"]), #ssrb_feed_start + div span > h3 ~ div[class]:not([style*=\"display: none\"]), #ssrb_feed_start + div h3~ div[class]:not([style*=\"display: none\"]), #ssrb_feed_start + div h3 ~ div > div[class]:not([style*=\"display: none\"]), div[role=\"main\"] div[class] > #ssrb_feed_start ~ div > h3 ~ div > div[class]:not([style*=\"display: none\"]), div[role=\"main\"] div > h3 ~ div > div[class]:not([style*=\"display: none\"]), #ssrb_feed_start + div > div > div[class]:not([style*=\"display: none\"]), div[role=\"main\"] div > h2 ~ div > div[class]:not([style*=\"display: none\"]), #ssrb_feed_start + div > div > div[class] > div:not([class], [id]) div:not([class], [id]):not([style*=\"display: none\"]), div[role=\"main\"] div > h3 ~ div > div[class] > div:not([class], [id]) div:not([class], [id], [dir], [data-0], [style]), div[role=\"main\"] div > h2 ~ div > div[class] > div > div:not([style*=\"display: none\"]),div[role=\"main\"] h3[dir=\"auto\"] + div > div[class]:not([style*=\"display: none\"])").forEach(function(e){Object.keys(e).forEach(function(a){if(a.includes("__reactEvents")||a.includes("__reactProps")){a=e[a];try{if(a.children?.props?.category?.includes("SPONSORED")||a.children?.props?.children?.props?.category?.includes("SPONSORED")||a.children?.props?.feedEdge?.category?.includes("SPONSORED")||a.children?.props?.children?.props?.feedEdge?.category?.includes("SPONSORED")||a.children?.props?.children?.props?.children?.props?.feedEdge?.category?.includes("SPONSORED")||a.children?.props?.children?.props?.children?.props?.children?.props?.feedEdge?.category?.includes("SPONSORED")){b++,e.style="display: none !important;";var f=e.querySelector("a[href][aria-label]:not([aria-hidden])");f&&(d.push(["Ad blocked based on property ["+b+"] -> "+f.ariaLabel]),console.table(d))}}catch(a){}}})})}).observe(document,{childList:!0,subtree:!0})}();
@@ -14563,6 +14620,7 @@ facebook.com#%#!function(){if(window.location.href.includes("/marketplace/")){ne
 facebook.com##div[role="progressbar"] ~ div[class] div div[data-instancekey] > div[data-visualcompletion="ignore"] a[aria-label][href*="l.php?u="][target="_blank"]
 facebook.com##div[role="complementary"] div:not([class]):not([id]) > span:not([class]):not([id]):not([aria-labelledby])
 facebook.com##.post-ads,.RectangleAd,.sponsorPost
+facebook.com##div[role="main"] div:not([class]):not([id]) div[class]:not([id]):has(div:not([class]):not([id]) > div:not([class]):not([id]) > div:not([class]):not([id]) > div[class]:not([id]) > div[class]:not([id]) > div:not([class]):not([id]) > div:not([class]):not([id]) > div[aria-labelledby] > div[data-virtualized] span > a[attributionsrc^="/privacy_sandbox/comet/register/source/"] > span > span[aria-labelledby^=":r"]
 ||facebook.com/ajax/bnzai*__comet_req=
 ||facebook.com/static_resources/sharedworker/init_script/
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('set-constant', 'google_ad_status', '1')
@@ -14662,7 +14720,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||pay.google.com/gp/p/_/InstantbuyFrontendBuyflowPayframeUi/jserror
 ||pixlr.com/fad/
 ||quora.com/ajax/receive_POST
-||quoracdn.net^$domain=dam18.net|haysex.net|hentaivl.tv|hentaivn.day|heo69.top|lenlut.net|mup69.net|phevkl.biz|phim3x.us|sexthailan.com|vlxx.ai|vlxx.moe|vlxxhot.net|vlxyz.net|vlxyz.tv|vnxx.xyz|xemsex.gg|xemsex.moe|xemsex.vc|xnxxpro.net|xnxxpro.xxx|xvideo3s.cc|xvideos.moe|xvideos98.pro|xvideos98.xxx,third-party
+||quoracdn.net^$domain=dam18.net|haysex.net|hentaivl.tv|hentaivn.day|heo69.top|lenlut.net|mup69.net|phevkl.biz|phim3x.us|sexhdpro.net|sexthailan.com|vlxx.ai|vlxx.moe|vlxxhot.net|vlxyz.net|vlxyz.tv|vnxx.xyz|xemsex.gg|xemsex.moe|xemsex.vc|xnxxpro.net|xnxxpro.xxx|xvideo3s.cc|xvideos.moe|xvideos98.pro|xvideos98.xxx,third-party
 ||s.yimg.com/aaq/
 ||s.yimg.com/av/ads/
 ||s.yimg.com/ds/
@@ -14769,7 +14827,7 @@ boyfriendtv.com#%#Object.defineProperties(window,{adblock:{value:void 0},adInter
 camelliatransgroup.com,dhcc.uk#%#Object.defineProperties(window,{KiemTraAnh3Chap:{value:void 0,writable:!1},topContentBanneri9:{value:void 0,writable:!1}});
 check-host.net#%#Object.defineProperty(window,"ad_prepend",{value:void 0,writable:!1});
 d0000d.com,do0od.com,dood.la,dood.pm,dood.re,dood.so,dood.to,dood.wf,dood.yt,doods.pro,dooood.com,ds2play.com#%#Object.defineProperties(window,{check:{value:function(){},writable:!1},minimalUserResponseInMiliseconds:{value:void 0,writable:!1},tryCount:{value:void 0,writable:!1}}),window.addEventListener("DOMContentLoaded",function(){dsplayer.on("keydown",function(e){e.ctrlKey&&"s"===e.key&&null!==dsplayer.cache_.src&&(e.preventDefault(),!0==confirm("Download video?")&&window.open(dsplayer.cache_.src))}),Object.defineProperties(window,{disabledEvent:{value:function(){},writable:!1},DoodPop:{value:void 0,writable:!1},googleAd:{value:null,writable:!0},hab:{value:function(){return!1},writable:!1},minimalUserResponseInMiliseconds:{value:void 0,writable:!1},PushOpen:{value:function(){},writable:!1},sendGA:{value:function(){},writable:!1},tryCount:{value:void 0,writable:!1}}),"undefined"!=typeof dsplayer&&(dsplayer.volume(0),dsplayer.muted(!0),localStorage.setItem("volume",0))});
-diffchecker.com#%#var t=setInterval(function(){var e=document.querySelectorAll('form > .hide-print');e.forEach(r=>{r.remove(),0==e.length&&clearInterval(t)})},100);
+diffchecker.com#%#var d=new Date;localStorage.setItem("closedDiffDesktopBanner","true"),localStorage.setItem("alreadySawHomepageModal","true"),localStorage.setItem("mergeUses-"+d.getMonth()+"-"+d.getFullYear(),Number.MIN_SAFE_INTEGER),window.addEventListener("load",function(){var e=setInterval(function(){var t=document.querySelectorAll("form > .hide-print");t.forEach(e=>{e.remove()}),0==t.length&&clearInterval(e)},100)});
 fingau.com,frdl.to,getpczone.com,rahim-soft.com,uploadrar.com,wokaz.com#%#window.addEventListener("load",function(){var e=document.getElementById("adblock_detected");null!=e&&(e.value=0)});
 fingau.com,getpczone.com,rahim-soft.com,uploadrar.com,wokaz.com#%#window.addEventListener("load",function(){var e=document.getElementById("downloadbtn");null!=e&&e&&(e.disabled=!1),null!=(e=document.querySelector(".banner2"))&&(e.className="b"),(e=document.querySelectorAll(".as_ads_guard")).forEach(e=>e.remove()),null!=(e=document.getElementById("open_preferences_center"))&&e.remove(),null!=(e=document.getElementById("gdpr-cookie-notice"))&&e.remove(),null!=(e=document.getElementById("news_last"))&&e.remove()});
 frdl.to#%#Object.defineProperties(window,{googleAd:{value:null,writable:!0},hab:{value:function(){return!1},writable:!1}}),window.addEventListener("load",function(){var e=document.getElementById("downloadbtn");null!=e&&e&&(e.disabled=!1),null!=(e=document.getElementById("countdown"))&&e.remove()});
@@ -14850,6 +14908,7 @@ fandom.com###WikiaBar,.bottom-ads-container,.page__right-rail,.top-ads-container
 fingau.com,getpczone.com,rahim-soft.com,uploadrar.com,wokaz.com###commonId > a.btn.btn-info.btn-lg,#commonId > a:nth-child(2) > img,#nofilepage ins,[class^="banner"]
 fullboys.com,rimsgay.com##.video-ad
 genius.com##[class^="DfpAd__" i],[class^="InreadContainer__" i],[class^="RightSidebar__" i],[class^="SectionLeaderboard__" i]
+gpt4o.so##.block[class*="lg"],.hidden[class*="lg"]
 hentaiz.net###rmcard1,img.hidden-mobile,img.visible-mobile
 hentaiz.vip##.d-none.d-lg-block
 home.blog,wordpress.com##.cookie-banner,.widget_eu_cookie_law_widget
