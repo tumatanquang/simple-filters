@@ -755,6 +755,8 @@
 ||4aa702b79e.2bac5b4837.com^
 ||2bd1f18377.com^
 ||516d924a88.2bd1f18377.com^
+||2cba2742a4.com^
+||116240c6f1.2cba2742a4.com^
 ||2d1f81ac8e.com^
 ||10aa70cac6.2d1f81ac8e.com^
 ||2da69cc358.com^
@@ -1470,6 +1472,7 @@
 ||adaptationreconsider.com^
 ||adnetwork.adasiaholdings.com^
 ||adblock-360.com^
+||adblock-offer-download.com^
 ||adblock-one-protection.com^
 ||adcalm.com^
 ||adcampo.com^
@@ -2842,6 +2845,8 @@
 ||fj.cavilerestops.com^
 ||cayucaoidwlfe.com^
 ||gt.cayucaoidwlfe.com^
+||cb3251add6.com^
+||ccdb6d3e12.cb3251add6.com^
 ||cb7f35d82c.com^
 ||db3fefcace.cb7f35d82c.com^
 ||cba6182add.com^
@@ -4268,6 +4273,8 @@
 ||forfeitsubscribe.com^
 ||forlumineoner.com^
 ||formalhood.com^
+||formismagiustor.com^
+||ak.formismagiustor.com^
 ||fortunatemark.com^
 ||fostereminent.com^
 ||fouanalytics.com^
@@ -7910,6 +7917,7 @@
 ||securybrowseapp.com^
 ||www11.securybrowseapp.com^
 ||sedativesandhandbook.com^
+||sedgygalways.com^
 ||sedodna.com^
 ||xml.sedodna.com^
 ||www.seeawhale.com^
@@ -8372,6 +8380,8 @@
 ||suchbasementdarn.com^
 ||suctionautomobile.com^
 ||sudospaces.com^
+||suffarilbf.com^
+||ct.suffarilbf.com^
 ||suffocatepremise.com^
 ||sukoqgdpej.com^
 ||sumqpealkah.com^
@@ -12124,6 +12134,7 @@
 ||upapi.net^
 ||mrb.upapi.net^
 ||upodaitie.net^
+||uprar.net^
 ||uu8813.net^
 ||uuidksinc.net^
 ||vaikijie.net^
@@ -12820,15 +12831,21 @@
 ||68gbapp22.shop^
 ||68link7.shop^
 ||ataxiasfaulds.shop^
+||audiobenasty.shop^
+||beataehoose.shop^
+||beltsingey.shop^
 ||bicronglagah.shop^
 ||wz.bicronglagah.shop^
 ||bumpkinclon.shop^
+||etypicthawier.shop^
+||bt.etypicthawier.shop^
 ||galootsmulcted.shop^
 ||icodstatus.shop^
 ||izleskulked.shop^
 ||knevelfamily.shop^
 ||nikkounring.shop^
 ||ocypetediplont.shop^
+||piazzetasses.shop^
 ||puredsimula.shop^
 ||regearpieing.shop^
 ||roscianwaltron.shop^
@@ -13146,6 +13163,7 @@
 ||cotorosmileway.top^
 ||cowboysdrowses.top^
 ||coyanlustral.top^
+||crusetputs.top^
 ||d24ak3f2b.top^
 ||dangky789a.top^
 ||daubeoutplot.top^
@@ -13468,8 +13486,11 @@
 ||spikscursen.top^
 ||stannelberated.top^
 ||stelaiatokal.top^
+||stoicsstright.top^
 ||subsumeactless.top^
 ||surnayruffle.top^
+||sutraschina.top^
+||taurine.sutraschina.top^
 ||tai789.top^
 ||takessutures.top^
 ||tampoewretch.top^
@@ -13482,6 +13503,8 @@
 ||tentyboma.top^
 ||theprizesure.top^
 ||thrasoamphid.top^
+||tiepinsespials.top^
+||toodeeps.top^
 ||touzledwishly.top^
 ||trawlselymus.top^
 ||tropaiariskful.top^
@@ -14380,6 +14403,7 @@
 ||oobynhfrioyriye.xyz^
 ||oongouha.xyz^
 ||oqvrrutawlkvpwo.xyz^
+||orxuejvpxb.xyz^
 ||outchops.xyz^
 ||ouwhejoacie.xyz^
 ||owdanlytvtfkrb.xyz^
@@ -14478,6 +14502,7 @@
 ||tlxjllsfcrnf.xyz^
 ||toibmodlefjb.xyz^
 ||tpbenwiws.xyz^
+||tr-monday.xyz^
 ||trdwvyjj.xyz^
 ||trjxehoxjcbxvuc.xyz^
 ||trtienfx.xyz^
@@ -14807,6 +14832,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||bing.com/retailexp/msn/api/*/trendingprods
 ||cdn-go.cn/aegis/aegis-sdk/
 ||cdn.jsdelivr.net/npm/yandex-metrica-watch/
+||challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1
 ||chaturbate.com^$third-party,subdocument
 ||cloud.google.com/log
 ||cnet.com/ext/
@@ -14858,7 +14884,6 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||pixlr.com/fad/
 ||quora.com/ajax/receive_POST
 ||quoracdn.net^$domain=dam18.net|haysex.net|hentaivl.tv|hentaivn.day|heo69.top|lenlut.net|mup69.net|phevkl.biz|phim3x.us|sexhdpro.net|sexthailan.com|vlxx.ai|vlxx.moe|vlxxhot.net|vlxyz.net|vlxyz.tv|vnxx.xyz|xemsex.gg|xemsex.moe|xemsex.vc|xnxxpro.net|xnxxpro.xxx|xvideo3s.cc|xvideos.moe|xvideos98.pro|xvideos98.xxx,third-party
-||reddit.com/svc/shreddit/events
 ||s.yimg.com/aaq/
 ||s.yimg.com/av/ads/
 ||s.yimg.com/ds/
@@ -14893,7 +14918,6 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||you.com/scripts/appsFlyer.js
 ||you.com/scripts/gtm.js
 ||you.com/scripts/microsoft.js
-||youtube.com/api/jnn/v1/GenerateIT
 ||youtube.com/api/stats/ads?
 ||youtube.com/api/stats/atr?
 ||youtube.com/api/stats/playback
