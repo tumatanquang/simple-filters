@@ -2760,6 +2760,8 @@
 ||c3-tool.com^
 ||static-fe.c3-tool.com^
 ||tracking.c3-tool.com^
+||c3759f7e8a.com^
+||9b1ad9b3de.c3759f7e8a.com^
 ||c3ecfc3556.com^
 ||d617490b25.c3ecfc3556.com^
 ||c43a3cd8f99413891.com^
@@ -3820,6 +3822,8 @@
 ||applets.ebxcdn.com^
 ||ec1e2c92b3.com^
 ||901268600b.ec1e2c92b3.com^
+||ec49775bc5.com^
+||f3e59bc274.ec49775bc5.com^
 ||ec5e727d37.com^
 ||50abe8a408.ec5e727d37.com^
 ||eca8bef536.com^
@@ -14566,6 +14570,7 @@
 ||xcpcfdxy.xyz^
 ||xcwshhsmf.xyz^
 ||xe9o.xyz^
+||xgtypnbhywduul.xyz^
 ||xmcfnejayqwp.xyz^
 ||xoilcsfvgjiw.xyz^
 ||xovjdthow.xyz^
@@ -14944,6 +14949,7 @@ anime3s.com,animet1.net#%#//scriptlet('abort-on-property-read', 'window.history'
 anime3s.com,animet1.net#%#//scriptlet('prevent-addEventListener', 'contextmenu')
 anime3s.com,animet1.net#%#//scriptlet('prevent-addEventListener', 'keydown')
 anime3s.com,animet1.net#%#//scriptlet('remove-attr', 'disable-devtool-auto')
+apkmirror.com#%#//scriptlet('set-constant', 'Object.defineProperty', 'noopFunc')
 bing.com#%#//scriptlet('json-prune', 'relatedAds')
 boyfriendtv.com#%#//scriptlet('prevent-addEventListener', 'chujBlokowacieDone')
 camelliatransgroup.com,dhcc.uk,fingau.com,getpczone.com,javadecompilers.com,listvpn.net,quaanhdaocuteo.com,rahim-soft.com,uploadrar.com,wokaz.com#%#//scriptlet('prevent-bab')
