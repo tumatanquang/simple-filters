@@ -1176,6 +1176,8 @@
 ||815e8fa24ebb8686.com^
 ||817dae10e1.com^
 ||4e7042dd58.817dae10e1.com^
+||81c875a340.com^
+||ce73e4958b.81c875a340.com^
 ||84190de182.com^
 ||9b802eccae.84190de182.com^
 ||84284a87a4.com^
@@ -3346,6 +3348,7 @@
 ||cwchmb.com^
 ||www.cwchmb.com^
 ||cwin999.com^
+||cwoapffh.com^
 ||cwuowfsihn.com^
 ||cx732.com^
 ||sc.cx732.com^
@@ -3789,6 +3792,8 @@
 ||e2e7aaca07.e8a8e57eb3.com^
 ||e942c12c75.com^
 ||b161566245.e942c12c75.com^
+||e94377cdef.com^
+||892e84a94b.e94377cdef.com^
 ||e9a53154b4.com^
 ||50b1f7a005.e9a53154b4.com^
 ||e9a7f7045c.com^
@@ -12820,6 +12825,7 @@
 ||hlkml4t5xutndqhnqidxpfcj5z3gv.two-tusked.sbs^
 ||xzka9yhirrnvu2cnaij0qbpdduhxgf.two-tusked.sbs^
 ||unconsecutively.sbs^
+||webcamillusion.sbs^
 ||bunnycdn.se^
 ||casinopro.se^
 ||data-px.services^
@@ -14296,6 +14302,7 @@
 ||htilucgfvcvqnq.xyz^
 ||htlaaogcreeepuj.xyz^
 ||huapydce.xyz^
+||huikmxwfkyctbry.xyz^
 ||hwxuptncpmohld.xyz^
 ||hxaubnrfgxke.xyz^
 ||hyalooichbrjeom.xyz^
@@ -14361,6 +14368,7 @@
 ||t.lumupu.xyz^
 ||luonxumpaams.xyz^
 ||lvxukdwnbc.xyz^
+||mdlmyxslhfvcx.xyz^
 ||medadelem.xyz^
 ||media3s.xyz^
 ||img.media3s.xyz^
@@ -14595,6 +14603,8 @@
 ||yogsnrlvwm.xyz^
 ||yomeno.xyz^
 ||vast.yomeno.xyz^
+||youcams.xyz^
+||en.youcams.xyz^
 ||ypy02.xyz^
 ||ypy12.xyz^
 ||yvytifkhtmhl.xyz^
@@ -15066,7 +15076,7 @@ ayamehentai.cc,hentaiayame.com,hentaiayame.net,hentaihvn.tv,hentaivn.autos,henta
 baidu.com###branding_ads,#web-right-view,.ad-multi-tips,.ad-platform-tips,.cps_wrap,.j_click_stats,.video-ad-creative-card
 bilibili.com###activity_vote,#bannerAd,#live_recommand_report,#slide_ad,.pop-live-small-mode,.video-page-game-card-small,.video-page-special-card-small,[href*="cm.bilibili.com"]
 bilutvs.net##.ab1,.abp-header
-bing.com###adstop_gradiant_separator,div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"],ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_results > li.b_algo:has(div.b_attribution[data-partnertag])
+bing.com###adstop_gradiant_separator,div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_context:has(> li.b_ad),ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"],ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_results > li.b_algo:has(div.b_attribution[data-partnertag])
 blogtruyen.vn##.BT-Ads
 boyfriendtv.com###js-ads-modal,#rightside2,.adblock,.eu-cookies,.js-right-no-ads,.vast-overlay,.video-extra-wrapper,.x-news-line,li.media-item.no-popup,[class$="advi" i],[href*="gobanner"],[src*="paysite"]
 camelliatransgroup.com,dhcc.uk##[id^="sticky-footer" i]
