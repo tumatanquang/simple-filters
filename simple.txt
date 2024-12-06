@@ -848,6 +848,8 @@
 ||e9b729472c.39268ea911.com^
 ||3a17d27bf9.com^
 ||6a50e3675e.3a17d27bf9.com^
+||3ac04b70da.com^
+||53694acd56.3ac04b70da.com^
 ||3b1ac6ca25.com^
 ||1667fff40a.3b1ac6ca25.com^
 ||3bc9b1b89c.com^
@@ -881,6 +883,8 @@
 ||f154105aee.4233f3ee2f.com^
 ||423991b7ca.com^
 ||0b78f5f34a.423991b7ca.com^
+||4239cc7770.com^
+||dd275c38d4.4239cc7770.com^
 ||5a932fbdb2.42ad8ba91b.com^
 ||433bcaa83b.com^
 ||65d9b4a4ad.433bcaa83b.com^
@@ -5206,6 +5210,9 @@
 ||rt.imgur.com^
 ||t.imgur.com^
 ||imidicsecular.com^
+||imkirh.com^
+||creative.imkirh.com^
+||go.imkirh.com^
 ||immixteddo.com^
 ||impactradius-event.com^
 ||d.impactradius-event.com^
@@ -10250,6 +10257,7 @@
 ||exmarkets.global^
 ||track.exmarkets.global^
 ||www.exmarkets.global^
+||stripchat.global^
 ||syndicatedsearch.goog^
 ||67u2gk.gq^
 ||exodus.gr^
@@ -10715,6 +10723,7 @@
 ||storeip-xeuiff.io^
 ||api4.storeip-xeuiff.io^
 ||api6.storeip-xeuiff.io^
+||stripchats.io^
 ||targetads.io^
 ||eye.targetads.io^
 ||dmp.tenmax.io^
@@ -14475,6 +14484,7 @@
 ||realpush.realsh.xyz^
 ||redboxbox.xyz^
 ||rertessesse.xyz^
+||resrxnjqcftuf.xyz^
 ||reswsentativ.xyz^
 ||rhctvugjhdkaqji.xyz^
 ||rmhhgpqgxxr.xyz^
