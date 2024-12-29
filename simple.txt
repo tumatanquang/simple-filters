@@ -270,6 +270,7 @@
 ||upstagecarvers.cfd^
 ||vickykilled.cfd^
 ||w2ev32h7.cfd^
+||whitewebcam.cfd^
 ||wqcee7jw.cfd^
 ||crisp.chat^
 ||client.crisp.chat^
@@ -897,6 +898,8 @@
 ||5a932fbdb2.42ad8ba91b.com^
 ||433bcaa83b.com^
 ||65d9b4a4ad.433bcaa83b.com^
+||43512fee11.com^
+||42532fc91f.43512fee11.com^
 ||44822.com^
 ||www.44822.com^
 ||44i9bet.com^
@@ -1053,6 +1056,8 @@
 ||6686vn17.com^
 ||6686vn23.com^
 ||6686vn80.com^
+||66a5e92d66.com^
+||cb530ae596.66a5e92d66.com^
 ||66i9bet.com^
 ||www.66i9bet.com^
 ||6778056ac3.com^
@@ -1810,6 +1815,8 @@
 ||aitsatho.com^
 ||ajfnee.com^
 ||ajkompctubam.com^
+||aksazkxmiopf.com^
+||www.aksazkxmiopf.com^
 ||akusafla.com^
 ||www.akusafla.com^
 ||alas4kanmfa6a4mubte.com^
@@ -2986,6 +2993,7 @@
 ||chametzunbelt.com^
 ||xw.chametzunbelt.com^
 ||chance-for-bigwin.com^
+||characterlinguinisnarl.com^
 ||chargebee.com^
 ||js.chargebee.com^
 ||linkvertise.chargebee.com^
@@ -3049,6 +3057,8 @@
 ||cisdwomasozv.com^
 ||cisfazpisju.com^
 ||citadelpathstatue.com^
+||cithernassorts.com^
+||ms.cithernassorts.com^
 ||civicscience.com^
 ||www138.civicscience.com^
 ||cj.com^
@@ -3751,6 +3761,7 @@
 ||www.dthmkahofppmr.com^
 ||e.dtscout.com^
 ||t.dtscout.com^
+||du88.com^
 ||dubheteat.com^
 ||gk.dubheteat.com^
 ||dubizzle.com^
@@ -5548,6 +5559,8 @@
 ||joophesh.com^
 ||joyingclaros.com^
 ||rw.joyingclaros.com^
+||jpaolbtfyoh.com^
+||www.jpaolbtfyoh.com^
 ||jpiyucme.com^
 ||jpjrkdtbnwc.com^
 ||www.jpjrkdtbnwc.com^
@@ -5818,6 +5831,8 @@
 ||www.lbampvjuvfv.com^
 ||lby2kd27c.com^
 ||ldmhqbglilysuie.com^
+||leadsconv.com^
+||affledot.leadsconv.com^
 ||lebratent.com^
 ||ak.lebratent.com^
 ||leerilypimelea.com^
@@ -6725,6 +6740,7 @@
 ||ofhappinyer.com^
 ||ofmoppeuap.com^
 ||www.ofmoppeuap.com^
+||ogfaqwwux.com^
 ||oghqvffmnt.com^
 ||ogtakvkpoaxt.com^
 ||ogtjmaofpalj.com^
@@ -6920,6 +6936,7 @@
 ||sentry.ovhcloud.com^
 ||ovhobwrhenp.com^
 ||ovmktyoxglta.com^
+||ovrcuncunxp.com^
 ||ovtvfydcyor.com^
 ||ovvwunawrt.com^
 ||ovyiakt1wzqz.com^
@@ -7092,6 +7109,8 @@
 ||pic.picnewss.com^
 ||t.picsart.com^
 ||pierisrapgae.com^
+||pietasylphon.com^
+||yz.pietasylphon.com^
 ||pifnrihu.com^
 ||pignuwoa.com^
 ||ads.pinterest.com^
@@ -7136,6 +7155,8 @@
 ||plorexdry.com^
 ||pluckypocket.com^
 ||plumbummoca.com^
+||plungescreeve.com^
+||nr.plungescreeve.com^
 ||pmc.com^
 ||iabusprivacy.pmc.com^
 ||pmcontent.com^
@@ -7205,6 +7226,7 @@
 ||www.predictiondexchange.com^
 ||predictivdisplay.com^
 ||www.predictivdisplay.com^
+||premiumexperiencegood.com^
 ||premiumvertising.com^
 ||www.premiumvertising.com^
 ||preopensorrel.com^
@@ -7506,6 +7528,7 @@
 ||vhs.queerclick.com^
 ||a.vhs.queerclick.com^
 ||quenchskirmishcohere.com^
+||questioningcomplimentarypotato.com^
 ||quhzaqfsfuljw.com^
 ||www.quhzaqfsfuljw.com^
 ||quicksetcloud.com^
@@ -7956,6 +7979,9 @@
 ||je.scramsaaron.com^
 ||screechadulthood.com^
 ||screenshotfactory.com^
+||api.scribd.com^
+||pt.scribd.com^
+||wa.scribd.com^
 ||scriptvealpatronage.com^
 ||scroll.com^
 ||connect.scroll.com^
@@ -8373,6 +8399,7 @@
 ||statedweaveappeared.com^
 ||static-srv.com^
 ||go.static-srv.com^
+||staticda88.com^
 ||staticnet88.com^
 ||statisticresearch.com^
 ||statsforads.com^
@@ -9055,6 +9082,8 @@
 ||ulukaris.com^
 ||ulogs.umeng.com^
 ||umuziko.com^
+||unasonoric.com^
+||yr.unasonoric.com^
 ||unative.com^
 ||api-un.unative.com^
 ||sdk.unative.com^
@@ -9538,6 +9567,8 @@
 ||weednewspro.com^
 ||28930.weednewspro.com^
 ||weemauge.com^
+||weensydudler.com^
+||zu.weensydudler.com^
 ||weepingbead.com^
 ||rm.api.weibo.com^
 ||uve.weibo.com^
@@ -10352,6 +10383,7 @@
 ||ultraweb.hu^
 ||daserver.ultraweb.hu^
 ||adigi.icu^
+||camcrush.icu^
 ||dracenic-gravinyl.icu^
 ||farehitchlower.icu^
 ||msstral.icu^
@@ -11148,6 +11180,7 @@
 ||dk.choimanclub.mobi^
 ||easyads28.mobi^
 ||t.easyads28.mobi^
+||enovel.mobi^
 ||indianjokes.mobi^
 ||inner-active.mobi^
 ||cdn2.inner-active.mobi^
@@ -11192,6 +11225,8 @@
 ||cdn.nominalclck.name^
 ||nonotro.name^
 ||p28927.nonotro.name^
+||pclk.name^
+||click.pclk.name^
 ||shacsda.name^
 ||15991.shacsda.name^
 ||thanksgivingdelights.name^
@@ -11839,6 +11874,7 @@
 ||www.installads.net^
 ||iptogreg.net^
 ||ak.iptogreg.net^
+||jeestauglahity.net^
 ||jerimpob.net^
 ||jomtingi.net^
 ||jouteetu.net^
@@ -12927,6 +12963,7 @@
 ||bicronglagah.shop^
 ||wz.bicronglagah.shop^
 ||bumpkinclon.shop^
+||deliriamorula.shop^
 ||etypicthawier.shop^
 ||bt.etypicthawier.shop^
 ||galootsmulcted.shop^
@@ -12936,15 +12973,20 @@
 ||lidosquey.shop^
 ||nikkounring.shop^
 ||ocypetediplont.shop^
+||odallerdosser.shop^
 ||piazzetasses.shop^
 ||puredsimula.shop^
+||regardviolas.shop^
 ||regearpieing.shop^
 ||roscianwaltron.shop^
 ||saimiripullman.shop^
 ||secundpopulus.shop^
 ||tazeeabroose.shop^
 ||tenseberain.shop^
+||trionyminglut.shop^
 ||vuabet88.shop^
+||windsuredine.shop^
+||kx.windsuredine.shop^
 ||yanquisorigan.shop^
 ||zerodeltanode.shop^
 ||as7.zerodeltanode.shop^
@@ -13320,6 +13362,8 @@
 ||gharryunride.top^
 ||gloppyveers.top^
 ||gmelinalegua.top^
+||go88ads.top^
+||ad.go88ads.top^
 ||go88adx.top^
 ||dk.go88adx.top^
 ||go88j.top^
@@ -13371,6 +13415,7 @@
 ||jqkj.jerjrqqazabnj.top^
 ||jerjrqqazamvw.top^
 ||jqkj.jerjrqqazamvw.top^
+||jewbushpisay.top^
 ||jinguisiacal.top^
 ||jjaaybqrmwbny.top^
 ||jejl.jjaaybqrmwbny.top^
@@ -13410,6 +13455,7 @@
 ||kabrwrynbmyke.top^
 ||kbab.kabrwrynbmyke.top^
 ||kamponggnatho.top^
+||kaurytheisms.top^
 ||kbywyjnbejqke.top^
 ||krrwe.kbywyjnbejqke.top^
 ||keppendragoon.top^
@@ -14151,6 +14197,7 @@
 ||go.cbro.win^
 ||cdnaz.win^
 ||ads.cdnaz.win^
+||da88.win^
 ||debet.win^
 ||d1.debet.win^
 ||d3.debet.win^
@@ -14178,6 +14225,7 @@
 ||tai.rik.win^
 ||rikvip.win^
 ||tai.rikvip.win^
+||staticdu88.win^
 ||sun.win^
 ||lp.sun.win^
 ||taiwin79.win^
@@ -14237,6 +14285,7 @@
 ||applmitafm.xyz^
 ||aptekigavuof.xyz^
 ||arbxhkix.xyz^
+||atbqpkwkxgq.xyz^
 ||ationandasmile.xyz^
 ||ationuctladd.xyz^
 ||atnstxqed.xyz^
@@ -14525,6 +14574,7 @@
 ||pjwsxjugjrws.xyz^
 ||platformbot.xyz^
 ||crm.platformbot.xyz^
+||playcams.xyz^
 ||playground.xyz^
 ||ads.playground.xyz^
 ||plkhdmmbnvgywmp.xyz^
@@ -15026,6 +15076,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||api.facebook.com/method/logging.clientevent
 ||api.github.com/_private/browser/stats
 ||api.redgifs.com/v2/ads/slots
+||api.x.com/1.1/jot/
 ||b.cdnst.net/javascript/
 ||bing.com/api/*/mediation/clientauction
 ||bing.com/fd/ls/
