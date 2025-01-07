@@ -39,6 +39,8 @@
 ||cdn-prod.eu.securiti.ai^
 ||vdo.ai^
 ||a.vdo.ai^
+||wknd.ai^
+||tag.wknd.ai^
 ||yellow.ai^
 ||tru.am^
 ||1trust.app^
@@ -116,6 +118,8 @@
 ||2aed6ghjsb4436qtebuqk3gfzq0xeauy.lambda-url.us-east-1.on.aws^
 ||geoedge.be^
 ||rumcdn.geoedge.be^
+||vriendenvantibet.be^
+||as.vriendenvantibet.be^
 ||firestreamings.beauty^
 ||punosy.best^
 ||xvideos.best^
@@ -231,6 +235,7 @@
 ||adopdmp.adop.cc^
 ||compass.adop.cc^
 ||data.adop.cc^
+||aiyp.cc^
 ||dlios.cc^
 ||ae88.dlios.cc^
 ||api.dlios.cc^
@@ -404,6 +409,8 @@
 ||googleadsserving.cn^
 ||static.googleadsserving.cn^
 ||pgdt.gtimg.cn^
+||neofloor.cn^
+||www.neofloor.cn^
 ||optimix.cn^
 ||bx01.optimix.cn^
 ||pp.cn^
@@ -425,6 +432,8 @@
 ||uv60.cn^
 ||y5m4001.cn^
 ||m.y5m4001.cn^
+||zly163.cn^
+||ljapi.zly163.cn^
 ||6sc.co^
 ||b.6sc.co^
 ||c.6sc.co^
@@ -2627,6 +2636,7 @@
 ||vstat.borderlessbd.com^
 ||boriskink.com^
 ||bothpersonality.com^
+||bottlestrivingtarget.com^
 ||boudja.com^
 ||bounceexchange.com^
 ||tag.bounceexchange.com^
@@ -2853,6 +2863,7 @@
 ||yd.calumetburka.com^
 ||camterest.com^
 ||go.camterest.com^
+||canekilttantrum.com^
 ||canellecrazy.com^
 ||canoestallowrootsabre.com^
 ||canstrm.com^
@@ -3519,6 +3530,7 @@
 ||socket.debet2.com^
 ||debet3.com^
 ||shtslma.debet3.com^
+||decaydespiteseminar.com^
 ||declareave.com^
 ||declinedisobey.com^
 ||dedicateimaginesoil.com^
@@ -3723,6 +3735,7 @@
 ||downstairsnegotiatebarren.com^
 ||dozubatan.com^
 ||draggedgram.com^
+||dragstergibletshaded.com^
 ||draohvwfubi.com^
 ||draweespros.com^
 ||kk.draweespros.com^
@@ -4818,6 +4831,7 @@
 ||gz06x5tqlj.com^
 ||gzbwdbipemilou.com^
 ||www.gzbwdbipemilou.com^
+||gzcqk.com^
 ||gzefitkcep.com^
 ||h-bid.com^
 ||static.h-bid.com^
@@ -4880,6 +4894,7 @@
 ||hips.hearstapps.com^
 ||hearstnp.com^
 ||aps.hearstnp.com^
+||heartyquit.com^
 ||heavedmealock.com^
 ||lr.heavedmealock.com^
 ||hectordehort.com^
@@ -4888,6 +4903,7 @@
 ||heextending.com^
 ||heezingwardian.com^
 ||fx.heezingwardian.com^
+||hehewow.com^
 ||helen-geu.com^
 ||heleric.com^
 ||hello8877.com^
@@ -4918,6 +4934,7 @@
 ||hgzuqrtzt.com^
 ||www.hgzuqrtzt.com^
 ||hhbypdoecp.com^
+||hhdjz.com^
 ||hhhoo.com^
 ||5glog.hhhoo.com^
 ||hhklc.com^
@@ -6263,6 +6280,7 @@
 ||misunderstanddependableour.com^
 ||mixpanel.com^
 ||api.mixpanel.com^
+||api-js.mixpanel.com^
 ||mjjjhfgqqpt.com^
 ||www.mjjjhfgqqpt.com^
 ||mkcurches.com^
@@ -6345,6 +6363,7 @@
 ||ads.mopub.com^
 ||moratlefty.com^
 ||ng.moratlefty.com^
+||mortifiedindustry.com^
 ||mossyitalian.com^
 ||motfanner.com^
 ||jo.motfanner.com^
@@ -6461,6 +6480,7 @@
 ||cdn.nativestatic.com^
 ||nativewpsh.com^
 ||nativewpshep.com^
+||naupsithizeekee.com^
 ||naustoglag.com^
 ||navelfletch.com^
 ||lcs.naver.com^
@@ -6691,6 +6711,7 @@
 ||obsessionthree.com^
 ||obzsijqreji.com^
 ||oc2tdxocb3ae0r.com^
+||ocbnihhu.com^
 ||ocbrawagcat.com^
 ||occurclaimed.com^
 ||occxhidubbh.com^
@@ -6883,6 +6904,8 @@
 ||tags.orquideassp.com^
 ||orraxckivsud.com^
 ||orxbqsvibjxqvai.com^
+||osamagenius.com^
+||osamaimpact.com^
 ||osano.com^
 ||cmp.osano.com^
 ||oscohkajcjz.com^
@@ -7977,6 +8000,7 @@
 ||static.scptpx.com^
 ||scramsaaron.com^
 ||je.scramsaaron.com^
+||scrawnybalance.com^
 ||screechadulthood.com^
 ||screenshotfactory.com^
 ||api.scribd.com^
@@ -8401,6 +8425,7 @@
 ||go.static-srv.com^
 ||staticda88.com^
 ||staticnet88.com^
+||staticxo88.com^
 ||statisticresearch.com^
 ||statsforads.com^
 ||www.statsforads.com^
@@ -8710,6 +8735,9 @@
 ||qf.throwerdeaner.com^
 ||thrustlumpypulse.com^
 ||tibacta.com^
+||tic88.com^
+||gw.tic88.com^
+||s4.tic88.com^
 ||analytics.ticketmaster.com^
 ||epsf.ticketmaster.com^
 ||promoted.ticketmaster.com^
@@ -9140,6 +9168,7 @@
 ||webview.unityads.unity3d.com^
 ||unjustsubmerge.com^
 ||unlawful-inspector.com^
+||unlawful-judgment.com^
 ||unlocklink.com^
 ||unphionetor.com^
 ||unplainodalman.com^
@@ -9564,6 +9593,7 @@
 ||gak.webtoons.com^
 ||webtraxs.com^
 ||www.webtraxs.com^
+||weeawesome.com^
 ||weednewspro.com^
 ||28930.weednewspro.com^
 ||weemauge.com^
@@ -9574,6 +9604,8 @@
 ||uve.weibo.com^
 ||adimg.uve.weibo.com^
 ||wapwbclick.uve.weibo.com^
+||weilikejidianzi.com^
+||6tzf6l9.weilikejidianzi.com^
 ||weixinbridge.com^
 ||badjs.weixinbridge.com^
 ||wendelstein-1b.com^
@@ -10333,6 +10365,9 @@
 ||win79.fun^
 ||play.win79.fun^
 ||tai.win79.fun^
+||wyy158.fun^
+||f.wyy158.fun^
+||h.wyy158.fun^
 ||f8bet.fund^
 ||gtp.fyi^
 ||h26t67sx.ga^
@@ -10371,6 +10406,8 @@
 ||taigasdoeskin.guru^
 ||turdinexylenyl.guru^
 ||viewyentreat.guru^
+||prf.hn^
+||viagogo.prf.hn^
 ||imageshack.host^
 ||okeio.imageshack.host^
 ||vsys.host^
@@ -10847,6 +10884,8 @@
 ||pbs-cs.yellowblue.io^
 ||zprk.io^
 ||pixel.zprk.io^
+||country.is^
+||api.country.is^
 ||admajoracaffe.it^
 ||albertosilvahairspa.it^
 ||wa.aruba.it^
@@ -11106,6 +11145,7 @@
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^
 ||choidebet.me^
 ||ad.choidebet.me^
+||choitip88.me^
 ||connectapi.me^
 ||api.connectapi.me^
 ||cowboy2u4me.me^
@@ -11507,6 +11547,7 @@
 ||d38190um0l9h9v.cloudfront.net^
 ||d38psrni17bvxu.cloudfront.net^
 ||d395dw5zk780j2.cloudfront.net^
+||d39mzzwe2ijlir.cloudfront.net^
 ||d3a3ewgd1iewwz.cloudfront.net^
 ||d3a781y1fb2dm6.cloudfront.net^
 ||d3al52d8cojds7.cloudfront.net^
@@ -11722,6 +11763,8 @@
 ||emarsys.net^
 ||eservice.emarsys.net^
 ||webchannel-content.eservice.emarsys.net^
+||erotichd.net^
+||as.erotichd.net^
 ||eshouloo.net^
 ||www.everestjs.net^
 ||everesttech.net^
@@ -12292,6 +12335,7 @@
 ||wixapps.net^
 ||engage.wixapps.net^
 ||wossaung.net^
+||wounofoarausooy.net^
 ||wp-e.net^
 ||a.wp-e.net^
 ||wpdigital.net^
@@ -12557,6 +12601,8 @@
 ||prebid.org^
 ||privacy-center.org^
 ||sdk.privacy-center.org^
+||quayso.org^
+||livestr.quayso.org^
 ||robohash.org^
 ||sc2mp3.org^
 ||seamlessaccess.org^
@@ -12810,6 +12856,7 @@
 ||tai.win79.pro^
 ||wrontonshatbona.pro^
 ||xhms.pro^
+||xo88.pro^
 ||zendplace.pro^
 ||www.zenfield.pro^
 ||creatives.clevernetwork.pt^
@@ -13140,6 +13187,8 @@
 ||16zoqtq3eowz.top^
 ||1ts17.top^
 ||p.1ts17.top^
+||789club.top^
+||qc.789club.top^
 ||abeenrjjyzew.top^
 ||arjv.abeenrjjyzew.top^
 ||abominebootee.top^
@@ -14570,6 +14619,7 @@
 ||pcyiyywulnmljcn.xyz^
 ||pezico.xyz^
 ||cdn.pezico.xyz^
+||pg31.xyz^
 ||pharteewhi.xyz^
 ||pjwsxjugjrws.xyz^
 ||platformbot.xyz^
@@ -15335,7 +15385,7 @@ ayamehentai.cc,hentaiayame.com,hentaiayame.net,hentaihvn.tv,hentaivn.autos,henta
 baidu.com###branding_ads,#web-right-view,.ad-multi-tips,.ad-platform-tips,.cps_wrap,.j_click_stats,.video-ad-creative-card
 bilibili.com###activity_vote,#bannerAd,#live_recommand_report,#slide_ad,.pop-live-small-mode,.video-page-game-card-small,.video-page-special-card-small,[href*="cm.bilibili.com"]
 bilutvs.net##.ab1,.abp-header
-bing.com###adstop_gradiant_separator,div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_context:has(> li.b_ad),ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"],ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_results > li.b_algo:has(div.b_attribution[data-partnertag])
+bing.com###adstop_gradiant_separator,.b_spa_adblock,div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_context:has(> li.b_ad),ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"],ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_results > li.b_algo:has(div.b_attribution[data-partnertag])
 blogtruyen.vn##.BT-Ads
 boyfriendtv.com###js-ads-modal,#rightside2,.adblock,.eu-cookies,.js-right-no-ads,.vast-overlay,.video-extra-wrapper,.x-news-line,li.media-item.no-popup,[class$="advi" i],[href*="gobanner"],[src*="paysite"]
 camelliatransgroup.com,dhcc.uk##[id^="sticky-footer" i]
@@ -15346,7 +15396,7 @@ fancuongboylove.com##.body-top-ads,.c-ads
 fandom.com###WikiaBar,.bottom-ads-container,.page__right-rail,.top-ads-container,div[id^="featured-video"]
 fingau.com,getpczone.com,rahim-soft.com,uploadrar.com,wokaz.com###commonId > a.btn.btn-info.btn-lg,#commonId > a:nth-child(2) > img,#nofilepage ins,[class^="banner"]
 fullboys.com,rimsgay.com##.video-ad
-genius.com##[class^="DfpAd__" i],[class^="InreadContainer__" i],[class^="RightSidebar__" i],[class^="SectionLeaderboard__" i]
+genius.com##div[data-exclude-from-selection="true"],iframe[class^="AppleMusicPlayer"],[class^="DfpAd" i],[class^="InreadContainer__" i],[class^="LeaderboardOrMarquee" i],[class^="RightSidebar__" i],[class^="SectionLeaderboard__" i]
 gpt4o.so##.block[class*="lg"],.hidden[class*="lg"]
 hentaiz.net###rmcard1,img.hidden-mobile,img.visible-mobile
 hentaiz.vip##.d-none.d-lg-block
