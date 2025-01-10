@@ -2945,6 +2945,8 @@
 ||cdnativ.com^
 ||cdnativepush.com^
 ||static.cdnativepush.com^
+||cdnfimgs.com^
+||i.cdnfimgs.com^
 ||cdngain.com^
 ||ads.cdngain.com^
 ||media.cdngain.com^
@@ -3437,6 +3439,8 @@
 ||5837941a19.d1f76eb5a4.com^
 ||d2f86da573.com^
 ||9762b90201.d2f86da573.com^
+||d3edbb478c.com^
+||dfb55a5491.d3edbb478c.com^
 ||d483501b04.com^
 ||be2ecc872f.d483501b04.com^
 ||d4926c245f.com^
@@ -4183,6 +4187,7 @@
 ||falangerewires.com^
 ||fam-ad.com^
 ||img.fam-ad.com^
+||fanslia.com^
 ||fantasigloble.com^
 ||a.fantasigloble.com^
 ||api.faphouse.com^
@@ -5540,6 +5545,7 @@
 ||jijpbehzw.com^
 ||www.jijpbehzw.com^
 ||jillbuildertuck.com^
+||jitterspauperusher.com^
 ||jivosite.com^
 ||code.jivosite.com^
 ||code-ya.jivosite.com^
@@ -7191,6 +7197,7 @@
 ||cdn.pncloudfl.com^
 ||pnsclick.com^
 ||pnuhondppw.com^
+||poawooptugroo.com^
 ||podsolnu9hi10.com^
 ||polarbearyulia.com^
 ||1255.polarbearyulia.com^
@@ -8720,6 +8727,7 @@
 ||thethaoday.com^
 ||icdn.thethaoday.com^
 ||thetoptrust.com^
+||thewittyblog.com^
 ||thickbabysittinghandled.com^
 ||thingrealtape.com^
 ||thisiswaldo.com^
@@ -9629,6 +9637,7 @@
 ||cdn.whitebit.com^
 ||internal.whitebit.com^
 ||p.whitebit.com^
+||whomeenoaglauns.com^
 ||whookroo.com^
 ||ak.whookroo.com^
 ||whouseem.com^
@@ -9972,6 +9981,9 @@
 ||imgs2.yodimedia.com^
 ||yogar2ti8nf09.com^
 ||yolosong.com^
+||yongxiandata.com^
+||doc.yongxiandata.com^
+||report.yongxiandata.com^
 ||yonhelioliskor.com^
 ||yonminuner.com^
 ||yonxatuor.com^
@@ -10211,6 +10223,7 @@
 ||development-checkout.paddle.dev^
 ||development-create-checkout.paddle.dev^
 ||staging-checkout.paddle.dev^
+||adscx.pages.dev^
 ||redarmy.dev^
 ||analytics.redarmy.dev^
 ||westats.dev^
@@ -14455,6 +14468,7 @@
 ||secure-accesss-wwysf8k040.gate78.xyz^
 ||gaupsaur.xyz^
 ||gboeftrixhlqgl.xyz^
+||gcwutnshqgsu.xyz^
 ||gdtr.xyz^
 ||go.gdtr.xyz^
 ||gegrcgjlsgurfa.xyz^
@@ -14526,6 +14540,7 @@
 ||kbmlgnhs.xyz^
 ||kcbwqetmilri.xyz^
 ||keapeiros.xyz^
+||keckaugaithaux.xyz^
 ||kentedbycathy.xyz^
 ||kftytkhurx.xyz^
 ||kllkkijfp.xyz^
@@ -15339,6 +15354,7 @@ online-python.com#%#localStorage.setItem("theme","dark");
 onlinegdb.com#%#var t=setInterval(function(){"function"==typeof savefile&&(Object.defineProperty(self,"savefile",{value:function(){return!0},writable:!1}),clearInterval(t))},100);Object.defineProperty(self,"no_ads",{value:!0,writable:!1});
 onlinetexttools.com#%#window.addEventListener("DOMContentLoaded",function(){document.body.dataset.is_premium="True",document.body.dataset.discount_modal="False",document.querySelectorAll('[data-subscription="free"]').forEach(e=>e.dataset.subscription="premium");var e=document.querySelector("button.widget-save-as");null!=e&&e.addEventListener("click",function(){setTimeout(function(){e.innerText="Download",e.disabled=!1},100)})});
 pass.proton.me#%#var oFetch=window.fetch;window.fetch=function(...s){return oFetch(...s).then(async s=>{var e=await s.clone().json();return e&&e.Access&&e.Access.Plan&&(e.Access.Plan.AliasLimit=null,e.Access.Plan.DisplayName="Proton Plus",e.Access.Plan.HideUpgrade=!0,e.Access.Plan.InternalName="plus",e.Access.Plan.TotpLimit=null,e.Access.Plan.Type="plus",e.Access.Plan.VaultLimit=null),new Response(JSON.stringify(e),{status:s.status,statusText:s.statusText,headers:s.headers})})};
+play.google.com#%#window.addEventListener("DOMContentLoaded",function(){setInterval(function(){var e=document.querySelector('textarea[maxlength="500"]');null!=e&&(e.maxLength=5e3)},1e3)});
 rule34.xxx#%#window.addEventListener("DOMContentLoaded",function(){document.querySelectorAll("[data-nosnippet]").forEach(e=>e.remove())});
 saostar.vn#%#window.addEventListener("DOMContentLoaded",function(){var e=document.querySelector("div.layout > div.t--0");null!=e&&e.remove(),null!=(e=document.getElementById("articlepage"))&&e.classList.remove("is-ads"),["div.w--160","div.w--300","div.article-medbottom"].forEach(t=>{null!=(e=document.querySelector(t))&&e.remove()})});
 sbchill.com,sblongvu.com,streamsss.net,watchsb.com#%#Object.defineProperties(window,{check:{value:void 0,writable:!1},isadb:{value:void 0,writable:!1},minimalUserResponseInMiliseconds:{value:void 0,writable:!1},tryCount:{value:void 0,writable:!1},__Y:{value:void 0,writable:!1}}),window.addEventListener("DOMContentLoaded",function(){"undefined"!=typeof player&&(player.setVolume(0),player.setMute(!0),localStorage.setItem("jwplayer.volume",0),localStorage.setItem("jwplayer.mute",!0))});
