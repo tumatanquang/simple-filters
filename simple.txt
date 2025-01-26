@@ -415,6 +415,9 @@
 ||www.neofloor.cn^
 ||optimix.cn^
 ||bx01.optimix.cn^
+||portal101.cn^
+||fp-it-acc.portal101.cn^
+||static.portal101.cn^
 ||pp.cn^
 ||qlogo.cn^
 ||shp.qlogo.cn^
@@ -1197,6 +1200,8 @@
 ||8cf530b4c4.7dfbef87b6.com^
 ||7e5f2028a6.com^
 ||0c73bb2de3.7e5f2028a6.com^
+||7ec3ad2512.com^
+||0600abfc6e.7ec3ad2512.com^
 ||7f59b515a6.com^
 ||1b9b061720.7f59b515a6.com^
 ||800c7864eb.com^
@@ -2307,6 +2312,8 @@
 ||b5e75c56.com^
 ||b5f1d2bb4d.com^
 ||8a97caf2b2.b5f1d2bb4d.com^
+||b67f1b04e9.com^
+||cd037385e0.b67f1b04e9.com^
 ||b6eeaf2d00.com^
 ||f61c404e56.b6eeaf2d00.com^
 ||b754af79a7.com^
@@ -2517,6 +2524,7 @@
 ||bdv.bidvertiser.com^
 ||bifrufhci.com^
 ||big-loads.com^
+||bigdatajsext.com^
 ||cm.bilibili.com^
 ||bilsyndication.com^
 ||assets.bilsyndication.com^
@@ -3373,6 +3381,7 @@
 ||crrepo.com^
 ||crsspxl.com^
 ||tag.crsspxl.com^
+||crudenessfinishersacred.com^
 ||csqghvpsx.com^
 ||www.csqghvpsx.com^
 ||csscloudstorage.com^
@@ -3791,6 +3800,7 @@
 ||dugout.com^
 ||embed.dugout.com^
 ||duloqtszesmu.com^
+||dum55.com^
 ||dumbpop.com^
 ||dummieseardrum.com^
 ||durablesites.com^
@@ -5063,6 +5073,7 @@
 ||houndxads.com^
 ||howledmintier.com^
 ||howoverlapsuspicious.com^
+||hpeowtophruv.com^
 ||hpimavpico.com^
 ||hpmarzhnny.com^
 ||hprofits.com^
@@ -6767,6 +6778,8 @@
 ||click.email2.office.com^
 ||offoonguser.com^
 ||offpichuan.com^
+||offrsmatch.com^
+||cggdfgb.offrsmatch.com^
 ||offvmuf.com^
 ||ofgogoatan.com^
 ||ofhappinyer.com^
@@ -9038,6 +9051,7 @@
 ||www.tzvroyuhmkvlsa.com^
 ||u9axpzf50.com^
 ||ubbfpm.com^
+||ubt30.com^
 ||uc123.com^
 ||u.uc123.com^
 ||u.ucfly.com^
@@ -9457,6 +9471,9 @@
 ||sb.voicefive.com^
 ||volccdn.com^
 ||lf3-data.volccdn.com^
+||volces.com^
+||ap-southeast-1.volces.com^
+||apmplus.ap-southeast-1.volces.com^
 ||volowwoidre.com^
 ||dd.volowwoidre.com^
 ||volyze.com^
@@ -10912,6 +10929,7 @@
 ||wa.aruba.it^
 ||associazionecrea.it^
 ||blasterzone.it^
+||cartopitagora.it^
 ||dragonfru.it^
 ||ads.dragonfru.it^
 ||plausible.dragonfru.it^
@@ -10921,8 +10939,11 @@
 ||kingofegypt.it^
 ||orasenti.it^
 ||pasticceriapagamonci.it^
+||petsun.it^
+||dny22rh.petsun.it^
 ||rollipop.it^
 ||sicuredilemiliaromagna.it^
+||simplycafe.it^
 ||snai.it^
 ||affiliazioniads.snai.it^
 ||soletirimborsa.it^
@@ -13857,6 +13878,8 @@
 ||ak.forooqso.tv^
 ||go88.tv^
 ||tai.go88.tv^
+||hotleaks.tv^
+||image-cdn.hotleaks.tv^
 ||iris.tv^
 ||api.iris.tv^
 ||ovp.iris.tv^
@@ -14556,6 +14579,7 @@
 ||kentedbycathy.xyz^
 ||kewodruzeezu.xyz^
 ||kftytkhurx.xyz^
+||kgrmaixpx.xyz^
 ||kllkkijfp.xyz^
 ||ksdoonpwphugss.xyz^
 ||ksnooastqr.xyz^
@@ -14735,6 +14759,7 @@
 ||thoohizoogli.xyz^
 ||tichoake.xyz^
 ||timezonesusa.xyz^
+||tiuqpwrnjjftucp.xyz^
 ||tlxjllsfcrnf.xyz^
 ||toibmodlefjb.xyz^
 ||tpbenwiws.xyz^
@@ -15444,7 +15469,7 @@ medium.com##section > div div:has(> a[rel^="noopener"][rel$="nofollow"])
 metruyencv.com##div#js-read__body ~ div[class="mt-3"]
 mixdrop.to,mixdrop.co##body > div[class][style^="position:absolute;"][style*=";width: 100%;height: 100%;z-index:"],div[style^="position:absolute;"][style*="z-index:"][onclick]
 msn.com###displayAdCard,.me-stripe,display-ads,above-river-block,views-native-ad,cs-native-ad-card,cs-native-ad-card-intra-article-left-image,[data-ad-index],[class$="intra-ad"]
-myreadingmanga.info##.after_12th_post,.after_4th_post,.imgtop,center
+myreadingmanga.info##.imgtop,.top_page:has(> ins[data-zoneid]),center,[class*="th_post"].widget-area
 pixiv.net##iframe:not([title*="reCAPTCHA"])
 poipiku.com##[class$="SideBarAd" i]
 pornhub.com##.ad-link,.adContainer,.adContainer,.pb_template,.premiumAdvertWrapper,.premiumPromoBannerWrapper,.removeAdLink,.sniperModeEngaged,.topAdContainter
