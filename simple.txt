@@ -156,6 +156,9 @@
 ||didhelper.biz^
 ||did.didhelper.biz^
 ||go4s.biz^
+||mb6668.biz^
+||api.mb6668.biz^
+||www.mb6668.biz^
 ||mindmeters.biz^
 ||monkeytosport.biz^
 ||moonmedias.biz^
@@ -488,6 +491,9 @@
 ||ck.jads.co^
 ||i.jads.co^
 ||poweredby.jads.co^
+||jun8894.co^
+||api.jun8894.co^
+||www.jun8894.co^
 ||mailmunch.co^
 ||a.mailmunch.co^
 ||analytics.mailmunch.co^
@@ -671,6 +677,8 @@
 ||click.1688.com^
 ||s.click.1688.com^
 ||pjjx.1688.com^
+||173726e958.com^
+||7f2b0289ba.173726e958.com^
 ||18788fdb24.com^
 ||a8c1ecf39d.18788fdb24.com^
 ||18pfun.com^
@@ -943,6 +951,8 @@
 ||8a5229006e.4852cf38ec.com^
 ||485f197673.com^
 ||02ab67b33b.485f197673.com^
+||487ed86ea3.com^
+||32f5758570.487ed86ea3.com^
 ||494c47a0f2.com^
 ||7becb5e8a6.494c47a0f2.com^
 ||4cc95e229d.com^
@@ -989,6 +999,8 @@
 ||fdc21e01c7.536fbeeea4.com^
 ||538ad181ab.com^
 ||c3c450ea59.538ad181ab.com^
+||55f4605f6d.com^
+||2d1a16af63.55f4605f6d.com^
 ||55i9bet.com^
 ||www.55i9bet.com^
 ||55qh88.com^
@@ -1261,6 +1273,7 @@
 ||87bcb027cf.com^
 ||e2844f0af7.87bcb027cf.com^
 ||8858801.com^
+||89jjun88.com^
 ||8aa3da4561.com^
 ||07161975c6.8aa3da4561.com^
 ||8aaee039a0.com^
@@ -2053,6 +2066,9 @@
 ||ap2h9d2g3.com^
 ||aparn-ryo.com^
 ||aperchwagered.com^
+||apimb66.com^
+||client.apimb66.com^
+||ws.apimb66.com^
 ||a.apkpure.com^
 ||apoilpnwr.com^
 ||apoplead.com^
@@ -2321,6 +2337,8 @@
 ||b503477ae8.b3f15cef69.com^
 ||b40c7bfff2.com^
 ||c9dd9c12e1.b40c7bfff2.com^
+||b4ba3365d5.com^
+||700f9a0406.b4ba3365d5.com^
 ||b5c28f9b84.com^
 ||36b963fd4a.b5c28f9b84.com^
 ||b5e75c56.com^
@@ -2485,6 +2503,7 @@
 ||kv.bessioutdrew.com^
 ||best-bons.com^
 ||best-free-apps.com^
+||best-knowledge-top.com^
 ||bestadsforyou.com^
 ||bestcond1tions.com^
 ||bestsafefast.com^
@@ -3084,6 +3103,7 @@
 ||www.ciazdymfepv.com^
 ||ciddhwsjyjgip.com^
 ||www.ciddhwsjyjgip.com^
+||ciderfeast.com^
 ||cifawsoqvawj.com^
 ||cihakawkngiamu.com^
 ||www.cihakawkngiamu.com^
@@ -3563,6 +3583,8 @@
 ||socket.debet2.com^
 ||debet3.com^
 ||shtslma.debet3.com^
+||debugbear.com^
+||cdn.debugbear.com^
 ||decaydespiteseminar.com^
 ||declareave.com^
 ||declinedisobey.com^
@@ -4181,6 +4203,8 @@
 ||75357f7aec.f5ea66a9f7.com^
 ||f5f84f4d83.com^
 ||9673fad07f.f5f84f4d83.com^
+||f5fb2e203c.com^
+||788e6fb2b6.f5fb2e203c.com^
 ||f63777e43d.com^
 ||8d8039a1eb.f63777e43d.com^
 ||f64ed11b16.com^
@@ -4260,6 +4284,8 @@
 ||clap.fc2.com^
 ||fc29334d79.com^
 ||77b0619134.fc29334d79.com^
+||fc5701c3b2.com^
+||08fdca8d30.fc5701c3b2.com^
 ||fc7c8be451.com^
 ||69322ba5bb.fc7c8be451.com^
 ||fceneemqhe.com^
@@ -4617,6 +4643,7 @@
 ||ghbavfxidocfo.com^
 ||ghskoqhz.com^
 ||www.ghskoqhz.com^
+||ghyzubhr.com^
 ||giaimanhacai.com^
 ||giaotiep365.com^
 ||giraffepiano.com^
@@ -6156,6 +6183,7 @@
 ||m1.may88d.com^
 ||mbiifzdvhexj.com^
 ||www.mbiifzdvhexj.com^
+||mblive1.com^
 ||mc7clurd09pla4nrtat7ion.com^
 ||mssplus.mcafee.com^
 ||scinstallcheck.mcafee.com^
@@ -6324,10 +6352,16 @@
 ||mjjjhfgqqpt.com^
 ||www.mjjjhfgqqpt.com^
 ||mkcurches.com^
+||mkeqmafk.com^
+||www.mkeqmafk.com^
 ||107-coj-713.mktoresp.com^
 ||ml314.com^
 ||vi.ml314.com^
 ||mlksis.com^
+||mmcdn.com^
+||nwr.mmcdn.com^
+||static.mmcdn.com^
+||web.static.mmcdn.com^
 ||mmedia-saap.com^
 ||mmentorapp.com^
 ||mmstat.com^
@@ -6387,6 +6421,7 @@
 ||monetizer101.com^
 ||link.monetizer101.com^
 ||moneymakercdn.com^
+||sdk.moneyoyo.com^
 ||monicaatron.com^
 ||c.monicaatron.com^
 ||e.monicaatron.com^
@@ -6573,6 +6608,9 @@
 ||proxfree-nitrad.netdna-ssl.com^
 ||only-d-c1zdfgtkbjjaqmbmnpb3owspbrocv2iz-1718517421080.nstool.netease.com^
 ||ichnaea-web.netflix.com^
+||netgreencolumn.com^
+||euob.netgreencolumn.com^
+||obseu.netgreencolumn.com^
 ||netprospex.com^
 ||api.netprospex.com^
 ||network-n.com^
@@ -6717,6 +6755,9 @@
 ||www.nuddpomukcw.com^
 ||nudgeworry.com^
 ||nuniceberg.com^
+||nuqabjsurhix.com^
+||nutaku.com^
+||cdn1-images.nutaku.com^
 ||nutattorneyjack.com^
 ||nutsmargaret.com^
 ||nwekmolubon.com^
@@ -6877,6 +6918,9 @@
 ||onmarshtompor.com^
 ||onnlpuonklw.com^
 ||onnotcbwyz.com^
+||onsafesearch.com^
+||cdn.onsafesearch.com^
+||get.onsafesearch.com^
 ||onstunkyr.com^
 ||ontek.com^
 ||adserv.ontek.com^
@@ -7484,6 +7528,7 @@
 ||www.pyzwwzzooq.com^
 ||qadvcywahh.com^
 ||qahmipatkmaj.com^
+||qakbajatfa.com^
 ||qalruhvcoa.com^
 ||qarxcyfufr.com^
 ||qasavz7889100.com^
@@ -7705,6 +7750,7 @@
 ||conduit.redfast.com^
 ||metrics.redgifs.com^
 ||pixel.redgifs.com^
+||redirdom.com^
 ||reesttowny.com^
 ||ln.reesttowny.com^
 ||reevaipi.com^
@@ -8157,6 +8203,7 @@
 ||sgsnssdk.com^
 ||log.sgsnssdk.com^
 ||pangolin16.sgsnssdk.com^
+||shakingtacklingunpeeled.com^
 ||shareasale.com^
 ||static.shareasale.com^
 ||sharethis.com^
@@ -8252,6 +8299,7 @@
 ||s.skimresources.com^
 ||idm.skplanet.com^
 ||skuligpzifan.com^
+||skullmagnets.com^
 ||sky88.com^
 ||api.sky88.com^
 ||sock.sky88.com^
@@ -8484,6 +8532,7 @@
 ||steepto.com^
 ||cm.steepto.com^
 ||www.steepto.com^
+||stejikjc.com^
 ||stelagharris.com^
 ||stellarsaturn.com^
 ||stickerchapelsailing.com^
@@ -8819,6 +8868,7 @@
 ||cdn.tinypass.com^
 ||experience.tinypass.com^
 ||tinyswans.com^
+||tip88.com^
 ||tipcatscarola.com^
 ||tipico.com^
 ||www.tipico.com^
@@ -9468,6 +9518,7 @@
 ||track.vivaclix.com^
 ||viwthopfoakr.com^
 ||vjcxthvsexahlla.com^
+||vk88.com^
 ||vkcdnservice.com^
 ||deliver.vkcdnservice.com^
 ||vkivatoxcsa.com^
@@ -9619,6 +9670,8 @@
 ||wbilvnmool.com^
 ||wcduwplgfh.com^
 ||wcfkehsk.com^
+||wdascdpua.com^
+||www.wdascdpua.com^
 ||wdjimokgc.com^
 ||web-bars.com^
 ||web1s.com^
@@ -10174,6 +10227,7 @@
 ||www.zpdnisvzedgbw.com^
 ||zquotfuofx.com^
 ||www.zquotfuofx.com^
+||zqztc.com^
 ||zrotary.com^
 ||app.zrotary.com^
 ||ztdog.com^
@@ -10231,6 +10285,7 @@
 ||medica-ohv.de^
 ||nanocosmos.de^
 ||bintu.nanocosmos.de^
+||demo.nanocosmos.de^
 ||oehmgen-bierbaum-maler.de^
 ||pelikan-hauskrankenpflege.de^
 ||petra-john.de^
@@ -11231,8 +11286,10 @@
 ||matomo.hellohi.me^
 ||iiil.me^
 ||iwin.iiil.me^
+||jun8899.me^
 ||csync.loopme.me^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
+||mb6688.me^
 ||v.mobfun.me^
 ||myretail.me^
 ||ddv.myretail.me^
@@ -11843,6 +11900,8 @@
 ||cm.everesttech.net^
 ||pixel.everesttech.net^
 ||sync-tm.everesttech.net^
+||evgcloud.net^
+||s3.evgcloud.net^
 ||exnesstrack.net^
 ||one.exnesstrack.net^
 ||eyeota.net^
@@ -11859,6 +11918,7 @@
 ||cartera-cdn.freetls.fastly.net^
 ||confiant-integrations.global.ssl.fastly.net^
 ||flashcore.net^
+||v2.flashcore.net^
 ||flndboy.net^
 ||aoodrb.flndboy.net^
 ||fly-ads.net^
@@ -12106,6 +12166,8 @@
 ||services-prod.nsvcs.net^
 ||ingesteer.services-prod.nsvcs.net^
 ||nukeluck.net^
+||nutaku.net^
+||xvideos.nutaku.net^
 ||oadrojoa.net^
 ||oaghoors.net^
 ||oagudole.net^
@@ -12660,6 +12722,10 @@
 ||go.lmp3.org^
 ||mastercms.org^
 ||api.mastercms.org^
+||moneyoyo.org^
+||api.moneyoyo.org^
+||cdn.moneyoyo.org^
+||l.moneyoyo.org^
 ||mpraven.org^
 ||onlinehentai.org^
 ||otdev.org^
@@ -12819,6 +12885,8 @@
 ||collaborator.pro^
 ||da88.pro^
 ||static.da88.pro^
+||dimpled-frame.pro^
+||www.dimpled-frame.pro^
 ||dinhvu.pro^
 ||diryleme.pro^
 ||dismalthroat.pro^
@@ -12918,6 +12986,7 @@
 ||traffictrade.pro^
 ||clicks.traffictrade.pro^
 ||tryd.pro^
+||unfit-step.pro^
 ||unnatural-situation.pro^
 ||validworking.pro^
 ||vb68.pro^
@@ -13208,6 +13277,8 @@
 ||nadiokufe.store^
 ||sv.nadiokufe.store^
 ||www.nadiokufe.store^
+||news360.store^
+||tracking.news360.store^
 ||piaroankenyte.store^
 ||viadata.store^
 ||bbwsex.su^
@@ -13747,6 +13818,8 @@
 ||speakwaymen.top^
 ||spikscursen.top^
 ||stannelberated.top^
+||statictip88.top^
+||cms.statictip88.top^
 ||stelaiatokal.top^
 ||stoicsstright.top^
 ||subsumeactless.top^
@@ -14183,6 +14256,7 @@
 ||onecms.vn^
 ||ad.org.vn^
 ||serving.ad.org.vn^
+||log.sggp.org.vn^
 ||ovp.vn^
 ||collect.ovp.vn^
 ||leanhduc.pro.vn^
@@ -14351,6 +14425,8 @@
 ||rikvip.win^
 ||tai.rikvip.win^
 ||staticdu88.win^
+||staticvk88.win^
+||cms.staticvk88.win^
 ||sun.win^
 ||lp.sun.win^
 ||taiwin79.win^
@@ -14572,6 +14648,7 @@
 ||hxaubnrfgxke.xyz^
 ||hyalooichbrjeom.xyz^
 ||hypqxpxwvfsfx.xyz^
+||ibikiqdaoy.xyz^
 ||ievaoixvcy.xyz^
 ||ifopeiswl.xyz^
 ||igagmbjj.xyz^
@@ -14702,6 +14779,7 @@
 ||pezico.xyz^
 ||cdn.pezico.xyz^
 ||pg31.xyz^
+||pgytalvbhv.xyz^
 ||pharteewhi.xyz^
 ||pjwsxjugjrws.xyz^
 ||platformbot.xyz^
@@ -14753,6 +14831,7 @@
 ||resrxnjqcftuf.xyz^
 ||reswsentativ.xyz^
 ||rhctvugjhdkaqji.xyz^
+||rkklaehpdapjr.xyz^
 ||rmhhgpqgxxr.xyz^
 ||rollmeout.xyz^
 ||eu.rollmeout.xyz^
@@ -14855,6 +14934,7 @@
 ||p.wwfx.xyz^
 ||wwhikftfmysi.xyz^
 ||x3x3x.xyz^
+||xagdbcnqovnws.xyz^
 ||xcpcfdxy.xyz^
 ||xcwshhsmf.xyz^
 ||xe9o.xyz^
@@ -15220,11 +15300,15 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||bing.com/images/sbi
 ||bing.com/retailexp/msn/api/*/trendingprods
 ||boyfriendtv.com/ads/live-cam/popunder
+||boyfriendtv.com/allow-preferred/
+||cc.boyfriendtv.com/bftv/b/chtrbtbftv.html
 ||cdn-go.cn/aegis/aegis-sdk/
 ||cdn.jsdelivr.net/npm/yandex-metrica-watch/
 ||cdn.truyenfull.tv/assets/truyenfull/js/aff_ads.js
-||challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/cmg/1
+||challenges.cloudflare.com/cdn-cgi/challenge-platform/h/*/cmg/1
 ||chat.deepseek.com/api/v0/events
+||chaturbate.com/in/
+||chaturbate.com/tours/
 ||chaturbate.com^$third-party,subdocument
 ||cloud.google.com/log
 ||cnet.com/ext/
@@ -15271,6 +15355,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||graph.facebook.com/network_ads
 ||gstatic.com/feedback/
 ||hentaivnx.com/ads
+||hentaivnx.com/js/sps.js
 ||i.imgur.com/*.gif$domain=yaoimangaonline.com,third-party
 ||images.sohu.com/bill/s2015/jscript/lib/sjs/matrix/
 ||ipinfo.io/rt?r=err
@@ -15282,6 +15367,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||mail.yahoo.com/d/
 ||mail.yahoo.com/desktop_sw.js
 ||msadsscale.azureedge.net/bingads/telemetryJS.js
+||myreadingmanga.info/load.*
 ||myreadingmanga.info/vjs/
 ||news.google.com/swg/
 ||news.google.com/_/DotsSplashUi/
@@ -15294,7 +15380,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||pay.google.com/gp/p/_/InstantbuyFrontendBuyflowPayframeUi/jserror
 ||pixlr.com/fad/
 ||quora.com/ajax/receive_POST
-||quoracdn.net^$domain=dam18.net|haysex.net|hentaivl.tv|hentaivn.day|heo69.top|lenlut.net|mup69.net|phevkl.biz|phim3x.us|sexhdpro.net|sexthailan.com|vlxx.ai|vlxx.moe|vlxxhot.net|vlxyz.net|vlxyz.tv|vnxx.xyz|xemsex.gg|xemsex.moe|xemsex.vc|xnxxpro.net|xnxxpro.xxx|xvideo3s.cc|xvideos.moe|xvideos98.pro|xvideos98.xxx,third-party
+||quoracdn.net^$domain=dam18.net|haysex.net|hentaivl.tv|hentaivn.day|heo69.top|lenlut.net|mup69.net|phevkl.biz|phim3x.us|sexhdpro.net|sexthailan.com|vlxx.ai|vlxx.moe|vlxxhot.net|vlxyz.net|vlxyz.tv|vnsexmup.net|vnxx.xyz|xemsex.gg|xemsex.moe|xemsex.vc|xnxxpro.net|xnxxpro.xxx|xvideo3s.cc|xvideos.moe|xvideos98.pro|xvideos98.xxx,third-party
 ||s.yimg.com/aaq/
 ||s.yimg.com/av/ads/
 ||s.yimg.com/ds/
@@ -15317,8 +15403,10 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||truyenfull.*/ad/
 ||twitter.com/i/api/1.1/jot/
 ||vimeo.com/ablincoln/
+||www.gstatic.com/cv/js/sender/v1/cast_sender.js
 ||x.com/i/api/1.1/jot/
 ||xvideos.com/picserror/
+||xvideos.com/zoneload/
 ||yandex.com/clck/click
 ||yandex.ru/ads/
 ||yandex.ru/an/
@@ -15360,6 +15448,7 @@ anime3s.com,animet1.net#%#//scriptlet('remove-attr', 'disable-devtool-auto')
 apkmirror.com#%#//scriptlet('set-constant', 'Object.defineProperty', 'noopFunc')
 bing.com#%#//scriptlet('json-prune', 'relatedAds')
 boyfriendtv.com#%#//scriptlet('prevent-addEventListener', 'chujBlokowacieDone')
+boyfriendtv.com#%#//scriptlet('set-constant', 'AdsCookie', 'noopFunc')
 camelliatransgroup.com,dhcc.uk,fingau.com,getpczone.com,javadecompilers.com,listvpn.net,quaanhdaocuteo.com,rahim-soft.com,uploadrar.com,wokaz.com#%#//scriptlet('prevent-bab')
 decompiler.com#%#//scriptlet('set-constant', 'ax42', 'true')
 dualeotruyenbi.com,dualeotruyenbot.com,dualeotruyenme.com,dualeotruyenpk.com,dualeotruyentop.com,dualeotruyenus.com,dualeotruyenww.com,dualeotruyenz.com#%#//scriptlet('prevent-addEventListener', 'click', 'popunder_last_time')
@@ -15446,6 +15535,7 @@ xhamster.com#%#document.cookie="ts_popunder=true;domain=.xhamster.com",document.
 xhamster.com,xhamster.desi,xhamster2.com#%#window.addEventListener("DOMContentLoaded",function(){var e=document.querySelector("html.desktop");null!=e&&e.classList.add("video-page--large-mode"),null!=(e=document.getElementById("player-container"))&&e.classList.add("xplayer-large-mode")});
 xhamster.desi#%#document.cookie="ts_popunder=true;domain=.xhamster.desi",document.cookie="ts_popunder2=true;domain=.xhamster.desi";
 xhamster2.com#%#document.cookie="ts_popunder=true;domain=.xhamster2.com",document.cookie="ts_popunder2=true;domain=.xhamster2.com";
+xvideos.com#%#window.addEventListener("DOMContentLoaded",function(){Object.defineProperty(xv,"sda",{value:{},writable:!1})});
 y2mate.com,y2mate.gg,youtubepp.com#%#Object.defineProperties(window,{clickAds:{value:{},writable:!1},da_load_qc:{value:!0,writable:!1},load_qc2mate:{value:function(){return!0},writable:!1},m_banner_app:{value:{},writable:!1}});
 yaoimangaonline.com#%#Object.defineProperties(window,{random_imglink:{value:void 0,writable:!1}}),window.addEventListener("DOMContentLoaded",function(){['#block-12','#block-16','#block-19','#block-20','#text-2','#text-28','.code-block'].forEach(e=>{var t=document.querySelector(e);null!=t&&t.remove()})});
 mail.yahoo.com#$##main { max-width: 2560px !important; }
@@ -15475,9 +15565,9 @@ ayamehentai.cc,hentaiayame.com,hentaiayame.net,hentaihvn.tv,hentaivn.autos,henta
 baidu.com###branding_ads,#web-right-view,.ad-multi-tips,.ad-platform-tips,.cps_wrap,.j_click_stats,.video-ad-creative-card
 bilibili.com###activity_vote,#bannerAd,#live_recommand_report,#slide_ad,.pop-live-small-mode,.video-page-game-card-small,.video-page-special-card-small,[href*="cm.bilibili.com"]
 bilutvs.net##.ab1,.abp-header
-bing.com###adstop_gradiant_separator,.b_spa_adblock,.ins_exp.vsp,.vsp_ads_c,div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_context:has(> li.b_ad),ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"],ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_results > li.b_algo:has(div.b_attribution[data-partnertag])
+bing.com###adstop_gradiant_separator,.b_spa_adblock,.ins_exp.vsp,.vsp_ads_c,aside > ol#b_context:has(li.b_ans[data-partnertag]),div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_context:has(> li.b_ad),ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"],ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_results > li.b_algo:has(div.b_attribution[data-partnertag])
 blogtruyen.vn##.BT-Ads
-boyfriendtv.com###js-ads-modal,#rightside2,.ads-wrapper,.eu-cookies,.js-right-no-ads,.vast-overlay,.video-extra-wrapper,.x-news-line,div.adblock:has(div.media-item.no-popup),div.js-toggle-content-wrapper:has(div.media-item.no-popup),div.media-item.no-popup,li.media-item.no-popup,[class$="advi" i],[href*="gobanner"],[src*="paysite"]
+boyfriendtv.com###js-ads-modal,#rightside2,.ads-wrapper,.eu-cookies,.js-right-no-ads,.vast-overlay,.video-extra-wrapper,.x-news-line,div.adblock:has(div.media-item.no-popup),div.container:has(div.video-listing > div.no-popup:first-child > div[data-id^="sc-"]),div.js-toggle-content-wrapper:has(div.media-item.no-popup),div.media-item.no-popup,div.no-popup:has(div[data-id^="sc-"],li.media-item.no-popup,[class$="advi" i],[href*="gobanner"],[src*="paysite"]
 camelliatransgroup.com,dhcc.uk##[id^="sticky-footer" i]
 check-host.net##div#content2 div[class$="tive"],div#content2 div[class^="mt-"]:not([id="terminal-frame"]),div.container > div.flex.w-full[id$="main"],div[id^="yourip"] > div[class^="host"],div[id^="yourip"] > div[id^="host"]
 coderanch.com###txl,.forum-top-banner,.multbntab,.shngl
@@ -15522,6 +15612,7 @@ wattpad.com##[class^="reading-widget" i]
 xda-developers.com###spot_container_content_above,#spot_rsb_below,#spot_rsb_top,#spot_thread_above_messages,#xdadevelopers_leaderboard_atf,#xdadevelopers_leaderboard_btf,#xdadevelopers_right_1,.spot_container_content_above,.spot_rsb_below,.spot_rsb_top,.spot_thread_above_messages
 xhamster.com,xhamster.desi,xhamster2.com##aside[data-role="yld-pcpromo"],div.xp-banner-pause,div.xp-subscribe,div.yld-pcbottom-widget-section.yld-pc,div.yld-pccam-thumb,div.yld-pcno-ts-init,div.yld-pcpremium-n-overlay,div.yld-pcxplayer-hover-menu,div[class*="cam-thumb"],div[class*="cams-wgt"],div[data-role="promo-messages-wrapper"],div[data-role="yld-pcbanner-underplayer"],div[data-role="yld-pcbottom"],div[data-testid="right-banner-section"],div[data-role$="banner-underplayer"],div[class^="cookiesAnnounce"],div[class*="Rright-rectangle"]
 xnxx.com,xnxx3.com,xvideos.com,xvideos.es,xvideos3.com###ad-footer,#ad-footer2,#ad-header-mobile-contener,#content-ad-top-zone-contener,#video-ad,.no-rotate,.remove-ads,.thumb-ad-gold,.thumb-nat-exo-ad,.video-click-handler,div#content > div#video-right.exo-ad-ins-container,div#video-right ~ div[class]:not([id]),div.thumb-block.video-ad
+xvideos.com##.banner-game,.premium-results-line
 xvideos98.xxx##[id$="-adx" i]
 yahoo.com###ad_xfpad_base,#Billboard-ad,#dialogue-wrapper,#feat-bar,#login-ads-gpt-iframe,#my-adsFOOT,#my-adsFPAD-base,#my-adsHPSPON-base,#my-adsLDRB,#my-adsLREC-base,#my-adsLREC4-base,#my-adsMON,#sda-Horizon,#sda-LREC-iframe,#sda-LREC3-iframe,.ad-transition,.fbtdv2,.login-bg-inner,.native-ad-item,.stream-ad,.stream-sm-ad,iframe:not([id$="-iframe"]),[data-test-id*="-ad-" i],[href*="beap.gemini.yahoo.com"]
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com###masthead-ad,#player-ads,.html5-video-player.ad-showing .ytp-title,.video-ads,.ytd-display-ad-renderer,.ytp-ad-action-interstitial,.ytp-ad-display-override,.ytp-ad-module,.ytp-featured-product,.ytp-suggested-action-badge.ytp-suggested-action-badge-content-forward,ad-slot-renderer,div[class^="promoted-"],ytd-ad-slot-renderer,ytd-carousel-ad-renderer,ytd-display-ad-renderer,ytd-display-ad-renderer.style-scope,ytd-in-feed-ad-layout-renderer,ytd-merch-shelf-renderer,ytd-promoted-sparkles-text-search-renderer,ytd-promoted-sparkles-web-renderer,ytm-compact-playlist-renderer,ytm-companion-slot.scwnr-content,ytm-promoted-sparkles-text-search-renderer,ytm-promoted-sparkles-web-renderer,ytm-promoted-video-renderer,[layout*="display-ad" i]
