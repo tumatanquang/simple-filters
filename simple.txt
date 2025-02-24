@@ -115,6 +115,7 @@
 ||healthhubmorayfield.com.au^
 ||www.healthhubmorayfield.com.au^
 ||leauksesee.autos^
+||sextop.autos^
 ||2aed6ghjsb4436qtebuqk3gfzq0xeauy.lambda-url.us-east-1.on.aws^
 ||geoedge.be^
 ||rumcdn.geoedge.be^
@@ -212,6 +213,8 @@
 ||giltenmopoke.cam^
 ||isletachoisya.cam^
 ||mangelobsolden.cam^
+||sexhd.cam^
+||sexvip.cam^
 ||soogandrooped.cam^
 ||ulcerstopers.cam^
 ||beenmeekwarmth.casa^
@@ -365,6 +368,7 @@
 ||betgorebysson.club^
 ||cdn.betgorebysson.club^
 ||boyaidare.club^
+||choib52.club^
 ||classentedol.club^
 ||clean-2-clean.club^
 ||sg.clean-2-clean.club^
@@ -634,6 +638,8 @@
 ||7bee0eee4c.0b85c2f9bb.com^
 ||0d76bd13e8.com^
 ||a388f2a7d8.0d76bd13e8.com^
+||0e4256d4f1.com^
+||97b8442ce0.0e4256d4f1.com^
 ||0eade9dd8d.com^
 ||6df90c4978.0eade9dd8d.com^
 ||0f3f317f1d.com^
@@ -1070,6 +1076,8 @@
 ||7b20115032.5f249e1d30.com^
 ||5f6efdfc05.com^
 ||6f0e0a9e80.5f6efdfc05.com^
+||5fa93678cd.com^
+||785cfac57a.5fa93678cd.com^
 ||5i68sbhin.com^
 ||5ivy3ikkt.com^
 ||tg.5qwan.com^
@@ -3638,6 +3646,7 @@
 ||debugbear.com^
 ||cdn.debugbear.com^
 ||decaydespiteseminar.com^
+||decimalcursor.com^
 ||declareave.com^
 ||declinedisobey.com^
 ||decnetshantih.com^
@@ -3838,6 +3847,7 @@
 ||doweralrostra.com^
 ||xs.doweralrostra.com^
 ||download-adblock-zen.com^
+||download-adblockgenius.com^
 ||download-extension.com^
 ||dist.download-extension.com^
 ||downloading-addon.com^
@@ -3874,6 +3884,7 @@
 ||droopingmore.com^
 ||druggertruckle.com^
 ||ed.druggertruckle.com^
+||drydwezfas.com^
 ||eu.dspmulti.com^
 ||dstillery.com^
 ||action.dstillery.com^
@@ -4222,6 +4233,7 @@
 ||eyngyyucxbfpa.com^
 ||ezcgojaamg.com^
 ||ezmob.com^
+||static.ezmob.com^
 ||xml-v4.ezmob.com^
 ||ezodn.com^
 ||basher.ezodn.com^
@@ -4717,6 +4729,7 @@
 ||ghyzubhr.com^
 ||giaimanhacai.com^
 ||giaotiep365.com^
+||gingerconnoisseur.com^
 ||giraffepiano.com^
 ||gisttorn.com^
 ||collector.github.com^
@@ -5438,6 +5451,7 @@
 ||imkirh.com^
 ||creative.imkirh.com^
 ||go.imkirh.com^
+||immaculate-suspect.com^
 ||immixteddo.com^
 ||impactradius-event.com^
 ||d.impactradius-event.com^
@@ -7102,12 +7116,14 @@
 ||tags.orquideassp.com^
 ||orraxckivsud.com^
 ||orxbqsvibjxqvai.com^
+||osamafusion.com^
 ||osamagenius.com^
 ||osamaimpact.com^
 ||osamanamana.com^
 ||osano.com^
 ||cmp.osano.com^
 ||oscohkajcjz.com^
+||osdjartaqnm.com^
 ||oseculretabout.com^
 ||osfajqzcybu.com^
 ||osharvrziafx.com^
@@ -7434,6 +7450,7 @@
 ||postrelease.com^
 ||jadserve.postrelease.com^
 ||potatointakeafraid.com^
+||pothertion.com^
 ||potnormal.com^
 ||potsiuds.com^
 ||pouneeso.com^
@@ -8181,6 +8198,7 @@
 ||sbrbhzlp.com^
 ||www.sbrbhzlp.com^
 ||sbzzw.com^
+||scakuvap.com^
 ||scarabresearch.com^
 ||cdn.scarabresearch.com^
 ||recommender.scarabresearch.com^
@@ -8467,6 +8485,7 @@
 ||smartthings.com^
 ||api.smartthings.com^
 ||spigot-regional.api.smartthings.com^
+||smfgg.com^
 ||smilingdefectcue.com^
 ||smkfgnnlzzd.com^
 ||www.smkfgnnlzzd.com^
@@ -9593,6 +9612,8 @@
 ||viadeo.com^
 ||secure.viadeo.com^
 ||viaklera.com^
+||vialotadom.com^
+||ak.vialotadom.com^
 ||vianoivernom.com^
 ||viatepigan.com^
 ||vibiu-dau.com^
@@ -9627,6 +9648,7 @@
 ||s.viimun.com^
 ||viiruc.com^
 ||s.viiruc.com^
+||viiskuvr.com^
 ||vilitram.com^
 ||us.vilitram.com^
 ||player-telemetry.vimeo.com^
@@ -9668,6 +9690,7 @@
 ||vnjexsypl.com^
 ||vntsm.com^
 ||hb.vntsm.com^
+||vnunqa.com^
 ||vocationethelsky.com^
 ||vogulprecast.com^
 ||ee.vogulprecast.com^
@@ -9901,6 +9924,7 @@
 ||wimfwomrjt.com^
 ||win79.com^
 ||play.win79.com^
+||tai.win79.com^
 ||ctldl.windowsupdate.com^
 ||wingiestedifyupboiled.com^
 ||wioau.com^
@@ -9990,6 +10014,7 @@
 ||wtgufgmma.com^
 ||wtymhapirfaz.com^
 ||wugowrbcuva.com^
+||wuqttehuhs.com^
 ||wurtkoxudcka.com^
 ||wuuhwsaiyyunrbp.com^
 ||wuzbhjpvsf.com^
@@ -10424,6 +10449,7 @@
 ||eis.de^
 ||www.eis.de^
 ||fiddie.de^
+||forst-lindhorst.de^
 ||halboth-consulting.de^
 ||hallenser-wirtschaftsgespraeche.de^
 ||kai-jansen-hundeernaehrung.de^
@@ -10601,6 +10627,7 @@
 ||tag.leadplace.fr^
 ||lebureaudesandrine.fr^
 ||main-tech-gestion.fr^
+||mon-ecrin-beaute.fr^
 ||nacdebretagne.fr^
 ||oopt.fr^
 ||media.oopt.fr^
@@ -11565,6 +11592,8 @@
 ||p28927.nonotro.name^
 ||pclk.name^
 ||click.pclk.name^
+||picme.name^
+||31.picme.name^
 ||shacsda.name^
 ||15991.shacsda.name^
 ||thanksgivingdelights.name^
@@ -14913,6 +14942,7 @@
 ||lajaajcogokmgm.xyz^
 ||larsepso.xyz^
 ||latestnewznow.xyz^
+||ldqicbjulpaf.xyz^
 ||leghfawp.xyz^
 ||lentinesox.xyz^
 ||leqpdlaq.xyz^
@@ -15216,8 +15246,10 @@ stun:stun.l.google.com^
 /.*(_ads)\.js/$script
 /3(0|5)0(-|x)2?5?0/$image
 /728(-|x)90/$image
+/ad.js
 /adb(lock|-analytics)/
 /advertis(ement|ing)/
+/afu.php
 /api/pop*.php
 /catfish.*/
 /cdn-cgi/zaraz
@@ -15225,10 +15257,13 @@ stun:stun.l.google.com^
 /detect(\.|-)?dev\.js/
 /dfp\.min\.js/$domain=fastssh.com
 /funcript.*\.php/
+/images/cleardot.gif
 /imgur\/.*\.gif/$image
+/index/ping
 /js/ads.js
 /matomo\.(js|php)/
 /matter/tot.js
+/pop/sps.js
 /prop(click|eller)/
 /theorem_?reach/
 /videojs(_5)?\.vast/
@@ -15249,7 +15284,6 @@ stun:stun.l.google.com^
 /\/ads(banner|ense|idservices)?\//
 /\/ads.*\//
 /\/ads\/?(ad|\d+)?\.js/$script
-/\/ad\.js/$script
 /\/ad_stats\//
 /\/affiliates\//
 /\/ane-preroll-\d+\//
@@ -15282,9 +15316,7 @@ stun:stun.l.google.com^
 /\/google-(ads|tracking)?\//
 /\/hads-ak-prn2\//
 /\/house-ads\//
-/\/images\/cleardot.gif/
 /\/img\/shopee\//
-/\/index\/ping/
 /\/js\/(ad.*config|ados|atha|boomerang|script-|video-ads).*\.js/$script
 /\/js\/(ajax|api|ar|auth|bootstrap|bundle|creator|dfp\.min|rebuild|ssh|vpn)\.js/$domain=fastssh.com|sshkit.com
 /\/js\/(ajax|api|auth|bootstrap|bundle|dfp\.min|fallback|new|red|simple|vpn)\.js/$domain=hax.co.id|howdy.id|vpngame.com|woiden.id
@@ -15297,7 +15329,6 @@ stun:stun.l.google.com^
 /\/page(ad|speed_static)\//
 /\/perfecty-push-notifications\//
 /\/pixel\//
-/\/pop\/sps\.js/$script
 /\/porpoiseant\//
 /\/ppsuma[\d\-]+\.js/$script
 /\/prebid\//
