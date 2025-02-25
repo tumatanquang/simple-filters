@@ -690,6 +690,8 @@
 ||click.1688.com^
 ||s.click.1688.com^
 ||pjjx.1688.com^
+||16d9c2d09e.com^
+||f3b712f1f4.16d9c2d09e.com^
 ||173726e958.com^
 ||7f2b0289ba.173726e958.com^
 ||18788fdb24.com^
@@ -1034,6 +1036,8 @@
 ||12037d409f.56659067a3.com^
 ||56a76cb7c7.com^
 ||1dcf7e1dbb.56a76cb7c7.com^
+||579eede9ca.com^
+||8a45f0e0a6.579eede9ca.com^
 ||57debc89a6.com^
 ||dd15b806f5.57debc89a6.com^
 ||586ee111d1.com^
@@ -15068,6 +15072,7 @@
 ||quettefors.xyz^
 ||qvdvkkul.xyz^
 ||qvhalfvo.xyz^
+||qvyrtbaqkrjnuke.xyz^
 ||qwwpmsmrrdntjws.xyz^
 ||raxflydrdy.xyz^
 ||rcrajyrudrk.xyz^
