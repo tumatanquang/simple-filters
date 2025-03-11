@@ -333,6 +333,8 @@
 ||maleotoffish.click^
 ||mastiffcarfax.click^
 ||neighrewarn.click^
+||pageview.click^
+||click.pageview.click^
 ||pocli.click^
 ||pokjhgrs.click^
 ||r5uuklquq8ngd.click^
@@ -896,6 +898,8 @@
 ||360yield.com^
 ||ad.360yield.com^
 ||euw-ice.360yield.com^
+||3638f4360b.com^
+||33b39a6e93.3638f4360b.com^
 ||365dm.com^
 ||e3.365dm.com^
 ||365dmp.com^
@@ -1318,6 +1322,8 @@
 ||864feb57ruary.com^
 ||86811111.com^
 ||www.86811111.com^
+||8681b70da0.com^
+||c2ec494150.8681b70da0.com^
 ||86cb1dcb13ba5a1a.com^
 ||86e7d35526.com^
 ||efd8d8a247.86e7d35526.com^
@@ -2083,6 +2089,7 @@
 ||track1.aniview.com^
 ||anlcld.com^
 ||anniversarytoothbrush.com^
+||annzaqakg.com^
 ||anpqispuvzta.com^
 ||antaciddjebel.com^
 ||antananarbdivu.com^
@@ -3054,6 +3061,7 @@
 ||cdadms.com^
 ||cdctwm.com^
 ||pt.cdctwm.com^
+||cdn-adtech.com^
 ||cdn-bebo.com^
 ||haon-jpnext.cdn-bebo.com^
 ||cdn-cookieyes.com^
@@ -3696,6 +3704,7 @@
 ||defyraspypuke.com^
 ||deggerfletton.com^
 ||yu.deggerfletton.com^
+||delayeddisputecommotion.com^
 ||deliamuhammadmyotasis.com^
 ||delighted.com^
 ||web.delighted.com^
@@ -3931,6 +3940,7 @@
 ||e.dtscout.com^
 ||t.dtscout.com^
 ||du88.com^
+||dubfkyjupn.com^
 ||dubheteat.com^
 ||gk.dubheteat.com^
 ||dubizzle.com^
@@ -4261,6 +4271,7 @@
 ||exportspring.com^
 ||exposepresentimentunfriendly.com^
 ||extanalytics.com^
+||extbid.com^
 ||externalfavlink.com^
 ||extreme-ip-lookup.com^
 ||exuemuugvg.com^
@@ -4488,6 +4499,8 @@
 ||flashtalking.com^
 ||d9.flashtalking.com^
 ||flatepicbats.com^
+||fleetenreplevy.com^
+||aq.fleetenreplevy.com^
 ||fleraprt.com^
 ||flibzee.com^
 ||www.flibzee.com^
@@ -5707,6 +5720,7 @@
 ||iyfbodn.com^
 ||izlenzi.com^
 ||cdn.izooto.com^
+||j56y.com^
 ||ja2n2u30a6rgyd.com^
 ||jaavnacsdw.com^
 ||jacsmuvkymw.com^
@@ -6743,6 +6757,7 @@
 ||sock.nbet.com^
 ||nbottkauyy.com^
 ||nbqlw.com^
+||nbulo.com^
 ||nctylivpwhpby.com^
 ||www.nctylivpwhpby.com^
 ||ncubadmavfp.com^
@@ -7254,6 +7269,7 @@
 ||ozvtuton.com^
 ||ozwolnonnotv.com^
 ||ozyezi01.com^
+||p78t.com^
 ||pa6ka.com^
 ||p.pa6ka.com^
 ||paddle.com^
@@ -7467,6 +7483,8 @@
 ||pnuhondppw.com^
 ||poawooptugroo.com^
 ||podsolnu9hi10.com^
+||pokalive.com^
+||www.pokalive.com^
 ||polarbearyulia.com^
 ||1255.polarbearyulia.com^
 ||polarbyte.com^
@@ -7899,6 +7917,7 @@
 ||app.readpeak.com^
 ||readytosinglesmeet.com^
 ||realcfadsblog.com^
+||realfile-share-every-fun.com^
 ||reallifecam.com^
 ||lt.reallifecam.com^
 ||static.reallifecam.com^
@@ -8900,6 +8919,8 @@
 ||tags.t.tailtarget.com^
 ||tailwindcss.com^
 ||cdn.tailwindcss.com^
+||talkingdata.com^
+||jic.talkingdata.com^
 ||taminystopgap.com^
 ||ek.taminystopgap.com^
 ||tangozoloads.com^
@@ -9400,6 +9421,8 @@
 ||udarem.com^
 ||click.udimg.com^
 ||udinugoo.com^
+||udrig.com^
+||h5.udrig.com^
 ||udtubiuisigc.com^
 ||uecppuciocadi.com^
 ||www.uecppuciocadi.com^
@@ -9915,6 +9938,7 @@
 ||scripts.webcontentassessor.com^
 ||webmadeblog.com^
 ||tds.webmadeblog.com^
+||log.webnovel.com^
 ||webpfy.com^
 ||webpinp.com^
 ||webpushr.com^
@@ -10360,7 +10384,9 @@
 ||yourwebbars.com^
 ||cdn.yourwebbars.com^
 ||ads.youtube.com^
+||casespartner-pa.youtube.com^
 ||consent.youtube.com^
+||realtimesupport.youtube.com^
 ||yovqnwnmpzz.com^
 ||www.yovqnwnmpzz.com^
 ||yqmxfz.com^
@@ -10532,6 +10558,7 @@
 ||donttbeevils.de^
 ||eis.de^
 ||www.eis.de^
+||emon-consulting.de^
 ||fiddie.de^
 ||forst-lindhorst.de^
 ||halboth-consulting.de^
@@ -10540,6 +10567,7 @@
 ||kontakt-vermittler.de^
 ||www.kontakt-vermittler.de^
 ||medica-ohv.de^
+||nanni-naeht.de^
 ||nanocosmos.de^
 ||bintu.nanocosmos.de^
 ||demo.nanocosmos.de^
@@ -10621,15 +10649,18 @@
 ||fem.prod.postmedia.digital^
 ||scuddydecrial.digital^
 ||ad.tiny.do^
+||automocionati.es^
 ||bgkservices.es^
 ||familyhostel.es^
 ||global-goservice.es^
 ||havenlegal.es^
 ||landwarriors.es^
+||martasingla.es^
 ||mashumana.es^
 ||mypetsociety.es^
 ||ontwowheels.es^
 ||proyectoeinstein.es^
+||setadecardo.es^
 ||bepolite.eu^
 ||serving.bepolite.eu^
 ||static.bepolite.eu^
@@ -12875,6 +12906,9 @@
 ||6mimp2ns5.globalcdn10.one^
 ||globalcdn23.one^
 ||qyrb0mw60.globalcdn23.one^
+||pubadx.one^
+||imp9.pubadx.one^
+||platform.pubadx.one^
 ||redporn.one^
 ||bb.redporn.one^
 ||rqr.one^
@@ -13031,6 +13065,8 @@
 ||ipify.org^
 ||api.ipify.org^
 ||api64.ipify.org^
+||kaella.org^
+||4.kaella.org^
 ||crashreport.libreoffice.org^
 ||update-mar.libreoffice.org^
 ||lmp3.org^
@@ -13540,6 +13576,7 @@
 ||my.imagechat.site^
 ||inmense.site^
 ||api.inmense.site^
+||jd56.site^
 ||k9gj.site^
 ||kickoffo.site^
 ||api.kickoffo.site^
@@ -13551,6 +13588,7 @@
 ||punpisurn.site^
 ||slykeyhot.site^
 ||t-y-p.site^
+||t45r.site^
 ||takiparkrb.site^
 ||www.takiparkrb.site^
 ||tertracks.site^
@@ -15246,6 +15284,7 @@
 ||ujdhklbfjiiu.xyz^
 ||uloaludu.xyz^
 ||uovmejkplcojm.xyz^
+||url07.xyz^
 ||urqepqwqnr.xyz^
 ||utcjptmsgga.xyz^
 ||utdhcgbovqdp.xyz^
@@ -15273,6 +15312,7 @@
 ||vusfqprrmuj.xyz^
 ||vvpojbsibm.xyz^
 ||vvusdebvclxpi.xyz^
+||vxkigocgcalvpr.xyz^
 ||vylmhkasl.xyz^
 ||watakaw133.xyz^
 ||wcgcddncqveiqia.xyz^
@@ -15577,12 +15617,16 @@ youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('set-con
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.adSlots', 'undefined')
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.playerAds', 'undefined')
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('set-constant', 'playerResponse.adPlacements', 'undefined')
-youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-xhr-response', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/playlist\?list=|\/player(?!.*(get_drm_license))|watch\?[tv]=|get_watch\?/')
-youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-fetch-response', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/playlist\?list=|player\?|watch\?[tv]=|get_watch\?/')
+! For older versions of scriptlet
+! youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-xhr-response', '/\"adPlacements.*?([A-Z]"\}|"\}{2})\}\]\,/', '', '/player\?key=|watch\?v=/')
+! youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-fetch-response', '/(contextParams":"Q0F[A-Z]U.*?)"adPlacements.*?([A-Z]"\}|"\}{2})\}\]\,/', '$1', 'player?key=')
+! youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-fetch-response', '/((?:(?:&|%26)id(?:=|%3D)o-A[A-Z]|yt_live_broadcast).*?)"adPlacements.*?([A-Z]"\}|"\}{2})\}\]\,/', '$1', 'player?key=')
+youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-prune-xhr-response', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/playlist\?list=|\/player(?!.*(get_drm_license))|watch\?[tv]=|get_watch\?/')
+youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-prune-fetch-response', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/playlist\?list=|player\?|watch\?[tv]=|get_watch\?/')
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#(()=>{const t={apply:(t,e,n)=>{const o=Reflect.apply(t,e,n);try{o instanceof HTMLIFrameElement&&"about:blank"===o.src&&o.contentWindow&&(o.contentWindow.fetch=window.fetch)}catch(t){}return o}};Node.prototype.appendChild=new Proxy(Node.prototype.appendChild,t)})();
-youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-prune', 'adBreakHeartbeatParams playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots')
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-prune', 'contents.sectionListRenderer.contents.0', 'contents.sectionListRenderer.contents.0.itemSectionRenderer.contents.0.adSlotRenderer')
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-prune', 'contents.sectionListRenderer.contents.1', 'contents.sectionListRenderer.contents.1.itemSectionRenderer.contents.0.adSlotRenderer')
+m.youtube.com,youtubekids.com,youtube-nocookie.com#%#//scriptlet('json-prune', 'adBreakHeartbeatParams playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots')
 ||googlevideo.com/initplayback?source=youtube&*&c=TVHTML5&oad=$xmlhttprequest,domain=youtube.com
 [$path=/tv]youtube.com#%#//scriptlet('json-prune', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/https:\/\/www\.youtube\.com\/s\/player\/.*\/tv-player-ias\.vflset\/tv-player-ias\.js:/')
 www.youtube.com#%#//scriptlet('adjust-setTimeout', '[native code]', '17000', '0.001')
@@ -15780,7 +15824,6 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||youtube.com/player_204
 ||youtube.com/ptracking?
 ||youtube.com/s/player/*/ad.js
-||youtube.com/youtubei/v1/att/get
 ||youtube.com/youtubei/v1/guide
 ||youtube.com/youtubei/v1/log_event
 ||youtube.com/youtubei/v1/player/ad_break
