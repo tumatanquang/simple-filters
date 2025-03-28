@@ -2062,6 +2062,7 @@
 ||amoewkqapbselqq.com^
 ||ampdiv.com^
 ||amplitude.com^
+||api.amplitude.com^
 ||api2.amplitude.com^
 ||cdn.amplitude.com^
 ||lab.amplitude.com^
@@ -2133,6 +2134,7 @@
 ||adx-sg.anythinktech.com^
 ||da.anythinktech.com^
 ||tk.anythinktech.com^
+||anzozlcz.com^
 ||aoflix.com^
 ||advertising.aol.com^
 ||aoms8xa9b.com^
@@ -2888,6 +2890,7 @@
 ||sync.bumlam.com^
 ||bumpingasbolin.com^
 ||ti.bumpingasbolin.com^
+||bumzilxruqup.com^
 ||bungeedubbah.com^
 ||buntkxpnttmjbv.com^
 ||buqkrzbrucz.com^
@@ -3836,6 +3839,8 @@
 ||dnb.com^
 ||dunsregistered.dnb.com^
 ||dnknbtntt.com^
+||dns-finder.com^
+||ag.dns-finder.com^
 ||dntchnyghet.com^
 ||www.dntchnyghet.com^
 ||dnudlvqqsc.com^
@@ -4576,6 +4581,7 @@
 ||fpgedsewst.com^
 ||fpofvdovrk.com^
 ||www.fpofvdovrk.com^
+||fpokuxocn.com^
 ||fppzikurc.com^
 ||www.fppzikurc.com^
 ||fptls.com^
@@ -4942,6 +4948,8 @@
 ||googlesyndication.com^
 ||ade.googlesyndication.com^
 ||pagead2.googlesyndication.com^
+||safeframe.googlesyndication.com^
+||a2711ded427b0c56996bc730b620349f.safeframe.googlesyndication.com^
 ||tpc.googlesyndication.com^
 ||video-ad-stats.googlesyndication.com^
 ||googletagmanager.com^
@@ -5865,6 +5873,7 @@
 ||juringupstage.com^
 ||jussibrarow.com^
 ||fc.jussibrarow.com^
+||justcovaqod.com^
 ||justonemorenews.com^
 ||www.justonemorenews.com^
 ||justpremium.com^
@@ -6067,6 +6076,7 @@
 ||static.lalaping.com^
 ||lambingsyddir.com^
 ||lame7bsqu8barters.com^
+||lamkatgho.com^
 ||lammasbananas.com^
 ||lampoled.com^
 ||lanaisgoll.com^
@@ -6105,6 +6115,8 @@
 ||leinartlin.com^
 ||as.leinartlin.com^
 ||leisureinhibitdepartment.com^
+||lemonsqueezy.com^
+||assets.lemonsqueezy.com^
 ||lemoouvqjre.com^
 ||www.lemoouvqjre.com^
 ||cm.lentainform.com^
@@ -6391,6 +6403,8 @@
 ||mediaappletree.com^
 ||mediacategory.com^
 ||www.mediacategory.com^
+||mediafiredls.com^
+||www.mediafiredls.com^
 ||mediamathrdrt.com^
 ||pixel.mediamathrdrt.com^
 ||mediaoaktree.com^
@@ -6416,6 +6430,8 @@
 ||www.meetup.com^
 ||cnt.megaxh.com^
 ||collector.megaxh.com^
+||meishesdk.com^
+||api.meishesdk.com^
 ||meltedacrid.com^
 ||memberful.com^
 ||js.memberful.com^
@@ -6463,6 +6479,7 @@
 ||mgtv.com^
 ||honey.mgtv.com^
 ||w.mgtv.com^
+||mhancotf.com^
 ||mhometheater.com^
 ||mhvllvgrefplg.com^
 ||www.mhvllvgrefplg.com^
@@ -6935,6 +6952,7 @@
 ||www.npcwfrohnshriw.com^
 ||npddlguxzrem.com^
 ||www.npddlguxzrem.com^
+||npiqpynunahs.com^
 ||npttech.com^
 ||www.npttech.com^
 ||nqtnwvwigvo.com^
@@ -7206,6 +7224,7 @@
 ||origunix.com^
 ||orlandowaggons.com^
 ||tj.orlandowaggons.com^
+||ornozxdarol.com^
 ||orquideassp.com^
 ||tags.orquideassp.com^
 ||orraxckivsud.com^
@@ -7859,6 +7878,8 @@
 ||znbfkexqbr8elolwk-redventures.siteintercept.qualtrics.com^
 ||quantcast.com^
 ||cmp.quantcast.com^
+||quantcount.com^
+||rules.quantcount.com^
 ||adc.quantrimang.com^
 ||asc.quantrimang.com^
 ||quantserve.com^
@@ -8081,6 +8102,7 @@
 ||ride8stir.com^
 ||secure.ride8stir.com^
 ||rifjhukaqoh.com^
+||rifkapojq.com^
 ||c.rigelink.com^
 ||rightfulfall.com^
 ||rightfulheadstone.com^
@@ -8544,6 +8566,7 @@
 ||rpc.skcrtxr.com^
 ||skh731.com^
 ||skiddyteapots.com^
+||skiftyra.com^
 ||skimresources.com^
 ||p.skimresources.com^
 ||s.skimresources.com^
@@ -9701,6 +9724,7 @@
 ||vavilisys.com^
 ||eu.vavilisys.com^
 ||click.eu.vavilisys.com^
+||vazticlkivi.com^
 ||vbscgrnkoceya.com^
 ||www.vbscgrnkoceya.com^
 ||vcdc.com^
@@ -10160,6 +10184,7 @@
 ||wurtkoxudcka.com^
 ||wuuhwsaiyyunrbp.com^
 ||wuzbhjpvsf.com^
+||wwaptyzujb.com^
 ||wxvogffbqokyvm.com^
 ||wyhifdpatl.com^
 ||wyimgydwxcy.com^
@@ -10848,6 +10873,9 @@
 ||t.go2.global^
 ||stripchat.global^
 ||syndicatedsearch.goog^
+||adtrafficquality.google^
+||ep1.adtrafficquality.google^
+||ep2.adtrafficquality.google^
 ||67u2gk.gq^
 ||exodus.gr^
 ||axiabanners.exodus.gr^
@@ -15007,11 +15035,13 @@
 ||eelroave.xyz^
 ||eephdgebkrwgw.xyz^
 ||eeptushe.xyz^
+||eesaitsehal.xyz^
 ||egbulccecljxpt.xyz^
 ||eikywgkabgwll.xyz^
 ||ejsgxapv.xyz^
 ||elgmvhpbfvlcd.xyz^
 ||ethecountryw.xyz^
+||ewsobrwghhoc.xyz^
 ||exclusivesearches.xyz^
 ||ezaicmee.xyz^
 ||f1272serve.xyz^
@@ -15672,22 +15702,24 @@ youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('set-con
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.adSlots', 'undefined')
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.playerAds', 'undefined')
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('set-constant', 'playerResponse.adPlacements', 'undefined')
-! For older versions of scriptlet
-! youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-xhr-response', '/\"adPlacements.*?([A-Z]"\}|"\}{2})\}\]\,/', '', '/player\?key=|watch\?v=/')
-! youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-fetch-response', '/(contextParams":"Q0F[A-Z]U.*?)"adPlacements.*?([A-Z]"\}|"\}{2})\}\]\,/', '$1', 'player?key=')
-! youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-fetch-response', '/((?:(?:&|%26)id(?:=|%3D)o-A[A-Z]|yt_live_broadcast).*?)"adPlacements.*?([A-Z]"\}|"\}{2})\}\]\,/', '$1', 'player?key=')
-youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-prune-xhr-response', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/playlist\?list=|\/player(?!.*(get_drm_license))|watch\?[tv]=|get_watch\?/')
-youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-prune-fetch-response', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/playlist\?list=|player\?|watch\?[tv]=|get_watch\?/')
-youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#(()=>{const t={apply:(t,e,n)=>{const o=Reflect.apply(t,e,n);try{o instanceof HTMLIFrameElement&&"about:blank"===o.src&&o.contentWindow&&(o.contentWindow.fetch=window.fetch)}catch(t){}return o}};Node.prototype.appendChild=new Proxy(Node.prototype.appendChild,t)})();
+youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-prune', 'playerResponse.adPlacements playerResponse.adSlots', 'playerResponse.streamingData.serverAbrStreamingUrl')
+! For older versions of scriptlet (Extension v4.1.57 / Scriptlets v1.9.7)
+youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-xhr-response', '/\"adPlacements.*?([A-Z]"\}|"\}{2})\}\]\,/', '', '/playlist\?list=|\/player(?!.*(get_drm_license))|watch\?[tv]=|get_watch\?/')
+youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-fetch-response', '/(contextParams":"Q0F[A-Z]U.*?)"adPlacements.*?([A-Z]"\}|"\}{2})\}\]\,/', '$1', '/playlist\?list=|player\?|watch\?[tv]=|get_watch\?/')
+youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-fetch-response', '/((?:(?:&|%26)id(?:=|%3D)o-A[A-Z]|yt_live_broadcast).*?)"adPlacements.*?([A-Z]"\}|"\}{2})\}\]\,/', '$1', '/playlist\?list=|player\?|watch\?[tv]=|get_watch\?/')
+! For newer versions of scriptlet (Scriptlets v1.10.25 and newer)
+! youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-xhr-response', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/playlist\?list=|\/player(?!.*(get_drm_license))|watch\?[tv]=|get_watch\?/')
+! youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-fetch-response', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/playlist\?list=|player\?|watch\?[tv]=|get_watch\?/')
+www.youtube.com#%#(()=>{const e={apply:(e,t,n)=>{const o=Reflect.apply(e,t,n);try{o instanceof HTMLIFrameElement&&"about:blank"===o.src&&o.contentWindow&&(o.contentWindow.fetch=window.fetch,o.contentWindow.Request=window.Request)}catch(e){}return o}};Node.prototype.appendChild=new Proxy(Node.prototype.appendChild,e)})();
+m.youtube.com,youtubekids.com,youtube-nocookie.com#%#//scriptlet('json-prune', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots')
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-prune', 'contents.sectionListRenderer.contents.0', 'contents.sectionListRenderer.contents.0.itemSectionRenderer.contents.0.adSlotRenderer')
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-prune', 'contents.sectionListRenderer.contents.1', 'contents.sectionListRenderer.contents.1.itemSectionRenderer.contents.0.adSlotRenderer')
-youtube.com,youtubekids.com,youtube-nocookie.com#%#//scriptlet('json-prune', 'adBreakHeartbeatParams')
-m.youtube.com,youtubekids.com,youtube-nocookie.com#%#//scriptlet('json-prune', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots')
 ||googlevideo.com/initplayback?source=youtube&*&c=TVHTML5&oad=$xmlhttprequest,domain=youtube.com
 [$path=/tv]youtube.com#%#//scriptlet('json-prune', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/https:\/\/www\.youtube\.com\/s\/player\/.*\/tv-player-ias\.vflset\/tv-player-ias\.js:/')
 www.youtube.com#%#//scriptlet('adjust-setTimeout', '[native code]', '17000', '0.001')
 www.youtube.com#%#(()=>{let t=document.location.href,e=[],n=[],o="",r=!1;const i=Array.prototype.push,a={apply:(t,o,a)=>(window.yt?.config_?.EXPERIMENT_FLAGS?.html5_enable_ssap_entity_id&&a[0]&&a[0]!==window&&"number"==typeof a[0].start&&a[0].end&&"ssap"===a[0].namespace&&a[0].id&&(r||0!==a[0]?.start||n.includes(a[0].id)||(e.length=0,n.length=0,r=!0,i.call(e,a[0]),i.call(n,a[0].id)),r&&0!==a[0]?.start&&!n.includes(a[0].id)&&(i.call(e,a[0]),i.call(n,a[0].id))),Reflect.apply(t,o,a))};window.Array.prototype.push=new Proxy(window.Array.prototype.push,a),document.addEventListener("DOMContentLoaded",(function(){if(!window.yt?.config_?.EXPERIMENT_FLAGS?.html5_enable_ssap_entity_id)return;const i=()=>{const t=document.querySelector("video");if(t&&e.length){const i=Math.round(t.duration),a=Math.round(e.at(-1).end/1e3),c=n.join(",");if(!1===t.loop&&o!==c&&i&&i===a){const n=e.at(-1).start/1e3;t.currentTime<n&&(t.currentTime=n,r=!1,o=c)}else if(!0===t.loop&&i&&i===a){const n=e.at(-1).start/1e3;t.currentTime<n&&(t.currentTime=n,r=!1,o=c)}}};i();new MutationObserver((()=>{t!==document.location.href&&(t=document.location.href,e.length=0,n.length=0,r=!1),i()})).observe(document,{childList:!0,subtree:!0})}))})();
 www.youtube.com#%#(()=>{window.JSON.parse=new Proxy(JSON.parse,{apply(r,e,t){const n=Reflect.apply(r,e,t);if(!location.pathname.startsWith("/shorts/"))return n;const a=n?.entries;return a&&Array.isArray(a)&&(n.entries=n.entries.filter((r=>{if(!r?.command?.reelWatchEndpoint?.adClientParams?.isAd)return r}))),n}});})();
+youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-prune', 'adBreakHeartbeatParams playbackTracking responseContext.serviceTrackingParams videoQualityPromoSupportedRenderers')
 ||youtube.com/get_video_info?*=adunit
 @@||youtube.com/get_video_info*&el=editpage
 @@||youtube.com/get_video_info?*embedded$~third-party,other
@@ -15810,6 +15842,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||mail.yahoo.com/comscore_beacon/
 ||mail.yahoo.com/d/
 ||mail.yahoo.com/desktop_sw.js
+||mediafire.com/cdn-cgi/rum?
 ||msadsscale.azureedge.net/bingads/telemetryJS.js
 ||myreadingmanga.info/load.*
 ||myreadingmanga.info/vjs/
@@ -16047,7 +16080,7 @@ mega.nz##.commercial-wrapper#commercial-wrapper-webfilinkb
 metruyencv.com##div#js-read__body ~ div[class="mt-3"]
 mixdrop.to,mixdrop.co##body > div[class][style^="position:absolute;"][style*=";width: 100%;height: 100%;z-index:"],div[style^="position:absolute;"][style*="z-index:"][onclick]
 msn.com###displayAdCard,.me-stripe,display-ads,above-river-block,views-native-ad,cs-native-ad-card,cs-native-ad-card-intra-article-left-image,[data-ad-index],[class$="intra-ad"]
-myreadingmanga.info##.imgtop,.top_page:has(> ins[data-zoneid]),center,div[style]:has(> ins[data-zoneid]),div[style]:has(a > img[width][height]),[class*="th_post"].widget-area
+myreadingmanga.info##.imgtop,.top_p:has(> ins[data-zoneid]),.top_page:has(> ins[data-zoneid]),center,div[style]:has(> ins[data-zoneid]),div[style]:has(a > img[width][height]),[class*="th_post"].widget-area
 pixiv.net##iframe:not([title*="reCAPTCHA"])
 poipiku.com##[class$="SideBarAd" i]
 pornhub.com##.ad-link,.adContainer,.adContainer,.pb_template,.premiumAdvertWrapper,.premiumPromoBannerWrapper,.removeAdLink,.sniperModeEngaged,.topAdContainter
