@@ -226,6 +226,8 @@
 0.0.0.0 sexvip.cam
 0.0.0.0 soogandrooped.cam
 0.0.0.0 ulcerstopers.cam
+0.0.0.0 blogtienao.care
+0.0.0.0 bs_bc4ec2e8.blogtienao.care
 0.0.0.0 beenmeekwarmth.casa
 0.0.0.0 bepiletussar.casa
 0.0.0.0 blenkbenched.casa
@@ -523,8 +525,11 @@
 0.0.0.0 gotoda.co
 0.0.0.0 sentry.gotoda.co
 0.0.0.0 trochi.gotoda.co
+0.0.0.0 hf.co
+0.0.0.0 cdn-lfs-us-1.hf.co
 0.0.0.0 hu-manity.co
 0.0.0.0 cdn.hu-manity.co
+0.0.0.0 dd.huggingface.co
 0.0.0.0 invol.co
 0.0.0.0 ipdata.co
 0.0.0.0 api.ipdata.co
@@ -1594,6 +1599,7 @@
 0.0.0.0 academyenrage.com
 0.0.0.0 accahurkaru.com
 0.0.0.0 eq.accahurkaru.com
+0.0.0.0 accanfkinrt.com
 0.0.0.0 acdcdn.com
 0.0.0.0 acdcmarimo.com
 0.0.0.0 acelitchi.com
@@ -1980,6 +1986,7 @@
 0.0.0.0 wp8q3hdhdz-3.algolianet.com
 0.0.0.0 alia-iso.com
 0.0.0.0 tdum.alibaba.com
+0.0.0.0 6n7cv2.tdum.alibaba.com
 0.0.0.0 bqtwlp.tdum.alibaba.com
 0.0.0.0 bwwei3.tdum.alibaba.com
 0.0.0.0 fqwp9u.tdum.alibaba.com
@@ -1995,10 +2002,17 @@
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 de-wum.aliexpress.com
 0.0.0.0 wp.aliexpress.com
+0.0.0.0 collect.alipay.com
+0.0.0.0 ur.alipay.com
 0.0.0.0 acjs.aliyun.com
 0.0.0.0 intl.aliyun.com
 0.0.0.0 promotion.aliyun.com
 0.0.0.0 yunzhi.aliyun.com
+0.0.0.0 log.aliyuncs.com
+0.0.0.0 ap-southeast-1.log.aliyuncs.com
+0.0.0.0 fe-log-prod.ap-southeast-1.log.aliyuncs.com
+0.0.0.0 oss-accelerate.aliyuncs.com
+0.0.0.0 xux-web-config.oss-accelerate.aliyuncs.com
 0.0.0.0 storageinstance.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0 alkavqcciag.com
 0.0.0.0 all-ti-cod.com
@@ -2116,6 +2130,7 @@
 0.0.0.0 andriasmaximus.com
 0.0.0.0 andromedae-b.com
 0.0.0.0 cdn.andromedae-b.com
+0.0.0.0 angularpoppyrobbing.com
 0.0.0.0 animeplaynow.com
 0.0.0.0 aniview.com
 0.0.0.0 tg1.aniview.com
@@ -2337,6 +2352,7 @@
 0.0.0.0 random-affiliate.atimaze.com
 0.0.0.0 atjigglypuffor.com
 0.0.0.0 cdn.atlassbx.com
+0.0.0.0 atrafnopca.com
 0.0.0.0 atsptp.com
 0.0.0.0 atlas.atsptp.com
 0.0.0.0 attarbesets.com
@@ -2403,6 +2419,9 @@
 0.0.0.0 awfulcelebration.com
 0.0.0.0 awljfawar.com
 0.0.0.0 awodrozu.com
+0.0.0.0 sdk.awswaf.com
+0.0.0.0 edge.sdk.awswaf.com
+0.0.0.0 de5282c3ca0c.edge.sdk.awswaf.com
 0.0.0.0 4d3ac055.us-east-1.token.awswaf.com
 0.0.0.0 45c2fc2a2095.4d3ac055.us-east-1.token.awswaf.com
 0.0.0.0 de5cd2e4.us-east-1.token.awswaf.com
@@ -2488,15 +2507,19 @@
 0.0.0.0 baconbedside.com
 0.0.0.0 badgegirdle.com
 0.0.0.0 als.baidu.com
+0.0.0.0 banti.baidu.com
 0.0.0.0 dlswbr.baidu.com
 0.0.0.0 eclick.baidu.com
+0.0.0.0 fclog.baidu.com
 0.0.0.0 fxgate.baidu.com
 0.0.0.0 hm.baidu.com
+0.0.0.0 miaowu.baidu.com
 0.0.0.0 nsclick.baidu.com
 0.0.0.0 pos.baidu.com
 0.0.0.0 sp0.baidu.com
 0.0.0.0 tbmsg.baidu.com
 0.0.0.0 unionsug.baidu.com
+0.0.0.0 xlab.baidu.com
 0.0.0.0 cpro.baidustatic.com
 0.0.0.0 bakosgorkot.com
 0.0.0.0 balvalur.com
@@ -2563,7 +2586,9 @@
 0.0.0.0 bcbdmioguqrv.com
 0.0.0.0 bcd8072b72.com
 0.0.0.0 27cac6453c.bcd8072b72.com
+0.0.0.0 banti-static.cdn.bcebos.com
 0.0.0.0 fanyi-cdn.cdn.bcebos.com
+0.0.0.0 hercules.cdn.bcebos.com
 0.0.0.0 internal-amis-res.cdn.bcebos.com
 0.0.0.0 mediago-static.cdn.bcebos.com
 0.0.0.0 ppui-static-pc.cdn.bcebos.com
@@ -3353,7 +3378,9 @@
 0.0.0.0 b.cn846.com
 0.0.0.0 cndeccsqtmjyh.com
 0.0.0.0 www.cndeccsqtmjyh.com
+0.0.0.0 cnetstatic.com
 0.0.0.0 bender.cnetstatic.com
+0.0.0.0 irb.cnetstatic.com
 0.0.0.0 cnevids.com
 0.0.0.0 player.cnevids.com
 0.0.0.0 cnfccdxhggrz.com
@@ -3477,6 +3504,8 @@
 0.0.0.0 chs03.cookie-script.com
 0.0.0.0 geo.cookie-script.com
 0.0.0.0 consent.cookiebot.com
+0.0.0.0 cookiefirst.com
+0.0.0.0 consent.cookiefirst.com
 0.0.0.0 cookieinfoscript.com
 0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 cookieyes.com
@@ -3609,6 +3638,7 @@
 0.0.0.0 cutbr.com
 0.0.0.0 cutenesscdn.com
 0.0.0.0 img.cutenesscdn.com
+0.0.0.0 cuwmurbpabc.com
 0.0.0.0 cuzrkugucdu.com
 0.0.0.0 cv-static.com
 0.0.0.0 e1.cv-static.com
@@ -3827,6 +3857,7 @@
 0.0.0.0 dgxmvglp.com
 0.0.0.0 www.dgxmvglp.com
 0.0.0.0 dhepuldufahr.com
+0.0.0.0 dheqzygafg.com
 0.0.0.0 diagramjawlineunhappy.com
 0.0.0.0 dianomi.com
 0.0.0.0 data.dianomi.com
@@ -4699,6 +4730,7 @@
 0.0.0.0 frsonnerie.com
 0.0.0.0 frspecifics.com
 0.0.0.0 collector-api.frspecifics.com
+0.0.0.0 frugalfiestas.com
 0.0.0.0 frutrun.com
 0.0.0.0 fruvumoxw.com
 0.0.0.0 fruzrotula.com
@@ -4712,6 +4744,8 @@
 0.0.0.0 edge.fullstory.com
 0.0.0.0 rs.fullstory.com
 0.0.0.0 fullypoignantcave.com
+0.0.0.0 fumeuseaudibly.com
+0.0.0.0 ip.fumeuseaudibly.com
 0.0.0.0 fumrafdwaapp.com
 0.0.0.0 fun6668.com
 0.0.0.0 www.fun6668.com
@@ -4762,6 +4796,8 @@
 0.0.0.0 gagpetwet.com
 0.0.0.0 gainrock.com
 0.0.0.0 gakamlsu.com
+0.0.0.0 galaksion.com
+0.0.0.0 static.galaksion.com
 0.0.0.0 galanasorra.com
 0.0.0.0 galaxypush.com
 0.0.0.0 xml.galaxypush.com
@@ -5313,6 +5349,7 @@
 0.0.0.0 highwebmedia.com
 0.0.0.0 stream.highwebmedia.com
 0.0.0.0 roomimg.stream.highwebmedia.com
+0.0.0.0 hikbzyfwomky.com
 0.0.0.0 himpleased.com
 0.0.0.0 hinaxrckuolr.com
 0.0.0.0 www.hindismsfun.com
@@ -5363,6 +5400,7 @@
 0.0.0.0 hornsbundlebetter.com
 0.0.0.0 hostedprebid.com
 0.0.0.0 1086.hostedprebid.com
+0.0.0.0 frontend-event-api.hostinger.com
 0.0.0.0 hotboysnearby.com
 0.0.0.0 addxl.hotboysnearby.com
 0.0.0.0 hotcoin.com
@@ -5372,6 +5410,8 @@
 0.0.0.0 static.hotjar.com
 0.0.0.0 hotmuziko.com
 0.0.0.0 houndxads.com
+0.0.0.0 housycimelia.com
+0.0.0.0 fi.housycimelia.com
 0.0.0.0 howledmintier.com
 0.0.0.0 howoverlapsuspicious.com
 0.0.0.0 log-upload-os.hoyolab.com
@@ -5831,6 +5871,7 @@
 0.0.0.0 itsup.com
 0.0.0.0 cdn.itsup.com
 0.0.0.0 dat.itsup.com
+0.0.0.0 itvalleynews.com
 0.0.0.0 itweepinbelltor.com
 0.0.0.0 iubenda.com
 0.0.0.0 cdn.iubenda.com
@@ -6200,6 +6241,9 @@
 0.0.0.0 latinwayy.com
 0.0.0.0 latoken.com
 0.0.0.0 laudulut.com
+0.0.0.0 launchdarkly.com
+0.0.0.0 app.launchdarkly.com
+0.0.0.0 clientstream.launchdarkly.com
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 launchingonsetwhirlwind.com
 0.0.0.0 laurieinevitablyhistorian.com
@@ -6304,6 +6348,8 @@
 0.0.0.0 liplow.com
 0.0.0.0 lipqkoxzy.com
 0.0.0.0 liquorsref.com
+0.0.0.0 lirdawkin.com
+0.0.0.0 sa.lirdawkin.com
 0.0.0.0 literallisten.com
 0.0.0.0 littlecdn.com
 0.0.0.0 ipp.littlecdn.com
@@ -6444,6 +6490,8 @@
 0.0.0.0 magsrv.com
 0.0.0.0 a.magsrv.com
 0.0.0.0 s.magsrv.com
+0.0.0.0 maiabarkan.com
+0.0.0.0 zu.maiabarkan.com
 0.0.0.0 mailwithcash.com
 0.0.0.0 mainapiary.com
 0.0.0.0 mainscriptduck.com
@@ -7108,6 +7156,7 @@
 0.0.0.0 cdn1-images.nutaku.com
 0.0.0.0 nutattorneyjack.com
 0.0.0.0 nutsmargaret.com
+0.0.0.0 nwabcuwugact.com
 0.0.0.0 nwekmolubon.com
 0.0.0.0 nxt-psh.com
 0.0.0.0 ngjny.nxt-psh.com
@@ -7146,6 +7195,8 @@
 0.0.0.0 occurclaimed.com
 0.0.0.0 occxhidubbh.com
 0.0.0.0 ocdnmq.com
+0.0.0.0 wan-api.oceanbase.com
+0.0.0.0 webapi.oceanbase.com
 0.0.0.0 oclaserver.com
 0.0.0.0 go.oclaserver.com
 0.0.0.0 ocmhood.com
@@ -7209,6 +7260,7 @@
 0.0.0.0 ohtctjiuow.com
 0.0.0.0 ohvcasodlbut.com
 0.0.0.0 ojgozbxurqc.com
+0.0.0.0 ojkfmoackqp.com
 0.0.0.0 ojzfinlhemu.com
 0.0.0.0 okapi999.com
 0.0.0.0 oklstupu.com
@@ -7274,6 +7326,7 @@
 0.0.0.0 onfckepwq.com
 0.0.0.0 www.onfckepwq.com
 0.0.0.0 onionritualjinx.com
+0.0.0.0 onkhwanhuo.com
 0.0.0.0 ads.onlinevideoconverter.com
 0.0.0.0 onmanectrictor.com
 0.0.0.0 onmantineer.com
@@ -7440,6 +7493,7 @@
 0.0.0.0 oxbetd.com
 0.0.0.0 ox1.oxbetd.com
 0.0.0.0 oxtdafetnjuf.com
+0.0.0.0 oxwafbjf.com
 0.0.0.0 oxxtfunzyti.com
 0.0.0.0 ozlofsviborc.com
 0.0.0.0 ozlwhampaofq.com
@@ -7664,6 +7718,8 @@
 0.0.0.0 pnuhondppw.com
 0.0.0.0 poawooptugroo.com
 0.0.0.0 podsolnu9hi10.com
+0.0.0.0 tch.poe.com
+0.0.0.0 tch762624.tch.poe.com
 0.0.0.0 pokalive.com
 0.0.0.0 www.pokalive.com
 0.0.0.0 polarbearyulia.com
@@ -8348,6 +8404,7 @@
 0.0.0.0 rufflebend.com
 0.0.0.0 feb1904.rufflebend.com
 0.0.0.0 rufflycouncil.com
+0.0.0.0 ruklibamj.com
 0.0.0.0 rummletornese.com
 0.0.0.0 tr.rummletornese.com
 0.0.0.0 rumt-zh.com
@@ -9193,6 +9250,8 @@
 0.0.0.0 click.tecdo-ec.com
 0.0.0.0 techiteration.com
 0.0.0.0 www.techiteration.com
+0.0.0.0 technewsworld.com
+0.0.0.0 www.technewsworld.com
 0.0.0.0 sync.technoratimedia.com
 0.0.0.0 tegleebs.com
 0.0.0.0 telephoneinclination.com
@@ -9572,6 +9631,7 @@
 0.0.0.0 tyserving.com
 0.0.0.0 ty.tyserving.com
 0.0.0.0 tzegilo.com
+0.0.0.0 tzirtatakoqf.com
 0.0.0.0 tzpeachcod.com
 0.0.0.0 cs09.tzpeachcod.com
 0.0.0.0 tzujcudmyh.com
@@ -9826,6 +9886,8 @@
 0.0.0.0 mobile.useinsider.com
 0.0.0.0 mobileanalytics.useinsider.com
 0.0.0.0 uselnk.com
+0.0.0.0 useparagon.com
+0.0.0.0 connect.useparagon.com
 0.0.0.0 user-api.com
 0.0.0.0 cdn.user-api.com
 0.0.0.0 tdt2.user-api.com
@@ -10437,6 +10499,7 @@
 0.0.0.0 xlviirdr.com
 0.0.0.0 creative.xlviirdr.com
 0.0.0.0 go.xlviirdr.com
+0.0.0.0 xmectacuv.com
 0.0.0.0 xmesacniqolp.com
 0.0.0.0 xmlwiz.com
 0.0.0.0 xml.xmlwiz.com
@@ -10710,6 +10773,7 @@
 0.0.0.0 zhmzsjvkii.com
 0.0.0.0 zi-scripts.com
 0.0.0.0 js.zi-scripts.com
+0.0.0.0 zidojrol.com
 0.0.0.0 ziffdavis.com
 0.0.0.0 dsar.ziffdavis.com
 0.0.0.0 m.optout.ziffdavis.com
@@ -10867,6 +10931,10 @@
 0.0.0.0 adscx.pages.dev
 0.0.0.0 redarmy.dev
 0.0.0.0 analytics.redarmy.dev
+0.0.0.0 tigris.dev
+0.0.0.0 storage.tigris.dev
+0.0.0.0 fly.storage.tigris.dev
+0.0.0.0 right-pages.fly.storage.tigris.dev
 0.0.0.0 westats.dev
 0.0.0.0 gamurs.workers.dev
 0.0.0.0 infinite-scroll-js-bundle.gamurs.workers.dev
@@ -13310,6 +13378,7 @@
 0.0.0.0 www.ampproject.org
 0.0.0.0 aomedia.org
 0.0.0.0 assetsconfigcdn.org
+0.0.0.0 bestofthewebs.org
 0.0.0.0 beyondwickedmapping.org
 0.0.0.0 bibblio.org
 0.0.0.0 api.bibblio.org
@@ -13666,6 +13735,7 @@
 0.0.0.0 www.woeful-trash.pro
 0.0.0.0 wrontonshatbona.pro
 0.0.0.0 xhms.pro
+0.0.0.0 xi88plus.pro
 0.0.0.0 xo88.pro
 0.0.0.0 zendplace.pro
 0.0.0.0 www.zenfield.pro
@@ -13692,6 +13762,7 @@
 0.0.0.0 xyrydark.pw
 0.0.0.0 ybm.pw
 0.0.0.0 counter.ybm.pw
+0.0.0.0 cloudcomputing.quest
 0.0.0.0 hostingcloud.racing
 0.0.0.0 www.hostingcloud.racing
 0.0.0.0 adsco.re
@@ -13825,7 +13896,11 @@
 0.0.0.0 beltsingey.shop
 0.0.0.0 bicronglagah.shop
 0.0.0.0 wz.bicronglagah.shop
+0.0.0.0 bowlingjumbie.shop
 0.0.0.0 bumpkinclon.shop
+0.0.0.0 cartfly.shop
+0.0.0.0 colleeniambi.shop
+0.0.0.0 eh.colleeniambi.shop
 0.0.0.0 deliriamorula.shop
 0.0.0.0 etypicthawier.shop
 0.0.0.0 bt.etypicthawier.shop
@@ -13835,6 +13910,7 @@
 0.0.0.0 izleskulked.shop
 0.0.0.0 knevelfamily.shop
 0.0.0.0 lidosquey.shop
+0.0.0.0 lordedgeelbec.shop
 0.0.0.0 nikkounring.shop
 0.0.0.0 ocypetediplont.shop
 0.0.0.0 odallerdosser.shop
@@ -13846,13 +13922,16 @@
 0.0.0.0 roscianwaltron.shop
 0.0.0.0 saimiripullman.shop
 0.0.0.0 secundpopulus.shop
+0.0.0.0 stockeddopiest.shop
 0.0.0.0 tazeeabroose.shop
 0.0.0.0 tenseberain.shop
 0.0.0.0 trionyminglut.shop
 0.0.0.0 vuabet88.shop
 0.0.0.0 windsuredine.shop
 0.0.0.0 kx.windsuredine.shop
+0.0.0.0 xylidichiatus.shop
 0.0.0.0 yanquisorigan.shop
+0.0.0.0 yockingdey.shop
 0.0.0.0 zerodeltanode.shop
 0.0.0.0 as7.zerodeltanode.shop
 0.0.0.0 zetrax.shop
@@ -14127,6 +14206,7 @@
 0.0.0.0 bqmr.bkzwzweeavewz.top
 0.0.0.0 bkzwzweeavmbr.top
 0.0.0.0 bqmr.bkzwzweeavmbr.top
+0.0.0.0 blazedizafat.top
 0.0.0.0 bljyynzkzkyrv.top
 0.0.0.0 blushtrek.top
 0.0.0.0 m.blushtrek.top
@@ -14210,6 +14290,8 @@
 0.0.0.0 eqmm.emkyrzrnknmzj.top
 0.0.0.0 emkyrzrnknnyv.top
 0.0.0.0 eqmm.emkyrzrnknnyv.top
+0.0.0.0 emotivejinx.top
+0.0.0.0 yt.emotivejinx.top
 0.0.0.0 emporyproved.top
 0.0.0.0 emzlbqqmkbazl.top
 0.0.0.0 elbw.emzlbqqmkbazl.top
@@ -14363,6 +14445,8 @@
 0.0.0.0 kakj.krbqynmlerbzr.top
 0.0.0.0 krvemwbkazqjl.top
 0.0.0.0 kayb.krvemwbkazqjl.top
+0.0.0.0 laetictinhorn.top
+0.0.0.0 qd.laetictinhorn.top
 0.0.0.0 latkelotong.top
 0.0.0.0 lentoidreboast.top
 0.0.0.0 lilacingoose.top
@@ -15632,6 +15716,7 @@
 0.0.0.0 ttduorkwjrurqnt.xyz
 0.0.0.0 ttkugfpcciqej.xyz
 0.0.0.0 turdauch.xyz
+0.0.0.0 tvfeypdpmablt.xyz
 0.0.0.0 tviaxbdpdepfnji.xyz
 0.0.0.0 uaulqccqu.xyz
 0.0.0.0 ucelbyxnfv.xyz
