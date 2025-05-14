@@ -937,6 +937,7 @@
 ||e04dbd6f50.3128e920ab.com^
 ||32abd54344.com^
 ||f6d49ce515.32abd54344.com^
+||32kuwin.com^
 ||32win12.com^
 ||www.32win12.com^
 ||3397afa9b2.com^
@@ -1771,6 +1772,7 @@
 ||cdn.adnxs.com^
 ||ib.adnxs.com^
 ||m.adnxs.com^
+||msft-ssp-apac.adnxs.com^
 ||nym1-ib.adnxs.com^
 ||prebid.adnxs.com^
 ||secure.adnxs.com^
@@ -1785,6 +1787,7 @@
 ||adoptexplorationanguish.com^
 ||adotmob.com^
 ||sync.adotmob.com^
+||adpbmaad.com^
 ||adpnut.com^
 ||media.adpnut.com^
 ||adpointrtb.com^
@@ -2389,6 +2392,7 @@
 ||ak.arwobaton.com^
 ||arzanphearse.com^
 ||asacdn.com^
+||asbfala.com^
 ||asccdn.com^
 ||ascentmatrimonypistol.com^
 ||asewlfjqwlflkew.com^
@@ -2470,6 +2474,7 @@
 ||avplayer.com^
 ||player.avplayer.com^
 ||www.avplayer.com^
+||avvodmjpabin.com^
 ||awarecatching.com^
 ||aweber.com^
 ||auth.aweber.com^
@@ -4039,6 +4044,8 @@
 ||districtprovocativeforceful.com^
 ||divisiondrearilyunfiled.com^
 ||divorceseed.com^
+||djpcraze.com^
+||www.djpcraze.com^
 ||dk6i3trk.com^
 ||www.dk6i3trk.com^
 ||dk802.com^
@@ -4196,6 +4203,7 @@
 ||durablesites.com^
 ||agency1872126.durablesites.com^
 ||dusunkerntor.com^
+||duubrr.com^
 ||dvokgydenwaksi.com^
 ||www.dvokgydenwaksi.com^
 ||dvoyy3qexr.com^
@@ -5031,6 +5039,7 @@
 ||gl.genmonet.com^
 ||geodaljoyless.com^
 ||germanexpecting.com^
+||get-poliglu.com^
 ||get2m5sgstohne.com^
 ||getadmiral.com^
 ||images.getadmiral.com^
@@ -5384,6 +5393,7 @@
 ||www.hb88a.com^
 ||hbplatform.com^
 ||cdn.hbplatform.com^
+||hcevuzobtkit.com^
 ||hd100546b.com^
 ||hd100546c.com^
 ||tracking.hdpreview.com^
@@ -5550,6 +5560,7 @@
 ||hoickpinyons.com^
 ||holahupa.com^
 ||hollercatastrophe.com^
+||homyko.com^
 ||honestlyvicinityscene.com^
 ||honorableland.com^
 ||hooliredir.com^
@@ -6632,6 +6643,7 @@
 ||www.ltnvnvxzetvhk.com^
 ||ltziyuyjoq.com^
 ||www.ltziyuyjoq.com^
+||lucgryxiw.com^
 ||lucidlydiscretion.com^
 ||lucky88.com^
 ||lucyfeed.com^
@@ -7486,6 +7498,7 @@
 ||ohkojloxdtw.com^
 ||ohssriduxan.com^
 ||ohtctjiuow.com^
+||ohtqmamilan.com^
 ||ohvcasodlbut.com^
 ||ojgozbxurqc.com^
 ||ojkfmoackqp.com^
@@ -7645,6 +7658,7 @@
 ||a.orbsrv.com^
 ||s.orbsrv.com^
 ||orcpfawzuvfe.com^
+||orhotjoqv.com^
 ||originhermichermicpros.com^
 ||origunix.com^
 ||orlandowaggons.com^
@@ -7744,6 +7758,7 @@
 ||oxtdafetnjuf.com^
 ||oxwafbjf.com^
 ||oxxtfunzyti.com^
+||ozbluzkfut.com^
 ||ozlofsviborc.com^
 ||ozlwhampaofq.com^
 ||ozqowxogrolq.com^
@@ -8143,6 +8158,7 @@
 ||pt-static2.ptlwmstc.com^
 ||pt-static3.ptlwmstc.com^
 ||ptoopain.com^
+||ptuzrywmega.com^
 ||ptv352.com^
 ||ptxhzp.com^
 ||pubfuture.com^
@@ -8269,6 +8285,7 @@
 ||qidnujocmf.com^
 ||qifwpepixziv.com^
 ||qifzadoshb.com^
+||qiptamcupl.com^
 ||qiyukf.com^
 ||dag.qiyukf.com^
 ||qkppbcrtwetdj.com^
@@ -8761,6 +8778,7 @@
 ||api.salesmartly.com^
 ||assets.salesmartly.com^
 ||msg.salesmartly.com^
+||plugin-code.salesmartly.com^
 ||saletrackpro.com^
 ||saltateblit.com^
 ||salutationcheerlessdemote.com^
@@ -10802,6 +10820,7 @@
 ||xdownloadright.com^
 ||xdvsijtlhr.com^
 ||www.xdvsijtlhr.com^
+||xdxst.com^
 ||cloudmetrics.xenforo.com^
 ||xg4ken.com^
 ||resources.xg4ken.com^
@@ -11152,6 +11171,7 @@
 ||zivadstceasz.com^
 ||zkmkuphtemb.com^
 ||www.zkmkuphtemb.com^
+||zkubkacp.com^
 ||zkyrzoqc.com^
 ||www.zkyrzoqc.com^
 ||zlinkb.com^
@@ -11205,6 +11225,8 @@
 ||aurawebcams.cyou^
 ||bin898293.cyou^
 ||media.bin898293.cyou^
+||bncloudfl.cyou^
+||cdn.bncloudfl.cyou^
 ||n2l565.cyou^
 ||xtraffic.cyou^
 ||www.xtraffic.cyou^
@@ -12734,6 +12756,7 @@
 ||d2ldlvi1yef00y.cloudfront.net^
 ||d2moydbgomla28.cloudfront.net^
 ||d2oa97wrxvxm7y.cloudfront.net^
+||d2ob6t3bgjo11t.cloudfront.net^
 ||d2p078bqz5urf7.cloudfront.net^
 ||d2p83y3613o6wd.cloudfront.net^
 ||d2r0r6o563ptl1.cloudfront.net^
@@ -13517,6 +13540,7 @@
 ||lgp.thench.net^
 ||stab.thench.net^
 ||thongivi.net^
+||thoukouxou.net^
 ||titeecmaignauz.net^
 ||tiwhaiph.net^
 ||toonoost.net^
@@ -13815,6 +13839,7 @@
 ||ampproject.org^
 ||cdn.ampproject.org^
 ||www.ampproject.org^
+||anothingfruit.org^
 ||aomedia.org^
 ||assetsconfigcdn.org^
 ||bestofthewebs.org^
@@ -13888,6 +13913,7 @@
 ||cdn.moneyoyo.org^
 ||l.moneyoyo.org^
 ||mpraven.org^
+||ntoftheusysia.org^
 ||onlinehentai.org^
 ||otdev.org^
 ||dev.otdev.org^
@@ -14053,6 +14079,7 @@
 ||clcknads.pro^
 ||ca.clcknads.pro^
 ||clknrtrg.pro^
+||coinn.pro^
 ||collaborator.pro^
 ||da88.pro^
 ||static.da88.pro^
@@ -16087,6 +16114,7 @@
 ||mpapis.xyz^
 ||ax.mpapis.xyz^
 ||dc.mpapis.xyz^
+||mqcdshewgb.xyz^
 ||msdugbbndu.xyz^
 ||mswkrdbc.xyz^
 ||muxhtgjwlei.xyz^
@@ -16219,6 +16247,7 @@
 ||mq.skq3wosjd.xyz^
 ||slhlfiqwekk.xyz^
 ||srsihavelearn.xyz^
+||ssfuqxdnhqi.xyz^
 ||staeqien.xyz^
 ||stethuth.xyz^
 ||sthayukshjv.xyz^
@@ -16258,6 +16287,7 @@
 ||uloaludu.xyz^
 ||uovmejkplcojm.xyz^
 ||url07.xyz^
+||url08.xyz^
 ||urqepqwqnr.xyz^
 ||utcjptmsgga.xyz^
 ||utdhcgbovqdp.xyz^
@@ -16657,6 +16687,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||api.github.com/_private/browser/stats
 ||api.redgifs.com/v2/ads/slots
 ||api.x.com/1.1/jot/
+||apkmody.com/*/admanager.js
 ||aplus.qwen.ai/aes.1.1
 ||aplus.qwen.ai/v.gif
 ||arms-retcode.aliyuncs.com/r.png
@@ -16780,6 +16811,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||poe.com/api/gql_POST
 ||poe.com/api/ping
 ||poe.com/api/receive_POST
+||pornhub.com/_xa/ads*
 ||quora.com/ajax/receive_POST
 ||quoracdn.net^$domain=mupnungvl.pro,third-party
 ||s.yimg.com/aaq/
@@ -16869,6 +16901,7 @@ dualeotruyenm.com#%#//scriptlet('set-constant', 'loadTags', 'noopFunc')
 fullboys.com,rimsgay.com#%#//scriptlet('prevent-element-src-loading', 'script' ,'adsbygoogle')
 fullboys.com,rimsgay.com#%#//scriptlet('set-constant', 'countdownhomeebook5', 'noopFunc')
 fullboys.com,rimsgay.com#%#//scriptlet('set-constant', 'numberhomeebook5', '0')
+hentaivnx.com#%#//scriptlet('prevent-addEventListener', 'click', '__popupunder1_lastRun')
 hitomi.la#%#//scriptlet('prevent-addEventListener', 'click', 'popMagic')
 hitomi.la#%#//scriptlet('set-constant', 'X', 'emptyArr')
 idoitmyself.xyz,listvpn.net#%#//scriptlet('prevent-addEventListener', 'contextmenu')
@@ -16901,6 +16934,7 @@ amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au
 animet.net#%#Object.defineProperties(window,{devtoolsDetector:{value:void 0,writable:!1},DisableDevtool:{value:void 0,writable:!1},popUp_17:{value:function(){},writable:!1},preloadBanner:{value:function(){},writable:!1},onkeydown:{value:void 0,writable:!1}}),Object.defineProperty(document,"onkeydown",{value:void 0,writable:!1});
 anonyviet.com#%#Object.defineProperties(window,{adblock_validURL:{value:void 0,writable:!1},adsClasses:{value:void 0,writable:!1},chp_adblock_browser:{value:void 0,writable:!1},reqServers:{value:void 0,writable:!1}});
 apkmirror.com#%#Math.floor=void 0,Object.defineProperties(window,{APKMez:{value:void 0,writable:!1},ezstandalone:{value:void 0,writable:!1},googlefc:{value:void 0,writable:!1},tabadcode:{value:void 0,writable:!1}});
+apkmody.com#%#Object.defineProperties(window,{isAdBot:{value:function(){return!1},writable:!1},handleDownloadLink:{value:function(){},writable:!1}}),window.addEventListener("DOMContentLoaded",(function(){var e=document.getElementById("download-loading");null!=e&&(e.style.display="none"),null!=(e=document.getElementById("download-button"))&&(e.style.display="block",e.href=atob(e.dataset.href)),null!=(e=document.getElementById("download-button-text"))&&(e.style.display="block")}));
 appvn.com#%#Math.floor=void 0,setTimeout=void 0,window.addEventListener("load",function(){adcashMacros=void 0;var o=document.querySelector("#info");null!=o&&(o.style.display="block")});
 beautifier.io#%#document.cookie="tabsize=1",document.cookie="keep-array-indentation=off",document.cookie="break-chained-methods=off",document.cookie="unescape-strings=off",document.cookie="jslint-happy=off",document.cookie="end-with-newline=off",document.cookie="wrap-line-length=0",document.cookie="indent-scripts=normal",document.cookie="additional-options={}",document.cookie="indent-inner-html=off",document.cookie="comma-first=off",document.cookie="e4x=off",document.cookie="indent-empty-lines=off",document.cookie="max-preserve-newlines=-1",document.cookie="brace-style=end-expand",document.cookie="space-before-conditional=off",document.cookie="detect-packers=off";
 boyfriend.tv,boyfriendtv.com#%#Object.defineProperties(window,{adblock:{value:void 0},adInterval:{value:void 0},allowurl:{value:void 0}}),window._Userdata={},Object.defineProperties(_Userdata,{id:{value:1,writable:!0},noAds:{value:1},isAmateur:{value:1},isPaying:{value:1},keyboardNavigation:{value:!0}}),Object.defineProperty(self,"Userdata",{configurable:!1,set:function(e){this._Userdata.id=e.id},get:function(){return this._Userdata}}),window.addEventListener("DOMContentLoaded",(function(){var e=document.querySelector(".zeroTable");null!=e&&e.remove()})),window.addEventListener("load",(function(){var l=document.querySelectorAll("li.js-pop");l.forEach((e=>{e.classList.remove("js-pop")})),null!=(l=document.getElementById("maincolumn2"))&&l.classList.remove("has-right-ads","js-no-ads"),null!=(l=document.getElementById("rightside2"))&&l.remove(),null!=(l=document.querySelector("a.new-videoplayer-overlay"))&&l.remove(),null!=(l=document.getElementById("video"))&&"none"==e.style.display&&(l.style.display=""),"undefined"!=typeof player&&(player.options.prerollAd.enabled=!1,player.options.prerollAd.vastURL=void 0,player.optionsDefault.prerollAd.enabled=!1,player.optionsDefault.prerollAd.vastURL=void 0,localStorage.setItem("html5PlayerVolume",0),localStorage.setItem("html5PlayerVolumeMuted",!0))}));
@@ -16975,7 +17009,8 @@ anime3s.com,anime6.site##div.jw-logo
 animet.net###inx-content,#inx-overlay,.gnarty-offads,.gnartyx-offads
 animevietsub.art,animevietsub.lol,animevietsub.tv##.ad-center-header,.Ads,.Adv,.Dvr-300,.home_ads,div[class^="ads-"]
 apkmirror.com###appmanager_sppostswidget-2,#bottom-slider,.OUTBRAIN,.ai-track,.pushbullet-subscribe-widget,[class*="outbrain_ad" i],[id*="ai_widget" i]
-apkpure.com###policy-info,.chrome-install-pop,.js-ad-slot,.withdraw-entrance-fancy-wrap
+apkmody.com##div[id^="ad-unit"]
+apkpure.com###policy-info,.chrome-install-pop,.download-vip-subscribe-wrap,.js-ad-slot,.withdraw-entrance-fancy-wrap
 baidu.com###branding_ads,#web-right-view,.ad-multi-tips,.ad-platform-tips,.cps_wrap,.j_click_stats,.video-ad-creative-card
 bilibili.com###activity_vote,#bannerAd,#live_recommand_report,#slide_ad,.ad-floor-exp,.ad-report,.pop-live-small-mode,.right-bottom-banner,.video-page-game-card-small,.video-page-special-card-small,[href*="cm.bilibili.com"],div.activity-m-v1
 bing.com###adstop_gradiant_separator,.b_spa_adblock,.ins_exp.vsp,.rewards_promo_acf,.vsp_ads_c,div#b_pole,div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,li.b_ans[data-partnertag],ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"],ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_results > li.b_algo:has(div.b_attribution[data-partnertag])
@@ -16989,6 +17024,7 @@ fullboys.com,rimsgay.com###adfix,#bbdrl,#boxb,.video-ad
 genius.com##div[data-exclude-from-selection="true"],iframe[class^="AppleMusicPlayer"],[class^="DfpAd" i],[class^="InreadContainer__" i],[class^="LeaderboardOrMarquee" i],[class^="RightSidebar__" i],[class^="SectionLeaderboard__" i]
 gpt4o.so##.block[class*="lg"],.hidden[class*="lg"]
 hentaivn.ltd###over,#page_ads_right,#qx-300x250,.a_d_s_115,.a_d_s_50,.qc_main,.qx_135,.size_70,.size_80,[class*="qx_main" i]
+hentaivnx.com##.ads-banner
 home.blog,wordpress.com##.cookie-banner,.widget_eu_cookie_law_widget
 katfile.com##div#container p:has(> a[target="_blank"][rel="noopener"])
 link1s.com###baolink1s
