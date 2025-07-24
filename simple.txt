@@ -1720,6 +1720,8 @@
 ||abtasty.com^
 ||try.abtasty.com^
 ||abundantservantexact.com^
+||abxalpognw.com^
+||www.abxalpognw.com^
 ||abyocawlfe.com^
 ||ac046e638f.com^
 ||c2f7d2d036.ac046e638f.com^
@@ -2150,6 +2152,8 @@
 ||certify.alexametrics.com^
 ||certify-js.alexametrics.com^
 ||ertify.alexametrics.com^
+||alfasense.com^
+||cs4-qv.alfasense.com^
 ||algolianet.com^
 ||tsmkfa364q-1.algolianet.com^
 ||wp8q3hdhdz-1.algolianet.com^
@@ -3528,6 +3532,9 @@
 ||chametzunbelt.com^
 ||xw.chametzunbelt.com^
 ||chance-for-bigwin.com^
+||chaport.com^
+||app.chaport.com^
+||assets.chaport.com^
 ||characterlinguinisnarl.com^
 ||chargebee.com^
 ||js.chargebee.com^
@@ -5775,6 +5782,8 @@
 ||hhklc.com^
 ||hhllryxtfgypz.com^
 ||www.hhllryxtfgypz.com^
+||hhosisobpa.com^
+||www.hhosisobpa.com^
 ||hhuohrgudq.com^
 ||www.hhuohrgudq.com^
 ||hi678337.com^
@@ -6452,6 +6461,7 @@
 ||jijqzypmeqi.com^
 ||www.jijqzypmeqi.com^
 ||jillbuildertuck.com^
+||jilnwawaf.com^
 ||jitnaxhtyal.com^
 ||jitterspauperusher.com^
 ||jivosite.com^
@@ -6706,6 +6716,9 @@
 ||kolqhaaxhk.com^
 ||www.kolqhaaxhk.com^
 ||g4tagging.komando.com^
+||kong88.com^
+||m1.kong88.com^
+||sk.kong88.com^
 ||korgiejoinyou.com^
 ||kosseanmudpack.com^
 ||as.kosseanmudpack.com^
@@ -7161,6 +7174,7 @@
 ||mssplus.mcafee.com^
 ||scinstallcheck.mcafee.com^
 ||mcizas.com^
+||mcoxwaajhri.com^
 ||mcppsh.com^
 ||mcpuwpsh.com^
 ||mcpuwpush.com^
@@ -8037,6 +8051,7 @@
 ||onfckepwq.com^
 ||www.onfckepwq.com^
 ||onionritualjinx.com^
+||onkaccjhamug.com^
 ||onkhwanhuo.com^
 ||onkkgt.com^
 ||ads.onlinevideoconverter.com^
@@ -8615,6 +8630,8 @@
 ||pl17877740.profitablegatetocontent.com^
 ||profitableratecpm.com^
 ||www.profitableratecpm.com^
+||profitwell.com^
+||public.profitwell.com^
 ||proftrafficcounter.com^
 ||project1content.com^
 ||static-landing-assets.project1content.com^
@@ -8685,6 +8702,7 @@
 ||ptuzrywmega.com^
 ||ptv352.com^
 ||ptxhzp.com^
+||pub88.com^
 ||pubfuture.com^
 ||platform.pubfuture.com^
 ||pubfuture-ad.com^
@@ -8817,6 +8835,8 @@
 ||qimphywwej.com^
 ||www.qimphywwej.com^
 ||qiptamcupl.com^
+||qirjuptk.com^
+||www.qirjuptk.com^
 ||qiyukf.com^
 ||dag.qiyukf.com^
 ||qkppbcrtwetdj.com^
@@ -9194,6 +9214,11 @@
 ||rogsn.com^
 ||rokeewoozy.com^
 ||ql.rokeewoozy.com^
+||rokt.com^
+||apps.rokt.com^
+||apps-demo.rokt.com^
+||roktinternal.com^
+||sourcemaps-wsdk.roktinternal.com^
 ||rollbar.com^
 ||cdn.rollbar.com^
 ||rollercoin.com^
@@ -9541,6 +9566,7 @@
 ||seondnsresolve.com^
 ||a534493d33907e609f28ad94b41ef33f.seondnsresolve.com^
 ||eb6a7d55b667d9b6e52e2ebe363274d7b395eb78.seondnsresolve.com^
+||seotrieuview.com^
 ||septfd2em64eber.com^
 ||serconius.com^
 ||serconmp.com^
@@ -11319,6 +11345,8 @@
 ||wererxrzmp.com^
 ||werhliuich.com^
 ||dealerimage.werhliuich.com^
+||privacy.wetransfer.com^
+||tagging.wetransfer.com^
 ||btrace.wetvinfo.com^
 ||htrace.wetvinfo.com^
 ||wewearegogogo.com^
@@ -11842,6 +11870,7 @@
 ||www.zergnet.com^
 ||zeronaught.com^
 ||ponos.zeronaught.com^
+||zet88.com^
 ||zetadeo.com^
 ||p.zetadeo.com^
 ||zeusadx.com^
@@ -13210,6 +13239,8 @@
 ||ironsrc.mobi^
 ||logs.ironsrc.mobi^
 ||m.pagalworld.mobi^
+||x8.mobi^
+||www.x8.mobi^
 ||hotpics.mom^
 ||5hgawd5145.monster^
 ||5hjdbfjfd5.monster^
@@ -13372,6 +13403,8 @@
 ||aulteeby.net^
 ||aunauque.net^
 ||ausoafab.net^
+||azhkthg1.net^
+||api.azhkthg1.net^
 ||adncdnend.azureedge.net^
 ||consent.azureedge.net^
 ||msadsscale.azureedge.net^
@@ -14403,6 +14436,9 @@
 ||wapsisod.net^
 ||wargaming.net^
 ||rdr.wargaming.net^
+||wetransfer.net^
+||bsp-proxy.wetransfer.net^
+||nolan.wetransfer.net^
 ||wheceelt.net^
 ||ak.wheceelt.net^
 ||whouphesaussums.net^
@@ -15073,6 +15109,8 @@
 ||1klink.ru^
 ||adfox.ru^
 ||ads.adfox.ru^
+||adplay.ru^
+||widget.adplay.ru^
 ||adriver.ru^
 ||ssp.adriver.ru^
 ||apptracer.ru^
@@ -15152,6 +15190,8 @@
 ||vidtok.ru^
 ||whiteboxdigital.ru^
 ||mitdmp.whiteboxdigital.ru^
+||wi-fi.ru^
+||s3.wi-fi.ru^
 ||ya-distrib.ru^
 ||yadro.ru^
 ||counter.yadro.ru^
@@ -16296,6 +16336,7 @@
 ||kubetonline.vip^
 ||n58win.vip^
 ||www.n58win.vip^
+||nhatvip.vip^
 ||rik.vip^
 ||qc.rik.vip^
 ||sting1.vip^
@@ -16643,6 +16684,7 @@
 ||vu88.win^
 ||wi88.win^
 ||w2.wi88.win^
+||xi88tv.win^
 ||xo88.win^
 ||zo10.win^
 ||lp.zo10.win^
@@ -17032,6 +17074,7 @@
 ||nvuwqcfdux.xyz^
 ||ocfpydvdcyw.xyz^
 ||ofmxfdcbebemin.xyz^
+||ohwimdplf.xyz^
 ||oigmpohwiwac.xyz^
 ||oixrcjajslw.xyz^
 ||oldharper.xyz^
@@ -17230,6 +17273,7 @@
 ||whempine.xyz^
 ||whulrima.xyz^
 ||wlfikqcd.xyz^
+||wmowhsydmbyol.xyz^
 ||wohakmwidl.xyz^
 ||wouthula.xyz^
 ||wrlqesnjmjwin.xyz^
@@ -17241,6 +17285,7 @@
 ||wwfx.xyz^
 ||cdn.wwfx.xyz^
 ||p.wwfx.xyz^
+||wwgwwxftpgfqyj.xyz^
 ||wwhikftfmysi.xyz^
 ||wyeimmoifjx.xyz^
 ||x2550e210624vs.xyz^
@@ -17618,6 +17663,8 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||cc.boyfriendtv.com/bftv/b/*.xml
 ||cdn-go.cn/aegis/aegis-sdk/
 ||cdn.jsdelivr.net/npm/yandex-metrica-watch/
+||cdn.needrom.com/colorbox/*jquery.colorbox*.js
+||cdn.needrom.com/wind14.js
 ||cdn.truyenfull.tv/assets/truyenfull/js/aff_ads.js
 ||cdnjs.cloudflare.com/*cookieconsent
 ||challenges.cloudflare.com/cdn-cgi/challenge-platform/h/*/cmg/1
@@ -17781,11 +17828,11 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||turbobit.*/js/analytics/
 ||turbobit.*/pus/script
 ||twitter.com/i/api/1.1/jot/
-||twitter.com/i/js_inst?c_name=ui_metrics
 ||useblackbox.io/tlm
 ||vimeo.com/ablincoln/
 ||virustotal.com/gui/_log-error
 ||virustotal.com/ui/collect
+||wetransfer.com/api/web-metrics
 ||x.com/i/api/1.1/graphql/user_flow.json
 ||x.com/i/api/1.1/jot/
 ||xhamster2.*/*/advert/widget/promo/
@@ -17823,7 +17870,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||youtube.com/youtubei/v1/guide
 ||youtube.com/youtubei/v1/log_event
 ||youtube.com/youtubei/v1/player/ad_break
-$removeparam=/^(gclid|yclid|fbclid|utm_source|utm_medium|utm_campaign|utm_term|utm_content|utm_referrer|utm_location|aff_id|spot_id|zone[-_]?id)=/
+$removeparam=/^(aff_id|fbclid|gclid|pxl|spot_id|utm_campaign|utm_content|utm_location|utm_medium|utm_referrer|utm_source|utm_term|yclid|zone[-_]?id)=/
 $cookie=/__utm[a-z]/
 306t.com,sn9.us#%#//scriptlet('json-prune', 'confirm_url')
 306t.com,sn9.us#%#//scriptlet('json-prune', 'file.doubleclick_url')
@@ -17958,7 +18005,7 @@ apkpure.com###policy-info,.chrome-install-pop,.download-vip-subscribe-wrap,.js-a
 baeldung.com##div.code-block:has(div.topAdContainer)
 baidu.com###branding_ads,#web-right-view,.ad-multi-tips,.ad-platform-tips,.cps_wrap,.j_click_stats,.video-ad-creative-card
 bilibili.com###activity_vote,#bannerAd,#live_recommand_report,#slide_ad,.ad-floor-exp,.ad-report,.pop-live-small-mode,.right-bottom-banner,.video-page-game-card-small,.video-page-special-card-small,[href*="cm.bilibili.com"],div.activity-m-v1
-bing.com###adstop_gradiant_separator,.b_spa_adblock,.ins_exp.vsp,.rewards_promo_acf,.vsp_ads_c,div#b_pole,div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"]),ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_topw.b_results_eml > li[style="display: inline-block;"]
+bing.com###adstop_gradiant_separator,.b_spa_adblock,.ins_exp.vsp,.irptaads,.rewards_promo_acf,.vsp_ads_c,div#b_pole,div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"]),ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_topw.b_results_eml > li[style="display: inline-block;"]
 boyfriend.tv,boyfriendtv.com###js-ads-modal,#rightside2,.ads-wrapper,.eu-cookies,.js-right-no-ads,.vast-overlay,.video-extra-wrapper,.x-news-line,[class$="advi" i],[href*="gobanner"],[src*="paysite"],a.new-videoplayer-overlay,div.adblock:has(div.media-item.no-popup),div.container:has(div.video-listing > div.no-popup:first-child > div[data-id^="sc-"]),div.js-toggle-content-wrapper:has(div.media-item.no-popup),div.media-item.no-popup,div.no-popup:has(div[data-id^="sc-"]),li.media-item.no-popup
 camelliatransgroup.com,dhcc.xyz##[id^="sticky-footer" i]
 check-host.net##div#content2 div[class$="tive"],div#content2 div[class^="mt-"]:not([id="terminal-frame"]),div.container > div.flex.w-full[id$="main"],div[id^="yourip"] > div[class^="host"],div[id^="yourip"] > div[id^="host"]
