@@ -138,6 +138,7 @@
 ||geoedge.be^
 ||rumcdn.geoedge.be^
 ||glasfix.be^
+||www.glasfix.be^
 ||ipinfo.be^
 ||api.ipinfo.be^
 ||tcb-group.be^
@@ -1775,6 +1776,7 @@
 ||acsrlrvluu.com^
 ||acsshufxnu.com^
 ||www.acsshufxnu.com^
+||active-bat.com^
 ||actscattydecode.com^
 ||acuityplatform.com^
 ||acxjepzmvqycf.com^
@@ -5804,6 +5806,7 @@
 ||hd100546b.com^
 ||hd100546c.com^
 ||hdbkell.com^
+||www.hdbkell.com^
 ||tracking.hdpreview.com^
 ||hdtukleqjra.com^
 ||he3mero6calli4s.com^
@@ -6675,6 +6678,7 @@
 ||assets-jpcust.jwpsrv.com^
 ||g.jwpsrv.com^
 ||jwuoxhjuq.com^
+||www.jwuoxhjuq.com^
 ||jwuyjehlbndrkd.com^
 ||www.jwuyjehlbndrkd.com^
 ||jwydulaplhmo.com^
@@ -6719,6 +6723,7 @@
 ||kayntebitbugfeedtap.com^
 ||api.kayntebitbugfeedtap.com^
 ||kazrutaj.com^
+||www.kazrutaj.com^
 ||kbnmnl.com^
 ||creative.kbnmnl.com^
 ||go.kbnmnl.com^
@@ -7450,6 +7455,7 @@
 ||mirishkeeps.com^
 ||miserablenobody.com^
 ||misoxthmuqa.com^
+||www.misoxthmuqa.com^
 ||misppitr.com^
 ||missbet1.com^
 ||chat.missbet1.com^
@@ -7986,6 +7992,7 @@
 ||obsessionthree.com^
 ||obzsijqreji.com^
 ||obzvimvuzkic.com^
+||www.obzvimvuzkic.com^
 ||oc2tdxocb3ae0r.com^
 ||ocbakhpcuz.com^
 ||www.ocbakhpcuz.com^
@@ -8383,6 +8390,7 @@
 ||oxbetd.com^
 ||ox1.oxbetd.com^
 ||oxgckudfiv.com^
+||www.oxgckudfiv.com^
 ||oxlgigavrc.com^
 ||www.oxlgigavrc.com^
 ||oxtdafetnjuf.com^
@@ -8473,6 +8481,7 @@
 ||t.paypal.com^
 ||pazashevy.com^
 ||pazpcaodb.com^
+||www.pazpcaodb.com^
 ||pbcde.com^
 ||pbgrklnnvbeudm.com^
 ||www.pbgrklnnvbeudm.com^
@@ -9267,6 +9276,8 @@
 ||vast.reyden-x.com^
 ||rezync.com^
 ||live.rezync.com^
+||rfifavwhiomx.com^
+||www.rfifavwhiomx.com^
 ||p.rfihub.com^
 ||rfkvioqyn.com^
 ||rhfgjld.com^
@@ -10081,6 +10092,7 @@
 ||stake.com^
 ||www.stake.com^
 ||stake1038.com^
+||www.stake1038.com^
 ||stakingsmile.com^
 ||stalesummer.com^
 ||starkuno.com^
@@ -10222,6 +10234,8 @@
 ||surveys-static.survicate.com^
 ||suspicionsvaluable.com^
 ||sutiletoroid.com^
+||sutzcaladow.com^
+||www.sutzcaladow.com^
 ||suvorzaqzac.com^
 ||suxazsahta.com^
 ||suzihaza.com^
@@ -16945,6 +16959,7 @@
 ||go.hentaicams.xxx^
 ||2aeabdd4-3280-4f03-bc92-1890494f28be.xyz^
 ||9oi8kh.xyz^
+||aaxlrghdrbiw.xyz^
 ||abdraqwwyouaqfu.xyz^
 ||adblockdownload-continue.xyz^
 ||adfetshex.xyz^
@@ -17811,8 +17826,8 @@ youtube.com#?#ytd-rich-grid-renderer ytd-rich-item-renderer div > ytd-display-ad
 ||youtube.com/get_midroll_
 ! END YOUTUBE$
 ! ^QUORA
-quora.com#%#(function(){var observer=new MutationObserver(hide);observer.observe(document,{childList:!0,subtree:!0});function hide(){var e=document.querySelectorAll('span[data-nosnippet] > .q-box');e.forEach(function(e){var i=e.innerText;if(i){if(i!==void 0&&(!0===i.includes('Sponsored')||!0===i.includes('Ad by')||!0===i.includes('Promoted by'))){e.style="display:none!important;"}}})} })();
-quora.com#%#(function(){var observer=new MutationObserver(hide);observer.observe(document,{childList:!0,subtree:!0});function hide(){var e=document.querySelectorAll('.paged_list_wrapper > .pagedlist_item');e.forEach(function(e){var i=e.innerHTML;if(i){if(i!==void 0&&(!0===i.includes('Hide This Ad<\/span>'))){e.style="display:none!important;"}}})} })();
+quora.com#%#(function(){var m=new MutationObserver(hide);m.observe(document,{childList:!0,subtree:!0});function hide(){var e=document.querySelectorAll('span[data-nosnippet] > .q-box');e.forEach(function(e){var i=e.innerText;if(i){if(i!==void 0&&(!0===i.includes('Sponsored')||!0===i.includes('Ad by')||!0===i.includes('Promoted by'))){e.style="display:none!important;"}}})} })();
+quora.com#%#(function(){var m=new MutationObserver(hide);m.observe(document,{childList:!0,subtree:!0});function hide(){var e=document.querySelectorAll('.paged_list_wrapper > .pagedlist_item');e.forEach(function(e){var i=e.innerHTML;if(i){if(i!==void 0&&(!0===i.includes('Hide This Ad<\/span>'))){e.style="display:none!important;"}}})} })();
 quora.com#$#body { overflow: auto !important; }
 quora.com#?#.qu-pb--medium > .q-box.qu-borderAll:has(> .q-box > .qu-py--small > .q-box > div[id^="div-gpt-"])
 quora.com#?#.q-box[style^="box-sizing:"] > div.q-box:has(> span[data-nosnippet="true"] > div.q-box[style="display: none !important;"])
@@ -17898,6 +17913,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||dem.shopee.com/dem/entrance/
 ||deo.shopeemobile.com/shopee/shopee-trackingsdk-live-sg/
 ||developer.mozilla.org/pong/
+||developer.mozilla.org/static/js/gtag.js
 ||developer.mozilla.org/submit/mdn-yari/
 ||discord.com/api/v9/science
 ||discourse-cdn.com/*/browser-update*.js
@@ -18296,4 +18312,4 @@ xnxx.com,xnxx3.com,xvideos.com,xvideos.es,xvideos3.com###ad-footer,#ad-footer2,#
 xvideos.com##.banner-game,.premium-results-line
 yahoo.com###ad_xfpad_base,#Billboard-ad,#dialogue-wrapper,#feat-bar,#login-ads-gpt-iframe,#my-adsFOOT,#my-adsFPAD-base,#my-adsHPSPON-base,#my-adsLDRB,#my-adsLREC-base,#my-adsLREC4-base,#my-adsMON,#sda-Horizon,#sda-LREC-iframe,#sda-LREC3-iframe,.ad-transition,.fbtdv2,.login-bg-inner,.native-ad-item,.stream-ad,.stream-sm-ad,iframe:not([id$="-iframe"]),[data-test-id*="-ad-" i],[href*="beap.gemini.yahoo.com"]
 yaoimangaonline.com###block-12,#block-13,#block-14,#block-15,#block-16,#block-19,#block-20,#block-8,#text-2,#text-28,.code-block,[id^="block-"]:has(script),[id^="block-"]:not(.widget_text)
-youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com###masthead-ad,#player-ads,.html5-video-player.ad-showing .ytp-title,.video-ads,.ytd-display-ad-renderer,.ytp-ad-action-interstitial,.ytp-ad-display-override,.ytp-ad-module,.ytp-featured-product,.ytp-suggested-action-badge.ytp-suggested-action-badge-content-forward,ad-slot-renderer,div[class^="promoted-"],ytd-ad-slot-renderer,ytd-carousel-ad-renderer,ytd-display-ad-renderer,ytd-display-ad-renderer.style-scope,ytd-in-feed-ad-layout-renderer,ytd-merch-shelf-renderer,ytd-promoted-sparkles-text-search-renderer,ytd-promoted-sparkles-web-renderer,ytm-compact-playlist-renderer,ytm-companion-slot.scwnr-content,ytm-promoted-sparkles-text-search-renderer,ytm-promoted-sparkles-web-renderer,ytm-promoted-video-renderer,[layout*="display-ad" i]
+youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com###masthead-ad,#player-ads,.html5-video-player.ad-showing .ytp-title,.video-ads,.ytd-display-ad-renderer,.ytp-ad-action-interstitial,.ytp-ad-display-override,.ytp-ad-module,.ytp-featured-product,.ytp-suggested-action-badge.ytp-suggested-action-badge-content-forward,[layout*="display-ad"],ad-slot-renderer,div[class^="promoted-"],ytd-ad-slot-renderer,ytd-carousel-ad-renderer,ytd-display-ad-renderer,ytd-display-ad-renderer.style-scope,ytd-in-feed-ad-layout-renderer,ytd-merch-shelf-renderer,ytd-promoted-sparkles-text-search-renderer,ytd-promoted-sparkles-web-renderer,ytd-reel-shelf-renderer,ytm-compact-playlist-renderer,ytm-companion-slot.scwnr-content,ytm-promoted-sparkles-text-search-renderer,ytm-promoted-sparkles-web-renderer,ytm-promoted-video-renderer
