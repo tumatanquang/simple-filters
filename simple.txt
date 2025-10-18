@@ -59,6 +59,7 @@
 ||pixel.chaty.app^
 ||featureos.app^
 ||gateway.featureos.app^
+||langdingpageinfo-default-rtdb.asia-southeast1.firebasedatabase.app^
 ||hooligs.app^
 ||click.hooligs.app^
 ||leap.app^
@@ -358,6 +359,7 @@
 ||ipmytv.cf^
 ||68gbcr6.cfd^
 ||6meeripw061124z.cfd^
+||abovebaklawa.cfd^
 ||arguesdevex.cfd^
 ||asdfdr.cfd^
 ||b6cb78mf.cfd^
@@ -368,6 +370,7 @@
 ||camtemptations.cfd^
 ||cojwly.cfd^
 ||cupidcams.cfd^
+||cutecams21.cfd^
 ||dgedss.cfd^
 ||ertyui5e5.cfd^
 ||faltchefeoffee.cfd^
@@ -375,11 +378,13 @@
 ||haxmac.cfd^
 ||ji95rtg.cfd^
 ||jmbquy40.cfd^
+||mad-webcams.cfd^
 ||pgvnyxf.cfd^
 ||r947v0sn.cfd^
 ||rvmessage.cfd^
 ||serty5.cfd^
 ||shopspark.cfd^
+||steamy-webcams.cfd^
 ||termerraches.cfd^
 ||upstagecarvers.cfd^
 ||v5chb4tty0611249p.cfd^
@@ -398,6 +403,7 @@
 ||www.blueoyster.click^
 ||buzukiaevacue.click^
 ||catsupsfinspot.click^
+||choigamevua.click^
 ||cloud341.click^
 ||arch.cloud341.click^
 ||arch2.cloud341.click^
@@ -442,6 +448,7 @@
 ||stolatapa.click^
 ||stylionisoptic.click^
 ||subscribers.click^
+||thuviengay.click^
 ||topvideohot.click^
 ||topvideos.click^
 ||tressesnitons.click^
@@ -1792,6 +1799,8 @@
 ||eu.abpicsrc.com^
 ||abpjs23.com^
 ||abpwivog.com^
+||abpxfirudrt.com^
+||www.abpxfirudrt.com^
 ||abqmfewisf.com^
 ||abroodeuripi.com^
 ||abrookcormel.com^
@@ -1820,6 +1829,8 @@
 ||acertb.com^
 ||xml.acertb.com^
 ||achcdn.com^
+||aclomxokn.com^
+||www.aclomxokn.com^
 ||cdn15.acloudimages.com^
 ||acloudvideos.com^
 ||cdn.acloudvideos.com^
@@ -2216,6 +2227,8 @@
 ||agloowie.com^
 ||agpfinalk.com^
 ||www.agpfinalk.com^
+||agpkpuobjq.com^
+||www.agpkpuobjq.com^
 ||agqoshfujku.com^
 ||ahfninqtaamj.com^
 ||ahgyvwnoct.com^
@@ -2627,6 +2640,7 @@
 ||aptausad.com^
 ||apzdfakiso.com^
 ||aqcxudtisa.com^
+||aqczwowu.com^
 ||aqhfcdttaosm.com^
 ||aqle3.com^
 ||aqptziligoqn.com^
@@ -2913,6 +2927,7 @@
 ||baconbedside.com^
 ||badgegirdle.com^
 ||badlandlispyippee.com^
+||badnessgimmickposted.com^
 ||als.baidu.com^
 ||banti.baidu.com^
 ||dlswbr.baidu.com^
@@ -3955,6 +3970,8 @@
 ||code4us.com^
 ||codedexchange.com^
 ||codehelppro.com^
+||coesitecubbing.com^
+||ll.coesitecubbing.com^
 ||coggertyning.com^
 ||ip.coggertyning.com^
 ||cogwoodwelder.com^
@@ -3998,6 +4015,9 @@
 ||martech.condenastdigital.com^
 ||condles-temark.com^
 ||condolencessumcomics.com^
+||conduongdulich.com^
+||internalapp.conduongdulich.com^
+||internalapp6.conduongdulich.com^
 ||conerstratus.com^
 ||qm.conerstratus.com^
 ||confidence-x.com^
@@ -4488,6 +4508,8 @@
 ||dgxmvglp.com^
 ||www.dgxmvglp.com^
 ||dhaobwojqv.com^
+||dharupal.com^
+||www.dharupal.com^
 ||dhepuldufahr.com^
 ||dheqzygafg.com^
 ||diagramjawlineunhappy.com^
@@ -4849,6 +4871,7 @@
 ||217eda37ff.eca8bef536.com^
 ||ecaecc3e17.com^
 ||70b25fad84.ecaecc3e17.com^
+||eccentricsterilizevastness.com^
 ||echobox.com^
 ||service.echobox.com^
 ||trackerapi.service.echobox.com^
@@ -5446,6 +5469,10 @@
 ||fpofvdovrk.com^
 ||www.fpofvdovrk.com^
 ||fpokuxocn.com^
+||fpolkyzunpax.com^
+||www.fpolkyzunpax.com^
+||fpoolkovzfha.com^
+||www.fpoolkovzfha.com^
 ||fppzikurc.com^
 ||www.fppzikurc.com^
 ||fptls.com^
@@ -6286,6 +6313,8 @@
 ||hledoziequt.com^
 ||www.hledoziequt.com^
 ||hlkmjuccnvptabb.com^
+||hmabmyomkq.com^
+||www.hmabmyomkq.com^
 ||hmepalobfn.com^
 ||hmerapfifpf.com^
 ||hmxg5mhyx.com^
@@ -7011,6 +7040,8 @@
 ||pre.ads.justpremium.com^
 ||justwatch.com^
 ||widget.justwatch.com^
+||jusvufasq.com^
+||www.jusvufasq.com^
 ||jwalf.com^
 ||p.jwalf.com^
 ||jwplatform.com^
@@ -7137,6 +7168,8 @@
 ||kizxixktimur.com^
 ||kkc13579.com^
 ||aff.kkc13579.com^
+||kkiazspu.com^
+||www.kkiazspu.com^
 ||kkqgwdcltl.com^
 ||kkwvy.com^
 ||klaviyo.com^
@@ -7262,6 +7295,8 @@
 ||lame7bsqu8barters.com^
 ||lamertang.com^
 ||lamkatgho.com^
+||lamlmyjwogar.com^
+||www.lamlmyjwogar.com^
 ||lammasbananas.com^
 ||lampoled.com^
 ||lamsumasf.com^
@@ -7303,6 +7338,9 @@
 ||ldconf.com^
 ||as.ldconf.com^
 ||ldmhqbglilysuie.com^
+||ldp-vua.com^
+||authen.ldp-vua.com^
+||lobby.ldp-vua.com^
 ||leadsconv.com^
 ||affledot.leadsconv.com^
 ||leafletstoesimplicity.com^
@@ -7768,6 +7806,8 @@
 ||mhometheater.com^
 ||mhvllvgrefplg.com^
 ||www.mhvllvgrefplg.com^
+||mhyxciahfas.com^
+||www.mhyxciahfas.com^
 ||mi88.com^
 ||mibet.com^
 ||microadinc.com^
@@ -8187,7 +8227,7 @@
 ||new88bi.com^
 ||newdisplayformats.com^
 ||www.newdisplayformats.com^
-||newrelic.com^
+||newosama.com^
 ||insights-collector.newrelic.com^
 ||js-agent.newrelic.com^
 ||newrtbbid.com^
@@ -8506,6 +8546,8 @@
 ||okltuhoqvdk.com^
 ||www.okltuhoqvdk.com^
 ||oktarnxtozis.com^
+||oktaxrda.com^
+||www.oktaxrda.com^
 ||okvgababvaxk.com^
 ||okwinstream.com^
 ||pull.okwinstream.com^
@@ -8548,6 +8590,8 @@
 ||hb-api.omnitagjs.com^
 ||visitor.omnitagjs.com^
 ||omnjpeakvwwo.com^
+||omnkukvzip.com^
+||www.omnkukvzip.com^
 ||ompoppxulki.com^
 ||omzostzuswm.com^
 ||onaudience.com^
@@ -8587,6 +8631,8 @@
 ||onionritualjinx.com^
 ||onkaccjhamug.com^
 ||onkhwanhuo.com^
+||onkjicaw.com^
+||www.onkjicaw.com^
 ||onkkgt.com^
 ||ads.onlinevideoconverter.com^
 ||onlyticpodvinedeminix.com^
@@ -8710,6 +8756,7 @@
 ||orstudnp.com^
 ||www.orstudnp.com^
 ||orxbqsvibjxqvai.com^
+||osamachoice.com^
 ||osamacom.com^
 ||osamadada.com^
 ||osamafusion.com^
@@ -8832,6 +8879,7 @@
 ||oxwafbjf.com^
 ||oxwlhazto.com^
 ||www.oxwlhazto.com^
+||oxwodlltyqa.com^
 ||oxxtfunzyti.com^
 ||oxyacidalogia.com^
 ||af.oxyacidalogia.com^
@@ -9318,6 +9366,8 @@
 ||pubmine.com^
 ||s.pubmine.com^
 ||pucxriavjcp.com^
+||pueblossedilia.com^
+||om.pueblossedilia.com^
 ||pugsgivehugs.com^
 ||pukekotautog.com^
 ||dw.pukekotautog.com^
@@ -10474,6 +10524,8 @@
 ||socialbars-web4.com^
 ||socialbars-web5.com^
 ||socialnettraffic.com^
+||socialnetworkllc.com^
+||socialtrafficnow.com^
 ||sodamidhankie.com^
 ||sodo14.com^
 ||www.sodo14.com^
@@ -10574,6 +10626,8 @@
 ||squeezedthoughtfully.com^
 ||squren.com^
 ||srx.squren.com^
+||srahihdzoha.com^
+||www.srahihdzoha.com^
 ||srnmnoacbaady.com^
 ||srvpcn.com^
 ||c.srvpcn.com^
@@ -12733,6 +12787,8 @@
 ||app.zrotary.com^
 ||ztdog.com^
 ||cs10.ztdog.com^
+||ztogijmifav.com^
+||www.ztogijmifav.com^
 ||ztumuvofzbfe.com^
 ||zubahmqabbr.com^
 ||zucmuwag.com^
@@ -13050,6 +13106,7 @@
 ||blamedbuckie.fun^
 ||cams-gift.fun^
 ||camslanding.fun^
+||camwhispers.fun^
 ||choigem.fun^
 ||ad.choigem.fun^
 ||cutewebcams20.fun^
@@ -13922,6 +13979,7 @@
 ||y1uy13f.janewhyask.live^
 ||lieroselot.live^
 ||y1uy13f.lieroselot.live^
+||m88play.live^
 ||madehugeai.live^
 ||2k0wn9x.madehugeai.live^
 ||makejugash.live^
@@ -14116,6 +14174,8 @@
 ||appglobal.monster^
 ||api.appglobal.monster^
 ||appsuse.monster^
+||datablabmyfireeasytubeoyogen.monster^
+||api.datablabmyfireeasytubeoyogen.monster^
 ||emonduplajifreefile.monster^
 ||api.emonduplajifreefile.monster^
 ||fast-apps.monster^
@@ -15712,6 +15772,7 @@
 ||12112336.pix-cdn.org^
 ||a.pixiv.org^
 ||d.pixiv.org^
+||playvu88.org^
 ||prebid.org^
 ||privacy-center.org^
 ||sdk.privacy-center.org^
@@ -16060,6 +16121,9 @@
 ||ybm.pw^
 ||counter.ybm.pw^
 ||deltaicargolic.qpon^
+||huskymeloid.qpon^
+||laissebilked.qpon^
+||lutenew.qpon^
 ||umbrereforrard.qpon^
 ||cloudcomputing.quest^
 ||new8899.quest^
@@ -16069,6 +16133,8 @@
 ||adsco.re^
 ||c.adsco.re^
 ||new888c.red^
+||curietinures.rest^
+||www.curietinures.rest^
 ||cs.muonicpapegay.rest^
 ||altex.ro^
 ||afftrk.altex.ro^
@@ -16176,11 +16242,16 @@
 ||yourbrowser.ru^
 ||tt88.sale^
 ||www.tt88.sale^
+||18girlscam.sbs^
 ||21teencams.sbs^
 ||adtut.sbs^
+||bestcams18.sbs^
 ||cams-cake.sbs^
+||camtemptations.sbs^
 ||defile.sbs^
+||lunacams.sbs^
 ||pufgilsofp.sbs^
+||sexycams21.sbs^
 ||two-tusked.sbs^
 ||bowuo5hikes.two-tusked.sbs^
 ||fl4njknzvdnjiluijqlkr.two-tusked.sbs^
@@ -16206,11 +16277,14 @@
 ||68gbapp21.shop^
 ||68gbapp22.shop^
 ||68link7.shop^
+||agingsblk.shop^
+||ge.agingsblk.shop^
 ||alexintol.shop^
 ||ataxiasfaulds.shop^
 ||audiobenasty.shop^
 ||beataehoose.shop^
 ||beltsingey.shop^
+||bemoonunbroid.shop^
 ||bicronglagah.shop^
 ||wz.bicronglagah.shop^
 ||bowlingjumbie.shop^
@@ -16235,9 +16309,12 @@
 ||jd.gmtipburn.shop^
 ||icodstatus.shop^
 ||izleskulked.shop^
+||kerchugwounds.shop^
+||dp.kerchugwounds.shop^
 ||knevelfamily.shop^
 ||lidosquey.shop^
 ||lordedgeelbec.shop^
+||mayhemphage.shop^
 ||muermoabject.shop^
 ||nestlelento.shop^
 ||nikkounring.shop^
@@ -17296,6 +17373,8 @@
 ||ipecacsafely.uno^
 ||modulusoctodon.uno^
 ||mooseytabinet.uno^
+||peaktrck.uno^
+||t.peaktrck.uno^
 ||sirossvanish.uno^
 ||tautestsummate.uno^
 ||tinkhvy.uno^
@@ -18319,6 +18398,7 @@
 ||url07.xyz^
 ||url08.xyz^
 ||urqepqwqnr.xyz^
+||uswebcamz.xyz^
 ||utcjptmsgga.xyz^
 ||utdhcgbovqdp.xyz^
 ||uwx1.xyz^
