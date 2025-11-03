@@ -464,6 +464,7 @@
 ||tressesnitons.click^
 ||uofrm7yv.click^
 ||videofull.click^
+||vidgyh.click^
 ||zrj3obwk.click^
 ||ampid.cloud^
 ||hybrid-cloud-widgets-production.s3.us.cloud-object-storage.appdomain.cloud^
@@ -2313,14 +2314,21 @@
 ||wp8q3hdhdz-2.algolianet.com^
 ||wp8q3hdhdz-3.algolianet.com^
 ||alia-iso.com^
+||aplus.alibaba.com^
 ||click.alibaba.com^
 ||fourier.alibaba.com^
+||insights.alibaba.com^
+||offer.alibaba.com^
+||open-s.alibaba.com^
 ||tdum.alibaba.com^
 ||6n7cv2.tdum.alibaba.com^
 ||bqtwlp.tdum.alibaba.com^
 ||bwwei3.tdum.alibaba.com^
 ||fqwp9u.tdum.alibaba.com^
+||ug.alibaba.com^
 ||umlazada.alibaba.com^
+||wwbizsrv.alibaba.com^
+||localhost.wwbizsrv.alibaba.com^
 ||auxiliary.alibabacloud.com^
 ||zconfig.alibabausercontent.com^
 ||aeis.alicdn.com^
@@ -2679,6 +2687,8 @@
 ||ardovbzwyo.com^
 ||www.ardovbzwyo.com^
 ||ardrcirhi.com^
+||ardvcelitb.com^
+||www.ardvcelitb.com^
 ||n-cdn.areyouahuman.com^
 ||argasidstrafed.com^
 ||tc.argasidstrafed.com^
@@ -2741,6 +2751,8 @@
 ||aswjtiwryakv.com^
 ||atcxfuazmav.com^
 ||atdphuojbb.com^
+||atdwhoqtigke.com^
+||www.atdwhoqtigke.com^
 ||atgmzemuf.com^
 ||www.atgmzemuf.com^
 ||atgogmvi.com^
@@ -2960,6 +2972,7 @@
 ||badgegirdle.com^
 ||badlandlispyippee.com^
 ||badnessgimmickposted.com^
+||baggyrepackingrocky.com^
 ||als.baidu.com^
 ||banti.baidu.com^
 ||dlswbr.baidu.com^
@@ -3676,6 +3689,7 @@
 ||catholicncesisp.com^
 ||catsnbootsncats2020.com^
 ||as.catsnbootsncats2020.com^
+||catwt.com^
 ||cavcwoaxtht.com^
 ||cavilerestops.com^
 ||fj.cavilerestops.com^
@@ -3783,6 +3797,8 @@
 ||99525f9c96.cfd546b20a.com^
 ||cfeb0910c5.com^
 ||33f68c4302.cfeb0910c5.com^
+||cgknhsvcjm.com^
+||www.cgknhsvcjm.com^
 ||cgpgmufapo.com^
 ||cgznataqg.com^
 ||www.cgznataqg.com^
@@ -4993,6 +5009,8 @@
 ||www.eldrurjtsbl.com^
 ||elitistrawirresistible.com^
 ||elixarco.com^
+||elkanadi.com^
+||baba.elkanadi.com^
 ||elmftqzs.com^
 ||eloqua.com^
 ||t.eloqua.com^
@@ -5022,6 +5040,7 @@
 ||recs.engageya.com^
 ||widget.engageya.com^
 ||enjoyingbind.com^
+||enlightened-quit.com^
 ||enodiarahnthedon.com^
 ||enrichyummy.com^
 ||enrivetatie.com^
@@ -5037,6 +5056,7 @@
 ||eocampaign1.com^
 ||eoemyywmjx.com^
 ||www.eoemyywmjx.com^
+||epidermispushupvariable.com^
 ||cams.eporner.com^
 ||go.cams.eporner.com^
 ||epvkjs.com^
@@ -5124,6 +5144,8 @@
 ||www.exness.com^
 ||exness-track.com^
 ||one.exness-track.com^
+||exnessonelink.com^
+||one.exnessonelink.com^
 ||exnessstats.com^
 ||ex.exnessstats.com^
 ||exoclick.com^
@@ -5496,6 +5518,7 @@
 ||forfeitsubscribe.com^
 ||forlumineoner.com^
 ||formalhood.com^
+||formerlyconsidering.com^
 ||formismagiustor.com^
 ||ak.formismagiustor.com^
 ||formulearchin.com^
@@ -6099,6 +6122,8 @@
 ||ra.gtimg.com^
 ||gtithiojf.com^
 ||www.gtithiojf.com^
+||gtogzeomxorh.com^
+||www.gtogzeomxorh.com^
 ||gtvtbzoo.com^
 ||www.gtvtbzoo.com^
 ||guanscleeks.com^
@@ -6156,6 +6181,8 @@
 ||h2aek6rv0ard.com^
 ||h74v6kerf.com^
 ||habiculpize.com^
+||hacanpaknvc.com^
+||www.hacanpaknvc.com^
 ||hacbfyvvsw.com^
 ||www.hacbfyvvsw.com^
 ||hachitechsolution.com^
@@ -6897,6 +6924,7 @@
 ||isatonabench.com^
 ||isclix.com^
 ||go.isclix.com^
+||iseawave.com^
 ||islandmob.com^
 ||isnssdk.com^
 ||i.isnssdk.com^
@@ -8788,6 +8816,8 @@
 ||opnachhihhp.com^
 ||opnobbohq.com^
 ||opnvahohgcco.com^
+||opoiypnrygogix.com^
+||www.opoiypnrygogix.com^
 ||opoxv.com^
 ||s.opoxv.com^
 ||oppersianor.com^
@@ -9218,6 +9248,7 @@
 ||playdsb.com^
 ||playerserve.com^
 ||cdn.playerserve.com^
+||playfulgameszone.com^
 ||playhubconnect.com^
 ||playlust-goddess.com^
 ||playmmogames.com^
@@ -10416,6 +10447,7 @@
 ||sg-form.com^
 ||forms-content.sg-form.com^
 ||cdn.forms-content.sg-form.com^
+||sgptracked.com^
 ||sgsnssdk.com^
 ||log.sgsnssdk.com^
 ||pangolin16.sgsnssdk.com^
@@ -10484,6 +10516,7 @@
 ||sickmakes.com^
 ||sidebyz.com^
 ||ecma.sidebyz.com^
+||sidesteamroll.com^
 ||sift.com^
 ||cdn.sift.com^
 ||media.sift.com^
@@ -11145,6 +11178,8 @@
 ||umg.theappreciationengine.com^
 ||thebrighttag.com^
 ||s.thebrighttag.com^
+||thebrowsergame.com^
+||r.thebrowsergame.com^
 ||thechydacjty.com^
 ||theekedgleamed.com^
 ||theengagelab.com^
@@ -11903,6 +11938,7 @@
 ||verifychocolate.com^
 ||verninchange.com^
 ||vernmentorgent.com^
+||vertigovitalitywieldable.com^
 ||verve.com^
 ||feedback.verve.com^
 ||vetdeberg.com^
@@ -13459,6 +13495,8 @@
 ||ntlysearchingf.info^
 ||onbet88.info^
 ||onetouch24.info^
+||onetouch34.info^
+||us-u-8830.onetouch34.info^
 ||onetouch8.info^
 ||video.onetouch8.info^
 ||onservantasr.info^
@@ -13670,6 +13708,8 @@
 ||fulcrum-antenna.imhd.io^
 ||eum.instana.io^
 ||eum-red-saas.instana.io^
+||intelligent-assistant.io^
+||api.intelligent-assistant.io^
 ||intercom.io^
 ||widget.intercom.io^
 ||invl.io^
@@ -14172,6 +14212,9 @@
 ||sync.spotim.market^
 ||ttrup.marketing^
 ||client.ttrup.marketing^
+||exmarkets.markets^
+||track.exmarkets.markets^
+||www.exmarkets.markets^
 ||123qq88.me^
 ||7reader.me^
 ||stattest.7reader.me^
@@ -14321,6 +14364,8 @@
 ||api.emonduplajifreefile.monster^
 ||fast-apps.monster^
 ||jackdawcodettatactometer.monster^
+||nextworksriffzapp.monster^
+||api.nextworksriffzapp.monster^
 ||openvip.monster^
 ||safe-app.monster^
 ||thekey.monster^
@@ -15746,6 +15791,8 @@
 ||gem8freebet.online^
 ||getclear.online^
 ||eu.getclear.online^
+||grantdk-1.online^
+||xml-v4.grantdk-1.online^
 ||hkerkisko.online^
 ||click.ho88top.online^
 ||iconk.online^
@@ -15816,6 +15863,7 @@
 ||ampproject.org^
 ||cdn.ampproject.org^
 ||www.ampproject.org^
+||animevideo.org^
 ||anjouangaming.org^
 ||snippet.anjouangaming.org^
 ||f65b0d6b-e266-4cf0-af85-00c48dc3114c.snippet.anjouangaming.org^
@@ -15893,6 +15941,7 @@
 ||api.ipify.org^
 ||api6.ipify.org^
 ||api64.ipify.org^
+||jawdropjewels.org^
 ||kaella.org^
 ||4.kaella.org^
 ||crashreport.libreoffice.org^
@@ -16113,6 +16162,8 @@
 ||collaborator.pro^
 ||da88.pro^
 ||static.da88.pro^
+||dangerous-cancel.pro^
+||www.dangerous-cancel.pro^
 ||dimpled-frame.pro^
 ||www.dimpled-frame.pro^
 ||dinhvu.pro^
@@ -16586,6 +16637,7 @@
 ||www.takiparkrb.site^
 ||tertracks.site^
 ||trk.tertracks.site^
+||thuviengay.site^
 ||timeevc.site^
 ||www.timeevc.site^
 ||topvideohot.site^
@@ -17978,9 +18030,12 @@
 ||cdnjs.work^
 ||go.cdnjs.work^
 ||tx.cdnjs.work^
+||mrs-araceli-awyenww.work^
 ||ndenthaitin.work^
 ||otongocha.work^
 ||owecouldl.work^
+||princessphoebe-bwypsix.work^
+||1.princessphoebe-bwypsix.work^
 ||reacheffecti.work^
 ||go1.reacheffecti.work^
 ||tjre.work^
@@ -19317,8 +19372,8 @@ d0000d.com,do0od.com,dood.la,dood.pm,dood.re,dood.so,dood.to,dood.wf,dood.yt,doo
 dailyuploads.net#%#Object.defineProperties(window,{'adEnable':{value:!0,writable:!1},'artvideovr':{value:void 0,writable:!1},'_gaq':{value:void 0,writable:!1}}),window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelector('.banner');e!==null&&(e.className='0'),$('#downloadbtn').off('click')});
 dailyuploads.net,datavaults.co,filespayouts.com,up-load.io,uploadrar.com,zmamobile.com#%#window.addEventListener('load',()=>{var e=document.getElementById('downloadbtn');e!==null&&(e.disabled=!1),(e=document.getElementById('gdpr-cookie-notice'))!==null&&e.remove(),(e=document.getElementById('adblock_detected'))!==null&&(e.value=0)});
 datavaults.co#%#window.addEventListener('DOMContentLoaded',()=>{var e=document.getElementById('dummy');e!==null&&(e.style.display='none'),(e=document.getElementById('original'))!==null&&(e.style.display='block')});
-dictionary.cambridge.org#%#!function(){function e(e){try{if(e.tagName!=='SCRIPT')return!1;if((e.src||"").includes("html-load.com/loader.min.js")||e.hasAttribute("nowprocket")||(e.textContent||"").indexOf("function t(o,e){var r=n()")>=0)return!0}catch(t){}return!1}document.querySelectorAll("script").forEach(t=>{e(t)&&t.parentNode.removeChild(t)}),new MutationObserver(t=>{t.forEach(t=>{t.addedNodes.forEach(t=>{1===t.nodeType&&"SCRIPT"===t.tagName&&e(t)&&t.parentNode.removeChild(t)})})}).observe(document.documentElement,{childList:!0,subtree:!0});var t=window.fetch;window.fetch=function(e,r){try{var n="string"==typeof e?e:e.url;if(n&&n.includes("error-report.com"))return Promise.reject(Error("Blocked by client script"))}catch(o){}return t.apply(this,arguments)}}();
-diffchecker.com#%#var d=new Date;d="-"+d.getMonth()+"-"+d.getFullYear(),localStorage.setItem("closedDiffDesktopBanner",!0),localStorage.setItem("alreadySawHomepageModal",!0),localStorage.setItem("explainUses"+d,Number.MIN_SAFE_INTEGER),localStorage.setItem("mergeUses"+d,Number.MIN_SAFE_INTEGER),localStorage.setItem("textDiffLevelUses"+d,Number.MIN_SAFE_INTEGER),localStorage.setItem("textStatsUses"+d,Number.MIN_SAFE_INTEGER),localStorage.setItem("ignoreStringsUses"+d,Number.MIN_SAFE_INTEGER),localStorage.setItem("unifiedUses"+d,Number.MIN_SAFE_INTEGER),localStorage.setItem("collapsedUses"+d,Number.MIN_SAFE_INTEGER),localStorage.setItem("realTimeUses"+d,Number.MIN_SAFE_INTEGER),localStorage.setItem("syntaxHighlightUses"+d,Number.MIN_SAFE_INTEGER),localStorage.setItem("exportXlsxUses"+d,Number.MIN_SAFE_INTEGER),localStorage.setItem("exportPdfUses"+d,Number.MIN_SAFE_INTEGER),window.addEventListener("DOMContentLoaded",()=>{setInterval(()=>{var e=document.querySelectorAll("form > .hide-print");0!==e.length&&e.forEach(e=>{e.remove()})},100)});
+dictionary.cambridge.org#%#!function(){function e(e){try{if(e.tagName!=='SCRIPT')return!1;if((e.src||'').includes('html-load.com/loader.min.js')||e.hasAttribute('nowprocket')||(e.textContent||'').indexOf('function t(o,e){var r=n()')>=0)return!0}catch(t){}return!1}document.querySelectorAll('script').forEach(t=>{e(t)&&t.parentNode.removeChild(t)}),new MutationObserver(t=>{t.forEach(t=>{t.addedNodes.forEach(t=>{t.nodeType===Node.ELEMENT_NODE&&t.tagName==='SCRIPT'&&e(t)&&t.parentNode.removeChild(t)})})}).observe(document.documentElement,{childList:!0,subtree:!0});var t=window.fetch;window.fetch=function(e,r){try{var n=typeof e==='string'?e:e.url;if(n&&n.includes('error-report.com'))return Promise.reject(Error('Blocked by client script'))}catch(o){}return t.apply(this,arguments)}}();
+diffchecker.com#%#var d=new Date;d='-'+d.getMonth()+'-'+d.getFullYear(),localStorage.setItem('closedDiffDesktopBanner',!0),localStorage.setItem('alreadySawHomepageModal',!0),localStorage.setItem('explainUses'+d,Number.MIN_SAFE_INTEGER),localStorage.setItem('mergeUses'+d,Number.MIN_SAFE_INTEGER),localStorage.setItem('textDiffLevelUses'+d,Number.MIN_SAFE_INTEGER),localStorage.setItem('textStatsUses'+d,Number.MIN_SAFE_INTEGER),localStorage.setItem('ignoreStringsUses'+d,Number.MIN_SAFE_INTEGER),localStorage.setItem('unifiedUses'+d,Number.MIN_SAFE_INTEGER),localStorage.setItem('collapsedUses'+d,Number.MIN_SAFE_INTEGER),localStorage.setItem('realTimeUses'+d,Number.MIN_SAFE_INTEGER),localStorage.setItem('syntaxHighlightUses'+d,Number.MIN_SAFE_INTEGER),localStorage.setItem('exportXlsxUses'+d,Number.MIN_SAFE_INTEGER),localStorage.setItem('exportPdfUses'+d,Number.MIN_SAFE_INTEGER),window.addEventListener('DOMContentLoaded',()=>{setInterval(()=>{var e=document.querySelectorAll('form > .hide-print');e.length!==0&&e.forEach(e=>{e.remove()})},100)});
 filespayouts.com#%#Object.defineProperty(window,'userAgent',{value:'mobi',writable:!1});
 frdl.hk,frdl.io,frdl.my,frdl.pw,frdl.to,fredl.ru,freedl.ink#%#window.addEventListener('load',()=>{var e=document.getElementById('download_free');e!==null&&(e.value=1)});
 fullboys.com,rimsgay.com#%#window.addEventListener('DOMContentLoaded',()=>{var n=(n)=>{var o=document.querySelector(n);if(o!==null){var e=$._data(o,'events');return!!e&&!!e.click}return!1},o=setInterval(()=>{typeof $==='function'&&typeof $.isFunction==='function'&&((n('#loadMore')||n('#btn-download'))&&($('#loadMore').off('click'),$('#btn-download').off('click')),n('#loadMore')||n('#btn-download')||(clearInterval(o),typeof downloadURI==='function'&&$('#btn-download').click(()=>{downloadURI(document.getElementById('LinkMedia').value,document.getElementById('NameMedia').value)})))},100)});
@@ -19336,7 +19391,7 @@ mediafire.com#%#Object.defineProperties(window,{'isInRect':{value:void 0,writabl
 myreadingmanga.info#%#window.addEventListener('load',()=>{typeof player==='object'&&(player.volume(0),player.muted(!0),player.vastAds=()=>{},localStorage.setItem('volume',0))});
 nhentai.net#%#window.addEventListener('DOMContentLoaded',()=>{_n_app&&Object.defineProperties(_n_app,{'analytics':{value:void 0,writable:!1},'exoclick':{value:void 0,writable:!1},'popunder':{value:void 0,writable:!1},'xhamster':{value:void 0,writable:!1}})});
 online-python.com#%#localStorage.setItem('theme','dark');
-onlinegdb.com#%#var t=setInterval(()=>{typeof savefile==='function'&&(Object.defineProperty(window,'savefile',{value:()=>{return!0},writable:!1}),$("#control-btn-save").off("click"),$("#control-btn-save").on("click",()=>{shareCode(!0)}),clearInterval(t))},100);Object.defineProperties(window,{'no_ads':{value:!0,writable:!1},'check_fallback_ad_timer':{value:void 0,writable:!1},'check_fallback_ad':{value:()=>{},writable:!1},'check_fallback_ad_helper':{value:()=>{},writable:!1},'repalce_fallback_ad':{value:()=>{},writable:!1},'track_event':{value:()=>{},writable:!1}});
+onlinegdb.com#%#var t=setInterval(()=>{typeof savefile==='function'&&(Object.defineProperty(window,'savefile',{value:()=>{return!0},writable:!1}),$('#control-btn-save').off('click'),$('#control-btn-save').on('click',()=>{shareCode(!0)}),clearInterval(t))},100);Object.defineProperties(window,{'no_ads':{value:!0,writable:!1},'check_fallback_ad_timer':{value:void 0,writable:!1},'check_fallback_ad':{value:()=>{},writable:!1},'check_fallback_ad_helper':{value:()=>{},writable:!1},'repalce_fallback_ad':{value:()=>{},writable:!1},'track_event':{value:()=>{},writable:!1}});
 onlinetexttools.com#%#window.addEventListener('DOMContentLoaded',()=>{document.body.dataset.is_premium='True',document.body.dataset.discount_modal='False';var e=document.querySelectorAll('[data-subscription="free"]');e.length!==0&&e.forEach(e=>e.dataset.subscription='premium'),(e=document.querySelector('button.widget-save-as'))!==null&&e.addEventListener('click',()=>{setTimeout(()=>{e.innerText='Download',e.disabled=!1},100)})});
 pass.proton.me#%#var oFetch=window.fetch;window.fetch=(...s)=>{return oFetch(...s).then(async s=>{var e=await s.clone().json();return e&&e.Access&&e.Access.Plan&&(e.Access.Plan.AliasLimit=null,e.Access.Plan.DisplayName='Proton Plus',e.Access.Plan.HideUpgrade=!0,e.Access.Plan.InternalName='plus',e.Access.Plan.TotpLimit=null,e.Access.Plan.Type='plus',e.Access.Plan.VaultLimit=null),new Response(JSON.stringify(e),{status:s.status,statusText:s.statusText,headers:s.headers})})};
 play.google.com#%#window.addEventListener('DOMContentLoaded',()=>{setInterval(()=>{var e=document.querySelector('textarea[maxlength="500"]');e!==null&&(e.maxLength=5e3)},1e3)});
@@ -19351,7 +19406,7 @@ turbobit.net,webtoons.com#%#window.addEventListener('DOMContentLoaded',()=>{var 
 twitter.com#%#document.cookie='night_mode=1;domain=.twitter.com',localStorage.setItem('volume',.01);
 twitter.com,x.com#%#!(()=>{var e=(e,r)=>{for(var t=[],i=Object.entries(e);i.length!==0;){var[s,a]=i.pop();r.includes(s)&&t.push(a),a&&typeof a==='object'&&i.push(...Object.entries(a))}return t},r=JSON.parse;Object.defineProperty(JSON,'parse',{value:t=>{var i;try{(i=r(t))&&((r=>{e(r,['media']).forEach(e=>{if(Array.isArray(e))for(var r=e.length;--r>=0;){var t=e[r];typeof t==='object'&&(delete t.sensitive_media_warning,t.ext_sensitive_media_warning=null)}}),e(r,['legacy']).forEach(e=>{e&&e.hasOwnProperty('possibly_sensitive')&&typeof e.possibly_sensitive==='boolean'&&(e.possibly_sensitive=!1)})})(i),(r=>{var t=/^(promoted-tweet|pinned-tweets|who-to-subscribe)/;e(r,['entries']).forEach(e=>{if(Array.isArray(e))for(var r=e.length;--r>=0;)t.test(e[r].entryId)&&e.splice(r,1)})})(i),(r=>{var t=/promoted_?metadata/gi;e(r,['items']).forEach(r=>{if(Array.isArray(r))for(var i=r.length;--i>=0;)e(r[i],['item']).forEach(s=>{e(s,['itemContent']).forEach(e=>{e&&Object.keys(e).some(e=>t.test(e))&&r.splice(i,1)})})})})(i))}catch(e){console.error(e)}return i},writable:!1})})();
 waaw.to#%#window.open=void 0,window.doSecondPop=void 0,window.detectZoom=void 0;
-www-y2mate.com,y2mate.com,y2mate.gg,y2mate.lol,youtubepp.com#%#Object.defineProperties(window,{'clickAds':{value:{},writable:!1},'da_load_qc':{value:!0,writable:!1},'load_qc2mate':{value:()=>{return!0},writable:!1},'m_banner_app':{value:{},writable:!1}});
+www-y2mate.com,y2mate.lol#%#Object.defineProperties(window,{clickAds:{value:{},writable:!1},da_load_qc:{value:!0,writable:!1},load_qc2mate:{value:()=>!0,writable:!1},m_banner_app:{value:{},writable:!1}}),window.open=void 0;
 x.com#%#document.cookie='night_mode=1;domain=.x.com',localStorage.setItem('volume',.01);
 xhaccess.com#%#document.cookie='ts_popunder=true;domain=.xhaccess.com',document.cookie='ts_popunder2=true;domain=.xhaccess.com';
 xhaccess.com,xhamster.com,xhamster.desi,xhamster2.com#%#window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelector('html.desktop');e!==null&&e.classList.add('video-page--large-mode'),(e=document.getElementById('player-container'))!==null&&e.classList.add('xplayer-large-mode')});
@@ -19376,7 +19431,7 @@ mail.yahoo.com#?#a[href^="https://b.gemini.yahoo.com/mbclk?"][target="_blank"]
 mail.yahoo.com#?#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
 mail.yahoo.com#?#div[data-test-id="pencil-ad"]
 mail.yahoo.com#?#div[data-test-id="video-container"]
-###fbox-background,.ad,.ad-300,.ad-box,.ad-choices,.ad-container,.adbox,.admz,.ads,.banner,.cu-container,.dle_b_yandex,.float-ck,.imgac,.js-consent-banner,.med,.pl-carousel-wrapper,.sidebar-ad,.top-ads-container,[class$="-ads" i]:not(:has(> div[poster] > video)),[class$="_ads" i],[class*="-ads-" i],[class*="300x250" i],[class*="_ads_" i],[class*="ad-wrapper" i],[class*="adsbygoogle" i],[class*="adsbyvli" i],[class*="adslot" i],[class*="advertisement" i],[class*="advertising" i],[class*="adwrapper" i],[class*="catfix" i],[class*="exoclick" i],[class*="ezoic" i],[class*="google-ad" i],[class*="pb-f-ads" i],[class*="quangcao" i],[class*="revamp" i],[class*="sam-slot" i],[class*="sponsor" i],[class*="taitro" i],[class^="ad-top" i],[class^="ads" i],[class^="apreload-popup" i],[class^="catfish" i],[class^="inx-" i],[data-cid="TOP_PLA" i],[href*="bet"] img[src*=".gif"],[href*="doubleclick.net"],[href*="googlesyndication.com"],[id$="-ads" i],[id$="_ads" i],[id*="adblock" i],[id*="advertising" i],[id*="banner" i],[id*="catfish" i],[id*="exoclick" i],[id*="ezoic" i],[id*="gpt-ad" i],[id*="PixFuture" i],[id*="quangcao" i],[id*="ScriptRoot" i],[id*="sponsor" i],[id^="adm-slot" i],[id^="admzone" i],[id^="ads" i],[id^="advert" i],[id^="rf" i],[rel*="sponsored" i],[rel="nofollow"][target="_blank"][href*="?invitecode=" i],[rel="nofollow"][target="_blank"][href*="bet"],[rel="nofollow"][target="_blank"][href*="Register?a=" i],[rel="nofollow"][target="_blank"][rel="nofollow"] img[src*=".quoracdn.net"],div[data-id^="CarouselPLA"],img[src$=".gif"][alt="ad"]
+###fbox-background,.ad,.ad-300,.ad-box,.ad-choices,.ad-container,.adbox,.admz,.ads,.banner,.cu-container,.dle_b_yandex,.float-ck,.imgac,.js-consent-banner,.med,.pl-carousel-wrapper,.sidebar-ad,.top-ads-container,[class$="-ads" i]:not(:has(> div[poster] > video)),[class$="_ads" i],[class*="-ads-" i],[class*="300x250" i],[class*="_ads_" i],[class*="ad-wrapper" i],[class*="adsbygoogle" i],[class*="adsbyvli" i],[class*="adslot" i],[class*="advertisement" i],[class*="advertising" i],[class*="adwrapper" i],[class*="catfix" i],[class*="exoclick" i],[class*="ezoic" i],[class*="google-ad" i],[class*="pb-f-ads" i],[class*="quangcao" i],[class*="revamp" i],[class*="sam-slot" i],[class*="sponsor" i],[class*="taitro" i],[class^="ad-top" i],[class^="ads" i],[class^="apreload-popup" i],[class^="catfish" i],[class^="inx-" i],[data-cid="TOP_PLA" i],[href*="bet"] img[src*=".gif"],[href*="doubleclick.net"],[href*="googlesyndication.com"],[id$="-ads" i],[id$="_ads" i],[id*="adblock" i],[id*="advertising" i],[id*="banner" i],[id*="catfish" i],[id*="exoclick" i],[id*="ezoic" i],[id*="gpt-ad" i],[id*="PixFuture" i],[id*="quangcao" i],[id*="ScriptRoot" i],[id*="sponsor" i],[id^="adm-slot" i],[id^="admzone" i],[id^="ads" i],[id^="advert" i],[rel*="sponsored" i],[rel="nofollow"][target="_blank"][href*="?invitecode=" i],[rel="nofollow"][target="_blank"][href*="bet"],[rel="nofollow"][target="_blank"][href*="Register?a=" i],[rel="nofollow"][target="_blank"][rel="nofollow"] img[src*=".quoracdn.net"],div[data-id^="CarouselPLA"],img[src$=".gif"][alt="ad"]
 9gag.com###stream-0 > article:last-child,#stream-1 > article.post-cell:nth-child(2),#stream-2 > article:nth-child(2),.inline-ad-container,.signup-list-banner,section.block-ad,section.salt-container,[id*="sidebar-stream" i] > h4:first-child
 anime3s.com,anime6.site##div.jw-logo
 animet.net###inx-content,#inx-overlay,.gnarty-offads,.gnartyx-offads
