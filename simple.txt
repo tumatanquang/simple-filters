@@ -419,6 +419,8 @@
 ||client.crisp.chat^
 ||auldbosh.click^
 ||bayamolupines.click^
+||bigpower.click^
+||xxd.bigpower.click^
 ||blueoyster.click^
 ||www.blueoyster.click^
 ||bratsfilt.click^
@@ -2285,6 +2287,8 @@
 ||agpkpuobjq.com^
 ||www.agpkpuobjq.com^
 ||agqoshfujku.com^
+||agtbfomriluf.com^
+||www.agtbfomriluf.com^
 ||ahfninqtaamj.com^
 ||ahftrokawda.com^
 ||www.ahftrokawda.com^
@@ -2782,6 +2786,7 @@
 ||ashhgo.com^
 ||go.ashhgo.com^
 ||asiacpx.com^
+||askdriver.com^
 ||aslimasti.com^
 ||www.aslimasti.com^
 ||asluvdiscon.com^
@@ -2872,6 +2877,8 @@
 ||ncc.avast.com^
 ||avcguvqizap.com^
 ||www.avcguvqizap.com^
+||avhlwuotq.com^
+||www.avhlwuotq.com^
 ||aviatorreproducesauciness.com^
 ||aviewrodlet.com^
 ||avlm3.com^
@@ -2928,6 +2935,8 @@
 ||awxzisojpm.com^
 ||axbdwahu.com^
 ||www.axbdwahu.com^
+||axbfisodgor.com^
+||www.axbfisodgor.com^
 ||axhkkigc.com^
 ||www.axhkkigc.com^
 ||axhoqjpimjfo.com^
@@ -3092,6 +3101,8 @@
 ||basa77.com^
 ||basnn14.com^
 ||basnn15.com^
+||batalbaczf.com^
+||www.batalbaczf.com^
 ||batescaup.com^
 ||bathingstage.com^
 ||batteusp2hilenor.com^
@@ -4268,6 +4279,8 @@
 ||server.cpmstar.com^
 ||cpykudhagov.com^
 ||www.cpykudhagov.com^
+||cpylzuozp.com^
+||www.cpylzuozp.com^
 ||cqnyouhxqpimkjj.com^
 ||cqrvwq.com^
 ||s.cqrvwq.com^
@@ -5560,6 +5573,7 @@
 ||fleraprt.com^
 ||flibzee.com^
 ||www.flibzee.com^
+||t.flickr.com^
 ||flipboard.com^
 ||cdn.flipboard.com^
 ||flippantpoetry.com^
@@ -5586,6 +5600,8 @@
 ||ttclub.fly88h.com^
 ||flyblowfilippi.com^
 ||yc.flyblowfilippi.com^
+||fmealwtuctul.com^
+||www.fmealwtuctul.com^
 ||fmiqcupku.com^
 ||www.fmiqcupku.com^
 ||fmiruvozqvac.com^
@@ -7112,6 +7128,8 @@
 ||j56y.com^
 ||ja2n2u30a6rgyd.com^
 ||jaavnacsdw.com^
+||jabackonf.com^
+||www.jabackonf.com^
 ||jackpot108i.com^
 ||jacsmuvkymw.com^
 ||jactakxzyo.com^
@@ -7385,6 +7403,8 @@
 ||kgdvs9ov3l2aasw4nuts.com^
 ||kgfjrb711.com^
 ||khcmtkfbyog.com^
+||khegawha.com^
+||www.khegawha.com^
 ||khirhdigjgxccm.com^
 ||khuyenmaihappi.com^
 ||vnwelcome.khuyenmaihappi.com^
@@ -8064,6 +8084,8 @@
 ||www.mflztgubvfo.com^
 ||mfroute.com^
 ||t.mfroute.com^
+||mfuacwbpooq.com^
+||www.mfuacwbpooq.com^
 ||mfueffpe.com^
 ||mfuodmpu.com^
 ||www.mfuodmpu.com^
@@ -8695,6 +8717,8 @@
 ||nunarzdiwdix.com^
 ||www.nunarzdiwdix.com^
 ||nuniceberg.com^
+||nunoqsavwo.com^
+||www.nunoqsavwo.com^
 ||nunpceatffub.com^
 ||nuqabjsurhix.com^
 ||nuqozsvweq.com^
@@ -8773,6 +8797,8 @@
 ||ocnlitnreabp.com^
 ||ocpolgam.com^
 ||www.ocpolgam.com^
+||ocptfilid.com^
+||www.ocptfilid.com^
 ||ocsjkbpjoup.com^
 ||octafx.com^
 ||www.octafx.com^
@@ -8875,6 +8901,8 @@
 ||m.okfunok.com^
 ||okjlteobj.com^
 ||www.okjlteobj.com^
+||okjqawahxv.com^
+||www.okjqawahxv.com^
 ||oklstupu.com^
 ||okltuhoqvdk.com^
 ||www.okltuhoqvdk.com^
@@ -10419,6 +10447,8 @@
 ||www.ryvjgiyoxomii.com^
 ||rzuajmcaz.com^
 ||www.rzuajmcaz.com^
+||rzuohgfwyoxx.com^
+||www.rzuohgfwyoxx.com^
 ||s-onetag.com^
 ||beacon.s-onetag.com^
 ||geo-location.s-onetag.com^
@@ -11826,6 +11856,8 @@
 ||www.tweqgvmnjdjexw.com^
 ||twextavtatir.com^
 ||www.twextavtatir.com^
+||twezugabvd.com^
+||www.twezugabvd.com^
 ||twiddlybastian.com^
 ||ym.twiddlybastian.com^
 ||twigwisp.com^
@@ -11843,6 +11875,8 @@
 ||cdn.twinrdsrv.com^
 ||twinrdsyn.com^
 ||twinrdsyte.com^
+||twiqinmaba.com^
+||www.twiqinmaba.com^
 ||twistconcept.com^
 ||twitob.com^
 ||x.twitob.com^
@@ -12798,6 +12832,8 @@
 ||ad.wsod.com^
 ||wststatic.com^
 ||wtgufgmma.com^
+||wtyatnwr.com^
+||www.wtyatnwr.com^
 ||wtymhapirfaz.com^
 ||wtyovtolwg.com^
 ||www.wtyovtolwg.com^
@@ -12957,6 +12993,8 @@
 ||xuan5.com^
 ||admin.xuan5.com^
 ||sdk.xuan5.com^
+||xubbublumamr.com^
+||www.xubbublumamr.com^
 ||xubosjvatott.com^
 ||www.xubosjvatott.com^
 ||xubzkiajd.com^
@@ -14519,6 +14557,8 @@
 ||trk.jaclottens.live^
 ||janewhyask.live^
 ||y1uy13f.janewhyask.live^
+||kong88c.live^
+||ads.kong88c.live^
 ||kyseral.live^
 ||lieroselot.live^
 ||y1uy13f.lieroselot.live^
@@ -15855,6 +15895,9 @@
 ||smartadnetwork.net^
 ||delivery.smartadnetwork.net^
 ||smatr.net^
+||snplow.net^
+||mini.snplow.net^
+||com-flickr-prod1.mini.snplow.net^
 ||soliads.net^
 ||sootoarathus.net^
 ||sp-prod.net^
@@ -17024,6 +17067,7 @@
 ||api.inmense.site^
 ||j56y.site^
 ||jd56.site^
+||jhavgy.site^
 ||k9gj.site^
 ||kickoffo.site^
 ||api.kickoffo.site^
@@ -17086,6 +17130,7 @@
 ||pringed.space^
 ||silencyboubous.space^
 ||tmematapyramid.space^
+||topmovies.space^
 ||vidsreal.space^
 ||zimmishakam.space^
 ||zoccoscarred.space^
@@ -19318,7 +19363,7 @@ wpconsent
 [$domain=facebook.com,path=/adsmanager]#$#body { display: block !important; }
 [$domain=facebook.com,path=/adsmanager]#$#body > .AdBox.Ad.advert { display: block !important; }
 [$domain=facebook.com,path=/adsmanager]#$#body > .AdBox.Ad.advert ~ div[class] { display: block !important; }
-facebook.com,fb.com#%#!function(){var e=new MutationObserver(function(){var m=document.querySelectorAll("div[id^='mount_']");{var e;e=0<m.length?document.querySelectorAll('div[role="feed"] > div[data-pagelet^="FeedUnit"] > div[class]:not([style*="height"])'):document.querySelectorAll('[id^="substream"] > div:not(.hidden_elem) div[id^="hyperfeed_story_id"]')}e.forEach(function(e){function n(e,n){for(0<m.length?"0"==(h=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span > span > span[data-content]')).length&&(h=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span[aria-label]')):h=e.querySelectorAll(".userContentWrapper h5 + div[data-testid] a [class] [class]"),socheck=0;socheck<h.length;socheck++)h[socheck].innerText.contains(n)&&(p=["1"],d=["1"],u=["1"],i=r=l=1,socheck=h.length)}function t(e,n,t,c,a){for(0<m.length?"0"==(h=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span > span > span[data-content]')).length&&(h=e.querySelectorAll('div[role="article"] span[dir="auto"] div[role="button"][tabindex]')):h=e.querySelectorAll(".userContentWrapper h5 + div[data-testid] > span a > [class] [class]"),"0"==h.length&&(h=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span[aria-label]')),socheck=0;socheck<h.length;socheck++){spancheck=0,1<h.length?(spancheck=h[socheck].querySelectorAll("span")[0],0==spancheck&&(spancheck=h[socheck].querySelectorAll("b")[0])):(spancheck=h[0].querySelectorAll("span")[socheck],0==spancheck&&(spancheck=h[0].querySelectorAll("b")[socheck]));var o=h[0];if(0!=spancheck&&spancheck){if(2==spancheck.children.length&&0<m.length)for(spancheck=spancheck.querySelectorAll("span:not([style])"),spcheck=0;spcheck<spancheck.length;spcheck++)spancheck[spcheck].innerText.contains(n)?s=1:!spancheck[spcheck].innerText.contains(t)||0!=spancheck[spcheck].offsetTop||spancheck[spcheck].innerText.contains(n)||spancheck[spcheck].innerText.contains(c)||spancheck[spcheck].innerText.contains(a)?!spancheck[spcheck].innerText.contains(c)||0!=spancheck[spcheck].offsetTop||spancheck[spcheck].innerText.contains(t)||spancheck[spcheck].innerText.contains(n)||spancheck[spcheck].innerText.contains(a)?!spancheck[spcheck].innerText.contains(a)||0!=spancheck[spcheck].offsetTop||spancheck[spcheck].innerText.contains(t)||spancheck[spcheck].innerText.contains(c)||spancheck[spcheck].innerText.contains(n)||(u=["1"],i=1):(d=["1"],r=1):(p=["1"],l=1);0==m.length&&((!(spancheck.innerText.contains(n)&&0==spancheck.offsetTop||h[0].innerText.contains(n)&&0==h[0].offsetTop)||spancheck.innerText.contains(t)&&!h[0].innerText.contains(t)||spancheck.innerText.contains(c)&&!h[0].innerText.contains(c)||spancheck.innerText.contains(a)&&!h[0].innerText.contains(a))&&(!o.innerText.contains(n)||0!=o.offsetTop||o.innerText.contains(t)||o.innerText.contains(c)||o.innerText.contains(a))?!spancheck.innerText.contains(t)||0!=spancheck.offsetTop||spancheck.innerText.contains(n)||spancheck.innerText.contains(c)||spancheck.innerText.contains(a)?!spancheck.innerText.contains(c)||0!=spancheck.offsetTop||spancheck.innerText.contains(t)||spancheck.innerText.contains(n)||spancheck.innerText.contains(a)?!spancheck.innerText.contains(a)||0!=spancheck.offsetTop||spancheck.innerText.contains(t)||spancheck.innerText.contains(c)||spancheck.innerText.contains(n)||(u=["1"],i=1):(d=["1"],r=1):(p=["1"],l=1):s=1)}}}function c(e,n,t,c,a){u=0<m.length?(h=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span span[data-content='+n+"]"),p=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span span[data-content='+t+"]"),d=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span span[data-content='+c+"]"),e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span span[data-content='+a+"]")):(h=e.querySelectorAll(".userContentWrapper h5 + div[data-testid] a [data-content="+n+"]"),p=e.querySelectorAll(".userContentWrapper h5 + div[data-testid] a [data-content="+t+"]"),d=e.querySelectorAll(".userContentWrapper h5 + div[data-testid] a [data-content="+c+"]"),e.querySelectorAll(".userContentWrapper h5 + div[data-testid] a [data-content="+a+"]"))}var s=0,l=0,r=0,i=0,h=0,p=0,d=0,u=0,a=e.querySelectorAll("div[style='width: 100%'] > a[href*='oculus.com/quest'] > div"),o=document.querySelector("[lang]"),k=document.querySelectorAll("link[rel='preload'][href*='/l/']");o=o?document.querySelector("[lang]").lang:"en";var y,g=e.querySelectorAll('a[ajaxify*="ad_id"] > span'),f=e.querySelectorAll('a[href*="ads/about"]'),S=e.querySelectorAll('a[href*="https://www.facebook.com/business/help"]');if("display: none !important;"!=e.getAttribute("style")&&!e.classList.contains("hidden_elem")&&(0<g.length||0<f.length||0<S.length?(T+=1,0<m.length?(""==(y=e.querySelectorAll("a[href]")[0].innerText)&&(y=e.querySelectorAll("a[href]")[1].innerText),""==y&&(y=e.querySelectorAll("a[href]")[0].querySelectorAll("a[aria-label]")[0].getAttribute("aria-label"))):y=e.querySelectorAll("a[href]")[2].innerText,console.log("--------"),console.log("Ad hidden from: "+y),console.log("Total ads hidden: "+T),console.log("F length: "+g.length),console.log("H length: "+f.length),console.log("I length (Paid partnership): "+S.length),console.log("--------"),e.style="display:none!important;"):0<a.length?(T+=1,y="Facebook",console.log("--------"),console.log("Ad hidden from: "+y),console.log("Total ads hidden: "+T),console.log("Non-declared ad"),console.log("--------"),e.style="display:none!important;"):"af"==o?n(e,"Geborg"):"de"==o||"nl"==o?c(e,"G","e","s","n"):"am"==o?n(e,"የተከፈለበት ማስታወቂያ"):"ar"==o?n(e,"مُموَّل"):"as"==o?n(e,"পৃষ্ঠপোষকতা কৰা"):"az"==o?n(e,"Sponsor dəstəkli"):"co"==o?n(e,"Spunsurizatu"):"bs"==o||"sl"==o||"cs"==o?c(e,"S","p","z","n"):"da"==o||"en"==o||"et"==o||"fy"==o||"it"==o||"ku"==o||"nb"==o||"nn"==o||"pl"==o||"sq"==o||"sv"==o||"zz"==o?0<m.length?k[0].href.contains("en_UD")?n(e,"pəɹosuodS"):k[0].href.contains("ja_KS")?n(e,"広告"):k[0].href.contains("tz_MA")?n(e,"ⵉⴷⵍ"):k[0].href.contains("sy_SY")?n(e,"ܒܘܕܩܐ ܡܡܘܘܢܐ"):k[0].href.contains("cb_IQ")?n(e,"پاڵپشتیکراو"):k[0].href.contains("ar_AR")?n(e,"مُموَّل"):k[0].href.contains("sz_PL")?n(e,"Szpōnzorowane"):k[0].href.contains("eo_EO")?n(e,"Reklamo"):k[0].href.contains("es_LA")?c(e,"P","u","c","d"):(c(e,"S","p","s","n"),"0"==h.length&&t(e,"S","p","s","n"),"0"==h.length&&n(e,"Sponsored")):document.querySelector("body").className.includes("Locale_en_UD")?n(e,"pəɹosuodS"):document.querySelector("body").className.includes("ja_KS")?n(e,"広告"):document.querySelector("body").className.includes("tz_MA")?n(e,"ⵉⴷⵍ"):document.querySelector("body").className.includes("sy_SY")?n(e,"ܒܘܕܩܐ ܡܡܘܘܢܐ"):document.querySelector("body").className.includes("cb_IQ")?n(e,"پاڵپشتیکراو"):document.querySelector("body").className.includes("ar_AR")?n(e,"مُموَّل"):document.querySelector("body").className.includes("sz_PL")?n(e,"Szpōnzorowane"):document.querySelector("body").className.includes("eo_EO")?n(e,"Reklamo"):document.querySelector("body").className.includes("es_LA")?c(e,"P","u","c","d"):(c(e,"S","p","s","n"),"0"==h.length&&t(e,"S","p","s","n")):"be"==o?n(e,"Рэклама"):"bg"==o?n(e,"Спонсорирано"):"mk"==o?n(e,"Спонзорирано"):"br"==o?n(e,"Paeroniet"):"ca"==o?n(e,"Patrocinat"):"gl"==o||"pt"==o?(n(e,"Patrocinado"),"0"==l&&c(e,"P","a","c","o")):"bn"==o?n(e,"সৌজন্যে"):"cb"==o?n(e,"پاڵپشتیکراو"):"cx"==o?c(e,"G","i","s","n"):"cy"==o?n(e,"Noddwyd"):"el"==o?n(e,"Χορηγούμενη"):"eo"==o?n(e,"Reklamo"):"es"==o?c(e,"P","u","c","d"):"eu"==o?n(e,"Babestua"):"fa"==o?n(e,"دارای پشتیبانی مالی"):"ff"==o?n(e,"Yoɓanaama"):"fi"==o?n(e,"Sponsoroitu"):"fo"==o?n(e,"Stuðlað"):"fr"==o?0<m.length?k[0].href.contains("fr_FR")?c(e,"S","p","s","n"):c(e,"C","o","m","n"):document.querySelector("body").className.includes("Locale_fr_FR")?c(e,"S","p","s","n"):c(e,"C","o","m","n"):"ga"==o?n(e,"Urraithe"):"gn"==o?n(e,"Oñepatrosinapyre"):"gu"==o?n(e,"પ્રાયોજિત"):"ha"==o?n(e,"Daukar Nauyi"):"he"==o?n(e,"ממומן"):"hr"==o?n(e,"Plaćeni oglas"):"ht"==o?n(e,"Peye"):"ne"==o||"mr"==o||"hi"==o?n(e,"प्रायोजित"):"hu"==o?c(e,"H","i","r","d"):"hy"==o?n(e,"Գովազդային"):"id"==o?c(e,"B","e","p","n"):"is"==o?n(e,"Kostað"):"ja"==o?n(e,"広告"):"ms"==o?n(e,"Ditaja"):"jv"==o?n(e,"Disponsori"):"ka"==o?n(e,"რეკლამა"):"kk"==o?n(e,"Демеушілік көрсеткен"):"km"==o?n(e,"បានឧបត្ថម្ភ"):"kn"==o?n(e,"ಪ್ರಾಯೋಜಿತ"):"ko"==o?n(e,"Sponsored"):"ky"==o?n(e,"Демөөрчүлөнгөн"):"lo"==o?n(e,"ຜູ້ສະໜັບສະໜູນ"):"lt"==o?n(e,"Remiama"):"lv"==o?n(e,"Apmaksāta reklāma"):"mg"==o?n(e,"Misy Mpiantoka"):"ml"==o?n(e,"സ്പോൺസർ ചെയ്തത്"):"mn"==o?n(e,"Ивээн тэтгэсэн"):"mt"==o?n(e,"Sponsorjat"):"my"==o?(n(e,"ပံ့ပိုးထားသည်"),"0"==l&&n(e,"အခပေးကြော်ငြာ")):"or"==o?n(e,"ପ୍ରଯୋଜିତ"):"pa"==o?n(e,"ਸਰਪ੍ਰਸਤੀ ਪ੍ਰਾਪਤ"):"ps"==o?n(e,"تمويل شوي"):"ro"==o?n(e,"Sponsorizat"):"ru"==o||"uk"==o?n(e,"Реклама"):"rw"==o?n(e,"Icyamamaza ndasukirwaho"):"sc"==o?n(e,"Patronadu de"):"si"==o?n(e,"අනුග්රාහක"):"sk"==o?n(e,"Sponzorované"):"sn"==o?n(e,"Zvabhadharirwa"):"so"==o?n(e,"La maalgeliyey"):"sr"==o?n(e,"Спонзорисано"):"sw"==o?n(e,"Imedhaminiwa"):"sy"==o?n(e,"ܒܘܕܩܐ ܡܡܘܘܢܐ"):"sz"==o?n(e,"Szpōnzorowane"):"ta"==o?n(e,"விளம்பரம்"):"te"==o?n(e,"ప్రాయోజితం చేయబడింది"):"tg"==o?n(e,"Бо сарпарастӣ"):"th"==o?n(e,"ได้รับการสนับสนุน"):"tl"==o?n(e,"May Sponsor"):"tr"==o?n(e,"Sponsorlu"):"tt"==o?n(e,"Хәйрияче"):"tz"==o?n(e,"ⵉⴷⵍ"):"ur"==o?n(e,"سپانسرڈ"):"uz"==o?n(e,"Reklama"):"vi"==o?n(e,"Được tài trợ"):"zh-Hans"==o?n(e,"赞助内容"):"zh-Hant"==o&&n(e,"贊助"),0<h.length&&0<p.length&&0<d.length&&0<u.length)){for(cont=0;cont<h.length;cont++)0<h[cont].offsetHeight&&(cont=h.length,s=1);for(cont1=0;cont1<p.length;cont1++)0<p[cont1].offsetHeight&&(cont1=p.length,l=1);for(cont2=0;cont2<d.length;cont2++)0<d[cont2].offsetHeight&&(cont2=d.length,r=1);for(cont3=0;cont3<u.length;cont3++)0<u[cont3].offsetHeight&&(cont3=u.length,i=1);1==s&&1==l&&1==r&&1==i&&(0<m.length&&""!=(y=e.querySelectorAll("a[href]")[1].innerText)||(y=e.querySelectorAll("a[href]")[2].innerText),T+=1,console.log("--------"),console.log("Ad hidden from: "+y),console.log("Total ads hidden: "+T),console.log("--------"),e.style="display:none!important;")}})}),T=0;e.observe(document.documentElement,{childList:!0,subtree:!0})}();
+facebook.com,fb.com#%#!function(){var e=new MutationObserver(function(){var m=document.querySelectorAll("div[id^='mount_']");{var e;e=m.length!==0?document.querySelectorAll('div[role="feed"] > div[data-pagelet^="FeedUnit"] > div[class]:not([style*="height"])'):document.querySelectorAll('[id^="substream"] > div:not(.hidden_elem) div[id^="hyperfeed_story_id"]')}e.forEach(function(e){function n(e,n){for(0<m.length?(h=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span > span > span[data-content]')).length===0&&(h=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span[aria-label]')):h=e.querySelectorAll(".userContentWrapper h5 + div[data-testid] a [class] [class]"),socheck=0;socheck<h.length;socheck++)h[socheck].innerText.contains(n)&&(p=["1"],d=["1"],u=["1"],i=r=l=1,socheck=h.length)}function t(e,n,t,c,a){for(0<m.length?(h=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span > span > span[data-content]')).length===0&&(h=e.querySelectorAll('div[role="article"] span[dir="auto"] div[role="button"][tabindex]')):h=e.querySelectorAll(".userContentWrapper h5 + div[data-testid] > span a > [class] [class]"),h.length===0&&(h=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span[aria-label]')),socheck=0;socheck<h.length;socheck++){spancheck=0,h.length>1?(spancheck=h[socheck].querySelectorAll("span")[0],0==spancheck&&(spancheck=h[socheck].querySelectorAll("b")[0])):(spancheck=h[0].querySelectorAll("span")[socheck],0==spancheck&&(spancheck=h[0].querySelectorAll("b")[socheck]));var o=h[0];if(0!=spancheck&&spancheck){if(spancheck.children.length===2&&m.length!==0)for(spancheck=spancheck.querySelectorAll("span:not([style])"),spcheck=0;spcheck<spancheck.length;spcheck++)spancheck[spcheck].innerText.contains(n)?s=1:!spancheck[spcheck].innerText.contains(t)||0!=spancheck[spcheck].offsetTop||spancheck[spcheck].innerText.contains(n)||spancheck[spcheck].innerText.contains(c)||spancheck[spcheck].innerText.contains(a)?!spancheck[spcheck].innerText.contains(c)||0!=spancheck[spcheck].offsetTop||spancheck[spcheck].innerText.contains(t)||spancheck[spcheck].innerText.contains(n)||spancheck[spcheck].innerText.contains(a)?!spancheck[spcheck].innerText.contains(a)||0!=spancheck[spcheck].offsetTop||spancheck[spcheck].innerText.contains(t)||spancheck[spcheck].innerText.contains(c)||spancheck[spcheck].innerText.contains(n)||(u=["1"],i=1):(d=["1"],r=1):(p=["1"],l=1);0==m.length&&((!(spancheck.innerText.contains(n)&&0==spancheck.offsetTop||h[0].innerText.contains(n)&&0==h[0].offsetTop)||spancheck.innerText.contains(t)&&!h[0].innerText.contains(t)||spancheck.innerText.contains(c)&&!h[0].innerText.contains(c)||spancheck.innerText.contains(a)&&!h[0].innerText.contains(a))&&(!o.innerText.contains(n)||0!=o.offsetTop||o.innerText.contains(t)||o.innerText.contains(c)||o.innerText.contains(a))?!spancheck.innerText.contains(t)||0!=spancheck.offsetTop||spancheck.innerText.contains(n)||spancheck.innerText.contains(c)||spancheck.innerText.contains(a)?!spancheck.innerText.contains(c)||0!=spancheck.offsetTop||spancheck.innerText.contains(t)||spancheck.innerText.contains(n)||spancheck.innerText.contains(a)?!spancheck.innerText.contains(a)||0!=spancheck.offsetTop||spancheck.innerText.contains(t)||spancheck.innerText.contains(c)||spancheck.innerText.contains(n)||(u=["1"],i=1):(d=["1"],r=1):(p=["1"],l=1):s=1)}}}function c(e,n,t,c,a){u=0<m.length?(h=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span span[data-content='+n+"]"),p=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span span[data-content='+t+"]"),d=e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span span[data-content='+c+"]"),e.querySelectorAll('div[role="article"] span[dir="auto"] > a > span span[data-content='+a+"]")):(h=e.querySelectorAll(".userContentWrapper h5 + div[data-testid] a [data-content="+n+"]"),p=e.querySelectorAll(".userContentWrapper h5 + div[data-testid] a [data-content="+t+"]"),d=e.querySelectorAll(".userContentWrapper h5 + div[data-testid] a [data-content="+c+"]"),e.querySelectorAll(".userContentWrapper h5 + div[data-testid] a [data-content="+a+"]"))}var s=0,l=0,r=0,i=0,h=0,p=0,d=0,u=0,a=e.querySelectorAll("div[style='width: 100%'] > a[href*='oculus.com/quest'] > div"),o=document.querySelector("[lang]"),k=document.querySelectorAll("link[rel='preload'][href*='/l/']");o=o?document.querySelector("[lang]").lang:"en";var y,g=e.querySelectorAll('a[ajaxify*="ad_id"] > span'),f=e.querySelectorAll('a[href*="ads/about"]'),S=e.querySelectorAll('a[href*="https://www.facebook.com/business/help"]');if("display: none !important;"!=e.getAttribute("style")&&!e.classList.contains("hidden_elem")&&(0<g.length||0<f.length||0<S.length?(T+=1,0<m.length?(""==(y=e.querySelectorAll("a[href]")[0].innerText)&&(y=e.querySelectorAll("a[href]")[1].innerText),""==y&&(y=e.querySelectorAll("a[href]")[0].querySelectorAll("a[aria-label]")[0].getAttribute("aria-label"))):y=e.querySelectorAll("a[href]")[2].innerText,console.log("--------"),console.log("Ad hidden from: "+y),console.log("Total ads hidden: "+T),console.log("F length: "+g.length),console.log("H length: "+f.length),console.log("I length (Paid partnership): "+S.length),console.log("--------"),e.style="display:none!important;"):0<a.length?(T+=1,y="Facebook",console.log("--------"),console.log("Ad hidden from: "+y),console.log("Total ads hidden: "+T),console.log("Non-declared ad"),console.log("--------"),e.style="display:none!important;"):"af"==o?n(e,"Geborg"):"de"==o||"nl"==o?c(e,"G","e","s","n"):"am"==o?n(e,"የተከፈለበት ማስታወቂያ"):"ar"==o?n(e,"مُموَّل"):"as"==o?n(e,"পৃষ্ঠপোষকতা কৰা"):"az"==o?n(e,"Sponsor dəstəkli"):"co"==o?n(e,"Spunsurizatu"):"bs"==o||"sl"==o||"cs"==o?c(e,"S","p","z","n"):"da"==o||"en"==o||"et"==o||"fy"==o||"it"==o||"ku"==o||"nb"==o||"nn"==o||"pl"==o||"sq"==o||"sv"==o||"zz"==o?0<m.length?k[0].href.contains("en_UD")?n(e,"pəɹosuodS"):k[0].href.contains("ja_KS")?n(e,"広告"):k[0].href.contains("tz_MA")?n(e,"ⵉⴷⵍ"):k[0].href.contains("sy_SY")?n(e,"ܒܘܕܩܐ ܡܡܘܘܢܐ"):k[0].href.contains("cb_IQ")?n(e,"پاڵپشتیکراو"):k[0].href.contains("ar_AR")?n(e,"مُموَّل"):k[0].href.contains("sz_PL")?n(e,"Szpōnzorowane"):k[0].href.contains("eo_EO")?n(e,"Reklamo"):k[0].href.contains("es_LA")?c(e,"P","u","c","d"):(c(e,"S","p","s","n"),"0"==h.length&&t(e,"S","p","s","n"),"0"==h.length&&n(e,"Sponsored")):document.querySelector("body").className.includes("Locale_en_UD")?n(e,"pəɹosuodS"):document.querySelector("body").className.includes("ja_KS")?n(e,"広告"):document.querySelector("body").className.includes("tz_MA")?n(e,"ⵉⴷⵍ"):document.querySelector("body").className.includes("sy_SY")?n(e,"ܒܘܕܩܐ ܡܡܘܘܢܐ"):document.querySelector("body").className.includes("cb_IQ")?n(e,"پاڵپشتیکراو"):document.querySelector("body").className.includes("ar_AR")?n(e,"مُموَّل"):document.querySelector("body").className.includes("sz_PL")?n(e,"Szpōnzorowane"):document.querySelector("body").className.includes("eo_EO")?n(e,"Reklamo"):document.querySelector("body").className.includes("es_LA")?c(e,"P","u","c","d"):(c(e,"S","p","s","n"),"0"==h.length&&t(e,"S","p","s","n")):"be"==o?n(e,"Рэклама"):"bg"==o?n(e,"Спонсорирано"):"mk"==o?n(e,"Спонзорирано"):"br"==o?n(e,"Paeroniet"):"ca"==o?n(e,"Patrocinat"):"gl"==o||"pt"==o?(n(e,"Patrocinado"),"0"==l&&c(e,"P","a","c","o")):"bn"==o?n(e,"সৌজন্যে"):"cb"==o?n(e,"پاڵپشتیکراو"):"cx"==o?c(e,"G","i","s","n"):"cy"==o?n(e,"Noddwyd"):"el"==o?n(e,"Χορηγούμενη"):"eo"==o?n(e,"Reklamo"):"es"==o?c(e,"P","u","c","d"):"eu"==o?n(e,"Babestua"):"fa"==o?n(e,"دارای پشتیبانی مالی"):"ff"==o?n(e,"Yoɓanaama"):"fi"==o?n(e,"Sponsoroitu"):"fo"==o?n(e,"Stuðlað"):"fr"==o?0<m.length?k[0].href.contains("fr_FR")?c(e,"S","p","s","n"):c(e,"C","o","m","n"):document.querySelector("body").className.includes("Locale_fr_FR")?c(e,"S","p","s","n"):c(e,"C","o","m","n"):"ga"==o?n(e,"Urraithe"):"gn"==o?n(e,"Oñepatrosinapyre"):"gu"==o?n(e,"પ્રાયોજિત"):"ha"==o?n(e,"Daukar Nauyi"):"he"==o?n(e,"ממומן"):"hr"==o?n(e,"Plaćeni oglas"):"ht"==o?n(e,"Peye"):"ne"==o||"mr"==o||"hi"==o?n(e,"प्रायोजित"):"hu"==o?c(e,"H","i","r","d"):"hy"==o?n(e,"Գովազդային"):"id"==o?c(e,"B","e","p","n"):"is"==o?n(e,"Kostað"):"ja"==o?n(e,"広告"):"ms"==o?n(e,"Ditaja"):"jv"==o?n(e,"Disponsori"):"ka"==o?n(e,"რეკლამა"):"kk"==o?n(e,"Демеушілік көрсеткен"):"km"==o?n(e,"បានឧបត្ថម្ភ"):"kn"==o?n(e,"ಪ್ರಾಯೋಜಿತ"):"ko"==o?n(e,"Sponsored"):"ky"==o?n(e,"Демөөрчүлөнгөн"):"lo"==o?n(e,"ຜູ້ສະໜັບສະໜູນ"):"lt"==o?n(e,"Remiama"):"lv"==o?n(e,"Apmaksāta reklāma"):"mg"==o?n(e,"Misy Mpiantoka"):"ml"==o?n(e,"സ്പോൺസർ ചെയ്തത്"):"mn"==o?n(e,"Ивээн тэтгэсэн"):"mt"==o?n(e,"Sponsorjat"):"my"==o?(n(e,"ပံ့ပိုးထားသည်"),"0"==l&&n(e,"အခပေးကြော်ငြာ")):"or"==o?n(e,"ପ୍ରଯୋଜିତ"):"pa"==o?n(e,"ਸਰਪ੍ਰਸਤੀ ਪ੍ਰਾਪਤ"):"ps"==o?n(e,"تمويل شوي"):"ro"==o?n(e,"Sponsorizat"):"ru"==o||"uk"==o?n(e,"Реклама"):"rw"==o?n(e,"Icyamamaza ndasukirwaho"):"sc"==o?n(e,"Patronadu de"):"si"==o?n(e,"අනුග්රාහක"):"sk"==o?n(e,"Sponzorované"):"sn"==o?n(e,"Zvabhadharirwa"):"so"==o?n(e,"La maalgeliyey"):"sr"==o?n(e,"Спонзорисано"):"sw"==o?n(e,"Imedhaminiwa"):"sy"==o?n(e,"ܒܘܕܩܐ ܡܡܘܘܢܐ"):"sz"==o?n(e,"Szpōnzorowane"):"ta"==o?n(e,"விளம்பரம்"):"te"==o?n(e,"ప్రాయోజితం చేయబడింది"):"tg"==o?n(e,"Бо сарпарастӣ"):"th"==o?n(e,"ได้รับการสนับสนุน"):"tl"==o?n(e,"May Sponsor"):"tr"==o?n(e,"Sponsorlu"):"tt"==o?n(e,"Хәйрияче"):"tz"==o?n(e,"ⵉⴷⵍ"):"ur"==o?n(e,"سپانسرڈ"):"uz"==o?n(e,"Reklama"):"vi"==o?n(e,"Được tài trợ"):"zh-Hans"==o?n(e,"赞助内容"):"zh-Hant"==o&&n(e,"贊助"),0<h.length&&0<p.length&&0<d.length&&0<u.length)){for(cont=0;cont<h.length;cont++)0<h[cont].offsetHeight&&(cont=h.length,s=1);for(cont1=0;cont1<p.length;cont1++)0<p[cont1].offsetHeight&&(cont1=p.length,l=1);for(cont2=0;cont2<d.length;cont2++)0<d[cont2].offsetHeight&&(cont2=d.length,r=1);for(cont3=0;cont3<u.length;cont3++)0<u[cont3].offsetHeight&&(cont3=u.length,i=1);1==s&&1==l&&1==r&&1==i&&(0<m.length&&""!=(y=e.querySelectorAll("a[href]")[1].innerText)||(y=e.querySelectorAll("a[href]")[2].innerText),T+=1,console.log("--------"),console.log("Ad hidden from: "+y),console.log("Total ads hidden: "+T),console.log("--------"),e.style="display:none!important;")}})}),T=0;e.observe(document.documentElement,{childList:!0,subtree:!0})}();
 facebook.com,fb.com#%#!function(){var b=0,d=[];new MutationObserver(function(){document.querySelectorAll("div[data-pagelet^=\"FeedUnit\"]:not([style*=\"display: none\"]), div[role=\"feed\"] > div:not([style*=\"display: none\"]), div[role=\"feed\"] > span:not([style*=\"display: none\"]), #ssrb_feed_start + div > div[class]:not([style*=\"display: none\"]), #ssrb_feed_start + div span > h3 ~ div[class]:not([style*=\"display: none\"]), #ssrb_feed_start + div h3~ div[class]:not([style*=\"display: none\"]), #ssrb_feed_start + div h3 ~ div > div[class]:not([style*=\"display: none\"]), div[role=\"main\"] div[class] > #ssrb_feed_start ~ div > h3 ~ div > div[class]:not([style*=\"display: none\"]), div[role=\"main\"] div > h3 ~ div > div[class]:not([style*=\"display: none\"]), #ssrb_feed_start + div > div > div[class]:not([style*=\"display: none\"]), div[role=\"main\"] div > h2 ~ div > div[class]:not([style*=\"display: none\"]), #ssrb_feed_start + div > div > div[class] > div:not([class], [id]) div:not([class], [id]):not([style*=\"display: none\"]), div[role=\"main\"] div > h3 ~ div > div[class] > div:not([class], [id]) div:not([class], [id], [dir], [data-0], [style]), div[role=\"main\"] div > h2 ~ div > div[class] > div > div:not([style*=\"display: none\"]), div[role=\"main\"] h3[dir=\"auto\"] + div > div[class]:not([style*=\"display: none\"]), div[role=\"main\"] div > h2 ~ div > div[class] > div > div:not([style*=\"display: none\"]) > div:not([style*=\"display: none\"]), div[role=\"main\"] div > h2 ~ div > div > div > div:not([style*=\"display: none\"]) > div:not([style*=\"display: none\"]), div[role=\"main\"] div > h3 ~ div > div > div > div:not([style*=\"display: none\"]) > div:not([style*=\"display: none\"])").forEach(function(e){Object.keys(e).forEach(function(a){if(a.includes?.("__reactEvents")||a.includes?.("__reactProps")){a=e[a];try{if(a.children?.props?.category?.includes("SPONSORED")||a.children?.props?.children?.props?.category?.includes("SPONSORED")||a.children?.props?.feedEdge?.category?.includes("SPONSORED")||a.children?.props?.children?.props?.feedEdge?.category?.includes("SPONSORED")||a.children?.props?.children?.props?.children?.props?.feedEdge?.category?.includes("SPONSORED")||a.children?.props?.children?.props?.children?.props?.children?.props?.feedEdge?.category?.includes("SPONSORED")||a.children?.props?.children?.props?.children?.props?.children?.props?.feedEdge?.feed_story_category?.includes("SPONSORED")||a.children?.props?.children?.props?.children?.props?.children?.props?.feedEdge?.story_category?.includes("SPONSORED")||a.children?.props?.children?.props?.children?.props?.children?.props?.feedEdge?.story_cat?.includes("SPONSORED")||a.children?.props?.children?.props?.children?.props?.children?.props?.feedEdge?.category_sensitive?.cat?.includes("SPONSORED")||a.children?.props?.children?.props?.children?.props?.children?.props?.feedEdge?.node?.sponsored_data?.brs_filter_setting||a.children?.props?.children?.props?.children?.props?.children?.props?.feedUnit?.lbl_sp_data?.ad_id||a.children?.props?.children?.props?.minGapType?.includes("SPONSORED")||a.children?.props?.children?.props?.children?.props?.children?.props?.children?.props?.feedEdge?.node?.sponsored_data?.brs_filter_setting||a.children?.props?.children?.props?.children?.props?.children?.props?.children?.props?.feedEdge?.node?.spons_data?.brs_filter_setting){b++,e.style="display: none !important;";var f=e.querySelector("a[href][aria-label]:not([aria-hidden])");f&&(d.push(["Ad blocked based on property ["+b+"] -> "+f.ariaLabel]),console.table(d))}}catch(a){}}})})}).observe(document.documentElement,{childList:!0,subtree:!0})}();
 facebook.com,fb.com#%#(()=>{var e=new MutationObserver((()=>{var n=document.querySelectorAll('div[role="complementary"] div[class*=" "] > div[class] > div:not([class]) > div:not([class], [style*="display: none"])');for(var s of n){var n=Object.keys(s).find((e=>e.includes("__reactFiber")));if(n){var t=s[n];if(t?.pendingProps?.children?.props?.match?.__fragmentPropName?.includes("adsSideFeedUnit"))return s.style.display="none",void e.disconnect()}}}));e.observe(document.documentElement,{childList:!0,subtree:!0})})();
 facebook.com,fb.com#%#!function(){(new MutationObserver(function(){window.location.href.includes("/watch")&&document.querySelectorAll('#watch_feed div:not([class]):not([id]) > div[class*=" "]:not([style*="display: none !important"]) div[class^="_"] > div[class*=" "]').forEach(function(b){Object.keys(b).forEach(function(a){if(a.includes("__reactFiber")){a=b[a];try{var c,d,e,f;if(null==(c=a)?0:null==(d=c["return"])?0:null==(e=d.memoizedProps)?0:null==(f=e.story)?0:f.sponsored_data){var g=b.closest('#watch_feed div[class*=" "] div:not([class]):not([id]) > div[class*=" "]:not([style*="display: none !important"])');g.style="display: none !important;"}}catch(h){}}})})})).observe(document.documentElement,{childList:!0,subtree:!0,attributeFilter:["style"]})}();
@@ -19360,19 +19405,23 @@ facebook.com,fb.com#%#//scriptlet('json-prune', 'data.node.click_tracking_linksh
 facebook.com,fb.com#%#//scriptlet('json-prune', 'data.node.encrypted_click_tracking')
 facebook.com,fb.com#%#//scriptlet('json-prune', 'data.node.trackingdata')
 facebook.com,fb.com#%#//scriptlet('json-prune', 'data.node.feed_backend_data')
+facebook.com,fb.com#%#//scriptlet('json-prune', 'require.0.3.0.__bbox.require.5.3.1.__bbox.result.data.viewer.sideFeedUnit.nodes', 'require.0.3.0.__bbox.require.5.3.1.__bbox.result.data.viewer.sideFeedUnit.nodes.*.new_adverts')
+facebook.com,fb.com#%#//scriptlet('json-prune', 'data.viewer.sideFeedUnit.nodes', 'data.viewer.sideFeedUnit.nodes.*.new_adverts')
+facebook.com,fb.com#%#//scriptlet('json-prune', 'extensions', 'data.viewer.sideFeedUnit.nodes.*.new_adverts')
 facebook.com,fb.com##a[title*="AdChoices"]
 facebook.com,fb.com###sidebar_ads
-||facebook.com/privacy_sandbox/pixel/
-||facebook.com/async/wbloks/log/
 ||facebook.com/ajax/*_logging/
-||facebook.com/sem_mpixel/
-||facebook.com/email_open_log_
-||facebook.com/sem_campaigns/sem_pixel_test/?
-||facebook.com/platform/cavalry_endpoint.php?
 ||facebook.com/ajax/bz?*__comet_req=
+||facebook.com/ajax/qm/
+||facebook.com/async/wbloks/log/
+||facebook.com/email_open_log_
+||facebook.com/platform/cavalry_endpoint.php?
+||facebook.com/privacy_sandbox/pixel/
+||facebook.com/sem_campaigns/sem_pixel_test/?
+||facebook.com/sem_mpixel/
 ||facebook.com/sem_pixel^
-||graph.facebook.com/logging_client_events
 ||graph.facebook.com/?ids=*&callback=$script,third-party
+||graph.facebook.com/logging_client_events
 ! END FACEBOOK$
 ! ^YOUTUBE
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('set-constant', 'google_ad_status', '1')
@@ -19382,11 +19431,11 @@ youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('set-con
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('set-constant', 'playerResponse.adPlacements', 'undefined')
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-prune', 'playerResponse.adPlacements playerResponse.adSlots', 'playerResponse.streamingData.serverAbrStreamingUrl')
 ! For older versions of scriptlet (Extension v4.1.57 / Scriptlets v1.9.7)
-youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-xhr-response', '/\"adPlacements.*?([A-Z]"\}|"\}{2})\}\]\,/', '', '/playlist\?list=|\/player(?!.*(get_drm_license))|watch\?[tv]=|get_watch\?/')
+youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-xhr-response', '/\"adPlacements.*?([A-Z]"\}|"\}{2})\}\]\,/', '', '/playlist\?list=|\/player(?!.*get_drm_license)|watch\?[tv]=|get_watch\?/')
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-fetch-response', '/(contextParams":"Q0F[A-Z]U.*?)"adPlacements.*?([A-Z]"\}|"\}{2})\}\]\,/', '$1', '/playlist\?list=|player\?|watch\?[tv]=|get_watch\?/')
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-fetch-response', '/((?:(?:&|%26)id(?:=|%3D)o-A[A-Z]|yt_live_broadcast).*?)"adPlacements.*?([A-Z]"\}|"\}{2})\}\]\,/', '$1', '/playlist\?list=|player\?|watch\?[tv]=|get_watch\?/')
 ! For newer versions of scriptlet (Scriptlets v1.10.25 and newer)
-! youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-xhr-response', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/playlist\?list=|\/player(?!.*(get_drm_license))|watch\?[tv]=|get_watch\?/')
+! youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-xhr-response', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/playlist\?list=|\/player(?!.*get_drm_license)|watch\?[tv]=|get_watch\?/')
 ! youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-fetch-response', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/playlist\?list=|player\?|watch\?[tv]=|get_watch\?/')
 www.youtube.com#%#(()=>{var e={apply:(e,t,n)=>{var o=Reflect.apply(e,t,n);try{o instanceof HTMLIFrameElement&&o.src==="about:blank"&&o.contentWindow&&(o.contentWindow.fetch=window.fetch,o.contentWindow.Request=window.Request)}catch(e){}return o}};Node.prototype.appendChild=new Proxy(Node.prototype.appendChild,e)})();
 m.youtube.com,youtubekids.com,youtube-nocookie.com#%#//scriptlet('json-prune', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots')
@@ -19395,8 +19444,8 @@ youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-pr
 ||googlevideo.com/initplayback?source=youtube&*&c=TVHTML5&oad=$xmlhttprequest,domain=youtube.com
 [$path=/tv]youtube.com#%#//scriptlet('json-prune', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/https:\/\/www\.youtube\.com\/s\/player\/.*\/tv-player-ias\.vflset\/tv-player-ias\.js:/')
 www.youtube.com#%#//scriptlet('adjust-setTimeout', '[native code]', '17000', '0.001')
-www.youtube.com#%#(()=>{var t=document.location.href,e=[],n=[],o='',r=!1;var i=Array.prototype.push,a={apply:(t,o,a)=>(window.yt?.config_?.EXPERIMENT_FLAGS?.html5_enable_ssap_entity_id&&a[0]&&a[0]!==window&&typeof a[0].start==='number'&&a[0].end&&a[0].namespace==='ssap'&&a[0].id&&(r||0!==a[0]?.start||n.includes(a[0].id)||(e.length=0,n.length=0,r=!0,i.call(e,a[0]),i.call(n,a[0].id)),r&&0!==a[0]?.start&&!n.includes(a[0].id)&&(i.call(e,a[0]),i.call(n,a[0].id))),Reflect.apply(t,o,a))};window.Array.prototype.push=new Proxy(window.Array.prototype.push,a),document.addEventListener('DOMContentLoaded',(function(){if(!window.yt?.config_?.EXPERIMENT_FLAGS?.html5_enable_ssap_entity_id)return;var i=()=>{var t=document.querySelector('video');if(t&&e.length){var i=Math.round(t.duration),a=Math.round(e.at(-1).end/1e3),c=n.join(',');if(!1===t.loop&&o!==c&&i&&i===a){var n=e.at(-1).start/1e3;t.currentTime<n&&(t.currentTime=n,r=!1,o=c)}else if(!0===t.loop&&i&&i===a){var n=e.at(-1).start/1e3;t.currentTime<n&&(t.currentTime=n,r=!1,o=c)}}};i();new MutationObserver((()=>{t!==document.location.href&&(t=document.location.href,e.length=0,n.length=0,r=!1),i()})).observe(document.documentElement,{childList:!0,subtree:!0})}))})();
-www.youtube.com#%#(()=>{window.JSON.parse=new Proxy(JSON.parse,{apply(r,e,t){var n=Reflect.apply(r,e,t);if(!location.pathname.startsWith("/shorts/"))return n;var a=n?.entries;return a&&Array.isArray(a)&&(n.entries=n.entries.filter((r=>{if(!r?.command?.reelWatchEndpoint?.adClientParams?.isAd)return r}))),n}});})();
+www.youtube.com#%#(()=>{var t=document.location.href,e=[],n=[],o='',r=!1;var i=Array.prototype.push,a={apply:(t,o,a)=>(window.yt?.config_?.EXPERIMENT_FLAGS?.html5_enable_ssap_entity_id&&a[0]&&a[0]!==window&&typeof a[0].start==='number'&&a[0].end&&a[0].namespace==='ssap'&&a[0].id&&(r||0!==a[0]?.start||n.includes(a[0].id)||(e.length=0,n.length=0,r=!0,i.call(e,a[0]),i.call(n,a[0].id)),r&&0!==a[0]?.start&&!n.includes(a[0].id)&&(i.call(e,a[0]),i.call(n,a[0].id))),Reflect.apply(t,o,a))};window.Array.prototype.push=new Proxy(window.Array.prototype.push,a),document.addEventListener('DOMContentLoaded',(function(){if(!window.yt?.config_?.EXPERIMENT_FLAGS?.html5_enable_ssap_entity_id)return;var i=()=>{var t=document.querySelector('video');if(t&&e.length){var i=Math.round(t.duration),a=Math.round(e.at(-1).end/1e3),c=n.join(',');if(t.loop===false&&o!==c&&i&&i===a){var n=e.at(-1).start/1e3;t.currentTime<n&&(t.currentTime=n,r=!1,o=c)}else if(t.loop===true&&i&&i===a){var n=e.at(-1).start/1e3;t.currentTime<n&&(t.currentTime=n,r=!1,o=c)}}};i();new MutationObserver((()=>{t!==document.location.href&&(t=document.location.href,e.length=0,n.length=0,r=!1),i()})).observe(document.documentElement,{childList:!0,subtree:!0})}))})();
+www.youtube.com#%#(()=>{window.JSON.parse=new Proxy(JSON.parse,{apply(r,e,t){var n=Reflect.apply(r,e,t);if(!location.pathname.startsWith('/shorts/'))return n;var a=n?.entries;return a&&Array.isArray(a)&&(n.entries=n.entries.filter(r=>{if(!r?.command?.reelWatchEndpoint?.adClientParams?.isAd)return r})),n}});})();
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-prune', 'adBreakHeartbeatParams playbackTracking responseContext.serviceTrackingParams videoQualityPromoSupportedRenderers')
 ||youtube.com/get_video_info?*=adunit
 @@||youtube.com/get_video_info*&el=editpage
@@ -19802,7 +19851,7 @@ dailyuploads.net#%#(()=>{Object.defineProperties(window,{'adEnable':{value:true,
 dailyuploads.net,datavaults.co,filespayouts.com,up-load.io,uploadrar.com,zmamobile.com#%#(()=>{window.addEventListener('load',()=>{var e=document.getElementById('downloadbtn');if(e!==null){e.disabled=false}e=document.getElementById('gdpr-cookie-notice');if(e!==null){e.remove()}e=document.getElementById('adblock_detected');if(e!==null){e.value=0}})})();
 datavaults.co#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{var e=document.getElementById('dummy');if(e!==null){e.style.display='none'}e=document.getElementById('original');if(e!==null){e.style.display='block'}})})();
 dictionary.cambridge.org#%#(()=>{var isBadScript=e=>{try{if(e.tagName!=='SCRIPT'){return false}if((e.src||'').includes('html-load.com/loader.min.js')===true||e.hasAttribute('nowprocket')===true||(e.textContent||'').indexOf('function t(o,e){var r=n()')>=0){return true}}catch(t){}return false};document.querySelectorAll('script').forEach(t=>{if(isBadScript(t)===true){t.parentNode.removeChild(t)}});new MutationObserver(mutations=>{mutations.forEach(t=>{t.addedNodes.forEach(t=>{if(t.nodeType===Node.ELEMENT_NODE&&t.tagName==='SCRIPT'&&isBadScript(t)===true){t.parentNode.removeChild(t)}})})}).observe(document.documentElement,{childList:true,subtree:true});var _=window.fetch;window.fetch=function(e,r){try{var n=typeof e==='string'?e:e.url;if(n!==null&&n.includes('error-report.com')===true){return Promise.reject(Error('Blocked by client script'))}}catch(o){}return _.apply(this,arguments)}})();
-diffchecker.com#%#(()=>{var d=new Date;d='-'+d.getMonth()+'-'+d.getFullYear();localStorage.setItem('closedDiffDesktopBanner',true);localStorage.setItem('alreadySawHomepageModal',true);localStorage.setItem('explainUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('mergeUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('textDiffLevelUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('textStatsUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('ignoreStringsUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('unifiedUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('collapsedUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('realTimeUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('syntaxHighlightUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('exportXlsxUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('exportPdfUses'+d,Number.MIN_SAFE_INTEGER);window.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('form > .hide-print').forEach(el=>{el.remove()});new MutationObserver(mutations=>{mutations.forEach(mutation=>{mutation.addedNodes.forEach(node=>{if(node.nodeType===1){if(typeof node.matches==='function'&&node.matches('form > .hide-print')===true){node.remove()}node.querySelectorAll('form > .hide-print').forEach(el=>{el.remove()})}})})}).observe(document.documentElement,{childList:true,subtree:true})})})();
+diffchecker.com#%#(()=>{localStorage.setItem('theme','dark');var d=new Date;d='-'+d.getMonth()+'-'+d.getFullYear();localStorage.setItem('closedDiffDesktopBanner',true);localStorage.setItem('alreadySawHomepageModal',true);localStorage.setItem('explainUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('mergeUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('textDiffLevelUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('textStatsUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('ignoreStringsUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('unifiedUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('collapsedUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('realTimeUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('syntaxHighlightUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('exportXlsxUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('exportPdfUses'+d,Number.MIN_SAFE_INTEGER);window.addEventListener('load',()=>{document.querySelectorAll('form > .hide-print').forEach(e=>{e.remove()});new MutationObserver(mutations=>{mutations.forEach(mutation=>{mutation.addedNodes.forEach(node=>{if(node.nodeType===1){if(typeof node.matches==='function'&&node.matches('form > .hide-print')===true){node.remove()}node.querySelectorAll('form > .hide-print').forEach(e=>{e.remove()})}})})}).observe(document.documentElement,{childList:true,subtree:true})})})();
 filespayouts.com#%#(()=>{Object.defineProperty(window,'userAgent',{value:'mobi',writable:false})})();
 frdl.hk,frdl.io,frdl.my,frdl.pw,frdl.to,fredl.ru,freedl.ink#%#(()=>{window.addEventListener('DOMContentLoaded',(()=>{var e=document.getElementById('download_free');if(e!==null){e.value=1}e=document.getElementById('free-captcha');if(e!==null){e.style.display='block'}e=document.querySelector('img.img-fluid');if(e!==null){e.remove()}}))})();
 fullboys.com,rimsgay.com#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{var n=selector=>{var o=document.querySelector(selector);if(o!==null){var e=$._data(o,'events');return(e!==null&&e!==undefined)&&(e.click!==null&&e.click!==undefined)}return false};var o=setInterval(()=>{if(typeof $==='function'&&typeof $.isFunction==='function'){if(n('#loadMore')===true||n('#btn-download')===true){$('#loadMore').off('click');('#btn-download').off('click')}if(n('#loadMore')===false&&n('#btn-download')===false){clearInterval(o);if(typeof downloadURI==='function'){('#btn-download').click(()=>{downloadURI(document.getElementById('LinkMedia').value,document.getElementById('NameMedia').value)})}}}},100)})})();
