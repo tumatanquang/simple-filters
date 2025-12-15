@@ -55,7 +55,6 @@
 ||geolocation.1trust.app^
 ||bbc-reporting-api.app^
 ||ws.bbc-reporting-api.app^
-||public.api.bsky.app^
 ||events.bsky.app^
 ||chaty.app^
 ||cdn.chaty.app^
@@ -417,6 +416,7 @@
 ||xcamsx.cfd^
 ||crisp.chat^
 ||client.crisp.chat^
+||999slot.cl^
 ||auldbosh.click^
 ||bayamolupines.click^
 ||bigpower.click^
@@ -1246,6 +1246,7 @@
 ||www.4d93007.com^
 ||4df5efb6e7.com^
 ||ce5314276f.4df5efb6e7.com^
+||4dvertiser.com^
 ||4e0622e316.com^
 ||efbcb8fc75.4e0622e316.com^
 ||4e37b45877.com^
@@ -1428,6 +1429,7 @@
 ||25b4c57124.68456d1a69.com^
 ||6863fd0afc.com^
 ||a238e82f8a.6863fd0afc.com^
+||686891.com^
 ||68aq8q352.com^
 ||68d6b65e65.com^
 ||c59049439d.68d6b65e65.com^
@@ -2724,6 +2726,8 @@
 ||sdk-a.apptornado.com^
 ||sdk-b.apptornado.com^
 ||www.apptornado.com^
+||appupdate1.com^
+||a1etadpuppa.appupdate1.com^
 ||apsarrabvmif.com^
 ||aptausad.com^
 ||apzdfakiso.com^
@@ -4500,6 +4504,8 @@
 ||dagxmuxiza.com^
 ||daichoosizeru.com^
 ||daijopimplo.com^
+||daiphuclub.com^
+||www.daiphuclub.com^
 ||daisycontroversy.com^
 ||dapkgviodzzj.com^
 ||www.dapkgviodzzj.com^
@@ -7010,6 +7016,8 @@
 ||uxfabric.app.intuit.com^
 ||digitalasset.intuit.com^
 ||invariablyedacityedacitypeach.com^
+||investlearner.com^
+||binance.investlearner.com^
 ||invitereferrals.com^
 ||cdn.invitereferrals.com^
 ||inwraptsekane.com^
@@ -8709,6 +8717,8 @@
 ||ntvsw.com^
 ||ntyhibosjsza.com^
 ||www.ntyhibosjsza.com^
+||ntyjrarija.com^
+||www.ntyjrarija.com^
 ||nucljzgvzlyj.com^
 ||www.nucljzgvzlyj.com^
 ||nuddpomukcw.com^
@@ -9177,6 +9187,10 @@
 ||osskanger.com^
 ||osslcahuraxx.com^
 ||osspalkiaom.com^
+||osspeed1.com^
+||osspeed3.com^
+||osspeed666.com^
+||jiasu.osspeed666.com^
 ||ostrichesica.com^
 ||paper.ostrichesica.com^
 ||sand.ostrichesica.com^
@@ -10004,6 +10018,8 @@
 ||ingest.quantummetric.com^
 ||quariann.com^
 ||lispi.quariann.com^
+||quay88.com^
+||www.quay88.com^
 ||quecai.com^
 ||vhs.queerclick.com^
 ||a.vhs.queerclick.com^
@@ -10911,6 +10927,8 @@
 ||slk594.com^
 ||sloffer1.com^
 ||s.sloffer1.com^
+||slotvn88.com^
+||www.slotvn88.com^
 ||slwxkyggfw.com^
 ||slycl.com^
 ||smac-ad.com^
@@ -11104,6 +11122,10 @@
 ||srwumjmarwjacic.com^
 ||ss-platform.com^
 ||px.ss-platform.com^
+||ss665.com^
+||ss863.com^
+||ss882.com^
+||ss919.com^
 ||ssacdn.com^
 ||networksdk.ssacdn.com^
 ||ssaimg.com^
@@ -11497,6 +11519,7 @@
 ||thebrowsergame.com^
 ||r.thebrowsergame.com^
 ||thechydacjty.com^
+||thedecard.com^
 ||theekedgleamed.com^
 ||theengagelab.com^
 ||webpush.theengagelab.com^
@@ -11685,6 +11708,7 @@
 ||1686.tracot.com^
 ||www.tradeadexchange.com^
 ||img.tradedoubler.com^
+||trading-view.com^
 ||tradingview.com^
 ||s.tradingview.com^
 ||snowplow-pixel.tradingview.com^
@@ -14028,6 +14052,9 @@
 ||dable.io^
 ||api.dable.io^
 ||static.dable.io^
+||datagrail.io^
+||consentjs.datagrail.io^
+||api.consentjs.datagrail.io^
 ||districtm.io^
 ||cdn.districtm.io^
 ||dmx.districtm.io^
@@ -15144,6 +15171,7 @@
 ||d3eub2e21dc6h0.cloudfront.net^
 ||d3f1wcxz2rdrik.cloudfront.net^
 ||d3g5ovfngjw9bw.cloudfront.net^
+||d3j1l6vosl7aib.cloudfront.net^
 ||d3jzhqnvnvdy34.cloudfront.net^
 ||d3l739e8r8y9v7.cloudfront.net^
 ||d3lcz8vpax4lo2.cloudfront.net^
@@ -16220,6 +16248,8 @@
 ||eu.getclear.online^
 ||grantdk-1.online^
 ||xml-v4.grantdk-1.online^
+||haywinclub.online^
+||dk.haywinclub.online^
 ||hkerkisko.online^
 ||ho88top.online^
 ||click.ho88top.online^
@@ -19345,6 +19375,7 @@ Get_Stream_Bets
 gtm.js
 idzone
 invoke.js
+ipacdn.txt
 native-push
 NativeAdsRequest
 pBlock
@@ -19409,7 +19440,7 @@ facebook.com,fb.com#%#//scriptlet('json-prune', 'require.0.3.0.__bbox.require.5.
 facebook.com,fb.com#%#//scriptlet('json-prune', 'data.viewer.sideFeedUnit.nodes', 'data.viewer.sideFeedUnit.nodes.*.new_adverts')
 facebook.com,fb.com#%#//scriptlet('json-prune', 'extensions', 'data.viewer.sideFeedUnit.nodes.*.new_adverts')
 facebook.com,fb.com##a[title*="AdChoices"]
-facebook.com,fb.com###sidebar_ads
+facebook.com,fb.com###sidebar_ads,div[role="complementary"] div:has([class]):not([id]) > div:not([class]):not([id]):has(> div[data-visualcompletion])
 ||facebook.com/ajax/*_logging/
 ||facebook.com/ajax/bz?*__comet_req=
 ||facebook.com/ajax/qm/
