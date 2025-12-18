@@ -103,6 +103,7 @@
 ||vercel.app^
 ||bd1nkkbm0g6ki5zqwnp8-er04mm.vercel.app^
 ||codecentric-website-923068.vercel.app^
+||redirect-comic.vercel.app^
 ||wife.app^
 ||api.wife.app^
 ||dawncreations.art^
@@ -1757,6 +1758,7 @@
 ||a-ads.com^
 ||acceptable.a-ads.com^
 ||ad.a-ads.com^
+||a-zzz.com^
 ||a0e351a3aa.com^
 ||96b600f50a.a0e351a3aa.com^
 ||a11k.com^
@@ -1918,12 +1920,16 @@
 ||go.ad2upapp.com^
 ||ad97da966d.com^
 ||b1ac717d8b.ad97da966d.com^
+||adalyser.com^
+||c0.adalyser.com^
 ||adanaatikhaber.com^
 ||www.adanaatikhaber.com^
 ||adaptationreconsider.com^
 ||adnetwork.adasiaholdings.com^
 ||adbcmodum.com^
 ||www.adbcmodum.com^
+||adbestnet.com^
+||bn.adbestnet.com^
 ||adblock-360.com^
 ||adblock-offer-download.com^
 ||adblock-one-protection.com^
@@ -2298,6 +2304,8 @@
 ||ahjshyoqlo.com^
 ||ahlcujguphr.com^
 ||ahqpzoas.com^
+||ahqzmehput.com^
+||www.ahqzmehput.com^
 ||ahrefs.com^
 ||analytics.ahrefs.com^
 ||ahscdn.com^
@@ -2332,6 +2340,8 @@
 ||whatismyip.akamai.com^
 ||ipv4.whatismyip.akamai.com^
 ||ipv6.whatismyip.akamai.com^
+||akkaltzakjib.com^
+||www.akkaltzakjib.com^
 ||akkosljco.com^
 ||www.akkosljco.com^
 ||aksazkxmiopf.com^
@@ -2744,6 +2754,8 @@
 ||arcpublishing.com^
 ||cdn.arcpublishing.com^
 ||api-reuters-reuters-prod.cdn.arcpublishing.com^
+||ardatlom.com^
+||www.ardatlom.com^
 ||ardndqrikbahqls.com^
 ||ardovbzwyo.com^
 ||www.ardovbzwyo.com^
@@ -2970,6 +2982,8 @@
 ||js.monitor.azure.com^
 ||azwsfycuqhu.com^
 ||www.azwsfycuqhu.com^
+||azwtalfaz.com^
+||www.azwtalfaz.com^
 ||azwxkuwu.com^
 ||www.azwxkuwu.com^
 ||azxfutovzogh.com^
@@ -3999,6 +4013,8 @@
 ||ckoalloxwad.com^
 ||ckrrmwqh.com^
 ||www.ckrrmwqh.com^
+||clammyendearedkeg.com^
+||www.clammyendearedkeg.com^
 ||clear-tv.com^
 ||clearbitscripts.com^
 ||tag.clearbitscripts.com^
@@ -4380,6 +4396,8 @@
 ||cuddlethehyena.com^
 ||cujscaawbaz.com^
 ||www.cujscaawbaz.com^
+||cujtkevmu.com^
+||www.cujtkevmu.com^
 ||culmedmaumee.com^
 ||cultergoy.com^
 ||cultivatedcauldron.com^
@@ -4671,6 +4689,8 @@
 ||www.dfxofvzd.com^
 ||dfywakkasl.com^
 ||www.dfywakkasl.com^
+||dfyxzuog.com^
+||www.dfyxzuog.com^
 ||dgcvn.com^
 ||mt.dgcvn.com^
 ||dgqlwqedzowhqb.com^
@@ -5721,6 +5741,8 @@
 ||frosty-cigarette.com^
 ||www.frosty-cigarette.com^
 ||frovanexolyte.com^
+||frozenpayerpregnant.com^
+||www.frozenpayerpregnant.com^
 ||frsonnerie.com^
 ||frspecifics.com^
 ||collector-api.frspecifics.com^
@@ -7535,6 +7557,8 @@
 ||www.kuesjmznhhid.com^
 ||kufjuksuhqpo.com^
 ||kukrosti.com^
+||kupxixsu.com^
+||www.kupxixsu.com^
 ||kurtzaat.com^
 ||www.kurtzaat.com^
 ||kurumaokes.com^
@@ -7870,6 +7894,8 @@
 ||www.lwiarsocx.com^
 ||lwirirvpo.com^
 ||www.lwirirvpo.com^
+||lwispaafmakn.com^
+||www.lwispaafmakn.com^
 ||lwonclbench.com^
 ||lycopinrekey.com^
 ||lyksoomu.com^
@@ -8827,6 +8853,8 @@
 ||ocumknxm.com^
 ||www.ocumknxm.com^
 ||odbpadovzocm.com^
+||odckmeaqnkro.com^
+||www.odckmeaqnkro.com^
 ||odfravgamnuh.com^
 ||odljiphtut.com^
 ||www.odljiphtut.com^
@@ -8869,6 +8897,8 @@
 ||ofhappinyer.com^
 ||ofmoppeuap.com^
 ||www.ofmoppeuap.com^
+||ogfalhazm.com^
+||www.ogfalhazm.com^
 ||ogfaqwwux.com^
 ||ogfgiwnawl.com^
 ||oghhurojkg.com^
@@ -9027,6 +9057,8 @@
 ||onmoxskatoxx.com^
 ||onnlpuonklw.com^
 ||onnotcbwyz.com^
+||onpathbihc.com^
+||www.onpathbihc.com^
 ||onpocxorwqke.com^
 ||www.onpocxorwqke.com^
 ||onpovnxahobb.com^
@@ -9481,6 +9513,8 @@
 ||www.piaproxy.com^
 ||pic-stash.com^
 ||pic1025.com^
+||picdixwap.com^
+||www.picdixwap.com^
 ||pickaxewafters.com^
 ||at.pickaxewafters.com^
 ||pickyourbitch.com^
@@ -10525,6 +10559,8 @@
 ||saletrackpro.com^
 ||saltateblit.com^
 ||salutationcheerlessdemote.com^
+||salutetutortwiddling.com^
+||www.salutetutortwiddling.com^
 ||sam-media.com^
 ||pacman-cdn.sam-media.com^
 ||sg-pacman.sam-media.com^
@@ -10991,6 +11027,8 @@
 ||snrcmgqe.com^
 ||www.snrcmgqe.com^
 ||mcs.snssdk.com^
+||snstimg.com^
+||static.snstimg.com^
 ||snugglethesheep.com^
 ||e.so.com^
 ||soc88.com^
@@ -11100,6 +11138,8 @@
 ||sputniknews.com^
 ||a.sputniknews.com^
 ||cm.sputniknews.com^
+||spynutvurwa.com^
+||www.spynutvurwa.com^
 ||sqjfxabrdpcox.com^
 ||www.sqjfxabrdpcox.com^
 ||squarespace.com^
@@ -11875,6 +11915,8 @@
 ||www.tvlipevrj.com^
 ||tvpixel.com^
 ||c.tvpixel.com^
+||tvsquared.com^
+||collector-20079.tvsquared.com^
 ||twazzyoidwlfe.com^
 ||tweqgvmnjdjexw.com^
 ||www.tweqgvmnjdjexw.com^
@@ -12429,6 +12471,8 @@
 ||tag.vlitag.com^
 ||vmcxdaynkhnekp.com^
 ||www.vmcxdaynkhnekp.com^
+||vmidutpti.com^
+||www.vmidutpti.com^
 ||vmuid.com^
 ||vn5959.com^
 ||upload.vn5959.com^
@@ -12532,6 +12576,8 @@
 ||www.vurcpvnuchh.com^
 ||vuswigactoh.com^
 ||vutajjarcah.com^
+||vutohsdhe.com^
+||www.vutohsdhe.com^
 ||vuukle.com^
 ||cdn.vuukle.com^
 ||publish.vuukle.com^
@@ -12746,6 +12792,7 @@
 ||wioau.com^
 ||pop.wioau.com^
 ||wirsauco.com^
+||gtm.wise.com^
 ||wishesen.com^
 ||wisorypotersian.com^
 ||wissmell.com^
@@ -12960,6 +13007,8 @@
 ||www.xjwcnvnqdm.com^
 ||xkajujtax.com^
 ||www.xkajujtax.com^
+||xkakkewixszu.com^
+||www.xkakkewixszu.com^
 ||xl-trk.com^
 ||xlirdr.com^
 ||creative.xlirdr.com^
@@ -13314,6 +13363,8 @@
 ||dash.zintrack.com^
 ||zipazvzu.com^
 ||www.zipazvzu.com^
+||zipoxpojfxk.com^
+||www.zipoxpojfxk.com^
 ||zipthelake.com^
 ||zivadstceasz.com^
 ||zkmkuphtemb.com^
@@ -13368,6 +13419,8 @@
 ||zuebao.com^
 ||ads.zuebao.com^
 ||zuh720.com^
+||zulnahnuqnw.com^
+||www.zulnahnuqnw.com^
 ||zumfzaamdxaw.com^
 ||zumgizjidhp.com^
 ||zumorhshij.com^
@@ -13562,6 +13615,7 @@
 ||mypetsociety.es^
 ||ontwowheels.es^
 ||proyectoeinstein.es^
+||saraegea.es^
 ||setadecardo.es^
 ||bepolite.eu^
 ||serving.bepolite.eu^
@@ -13650,10 +13704,13 @@
 ||cdn.galaxiemedia.fr^
 ||gitedulin.fr^
 ||glass-minut.fr^
+||gmgodinho.fr^
 ||groupe-viriate-services.fr^
 ||ifcolors.fr^
+||kristofdetailing.fr^
 ||kurtos.fr^
 ||l-entekia.fr^
+||laboutiquedelyarouen.fr^
 ||lanadimartino.fr^
 ||lea-tp-vesoul.fr^
 ||leadplace.fr^
@@ -13663,6 +13720,7 @@
 ||main-tech-gestion.fr^
 ||mon-ecrin-beaute.fr^
 ||nacdebretagne.fr^
+||nestor-plateaux.fr^
 ||oopt.fr^
 ||media.oopt.fr^
 ||regie.oopt.fr^
@@ -14016,6 +14074,10 @@
 ||bidmachine.io^
 ||api.bidmachine.io^
 ||api-apac.bidmachine.io^
+||bidr.io^
+||prod.bidr.io^
+||event.prod.bidr.io^
+||cnv.event.prod.bidr.io^
 ||match.prod.bidr.io^
 ||branch.io^
 ||api.branch.io^
@@ -14105,6 +14167,9 @@
 ||lycoslink.github.io^
 ||quiziizz.github.io^
 ||swisscodemonkeys.github.io^
+||globalsun.io^
+||api-player.globalsun.io^
+||player.globalsun.io^
 ||gmwin.io^
 ||plausible.gofile.io^
 ||grammarly.io^
@@ -14411,6 +14476,7 @@
 ||liftapi.logly.co.jp^
 ||affiliate.rakuten.co.jp^
 ||xml.affiliate.rakuten.co.jp^
+||apm.yahoo.co.jp^
 ||lcs.comico.jp^
 ||epsilon.jp^
 ||secure.epsilon.jp^
@@ -14445,6 +14511,8 @@
 ||adm.shinobi.jp^
 ||asumi.shinobi.jp^
 ||sync.shinobi.jp^
+||slim02.jp^
+||dm.slim02.jp^
 ||yicha.jp^
 ||advisionclick.yicha.jp^
 ||advisionwebp.yicha.jp^
@@ -16151,6 +16219,7 @@
 ||yasir252.com.ng^
 ||files.yasir252.com.ng^
 ||123abetterme.nl^
+||brandsventure.nl^
 ||dpgmedia.nl^
 ||myprivacy.dpgmedia.nl^
 ||pg.dpgmedia.nl^
@@ -18514,6 +18583,7 @@
 ||now.tin88fun.win^
 ||tipclub.win^
 ||vao789club.win^
+||vaobet.win^
 ||vic.win^
 ||vin88.win^
 ||vu88.win^
@@ -19618,6 +19688,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||gemini.google.com/_/BardChatUi/jserror
 ||geo.dailymotion.com/cookie.js
 ||githack.com/ad-shield/
+||google.*/ads/
 ||google.*/adsense/domains/caf.js
 ||google.*/async/bgasy
 ||google.*/ccm/collect
@@ -19699,6 +19770,8 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||pornhub.com/_xa/ads
 ||quora.com/ajax/receive_POST
 ||quoracdn.net^$domain=mupnungvl.pro,third-party
+||redditstatic.com/ads/pixel.js
+||s.yimg.*/images/listing/tool/cv/ytag.js
 ||s.yimg.com/aaq/
 ||s.yimg.com/av/ads/
 ||s.yimg.com/ds/
@@ -19711,6 +19784,8 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||script.wikia.nocookie.net/fandom-ae-assets/identity-service/*/static-consents.js
 ||script.wikia.nocookie.net/fandom-ae-assets/platforms/*/ucp-desktop/main.bundle.js
 ||script.wikia.nocookie.net/fandom-ae-assets/tracking-opt-in/*/tracking-opt-in*.js
+||services.fandom.com/experiments/
+||services.fandom.com/icbm/api/config
 ||services.fandom.com/icbm/api/loader?app=fandomdesktop
 ||shopee.vn/__t__
 ||shopee.vn^$removeparam=/(?:affiliate_id|fu_tracking_id|gads_t_sig|uls_trackid)=/
@@ -19745,6 +19820,10 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||virustotal.com/ui/collect
 ||virustotal.com/ui/cookie_disclaimer
 ||wetransfer.com/api/web-metrics
+||wise.com/csp
+||wise.com/gateway/v2/savings
+||wise.com/seo-landing-pages/web-vitals
+||wise.com/visit/pixel.png
 ||x.com/i/api/1.1/graphql/user_flow.json
 ||x.com/i/api/1.1/jot/
 ||x.com^$removeparam=/(?:[st]|brid)=/
