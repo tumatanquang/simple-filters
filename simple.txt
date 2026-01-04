@@ -564,6 +564,8 @@
 ||api.red88.club^
 ||sock.red88.club^
 ||dangky.ric.club^
+||s8.club^
+||cdn.s8.club^
 ||sky88.club^
 ||sock.sky88.club^
 ||stopheritp.club^
@@ -1860,6 +1862,8 @@
 ||aboutabsorb.com^
 ||track.aboutabsorb.com^
 ||aboveaveragefinallycast.com^
+||abpdagjcamho.com^
+||www.abpdagjcamho.com^
 ||abpicsrc.com^
 ||eu.abpicsrc.com^
 ||abpjs23.com^
@@ -1886,6 +1890,8 @@
 ||accahurkaru.com^
 ||eq.accahurkaru.com^
 ||accanfkinrt.com^
+||acccuxazmo.com^
+||www.acccuxazmo.com^
 ||acdcdn.com^
 ||acdcmarimo.com^
 ||acelitchi.com^
@@ -3935,6 +3941,7 @@
 ||chametzunbelt.com^
 ||xw.chametzunbelt.com^
 ||chance-for-bigwin.com^
+||chansairteey.com^
 ||chaport.com^
 ||app.chaport.com^
 ||assets.chaport.com^
@@ -4234,6 +4241,7 @@
 ||constintptr.com^
 ||contagiousantagonizequarry.com^
 ||contehos.com^
+||contemplatepushed.com^
 ||contendsportsvisit.com^
 ||content-loader.com^
 ||fb.content-loader.com^
@@ -4813,6 +4821,8 @@
 ||stat.i3.dmm.com^
 ||trac.i3.dmm.com^
 ||dmnprx.com^
+||dmoampmk.com^
+||www.dmoampmk.com^
 ||dmsik.com^
 ||go.dmsik.com^
 ||dmuqumodgwm.com^
@@ -5809,6 +5819,8 @@
 ||furstraitsbrowse.com^
 ||fusilpiglike.com^
 ||fustinrepure.com^
+||futdicbardzi.com^
+||www.futdicbardzi.com^
 ||futiatorth.com^
 ||fuuctxrrvw.com^
 ||www.fuuctxrrvw.com^
@@ -5851,7 +5863,10 @@
 ||g2buddy.com^
 ||www.g2buddy.com^
 ||tracking.g2crowd.com^
+||g5498.com^
+||img.g5498.com^
 ||g8tor.com^
+||ga888vi.com^
 ||gabblerpawners.com^
 ||gaconnector.com^
 ||tracker.gaconnector.com^
@@ -6061,6 +6076,7 @@
 ||go88n.com^
 ||goadx.com^
 ||srv.goadx.com^
+||goafeeradout.com^
 ||gobiidinshore.com^
 ||csp.godaddy.com^
 ||gui.godaddy.com^
@@ -7955,6 +7971,7 @@
 ||lycopinrekey.com^
 ||lyksoomu.com^
 ||lylufhuxqwi.com^
+||lynmajydqmqvqt.com^
 ||lyssapebble.com^
 ||lzqicpumq.com^
 ||www.lzqicpumq.com^
@@ -8964,6 +8981,8 @@
 ||ofhappinyer.com^
 ||ofmoppeuap.com^
 ||www.ofmoppeuap.com^
+||oftshukiqa.com^
+||www.oftshukiqa.com^
 ||ogfalhazm.com^
 ||www.ogfalhazm.com^
 ||ogfaqwwux.com^
@@ -9072,6 +9091,8 @@
 ||pixel.onaudience.com^
 ||onbmzifwioh.com^
 ||www.onbmzifwioh.com^
+||onbnicomv.com^
+||www.onbnicomv.com^
 ||onclasrv.com^
 ||go.onclasrv.com^
 ||onclickalgo.com^
@@ -10197,6 +10218,7 @@
 ||ny.rammerslewing.com^
 ||rancidmorsel.com^
 ||rangecake.com^
+||rankjerryrounion.com^
 ||ranksci.com^
 ||cdn.ranksci.com^
 ||ranps.com^
@@ -12760,6 +12782,8 @@
 ||wcfkehsk.com^
 ||wcihajbpyo.com^
 ||www.wcihajbpyo.com^
+||wcijkuaf.com^
+||www.wcijkuaf.com^
 ||wdascdpua.com^
 ||www.wdascdpua.com^
 ||wdjimokgc.com^
@@ -13361,6 +13385,8 @@
 ||yyibqpcg.com^
 ||www.yyibqpcg.com^
 ||yzwtz.com^
+||zahamcnujrr.com^
+||www.zahamcnujrr.com^
 ||zahonjli.com^
 ||www.zahonjli.com^
 ||zaktitafvtp.com^
@@ -13667,6 +13693,8 @@
 ||infinite-scroll-js-bundle.gamurs.workers.dev^
 ||hockeystack.workers.dev^
 ||consentlog.hockeystack.workers.dev^
+||nameless-paper-f138.workers.dev^
+||yellow-morning-f00c.nameless-paper-f138.workers.dev^
 ||onionlive.workers.dev^
 ||animewatch.onionlive.workers.dev^
 ||peter-13d.workers.dev^
@@ -13700,6 +13728,7 @@
 ||familyhostel.es^
 ||global-goservice.es^
 ||havenlegal.es^
+||inlexico.es^
 ||landwarriors.es^
 ||martasingla.es^
 ||mashumana.es^
@@ -13774,6 +13803,8 @@
 ||pyxis.atp.fox^
 ||prod.pyxis.atp.fox^
 ||abdestudio.fr^
+||acmip.fr^
+||aelia-promotion.fr^
 ||ainolaconseils.fr^
 ||aisesam.fr^
 ||alsace3dconcept.fr^
@@ -13783,8 +13814,11 @@
 ||arcadie-du-souleyan.fr^
 ||bibliothequeclevilliers.fr^
 ||bois-concept-paca.fr^
+||bptec-economiste.fr^
+||cantonelec.fr^
 ||carasushi.fr^
 ||chevalier-mazenc.fr^
+||cleanterrasse.fr^
 ||cliniqueveterinairegrandangles.fr^
 ||cyclindoor.fr^
 ||demfret.fr^
@@ -13801,9 +13835,11 @@
 ||gmgodinho.fr^
 ||groupe-viriate-services.fr^
 ||ifcolors.fr^
+||kinesiosophro.fr^
 ||kristofdetailing.fr^
 ||kurtos.fr^
 ||l-entekia.fr^
+||labelleosmose.fr^
 ||laboutiquedelyarouen.fr^
 ||lanadimartino.fr^
 ||lea-tp-vesoul.fr^
@@ -13812,7 +13848,9 @@
 ||tag.leadplace.fr^
 ||lebureaudesandrine.fr^
 ||main-tech-gestion.fr^
+||mnha.fr^
 ||mon-ecrin-beaute.fr^
+||msgestion.fr^
 ||nacdebretagne.fr^
 ||nestor-plateaux.fr^
 ||oopt.fr^
@@ -14152,6 +14190,8 @@
 ||static.anonymised.io^
 ||antidetect.io^
 ||campaign02.antidetect.io^
+||api-sports.io^
+||media.api-sports.io^
 ||appconsent.io^
 ||cdn.appconsent.io^
 ||app.appzi.io^
@@ -15156,6 +15196,9 @@
 ||zoover.bannertrack.net^
 ||bantinbds.net^
 ||static.bantinbds.net^
+||bec88.net^
+||api.bec88.net^
+||img.bec88.net^
 ||beevakum.net^
 ||betv7.net^
 ||beywingws.net^
@@ -16328,9 +16371,15 @@
 ||files.yasir252.com.ng^
 ||123abetterme.nl^
 ||brandsventure.nl^
+||destoeteaalsmeer.nl^
 ||dpgmedia.nl^
 ||myprivacy.dpgmedia.nl^
 ||pg.dpgmedia.nl^
+||easychoppers.nl^
+||musicalkappen.nl^
+||offthegridunited.nl^
+||steffendonker.nl^
+||theneworland.nl^
 ||topblockchainsolutions.nl^
 ||vooru-sonenbreugel.nl^
 ||webads.nl^
@@ -18689,6 +18738,7 @@
 ||taiwin79.win^
 ||tic88.win^
 ||s4.tic88.win^
+||tim88.win^
 ||tin88fun.win^
 ||now.tin88fun.win^
 ||tipclub.win^
@@ -19806,6 +19856,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||google.*/httpservice/retry/ValidationAsyncService/Validate
 ||google.*/log?
 ||google.*/pagead/
+||google.*/sgasync
 ||google.com/js/google.js
 ||googleapis.com/androidantiabuse/
 ||googleapis.com/androidcheck/
