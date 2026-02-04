@@ -14,6 +14,8 @@
 ||engagement.ai^
 ||cdn.engagement.ai^
 ||chat.engagement.ai^
+||eroplay.ai^
+||api.eroplay.ai^
 ||aiarticle.erweima.ai^
 ||ezoic.ai^
 ||plusiable.finechat.ai^
@@ -99,6 +101,7 @@
 ||uznjvx02.app^
 ||013l75989e71mnjl-api.uznjvx02.app^
 ||013vsbodx-i18n.uznjvx02.app^
+||013vsbodx-nwwss-cf.uznjvx02.app^
 ||j69z7en013-fe-source.uznjvx02.app^
 ||ka13mxwn8xzyx013-be-source.uznjvx02.app^
 ||vercel.app^
@@ -2363,6 +2366,8 @@
 ||whatismyip.akamai.com^
 ||ipv4.whatismyip.akamai.com^
 ||ipv6.whatismyip.akamai.com^
+||akfxajkhiaxp.com^
+||www.akfxajkhiaxp.com^
 ||akkaltzakjib.com^
 ||www.akkaltzakjib.com^
 ||akkosljco.com^
@@ -5489,6 +5494,7 @@
 ||76d29181f8.fa3f4c916c.com^
 ||fa8133311d.com^
 ||c39555d503.fa8133311d.com^
+||fablefervorgirdle.com^
 ||ads.facebook.com^
 ||an.facebook.com^
 ||graph.facebook.com^
@@ -5732,6 +5738,8 @@
 ||fnccdn.com^
 ||api.fnccdn.com^
 ||ht.fnccdn.com^
+||fnccpyokkawcq.com^
+||www.fnccpyokkawcq.com^
 ||fo88.com^
 ||foamidsputt.com^
 ||fobogruca.com^
@@ -9531,6 +9539,8 @@
 ||ox1.oxbetd.com^
 ||oxgckudfiv.com^
 ||www.oxgckudfiv.com^
+||oxgdifgt.com^
+||www.oxgdifgt.com^
 ||oxlgigavrc.com^
 ||www.oxlgigavrc.com^
 ||oxtafkzfe.com^
@@ -10454,6 +10464,7 @@
 ||sock.red88e.com^
 ||wp.red88e.com^
 ||alb.reddit.com^
+||error-tracking.reddit.com^
 ||pixel-config.reddit.com^
 ||w3-reporting.reddit.com^
 ||events.redditmedia.com^
@@ -10592,6 +10603,7 @@
 ||ripsfiogdawf.com^
 ||riqhisfus.com^
 ||www.riqhisfus.com^
+||rirki.com^
 ||risausso.com^
 ||rishcuanr.com^
 ||riskelaborate.com^
@@ -12015,6 +12027,8 @@
 ||www.tpogasdkok.com^
 ||tqlkg.com^
 ||www.tqlkg.com^
+||tqwsonwuuiyt.com^
+||www.tqwsonwuuiyt.com^
 ||trackclicks00.com^
 ||m.trackclicks00.com^
 ||trackdesk.com^
@@ -12714,6 +12728,8 @@
 ||viiequgl.com^
 ||s.viiequgl.com^
 ||viifcktm.com^
+||viifwjox.com^
+||s.viifwjox.com^
 ||viikblqc.com^
 ||s.viikblqc.com^
 ||s.viimun.com^
@@ -12833,6 +12849,7 @@
 ||vs23drop.com^
 ||vs4.com^
 ||www.vs4.com^
+||vsbet191.com^
 ||vsbet60.com^
 ||vscdns.com^
 ||cdn1.vscdns.com^
@@ -13298,6 +13315,8 @@
 ||xhgeo.com^
 ||xhovaqdubabj.com^
 ||www.xhovaqdubabj.com^
+||xhunajtipm.com^
+||www.xhunajtipm.com^
 ||cnt.xhvictory.com^
 ||collector.xhvictory.com^
 ||xhzdvinmtrc.com^
@@ -13316,6 +13335,9 @@
 ||xiti.com^
 ||logv33.xiti.com^
 ||xiwxivfhocmi.com^
+||xjoxmp03.com^
+||013vsbodx-fe-source.xjoxmp03.com^
+||013vsbodx-tiger-fluid.xjoxmp03.com^
 ||xjwcnvnqdm.com^
 ||www.xjwcnvnqdm.com^
 ||xkajujtax.com^
@@ -13896,6 +13918,7 @@
 ||staging-checkout.paddle.dev^
 ||adscx.pages.dev^
 ||pub-75e171aa9805431591635361c0f059a2.r2.dev^
+||pub-bc3614246086443b83b7f1cf684d4284.r2.dev^
 ||redarmy.dev^
 ||analytics.redarmy.dev^
 ||skypack.dev^
@@ -14577,6 +14600,10 @@
 ||fg8vvsvnieiv3ej16jby.litix.io^
 ||lytica.io^
 ||ping.lytica.io^
+||maestra.io^
+||api.maestra.io^
+||maestra-static.io^
+||ws.maestra-static.io^
 ||mavencoalition.io^
 ||uid.mavencoalition.io^
 ||mdhv.io^
@@ -15849,6 +15876,7 @@
 ||faigroas.net^
 ||fairoaja.net^
 ||fam-8.net^
+||fantasy-ai.net^
 ||fastclick.net^
 ||secure.cdn.fastclick.net^
 ||cartera-cdn.freetls.fastly.net^
@@ -16765,6 +16793,7 @@
 ||adxxx.org^
 ||n.adxxx.org^
 ||st.adxxx.org^
+||ai-stories.org^
 ||alfelixstownrus.org^
 ||aliapp.org^
 ||ynuf.aliapp.org^
@@ -16892,6 +16921,8 @@
 ||livestr.quayso.org^
 ||quayvk88.org^
 ||robohash.org^
+||role-plays.org^
+||vast.role-plays.org^
 ||sc2mp3.org^
 ||seamlessaccess.org^
 ||service.seamlessaccess.org^
@@ -17059,10 +17090,12 @@
 ||bitests.pro^
 ||bouncyweek.pro^
 ||www.bouncyweek.pro^
+||butteryboy.pro^
 ||cado.pro^
 ||link.cado.pro^
 ||cetedaninghining.pro^
 ||cheap-result.pro^
+||cheery-orange.pro^
 ||chepsigrade.pro^
 ||www.chepsigrade.pro^
 ||chestucoso.pro^
@@ -17643,6 +17676,8 @@
 ||news360.store^
 ||tracking.news360.store^
 ||piaroankenyte.store^
+||systemcdncdn.store^
+||abc.systemcdncdn.store^
 ||trongtu.store^
 ||viadata.store^
 ||worshippers.store^
@@ -20452,7 +20487,7 @@ bilibili.com###activity_vote,#bannerAd,#live_recommand_report,#slide_ad,.ad-floo
 bing.com###adstop_gradiant_separator,.b_spa_adblock,.ins_exp.vsp,.irptaads,.rewards_promo_acf,.vsp_ads_c,div#b_pole,div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_context > li.b_ans.sb_genserp_va[data-partnertag],ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"]),ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_topw.b_results_eml > li[style="display: inline-block;"]
 boyfriend.tv,boyfriendtv.com###js-ads-modal,#rightside2,.ads-wrapper,.eu-cookies,.js-right-no-ads,.vast-overlay,.video-extra-wrapper,.x-news-line,[class$="advi" i],[href*="gobanner"],[src*="paysite"],a.new-videoplayer-overlay,div.adblock:has(div.media-item.no-popup),div.container:has(div.video-listing > div.no-popup:first-child > div[data-id^="sc-"]),div.js-toggle-content-wrapper:has(div.adblock > div.main-see-more-wrapper),div.js-toggle-content-wrapper:has(div.media-item.no-popup),div.media-item.no-popup,div.no-popup:has(div[data-id^="sc-"]),div.wgt-container,div:not([class]):not([id]):has(a[class^="fh-"]),li.media-item.no-popup
 camelliatransgroup.com,dhcc.xyz##[id^="sticky-footer" i]
-check-host.net##div#content2 div[class$="tive"],div#content2 div[class^="mt-"]:not([id="terminal-frame"]),div.container > div.flex.w-full[id$="main"],div[id^="yourip"] > div[class^="host"],div[id^="yourip"] > div[id^="host"]
+check-host.net##div#content2 div[class$="tive"],div#content2 div[class^="mt-"]:not([id="terminal-frame"]),div.container > div.flex.w-full[id$="main"],div[id^="yourip"] > div[class^="host"],div[id^="yourip"] > div[id^="host"],footer > div.countryAll,footer > div.countryIR
 coderanch.com###txl,.forum-top-banner,.multbntab,.shngl
 dev.to##div[data-async-url]
 dnschecker.org##div#all_tools_below_more_tools,div#cookie-box,div[data-freestar-ad]
