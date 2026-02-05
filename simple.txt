@@ -2895,6 +2895,8 @@
 ||atotaling.com^
 ||as.atotaling.com^
 ||atrafnopca.com^
+||atrnurffod.com^
+||www.atrnurffod.com^
 ||atsptp.com^
 ||atlas.atsptp.com^
 ||attacheatableoverlabor.com^
@@ -7496,6 +7498,8 @@
 ||jwpsrv.com^
 ||assets-jpcust.jwpsrv.com^
 ||g.jwpsrv.com^
+||jwuawrabqsre.com^
+||www.jwuawrabqsre.com^
 ||jwuoxhjuq.com^
 ||www.jwuoxhjuq.com^
 ||jwuyjehlbndrkd.com^
@@ -7553,6 +7557,8 @@
 ||api.kayntebitbugfeedtap.com^
 ||kazrutaj.com^
 ||www.kazrutaj.com^
+||kazstyquwxc.com^
+||www.kazstyquwxc.com^
 ||kbcli.com^
 ||kbnmnl.com^
 ||creative.kbnmnl.com^
@@ -8394,6 +8400,8 @@
 ||www.miqoplraxov.com^
 ||mirapkkilnaz.com^
 ||mirishkeeps.com^
+||misawfkcu.com^
+||www.misawfkcu.com^
 ||miscellaneousfloraprosecutor.com^
 ||miserablenobody.com^
 ||misoxthmuqa.com^
@@ -8919,6 +8927,8 @@
 ||nrotuzagll.com^
 ||www.nrotuzagll.com^
 ||nrs6ffl9w.com^
+||nruduboj.com^
+||www.nruduboj.com^
 ||nryanocytqc.com^
 ||www.nryanocytqc.com^
 ||nrybwoazja.com^
@@ -19978,8 +19988,9 @@ youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted
 ! For newer versions of scriptlet (Scriptlets v1.10.25 and newer)
 ! youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-xhr-response', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/playlist\?list=|\/player(?!.*get_drm_license)|watch\?[tv]=|get_watch\?/')
 ! youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-fetch-response', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/playlist\?list=|player\?|watch\?[tv]=|get_watch\?/')
-www.youtube.com#%#(()=>{var e={apply:(e,t,n)=>{var o=Reflect.apply(e,t,n);try{o instanceof HTMLIFrameElement&&o.src==="about:blank"&&o.contentWindow&&(o.contentWindow.fetch=window.fetch,o.contentWindow.Request=window.Request)}catch(e){}return o}};Node.prototype.appendChild=new Proxy(Node.prototype.appendChild,e)})();
+www.youtube.com#%#(()=>{var e={apply:(e,t,n)=>{var o=Reflect.apply(e,t,n);try{o instanceof HTMLIFrameElement&&o.src==='about:blank'&&o.contentWindow&&(o.contentWindow.fetch=window.fetch,o.contentWindow.Request=window.Request)}catch(e){}return o}};Node.prototype.appendChild=new Proxy(Node.prototype.appendChild,e)})();
 m.youtube.com,youtubekids.com,youtube-nocookie.com#%#//scriptlet('json-prune', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots')
+youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#(()=>{var STORAGE_KEY='ytHwDecodeSettings',settings=null;try{settings=JSON.parse(localStorage.getItem(STORAGE_KEY)||'null')}catch(e){}var origIsTypeSupported=MediaSource.isTypeSupported.bind(MediaSource);if(settings===null){var gpu=null;try{var canvas=document.createElement('canvas');var gl=canvas.getContext('webgl')||canvas.getContext('experimental-webgl');if(gl!==null){var debug=gl.getExtension('WEBGL_debug_renderer_info');if(debug!==null){gpu=gl.getParameter(debug.UNMASKED_RENDERER_WEBGL)}}}catch(e){}if(gpu===null)return;var aacSupported=false;var aacTypes=['audio/mp4; codecs="mp4a.40.2"','audio/mp4'];for(var i=0;i<aacTypes.length;++i){if(origIsTypeSupported(aacTypes[i])===true){aacSupported=true;break}}var userChoice=confirm('[YouTube Optimizer]\n\nGPU: '+gpu+'\n\nOK = AAC priority\nCancel = YouTube default');settings={gpuName:gpu,aacStrategy:userChoice===true&&aacSupported===true};try{localStorage.setItem(STORAGE_KEY,JSON.stringify(settings))}catch(e){}if(userChoice===true){window.location.reload(true);return}}var gpuName=settings.gpuName||'';var isGtx750=gpuName.length!==0&&/GTX\s*750/i.test(gpuName)===true;var isWeakGpu=gpuName.length!==0&&/GTX\s*106|GTX\s*166|RX\s*55|Mali-G57|Helio\s*G99/i.test(gpuName)===true;if(isGtx750===false&&isWeakGpu===false&&settings.aacStrategy===false)return;var blockVP8=isGtx750;var blockVP9=isGtx750;var blockHEVC=isGtx750;var blockAV1=isGtx750||isWeakGpu;var blockedPatterns=[];if(blockVP8===true)blockedPatterns.push('vp0?8');if(blockVP9===true)blockedPatterns.push('vp0?9');if(blockHEVC===true)blockedPatterns.push('he');if(blockAV1===true)blockedPatterns.push('av0?1');var blockRegex=blockedPatterns.length!==0?new RegExp(blockedPatterns.join('|'),'i'):null;var opusRegex=/opus/i;MediaSource.isTypeSupported=function(type){if(blockRegex!==null&&blockRegex.test(type)===true)return false;if(settings.aacStrategy===true&&opusRegex.test(type)===true)return false;return origIsTypeSupported(type)};var origCanPlayType=HTMLMediaElement.prototype.canPlayType;HTMLMediaElement.prototype.canPlayType=function(type){if(blockRegex!==null&&blockRegex.test(type)===true)return'';if(settings.aacStrategy===true&&opusRegex.test(type)===true)return'';return origCanPlayType.call(this,type)}})();
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-prune', 'contents.sectionListRenderer.contents.0', 'contents.sectionListRenderer.contents.0.itemSectionRenderer.contents.0.adSlotRenderer')
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-prune', 'contents.sectionListRenderer.contents.1', 'contents.sectionListRenderer.contents.1.itemSectionRenderer.contents.0.adSlotRenderer')
 ||googlevideo.com/initplayback?source=youtube&*&c=TVHTML5&oad=$xmlhttprequest,domain=youtube.com
@@ -19997,8 +20008,8 @@ youtube.com#?#ytd-rich-grid-renderer ytd-rich-item-renderer div > ytd-display-ad
 ||youtube.com/get_midroll_
 ! END YOUTUBE$
 ! ^QUORA
-quora.com#%#(function(){var m=new MutationObserver(hide);m.observe(document.documentElement,{childList:!0,subtree:!0});function hide(){var e=document.querySelectorAll('span[data-nosnippet] > .q-box');e.forEach(function(e){var i=e.innerText;if(i){if(i!==void 0&&(!0===i.includes('Sponsored')||!0===i.includes('Ad by')||!0===i.includes('Promoted by'))){e.style="display:none!important;"}}})} })();
-quora.com#%#(function(){var m=new MutationObserver(hide);m.observe(document.documentElement,{childList:!0,subtree:!0});function hide(){var e=document.querySelectorAll('.paged_list_wrapper > .pagedlist_item');e.forEach(function(e){var i=e.innerHTML;if(i){if(i!==void 0&&(!0===i.includes('Hide This Ad<\/span>'))){e.style="display:none!important;"}}})} })();
+quora.com#%#(function(){var m=new MutationObserver(hide);m.observe(document.documentElement,{childList:!0,subtree:!0});function hide(){var e=document.querySelectorAll('span[data-nosnippet] > .q-box');e.forEach(function(e){var i=e.innerText;if(i){if(i!==void 0&&(!0===i.includes('Sponsored')||!0===i.includes('Ad by')||!0===i.includes('Promoted by'))){e.style='display:none!important;'}}})} })();
+quora.com#%#(function(){var m=new MutationObserver(hide);m.observe(document.documentElement,{childList:!0,subtree:!0});function hide(){var e=document.querySelectorAll('.paged_list_wrapper > .pagedlist_item');e.forEach(function(e){var i=e.innerHTML;if(i){if(i!==void 0&&(!0===i.includes('Hide This Ad<\/span>'))){e.style='display:none!important;'}}})} })();
 quora.com#$#body { overflow: auto !important; }
 quora.com#?#.qu-pb--medium > .q-box.qu-borderAll:has(> .q-box > .qu-py--small > .q-box > div[id^="div-gpt-"])
 quora.com#?#.q-box[style^="box-sizing:"] > div.q-box:has(> span[data-nosnippet="true"] > div.q-box[style="display: none !important;"])
