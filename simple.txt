@@ -1551,6 +1551,11 @@
 ||fb995e68d9.7b91f8c7a4.com^
 ||7b98c550d1.com^
 ||e6644fec96.7b98c550d1.com^
+||7bong.com^
+||image.7bong.com^
+||img.7bong.com^
+||socket.7bong.com^
+||v2-api.7bong.com^
 ||7c060ad96a.com^
 ||80dea02713.7c060ad96a.com^
 ||e778ee88f9.7c060ad96a.com^
@@ -2648,6 +2653,7 @@
 ||pixel.anyclip.com^
 ||play.anyclip.com^
 ||trafficmanager.anyclip.com^
+||anym8.com^
 ||anymad.com^
 ||anymind360.com^
 ||anymoresentencevirgin.com^
@@ -3258,6 +3264,7 @@
 ||beeketing.com^
 ||sdk.beeketing.com^
 ||beenoper.com^
+||beeroutetrail.com^
 ||beestark.com^
 ||beewakiy.com^
 ||befitkersey.com^
@@ -4367,6 +4374,7 @@
 ||platform.cloud.coveo.com^
 ||static.cloud.coveo.com^
 ||www.coveo.com^
+||coverdistilltile.com^
 ||coverstorytv.com^
 ||cowpencinclis.com^
 ||jr.cowpencinclis.com^
@@ -5530,6 +5538,8 @@
 ||fapsexclips.com^
 ||faqlikbid.com^
 ||www.faradadeh.com^
+||faraway-bet.com^
+||www.faraway-bet.com^
 ||fardhvarment.com^
 ||uv.fardhvarment.com^
 ||farmagegaudful.com^
@@ -7155,6 +7165,7 @@
 ||platform.instagram.com^
 ||install-north.com^
 ||installeranalytics.com^
+||collect.installeranalytics.com^
 ||installervoracioushardly.com^
 ||instantresp.com^
 ||instashowe.com^
@@ -8938,6 +8949,8 @@
 ||nsumrwmgq.com^
 ||www.nsumrwmgq.com^
 ||nta1vb6cdlrl.com^
+||ntesgsght.com^
+||m.ntesgsght.com^
 ||ntvpforever.com^
 ||ntvpwpush.com^
 ||ntvsw.com^
@@ -9378,6 +9391,8 @@
 ||oqdavkguftan.com^
 ||oqfpuzaltac.com^
 ||oqfrudzatovc.com^
+||oqmxzuagpokf.com^
+||www.oqmxzuagpokf.com^
 ||oqnjfotketk.com^
 ||oqrbtiqhe.com^
 ||www.oqrbtiqhe.com^
@@ -10381,6 +10396,8 @@
 ||zb.rafikfangas.com^
 ||rag3ca7t5amubr8eedffin.com^
 ||clients.ragezone.com^
+||ragolnnkeo.com^
+||www.ragolnnkeo.com^
 ||rahimsafi.com^
 ||app.rahimsafi.com^
 ||raigauho.com^
@@ -13867,6 +13884,7 @@
 ||nanni-naeht.de^
 ||nanocosmos.de^
 ||bintu.nanocosmos.de^
+||bintu-h5live-secure.nanocosmos.de^
 ||demo.nanocosmos.de^
 ||oehmgen-bierbaum-maler.de^
 ||pelikan-hauskrankenpflege.de^
@@ -15250,6 +15268,7 @@
 ||x8.mobi^
 ||www.x8.mobi^
 ||va88.moe^
+||vic.moi^
 ||hotpics.mom^
 ||5hgawd5145.monster^
 ||5hjdbfjfd5.monster^
@@ -17224,6 +17243,7 @@
 ||www.revolvingshine.pro^
 ||richardwashington.pro^
 ||www3.richardwashington.pro^
+||right-spot.pro^
 ||api.rtnews.pro^
 ||rural-report.pro^
 ||satisfied-tour.pro^
