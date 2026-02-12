@@ -39,6 +39,7 @@
 ||js.media-lab.ai^
 ||xeno.media-lab.ai^
 ||new88.ai^
+||count.perplexity.ai^
 ||powerad.ai^
 ||reporting.powerad.ai^
 ||rebel.ai^
@@ -2287,6 +2288,8 @@
 ||afi-b.com^
 ||t.afi-b.com^
 ||www.afi-b.com^
+||afnmikoc.com^
+||www.afnmikoc.com^
 ||afppo.com^
 ||afptdyewn.com^
 ||www.afptdyewn.com^
@@ -2671,6 +2674,8 @@
 ||aoms8xa9b.com^
 ||ap2h9d2g3.com^
 ||aparn-ryo.com^
+||apbaxstihfh.com^
+||www.apbaxstihfh.com^
 ||apdaxkdzyp.com^
 ||www.apdaxkdzyp.com^
 ||apdowdap.com^
@@ -3007,6 +3012,8 @@
 ||45c2fc2a2095.4d3ac055.us-east-1.token.awswaf.com^
 ||de5cd2e4.us-east-1.token.awswaf.com^
 ||1723d2289425.de5cd2e4.us-east-1.token.awswaf.com^
+||awthhiwucafl.com^
+||www.awthhiwucafl.com^
 ||awutohkhu.com^
 ||awxzisojpm.com^
 ||axbdwahu.com^
@@ -4068,6 +4075,8 @@
 ||cidswimaj.com^
 ||www.cidswimaj.com^
 ||cifawsoqvawj.com^
+||cighfofzarur.com^
+||www.cighfofzarur.com^
 ||cihakawkngiamu.com^
 ||www.cihakawkngiamu.com^
 ||cihkadnhobmo.com^
@@ -6240,6 +6249,7 @@
 ||androidtvchannels-pa.googleapis.com^
 ||androidtvwatsonfe-pa.googleapis.com^
 ||auditrecording-pa.googleapis.com^
+||cloudtrace.googleapis.com^
 ||commondatastorage.googleapis.com^
 ||ad-creatives-public.commondatastorage.googleapis.com^
 ||crashlyticsreports-pa.googleapis.com^
@@ -6252,12 +6262,15 @@
 ||firebasestorage.googleapis.com^
 ||imasdk.googleapis.com^
 ||jnn-pa.googleapis.com^
+||logging.googleapis.com^
+||monitoring.googleapis.com^
 ||notifications-pa.googleapis.com^
 ||ogads-pa.googleapis.com^
 ||optimizationguide-pa.googleapis.com^
 ||safebrowsing.googleapis.com^
 ||gadasource.storage.googleapis.com^
 ||pendo-static-5709969800560640.storage.googleapis.com^
+||telemetry.googleapis.com^
 ||update.googleapis.com^
 ||userlocation.googleapis.com^
 ||googleoptimize.com^
@@ -6526,6 +6539,8 @@
 ||harmalpilotry.com^
 ||harolddebris.com^
 ||bl.hashtstrout.com^
+||hasoswoh.com^
+||www.hasoswoh.com^
 ||hatenaapis.com^
 ||bookmark.hatenaapis.com^
 ||hatofdap.com^
@@ -7500,6 +7515,8 @@
 ||widget.justwatch.com^
 ||jusvufasq.com^
 ||www.jusvufasq.com^
+||jvgjvvcj.com^
+||slzy-jg.jvgjvvcj.com^
 ||jwalf.com^
 ||p.jwalf.com^
 ||jwplatform.com^
@@ -7618,6 +7635,8 @@
 ||kiknadkt.com^
 ||www.kiknadkt.com^
 ||kiltzekujalf.com^
+||kimcugcijap.com^
+||www.kimcugcijap.com^
 ||kimxzutzutug.com^
 ||kindjalvitalic.com^
 ||kindledrummerhitch.com^
@@ -8937,6 +8956,8 @@
 ||www.nrahbqtlt.com^
 ||nrotuzagll.com^
 ||www.nrotuzagll.com^
+||nrovmibm.com^
+||www.nrovmibm.com^
 ||nrs6ffl9w.com^
 ||nruduboj.com^
 ||www.nruduboj.com^
@@ -9027,6 +9048,8 @@
 ||obzsijqreji.com^
 ||obzvimvuzkic.com^
 ||www.obzvimvuzkic.com^
+||obzwhoxazc.com^
+||www.obzwhoxazc.com^
 ||oc2tdxocb3ae0r.com^
 ||ocbakhpcuz.com^
 ||www.ocbakhpcuz.com^
@@ -9069,6 +9092,8 @@
 ||jb.octylsrewet.com^
 ||ocumknxm.com^
 ||www.ocumknxm.com^
+||ocvappsa.com^
+||www.ocvappsa.com^
 ||odbpadovzocm.com^
 ||odckmeaqnkro.com^
 ||www.odckmeaqnkro.com^
@@ -9158,6 +9183,8 @@
 ||www.ojkopkorzlce.com^
 ||ojsbriac.com^
 ||www.ojsbriac.com^
+||ojscanbrogi.com^
+||www.ojscanbrogi.com^
 ||ojvkifkuxq.com^
 ||www.ojvkifkuxq.com^
 ||ojzfinlhemu.com^
@@ -9462,6 +9489,8 @@
 ||www.osgozmszygf.com^
 ||osgttexzo.com^
 ||osharvrziafx.com^
+||ospaxgapf.com^
+||www.ospaxgapf.com^
 ||osrbwehfobh.com^
 ||www.osrbwehfobh.com^
 ||osrzawox.com^
@@ -9587,6 +9616,7 @@
 ||www.ozmogfskuatx.com^
 ||ozqowxogrolq.com^
 ||ozrya.com^
+||oztuzi.com^
 ||ozvtuton.com^
 ||ozwolnonnotv.com^
 ||ozxfapwa.com^
@@ -9627,6 +9657,8 @@
 ||pajffadisr.com^
 ||www.pajffadisr.com^
 ||pajpfanaqod.com^
+||pajqkipubzwe.com^
+||www.pajqkipubzwe.com^
 ||palmmegzi.com^
 ||paloczfud.com^
 ||www.paloczfud.com^
@@ -11655,6 +11687,8 @@
 ||susercontent.com^
 ||secreporter.susercontent.com^
 ||suspicionsvaluable.com^
+||sutbacatd.com^
+||www.sutbacatd.com^
 ||sutean.com^
 ||sutiletoroid.com^
 ||sutzcaladow.com^
@@ -11994,6 +12028,8 @@
 ||tixoxzfpur.com^
 ||tiypa.com^
 ||engine-cm.tiypa.com^
+||tizmanon.com^
+||www.tizmanon.com^
 ||tjk-njk.com^
 ||www.tjk-njk.com^
 ||tk88f.com^
@@ -12634,6 +12670,8 @@
 ||cc.vanhocviet.com^
 ||vanjyvsr.com^
 ||www.vanjyvsr.com^
+||vanqacxuzqpy.com^
+||www.vanqacxuzqpy.com^
 ||vantagemarketads.com^
 ||www.vantagemarketads.com^
 ||vanwuqjujnf.com^
@@ -13285,6 +13323,8 @@
 ||www.wyorrmuftjp.com^
 ||wzekavkp.com^
 ||www.wzekavkp.com^
+||wzelipmfuva.com^
+||www.wzelipmfuva.com^
 ||wziharasgcra.com^
 ||ads.x.com^
 ||x7i0.com^
@@ -13318,6 +13358,8 @@
 ||xeeqpuzd.com^
 ||www.xeeqpuzd.com^
 ||cloudmetrics.xenforo.com^
+||xevrjenvrybhsvarindrumbek.com^
+||aplsof2fd.xevrjenvrybhsvarindrumbek.com^
 ||xg4ken.com^
 ||resources.xg4ken.com^
 ||xghfi97mk6.com^
@@ -13808,6 +13850,8 @@
 ||zuphaims.com^
 ||zuzqimlzioj.com^
 ||www.zuzqimlzioj.com^
+||zwubipwic.com^
+||www.zwubipwic.com^
 ||zwuzfyoscnu.com^
 ||www.zwuzfyoscnu.com^
 ||zwywhipwam.com^
@@ -13924,6 +13968,8 @@
 ||t.counter.dev^
 ||decide.dev^
 ||cdn2.decide.dev^
+||edgeone.dev^
+||priaidaman.edgeone.dev^
 ||errortrace.dev^
 ||exoplayer.dev^
 ||fpjs.dev^
@@ -15548,6 +15594,7 @@
 ||d10lumateci472.cloudfront.net^
 ||d11enq2rymy0yl.cloudfront.net^
 ||d127s3e8wcl3q6.cloudfront.net^
+||d12f8q48jixyf3.cloudfront.net^
 ||d1418wpyaxxvno.cloudfront.net^
 ||d14u0p1qkech25.cloudfront.net^
 ||d14x1488qqh51m.cloudfront.net^
@@ -15646,6 +15693,7 @@
 ||d39mzzwe2ijlir.cloudfront.net^
 ||d3a3ewgd1iewwz.cloudfront.net^
 ||d3a781y1fb2dm6.cloudfront.net^
+||d3abnxuwvco6sp.cloudfront.net^
 ||d3al52d8cojds7.cloudfront.net^
 ||d3bch4rrbnbe5n.cloudfront.net^
 ||d3c5iz4ik84vl3.cloudfront.net^
@@ -16050,7 +16098,6 @@
 ||im-apps.net^
 ||audiencedata.im-apps.net^
 ||dmp.im-apps.net^
-||imagedelivery.net^
 ||imgix.net^
 ||ix-marketing.imgix.net^
 ||mediumrare.imgix.net^
@@ -16461,6 +16508,7 @@
 ||a865c0.swuacktu.net^
 ||tai789.net^
 ||taiphaib.net^
+||tangxx.net^
 ||tauphaub.net^
 ||tauvoojo.net^
 ||teksishe.net^
@@ -16748,6 +16796,7 @@
 ||exclusivesearch.online^
 ||femax.online^
 ||fullvideo.online^
+||garudalive399.online^
 ||gem8freebet.online^
 ||getclear.online^
 ||eu.getclear.online^
@@ -19743,6 +19792,7 @@
 ||x2550e210624vs.xyz^
 ||x3x3x.xyz^
 ||xagdbcnqovnws.xyz^
+||xcamsmansion.xyz^
 ||xcpcfdxy.xyz^
 ||xcwshhsmf.xyz^
 ||xe9o.xyz^
@@ -19844,7 +19894,6 @@ stun:stun.l.google.com^
 /\/be(?:acon|havior|tter-adsmanager)\//
 /\/cdn-cgi\/(?:apps\/.*\.js|challenge-platform\/h\/g\/jsd\/r\/|zaraz)/
 /\/cdp\/api\/adserve\//
-/\/ces\/(?:statsc|v1)\//
 /\/clear\.(?:gif|png)/
 /\/ClientTrace\/Events/
 /\/cms\/api\/amp\/Document\//
@@ -19884,6 +19933,9 @@ stun:stun.l.google.com^
 /afu.php
 /api/pop*.php
 /catfish.*/
+/cdn-cgi/challenge-platform/h/b/jsd/
+/cdn-cgi/challenge-platform/h/b/scripts/jsd/*/main.js
+/cdn-cgi/challenge-platform/scripts/jsd/main.js
 /detect(?:[0-9]+)?[.-]?dev\.js/
 /dfp\.min\.js/$domain=fastssh.com
 /funcript.*\.php/
@@ -20098,6 +20150,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||challenges.cloudflare.com/cdn-cgi/challenge-platform/h/*/cmg/1
 ||chat.deepseek.com/api/v0/events
 ||chat.qwen.ai/scripts/stat.js
+||chatgpt.com/ces/
 ||chaturbate.com/in/
 ||chaturbate.com/tours/
 ||chaturbate.com^$third-party,subdocument
@@ -20241,6 +20294,9 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||onlinetexttools.com/api/v1/stats
 ||onlinetexttools.com/CACHE/js/discount.js
 ||onlinetexttools.com/js/gsi.js
+||openai.com/_vercel/
+||openai.com/backend/exp/
+||openai.com/policies/cookie-policy/
 ||patreon.com/api/tracking
 ||pay.google.com/gp/p/_/InstantbuyFrontendBuyflowPayframeUi/jserror
 ||perplexity.ai/rest/event/analytics
