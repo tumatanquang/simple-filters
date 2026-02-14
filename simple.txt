@@ -588,6 +588,8 @@
 ||track4.trackthetides.club^
 ||traffics.club^
 ||sapi.traffics.club^
+||tsportslive.club^
+||ws.tsportslive.club^
 ||vddf0.club^
 ||cdn.vddf0.club^
 ||vic2.club^
@@ -2797,6 +2799,8 @@
 ||aqczwowu.com^
 ||aqhfcdttaosm.com^
 ||aqle3.com^
+||aqnkulpir.com^
+||www.aqnkulpir.com^
 ||aqptziligoqn.com^
 ||aqrkrahkynta.com^
 ||aralego.com^
@@ -3942,6 +3946,9 @@
 ||cdnativ.com^
 ||cdnativepush.com^
 ||static.cdnativepush.com^
+||cdnfastest.com^
+||global.cdnfastest.com^
+||3016398394.global.cdnfastest.com^
 ||cdnfimgs.com^
 ||i.cdnfimgs.com^
 ||cdngain.com^
@@ -4320,6 +4327,7 @@
 ||contentabc.com^
 ||ads2.contentabc.com^
 ||cdn11.contentabc.com^
+||fl-cdn2.contentabc.com^
 ||hw-cdn2.contentabc.com^
 ||ingestion.contentinsights.com^
 ||contextendless.com^
@@ -5873,6 +5881,8 @@
 ||frufkyhilzal.com^
 ||www.frufkyhilzal.com^
 ||frugalfiestas.com^
+||frugraoqlo.com^
+||www.frugraoqlo.com^
 ||frutrun.com^
 ||fruvumoxw.com^
 ||fruwtikawxko.com^
@@ -7804,6 +7814,8 @@
 ||lainaumi.com^
 ||lakiff.com^
 ||lakns.com^
+||lakollsukj.com^
+||www.lakollsukj.com^
 ||lalaping.com^
 ||static.lalaping.com^
 ||lambingsyddir.com^
@@ -7972,6 +7984,7 @@
 ||littlmarsnews22.com^
 ||cdn.littlmarsnews22.com^
 ||c.live.com^
+||fpt.live.com^
 ||azscus1-client-s.gateway.messenger.live.com^
 ||liveadexchanger.com^
 ||www.liveadexchanger.com^
@@ -8230,6 +8243,8 @@
 ||mbiifzdvhexj.com^
 ||www.mbiifzdvhexj.com^
 ||mblive1.com^
+||mbvlmb.com^
+||v.mbvlmb.com^
 ||mbzp67c522.com^
 ||static-imftp.mbzp67c522.com^
 ||static-mobile-vn.mbzp67c522.com^
@@ -8380,6 +8395,8 @@
 ||bingads.microsoft.com^
 ||advertise.bingads.microsoft.com^
 ||c1.microsoft.com^
+||cfp.microsoft.com^
+||df.cfp.microsoft.com^
 ||choice.microsoft.com^
 ||clarity.microsoft.com^
 ||csp.microsoft.com^
@@ -11571,6 +11588,8 @@
 ||statuewas.com^
 ||stawhoph.com^
 ||steadfastsystem.com^
+||steampowered.com^
+||api.steampowered.com^
 ||steepto.com^
 ||cm.steepto.com^
 ||www.steepto.com^
@@ -13466,6 +13485,8 @@
 ||xszpuvwr7.com^
 ||xt.com^
 ||www.xt.com^
+||xtease.com^
+||gateway.xtease.com^
 ||xtfycjyzoqit.com^
 ||www.xtfycjyzoqit.com^
 ||xtgreat.com^
@@ -14293,6 +14314,8 @@
 ||nexokick.icu^
 ||beta.nexokick.icu^
 ||noisecollar.icu^
+||rapid-api.icu^
+||cdn.rapid-api.icu^
 ||smatr.icu^
 ||smelel.icu^
 ||systemsecurenow.icu^
@@ -14822,6 +14845,7 @@
 ||o4505071687041024.ingest.us.sentry.io^
 ||o4507594317103104.ingest.us.sentry.io^
 ||o4508134825000960.ingest.us.sentry.io^
+||o4509410704818176.ingest.us.sentry.io^
 ||o967293.ingest.us.sentry.io^
 ||seoab.io^
 ||shopee.io^
@@ -15626,6 +15650,7 @@
 ||d1nx2jii03b4ju.cloudfront.net^
 ||d1qggq1at2gusn.cloudfront.net^
 ||d1r90st78epsag.cloudfront.net^
+||d1rkk61vj6xwh5.cloudfront.net^
 ||d1sytkg9v37f5q.cloudfront.net^
 ||d1t4ekjh9ps4ob.cloudfront.net^
 ||d1tqp15egmc1qo.cloudfront.net^
@@ -15807,6 +15832,8 @@
 ||kunpeng.csdn.net^
 ||kunyu.csdn.net^
 ||mp-luckydraw.csdn.net^
+||ctfassets.net^
+||images.ctfassets.net^
 ||culrosha.net^
 ||cupoabie.net^
 ||d-nl.net^
@@ -17164,6 +17191,7 @@
 ||awesomewash.pro^
 ||baconaces.pro^
 ||best-seat.pro^
+||biaomtv.pro^
 ||bigheartedheight.pro^
 ||bitests.pro^
 ||bouncyweek.pro^
@@ -19527,6 +19555,8 @@
 ||mqcdshewgb.xyz^
 ||msdugbbndu.xyz^
 ||mswkrdbc.xyz^
+||mtbkta.xyz^
+||entity.mtbkta.xyz^
 ||muiqdbkjhcx.xyz^
 ||muxhtgjwlei.xyz^
 ||mwlptoirxkkmsvr.xyz^
