@@ -2511,6 +2511,8 @@
 ||www.alwsbnvialll.com^
 ||alwwwicavoln.com^
 ||www.alwwwicavoln.com^
+||alwxamfivx.com^
+||www.alwxamfivx.com^
 ||alxmmoodltpa.com^
 ||alxsite.com^
 ||amaumomt.com^
@@ -2870,6 +2872,8 @@
 ||asoulrox.com^
 ||asqcukoh.com^
 ||www.asqcukoh.com^
+||asqdfuhwian.com^
+||www.asqdfuhwian.com^
 ||asqqfuiw.com^
 ||asrowjkagg.com^
 ||assemblyexchange.com^
@@ -3203,6 +3207,8 @@
 ||bavztabutj.com^
 ||bawatklitj.com^
 ||www.bawatklitj.com^
+||bawosdwu.com^
+||www.bawosdwu.com^
 ||bb12316.com^
 ||api.bb12316.com^
 ||www.bb12316.com^
@@ -4492,6 +4498,8 @@
 ||ctctcdn.com^
 ||listgrowth.ctctcdn.com^
 ||static.ctctcdn.com^
+||cteahqozkatk.com^
+||www.cteahqozkatk.com^
 ||cteolsof.com^
 ||doubleclick.ctfile.com^
 ||mydisplay.ctfile.com^
@@ -5869,6 +5877,18 @@
 ||fristminyas.com^
 ||froepse.com^
 ||mgcrspub.froepse.com^
+||fromsunny.com^
+||gym.fromsunny.com^
+||0.gym.fromsunny.com^
+||1.gym.fromsunny.com^
+||2.gym.fromsunny.com^
+||3.gym.fromsunny.com^
+||4.gym.fromsunny.com^
+||5.gym.fromsunny.com^
+||6.gym.fromsunny.com^
+||7.gym.fromsunny.com^
+||8.gym.fromsunny.com^
+||9.gym.fromsunny.com^
 ||frostscanty.com^
 ||frosty-cigarette.com^
 ||www.frosty-cigarette.com^
@@ -6454,6 +6474,8 @@
 ||guidepaparazzisurface.com^
 ||www.guidepaparazzisurface.com^
 ||guiltlessbasketball.com^
+||gukahdbam.com^
+||www.gukahdbam.com^
 ||gukakzaf.com^
 ||gumgum.com^
 ||g2.gumgum.com^
@@ -7688,6 +7710,8 @@
 ||www.klook.com^
 ||kmeukiygmr.com^
 ||www.kmeukiygmr.com^
+||kmoaxzzupcu.com^
+||www.kmoaxzzupcu.com^
 ||kmqkdhqaqt.com^
 ||www.kmqkdhqaqt.com^
 ||kmwvguccacn.com^
@@ -9601,6 +9625,8 @@
 ||owlunimmvn.com^
 ||owmacsridwu.com^
 ||owrkwilxbw.com^
+||owvkfujan.com^
+||www.owvkfujan.com^
 ||owwhftwhukqgo.com^
 ||www.owwhftwhukqgo.com^
 ||oxanelinkups.com^
@@ -9817,6 +9843,8 @@
 ||phumagrose.com^
 ||phumpauk.com^
 ||ak.phumpauk.com^
+||phuolhogmxin.com^
+||www.phuolhogmxin.com^
 ||phyphuphuxy.com^
 ||pianistrefutationgoose.com^
 ||piaproxy.com^
@@ -10414,6 +10442,8 @@
 ||www.qutvihlwup.com^
 ||qutwryam.com^
 ||www.qutwryam.com^
+||quwtzyadstt.com^
+||www.quwtzyadstt.com^
 ||quxsiraqxla.com^
 ||quxtpanaxd.com^
 ||quythiennguyennew88.com^
@@ -13344,6 +13374,8 @@
 ||www.wzekavkp.com^
 ||wzelipmfuva.com^
 ||www.wzelipmfuva.com^
+||wzeocharram.com^
+||www.wzeocharram.com^
 ||wziharasgcra.com^
 ||ads.x.com^
 ||x7i0.com^
@@ -13503,6 +13535,8 @@
 ||www.xubosjvatott.com^
 ||xubzkiajd.com^
 ||www.xubzkiajd.com^
+||xudpitdpaa.com^
+||www.xudpitdpaa.com^
 ||xumolcafw.com^
 ||xupasfavjpwu.com^
 ||www.xupasfavjpwu.com^
@@ -15712,6 +15746,7 @@
 ||d35k22e9287vnh.cloudfront.net^
 ||d35xxde4fgg0cx.cloudfront.net^
 ||d36zfztxfflmqo.cloudfront.net^
+||d37j8pfxu2iogi.cloudfront.net^
 ||d38190um0l9h9v.cloudfront.net^
 ||d38psrni17bvxu.cloudfront.net^
 ||d395dw5zk780j2.cloudfront.net^
@@ -17440,6 +17475,7 @@
 ||ssp.adriver.ru^
 ||apptracer.ru^
 ||sdk-api.apptracer.ru^
+||atavas.ru^
 ||rtb.beroll.ru^
 ||chikidiki.ru^
 ||ad.kissanime.com.ru^
@@ -17480,9 +17516,11 @@
 ||xray.mail.ru^
 ||mediaiguana.ru^
 ||mobilfan.ru^
+||momijoy.ru^
 ||mts.ru^
 ||rtb.mts.ru^
 ||sm.rtb.mts.ru^
+||nebakte.ru^
 ||ninestore.ru^
 ||novostidn.ru^
 ||pluso.ru^
@@ -19452,6 +19490,8 @@
 ||ihlofoimfbfrxde.xyz^
 ||iifoveqjdrchpoa.xyz^
 ||ijgirhdspgu.xyz^
+||ijsyell.xyz^
+||2791a.ijsyell.xyz^
 ||ikadmethe.xyz^
 ||ipbaljqdwscfpyu.xyz^
 ||ir3.xyz^
@@ -20433,6 +20473,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||youtube-nocookie.com/youtubei/v1/guide
 ||youtube-nocookie.com/youtubei/v1/log_event
 ||youtube-nocookie.com/youtubei/v1/player/ad_break
+||youtube.com/api/jnn/v1/GenerateIT
 ||youtube.com/api/stats/ads
 ||youtube.com/api/stats/atr
 ||youtube.com/api/stats/playback
@@ -20489,7 +20530,7 @@ mixdrop.to,mixdrop.co#%#//scriptlet('abort-on-property-write', '_pop')
 mixdrop.to,mixdrop.co#%#//scriptlet('prevent-addEventListener', 'click', 'dtnoppu')
 mixdrop.to,mixdrop.co#%#//scriptlet('set-constant', 'MDCore.adblock', '0')
 nhentai.net#%#//scriptlet('set-constant', 'N_BetterJsPop', 'emptyObj')
-onlinegdb.com,scribd.com,text-compare.com#%#//scriptlet('remove-attr', 'onload|onerror', 'script[data-cfasync="false"][src*="loader.min.js"][data]')
+onlinegdb.com,scribd.com,text-compare.com,urldecoder.org#%#//scriptlet('remove-attr', 'onload|onerror', 'script[data-cfasync="false"][src*="loader.min.js"][data]')
 scribd.com#%#//scriptlet('set-constant', '__pages_to_blur', 'emptyArr')
 scribd.com#%#//scriptlet('set-constant', 'Scribd.NwayTestsWithWeights.content_preview_banner_removal.choices', 'emptyObj')
 scribd.com#%#//scriptlet('set-constant', 'Scribd.NwayTestsWithWeights.content_preview_banner_removal.id', '-1')
