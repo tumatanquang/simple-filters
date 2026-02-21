@@ -6239,6 +6239,8 @@
 0.0.0.0 alt8-mtalk.google.com
 0.0.0.0 analytics.google.com
 0.0.0.0 cello.client-channel.google.com
+0.0.0.0 ogads-pa.clients.google.com
+0.0.0.0 waa-pa.clients.google.com
 0.0.0.0 addons-pa.clients6.google.com
 0.0.0.0 appsgrowthpromo-pa.clients6.google.com
 0.0.0.0 feedback-pa.clients6.google.com
@@ -8498,6 +8500,8 @@
 0.0.0.0 mkeqmafk.com
 0.0.0.0 www.mkeqmafk.com
 0.0.0.0 107-coj-713.mktoresp.com
+0.0.0.0 mkyattmdqt.com
+0.0.0.0 www.mkyattmdqt.com
 0.0.0.0 ml314.com
 0.0.0.0 vi.ml314.com
 0.0.0.0 mlcdn.com
@@ -15963,6 +15967,7 @@
 0.0.0.0 s0.doubleclick.net
 0.0.0.0 secureframe.doubleclick.net
 0.0.0.0 static.doubleclick.net
+0.0.0.0 td.doubleclick.net
 0.0.0.0 uk.doubleclick.net
 0.0.0.0 fls.uk.doubleclick.net
 0.0.0.0 video.doubleclick.net

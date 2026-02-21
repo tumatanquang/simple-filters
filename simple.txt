@@ -6238,6 +6238,8 @@
 ||alt8-mtalk.google.com^
 ||analytics.google.com^
 ||cello.client-channel.google.com^
+||ogads-pa.clients.google.com^
+||waa-pa.clients.google.com^
 ||addons-pa.clients6.google.com^
 ||appsgrowthpromo-pa.clients6.google.com^
 ||feedback-pa.clients6.google.com^
@@ -8497,6 +8499,8 @@
 ||mkeqmafk.com^
 ||www.mkeqmafk.com^
 ||107-coj-713.mktoresp.com^
+||mkyattmdqt.com^
+||www.mkyattmdqt.com^
 ||ml314.com^
 ||vi.ml314.com^
 ||mlcdn.com^
@@ -15962,6 +15966,7 @@
 ||s0.doubleclick.net^
 ||secureframe.doubleclick.net^
 ||static.doubleclick.net^
+||td.doubleclick.net^
 ||uk.doubleclick.net^
 ||fls.uk.doubleclick.net^
 ||video.doubleclick.net^
@@ -20473,7 +20478,6 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||youtube-nocookie.com/youtubei/v1/guide
 ||youtube-nocookie.com/youtubei/v1/log_event
 ||youtube-nocookie.com/youtubei/v1/player/ad_break
-||youtube.com/api/jnn/v1/GenerateIT
 ||youtube.com/api/stats/ads
 ||youtube.com/api/stats/atr
 ||youtube.com/api/stats/playback
