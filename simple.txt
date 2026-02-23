@@ -68,6 +68,8 @@
 ||langdingpageinfo-default-rtdb.asia-southeast1.firebasedatabase.app^
 ||hooligs.app^
 ||click.hooligs.app^
+||iqoption.app^
+||iqtrading.app^
 ||leap.app^
 ||ad.leap.app^
 ||ob.leap.app^
@@ -131,6 +133,7 @@
 ||demnaylive.asia^
 ||gotrackecom.asia^
 ||media.gssp.asia^
+||iqtrading.asia^
 ||kubet77.asia^
 ||js.mediaz.asia^
 ||shorten.asia^
@@ -404,6 +407,7 @@
 ||haxmac.cfd^
 ||ji95rtg.cfd^
 ||jmbquy40.cfd^
+||lackeysmuscids.cfd^
 ||mad-webcams.cfd^
 ||pgvnyxf.cfd^
 ||r947v0sn.cfd^
@@ -411,6 +415,8 @@
 ||serty5.cfd^
 ||shopspark.cfd^
 ||steamy-webcams.cfd^
+||stumblegneiss.cfd^
+||jf.stumblegneiss.cfd^
 ||termerraches.cfd^
 ||upstagecarvers.cfd^
 ||v5chb4tty0611249p.cfd^
@@ -552,6 +558,7 @@
 ||hit22.club^
 ||intnotif.club^
 ||ngp4.intnotif.club^
+||iqtrading.club^
 ||itphanpytor.club^
 ||cdn.itphanpytor.club^
 ||itskiddoan.club^
@@ -706,6 +713,9 @@
 ||ipapi.co^
 ||ipdata.co^
 ||api.ipdata.co^
+||iq-broker.co^
+||iqbroker.co^
+||iqoptions.co^
 ||jads.co^
 ||ck.jads.co^
 ||i.jads.co^
@@ -2285,6 +2295,8 @@
 ||www.affoggsic.com^
 ||affoth.com^
 ||t.affoth.com^
+||affstore.com^
+||api.affstore.com^
 ||affsuhgiyd.com^
 ||www.affsuhgiyd.com^
 ||afi-b.com^
@@ -3188,6 +3200,8 @@
 ||za.baomoi.com^
 ||baradoot.com^
 ||barbmerchant.com^
+||bardismshagbag.com^
+||vb.bardismshagbag.com^
 ||barscreative1.com^
 ||cdn.barscreative1.com^
 ||bartererfaxtingling.com^
@@ -3405,6 +3419,8 @@
 ||bitget.com^
 ||static.bitget.com^
 ||www.bitget.com^
+||pc.cdn.bitgravity.com^
+||perfops.pc.cdn.bitgravity.com^
 ||bitonclick.com^
 ||bitrix24.com^
 ||cdn.bitrix24.com^
@@ -3443,6 +3459,7 @@
 ||blahlivedsnowdrop.com^
 ||blastcahs.com^
 ||blastsbigener.com^
+||test-perfops.blazingcdn.com^
 ||blcdog.com^
 ||creative.blcdog.com^
 ||go.blcdog.com^
@@ -3749,6 +3766,10 @@
 ||bygliscortor.com^
 ||bymyth.com^
 ||byrledmtscmd.com^
+||byte-test.com^
+||perfops.byte-test.com^
+||perfops2.byte-test.com^
+||perfops3.byte-test.com^
 ||abtestvm.bytedance.com^
 ||lf1-cdn-tos.bytegoofy.com^
 ||bds-sg.byteoversea.com^
@@ -3760,6 +3781,10 @@
 ||sgali-mcs.byteoversea.com^
 ||tnc16-alisg.byteoversea.com^
 ||vmweb-sg.byteoversea.com^
+||byteperf.com^
+||perfops1.byteperf.com^
+||perfops2.byteperf.com^
+||perfops3.byteperf.com^
 ||bytogeticr.com^
 ||bzrmxfxu.com^
 ||www.bzrmxfxu.com^
@@ -3949,6 +3974,8 @@
 ||cdnads.com^
 ||pads.cdnads.com^
 ||perf.cdnads.com^
+||cdnaffs.com^
+||static.cdnaffs.com^
 ||cdnativ.com^
 ||cdnativepush.com^
 ||static.cdnativepush.com^
@@ -4187,6 +4214,8 @@
 ||metrics.cloudflarebolt.com^
 ||cloudflareinsights.com^
 ||static.cloudflareinsights.com^
+||cloudflareperf.com^
+||perfops.cloudflareperf.com^
 ||customer-r9quniwy4qwiwby9.cloudflarestream.com^
 ||cdn.cloudfrale.com^
 ||cloudimagesb.com^
@@ -4471,6 +4500,7 @@
 ||publisherdocs.criteotilt.com^
 ||crittereasilyhangover.com^
 ||crjpgate.com^
+||crn77.com^
 ||crocopop.com^
 ||crottlerennin.com^
 ||gtm-sst.crowdin.com^
@@ -5420,6 +5450,7 @@
 ||syndication-adblock.exoclick.com^
 ||www.exoclick.com^
 ||exomonyf.com^
+||perfops-bench.sos-ch-gva-2.exoscale-cdn.com^
 ||exosrv.com^
 ||a.exosrv.com^
 ||ads.exosrv.com^
@@ -5499,6 +5530,9 @@
 ||a1391330c0.f43f5a2390.com^
 ||f4823894ba.com^
 ||fd35bb45c8.f4823894ba.com^
+||f5-cloud-demo.com^
+||perftest.f5-cloud-demo.com^
+||cdn.perftest.f5-cloud-demo.com^
 ||f59408d48d.com^
 ||e0593385f7.f59408d48d.com^
 ||f5e03754b3.com^
@@ -6059,6 +6093,7 @@
 ||gbpfmuiehcwcfm.com^
 ||gcfowqaazdycb.com^
 ||www.gcfowqaazdycb.com^
+||perfops.gcorelabs.com^
 ||gcospibuxd.com^
 ||cdn.gd85.com^
 ||gdmgsecure.com^
@@ -6170,6 +6205,7 @@
 ||gliacloud.com^
 ||pixel.gliacloud.com^
 ||player.gliacloud.com^
+||glimmersmugglingsullen.com^
 ||glispa.com^
 ||ads.glispa.com^
 ||gloatwhisper.com^
@@ -6567,6 +6603,7 @@
 ||avl.happyfoxchat.com^
 ||vinfo-v.happyfoxchat.com^
 ||widget.happyfoxchat.com^
+||test-perfops.haproxy.com^
 ||haqodkabbxmo.com^
 ||www.haqodkabbxmo.com^
 ||haribdathesea.com^
@@ -7121,6 +7158,8 @@
 ||utt.impactcdn.com^
 ||impactradius-event.com^
 ||d.impactradius-event.com^
+||impeditenomoty.com^
+||du.impeditenomoty.com^
 ||impressivepointcircular.com^
 ||improvedigital.com^
 ||hb.improvedigital.com^
@@ -7152,6 +7191,7 @@
 ||indicative.com^
 ||api.indicative.com^
 ||cdn.indicative.com^
+||stats.infinityfree.com^
 ||inflamesplittingmotel.com^
 ||inflectionquake.com^
 ||infoedge.com^
@@ -7272,6 +7312,7 @@
 ||ipstatp.com^
 ||p0.ipstatp.com^
 ||s0.ipstatp.com^
+||iq-option.com^
 ||iqbkkhhsgk.com^
 ||www.iqbkkhhsgk.com^
 ||apisgame.iqiyi.com^
@@ -7295,6 +7336,7 @@
 ||api.vip.iqiyi.com^
 ||serv.vip.iqiyi.com^
 ||iqoption.com^
+||iqoptionlevelup.com^
 ||iquyuldoywqx.com^
 ||iqyqqfduxeql.com^
 ||www.iqyqqfduxeql.com^
@@ -7894,6 +7936,7 @@
 ||www.lcsjjbgslpcni.com^
 ||ldconf.com^
 ||as.ldconf.com^
+||test-perfops.ldgslb.com^
 ||ldmhqbglilysuie.com^
 ||ldp-vua.com^
 ||authen.ldp-vua.com^
@@ -8157,6 +8200,8 @@
 ||www.m2305.com^
 ||ma2gs3wne3gfej70osium.com^
 ||mabvaftiqav.com^
+||macan-native.com^
+||macan-wall.com^
 ||mackinted.com^
 ||macrlisubnet.com^
 ||le.macrlisubnet.com^
@@ -8539,6 +8584,8 @@
 ||mnaspm.com^
 ||creative.mnaspm.com^
 ||go.mnaspm.com^
+||medianova-cdnperf.mncdn.com^
+||medianova-cdnvperf.mncdn.com^
 ||mndsrv.com^
 ||icon.mndsrv.com^
 ||ss.mndsrv.com^
@@ -9477,6 +9524,10 @@
 ||console-telemetry.us-ashburn-1.oci.oraclecloud.com^
 ||console-telemetry.us-phoenix-1.oci.oraclecloud.com^
 ||oranegfodnd.com^
+||perfops.cdb.cdn.orange.com^
+||rum.perfops.cdb.cdn.orange.com^
+||rum-cust.perfops.cdb.cdn.orange.com^
+||rum-mkt.perfops.cdb.cdn.orange.com^
 ||oranum.com^
 ||www.oranum.com^
 ||orbsdiacle.com^
@@ -10109,6 +10160,7 @@
 ||proustitenoncreditenduring.com^
 ||proverbnoncommittalvault.com^
 ||prowlenthusiasticcongest.com^
+||proworldtrade.com^
 ||proxyhell.com^
 ||prplads.com^
 ||cdn.prplads.com^
@@ -10282,6 +10334,22 @@
 ||qcjpabrqdmov.com^
 ||sdk.qcloud.com^
 ||web.sdk.qcloud.com^
+||eo-static-perfops.qcloudcdn.com^
+||eo-static-perfops1.qcloudcdn.com^
+||eo-static-perfops2.qcloudcdn.com^
+||eo-static-perfops3.qcloudcdn.com^
+||qcloudteo.com^
+||eo-perfops1.qcloudteo.com^
+||eo-perfops10.qcloudteo.com^
+||eo-perfops11.qcloudteo.com^
+||eo-perfops2.qcloudteo.com^
+||eo-perfops3.qcloudteo.com^
+||eo-perfops4.qcloudteo.com^
+||eo-perfops5.qcloudteo.com^
+||eo-perfops6.qcloudteo.com^
+||eo-perfops7.qcloudteo.com^
+||eo-perfops8.qcloudteo.com^
+||eo-perfops9.qcloudteo.com^
 ||qdjmwonquhh.com^
 ||qffywkqeia.com^
 ||qgxbluhsgad.com^
@@ -10315,6 +10383,8 @@
 ||www.qimphywwej.com^
 ||qimqufza.com^
 ||www.qimqufza.com^
+||qinglanbaseunicast.com^
+||perf.qinglanbaseunicast.com^
 ||qiptamcupl.com^
 ||qirjuptk.com^
 ||www.qirjuptk.com^
@@ -11062,6 +11132,10 @@
 ||scroll.com^
 ||connect.scroll.com^
 ||static.scroll.com^
+||scrubbingcenter.com^
+||canary.scrubbingcenter.com^
+||proxy.canary.scrubbingcenter.com^
+||ultrawaf.canary.scrubbingcenter.com^
 ||scysfytc.com^
 ||www.scysfytc.com^
 ||scytuhwrita.com^
@@ -11234,6 +11308,8 @@
 ||error-analytics-sessions-production.shopifysvc.com^
 ||monorail-edge.shopifysvc.com^
 ||shopnetic.com^
+||shopvoxpopulus.com^
+||cpt96125.shopvoxpopulus.com^
 ||shorteh.com^
 ||shovedmiddle.com^
 ||gu.shovedmiddle.com^
@@ -11702,6 +11778,7 @@
 ||suffarilbf.com^
 ||ct.suffarilbf.com^
 ||suffocatepremise.com^
+||perf-test.sufycdn.com^
 ||sukoqgdpej.com^
 ||sultrymomentarily.com^
 ||sumqpealkah.com^
@@ -12477,6 +12554,18 @@
 ||ufow9xfashbm.com^
 ||ufpcdn.com^
 ||ughfkdym.com^
+||ughmouldhusky.com^
+||oil.ughmouldhusky.com^
+||0.oil.ughmouldhusky.com^
+||1.oil.ughmouldhusky.com^
+||2.oil.ughmouldhusky.com^
+||3.oil.ughmouldhusky.com^
+||4.oil.ughmouldhusky.com^
+||5.oil.ughmouldhusky.com^
+||6.oil.ughmouldhusky.com^
+||7.oil.ughmouldhusky.com^
+||8.oil.ughmouldhusky.com^
+||9.oil.ughmouldhusky.com^
 ||ugripaid.com^
 ||ui02.com^
 ||tlv.ui02.com^
@@ -12771,6 +12860,7 @@
 ||vengeful-egg.com^
 ||vercel-insights.com^
 ||vitals.vercel-insights.com^
+||cdnperf.vergecloud.com^
 ||vergopjt.com^
 ||asset.vergopjt.com^
 ||verifychocolate.com^
@@ -13125,6 +13215,7 @@
 ||scripts.webcontentassessor.com^
 ||webmadeblog.com^
 ||tds.webmadeblog.com^
+||webmepro.com^
 ||webnotif.com^
 ||klh.webnotif.com^
 ||log.webnovel.com^
@@ -13932,6 +14023,8 @@
 ||media.bin898293.cyou^
 ||bncloudfl.cyou^
 ||cdn.bncloudfl.cyou^
+||daftarsalloovrow.cyou^
+||bima.daftarsalloovrow.cyou^
 ||fast673bot.cyou^
 ||arch.fast673bot.cyou^
 ||handbagtableau.cyou^
@@ -13939,6 +14032,9 @@
 ||ld.mzeecytisus.cyou^
 ||n2l565.cyou^
 ||pugglewinkel.cyou^
+||reautechider.cyou^
+||smokerfiascos.cyou^
+||apex.smokerfiascos.cyou^
 ||solddewrot.cyou^
 ||verif323cloud2.cyou^
 ||media.verif323cloud2.cyou^
@@ -14017,6 +14113,7 @@
 ||monu.delivery^
 ||imps.monu.delivery^
 ||ipwatch.monu.delivery^
+||test-perfops.wedos.delivery^
 ||cluster.xhamster.desi^
 ||cnt.xhamster.desi^
 ||collector.xhamster.desi^
@@ -14379,11 +14476,13 @@
 ||freebitco.in^
 ||track.freebitco.in^
 ||www.freshsms.in^
+||ghucufonx.in^
 ||static.growthrx.in^
 ||htmedia.in^
 ||analytics.htmedia.in^
 ||www.htmedia.in^
 ||huntnews.in^
+||ipm-mintads.in^
 ||lucky88.in^
 ||m.mastisms.in^
 ||mazakmasti.in^
@@ -14402,6 +14501,7 @@
 ||www.smstextmessages.in^
 ||unibots.in^
 ||cdn.unibots.in^
+||view-mintads.in^
 ||zaxpujarb.in^
 ||www.zaxpujarb.in^
 ||52win.info^
@@ -14595,6 +14695,8 @@
 ||buttonizer.io^
 ||api.buttonizer.io^
 ||cdn.buttonizer.io^
+||cdnroute.io^
+||static.cdnroute.io^
 ||chatra.io^
 ||call.chatra.io^
 ||clarium.io^
@@ -14795,6 +14897,9 @@
 ||pendo.io^
 ||app.pendo.io^
 ||cdn.pendo.io^
+||perfops.io^
+||akamai-cdn.perfops.io^
+||ovh-cdn.perfops.io^
 ||pghub.io^
 ||pgs.io^
 ||api.pgs.io^
@@ -15249,7 +15354,9 @@
 ||maroola.aditms.me^
 ||adlook.me^
 ||cdn.adlook.me^
+||ahacdn.me^
 ||cdn18685953.ahacdn.me^
+||cdn23602612.ahacdn.me^
 ||cdn52969391.ahacdn.me^
 ||attapp.me^
 ||b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me^
@@ -15287,6 +15394,7 @@
 ||iiil.me^
 ||iwin.iiil.me^
 ||invl.me^
+||iqtrading.me^
 ||jun8899.me^
 ||csync.loopme.me^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
@@ -15516,6 +15624,10 @@
 ||pxlclnmdecom-a.akamaihd.net^
 ||pxlgnpgecom-a.akamaihd.net^
 ||qsearch-a.akamaihd.net^
+||perfopsamd.akamaized.net^
+||perfopsrum.akamaized.net^
+||perfopsrum-eip.akamaized.net^
+||perfopsrumapi.akamaized.net^
 ||vop-yahoo.akamaized.net^
 ||algolia.net^
 ||tsmkfa364q-dsn.algolia.net^
@@ -15555,12 +15667,16 @@
 ||ausoafab.net^
 ||azhkthg1.net^
 ||api.azhkthg1.net^
+||ha.azioncdn.net^
+||25748s.ha.azioncdn.net^
 ||adncdnend.azureedge.net^
 ||consent.azureedge.net^
 ||msadsscale.azureedge.net^
 ||privacytermsprod.azureedge.net^
 ||azurefd.net^
 ||consentdeliveryfd.azurefd.net^
+||z01.azurefd.net^
+||afdcdnperf-e8aeffg7frd0a3c0.z01.azurefd.net^
 ||yabo-b3g0esbzcggye4d3.z01.azurefd.net^
 ||azurewebsites.net^
 ||appzi-collector-b.azurewebsites.net^
@@ -15570,6 +15686,7 @@
 ||bbangads.b-cdn.net^
 ||beamanalytics.b-cdn.net^
 ||nitropay-200.b-cdn.net^
+||perfops1.b-cdn.net^
 ||popcashjs.b-cdn.net^
 ||snack-scripts.b-cdn.net^
 ||trebvhl46.b-cdn.net^
@@ -15610,6 +15727,7 @@
 ||tenmax-static.cacafly.net^
 ||tenmaximg.cacafly.net^
 ||ambient.cachefly.net^
+||cdnperf.cachefly.net^
 ||gamma.cachefly.net^
 ||cagothie.net^
 ||cameesse.net^
@@ -15623,6 +15741,7 @@
 ||revenue-mapping-api.ccgateway.net^
 ||script-api.ccgateway.net^
 ||tag-api-2-1.ccgateway.net^
+||cdnperf-rum.cdnetworks.net^
 ||ceckafoads.net^
 ||ceegriwuwoa.net^
 ||ak.ceegriwuwoa.net^
@@ -15657,11 +15776,13 @@
 ||d11enq2rymy0yl.cloudfront.net^
 ||d127s3e8wcl3q6.cloudfront.net^
 ||d12f8q48jixyf3.cloudfront.net^
+||d13i9p5451i433.cloudfront.net^
 ||d1418wpyaxxvno.cloudfront.net^
 ||d14u0p1qkech25.cloudfront.net^
 ||d14x1488qqh51m.cloudfront.net^
 ||d15kdpgjg3unno.cloudfront.net^
 ||d15wejze7d2tlj.cloudfront.net^
+||d161f70cbh7kx6.cloudfront.net^
 ||d1639lhkj5l89m.cloudfront.net^
 ||d16sobzswqonxq.cloudfront.net^
 ||d18g6t7whf8ejf.cloudfront.net^
@@ -15752,6 +15873,7 @@
 ||d36zfztxfflmqo.cloudfront.net^
 ||d37j8pfxu2iogi.cloudfront.net^
 ||d38190um0l9h9v.cloudfront.net^
+||d3888oxgux3fey.cloudfront.net^
 ||d38psrni17bvxu.cloudfront.net^
 ||d395dw5zk780j2.cloudfront.net^
 ||d39mzzwe2ijlir.cloudfront.net^
@@ -15804,6 +15926,7 @@
 ||df80k0z3fi8zg.cloudfront.net^
 ||dieuy732rkuvo.cloudfront.net^
 ||dilvyi2h98h1q.cloudfront.net^
+||djlzvy5xcvhxt.cloudfront.net^
 ||djtflbt20bdde.cloudfront.net^
 ||djv99sxoqpv11.cloudfront.net^
 ||djyj5flfanmte.cloudfront.net^
@@ -16024,6 +16147,7 @@
 ||fastclick.net^
 ||secure.cdn.fastclick.net^
 ||cartera-cdn.freetls.fastly.net^
+||perfops-static.freetls.fastly.net^
 ||confiant-integrations.global.ssl.fastly.net^
 ||fb-cdn.net^
 ||ping.fb-cdn.net^
@@ -16191,6 +16315,7 @@
 ||ipv6.ipecho.net^
 ||iptogreg.net^
 ||ak.iptogreg.net^
+||iqoption.net^
 ||jaigoaphamu.net^
 ||jeestauglahity.net^
 ||jerimpob.net^
@@ -16407,6 +16532,14 @@
 ||c.parkingcrew.net^
 ||paudaups.net^
 ||paupsoborofoow.net^
+||api.perfops.net^
+||devnull.perfops.net^
+||resolver.perfops.net^
+||test.resolver.perfops.net^
+||2ltxalbif6yxv2f3.test.resolver.perfops.net^
+||lk9kqmlekbyflz86.test.resolver.perfops.net^
+||zx0ovzziwdmb99qc.test.resolver.perfops.net^
+||rum-cdn.perfops.net^
 ||petchesa.net^
 ||phalingy.net^
 ||phaurtuh.net^
@@ -16571,6 +16704,7 @@
 ||ask.supportask.net^
 ||surveymonkey.net^
 ||api.surveymonkey.net^
+||perfops.swiftycdn.net^
 ||swuacktu.net^
 ||a865c0.swuacktu.net^
 ||tai789.net^
@@ -16969,6 +17103,7 @@
 ||rsc.cdn77.org^
 ||1437953666.rsc.cdn77.org^
 ||1558334541.rsc.cdn77.org^
+||1596384882.rsc.cdn77.org^
 ||cdnondemand.org^
 ||cdnx1.org^
 ||klbu.cdnx1.org^
@@ -17012,6 +17147,7 @@
 ||go2cloud.org^
 ||feelrobotics.go2cloud.org^
 ||nostop.go2cloud.org^
+||googlecdn.org^
 ||greetpanda.org^
 ||perr.hola.org^
 ||httpbin.org^
@@ -17026,6 +17162,7 @@
 ||api.ipify.org^
 ||api6.ipify.org^
 ||api64.ipify.org^
+||iqoption.org^
 ||jawdropjewels.org^
 ||kaella.org^
 ||4.kaella.org^
@@ -17041,6 +17178,8 @@
 ||api.moneyoyo.org^
 ||cdn.moneyoyo.org^
 ||l.moneyoyo.org^
+||telemetry.mozilla.org^
+||incoming.telemetry.mozilla.org^
 ||mpraven.org^
 ||networkadvertising.org^
 ||optout.networkadvertising.org^
@@ -17361,6 +17500,7 @@
 ||richardwashington.pro^
 ||www3.richardwashington.pro^
 ||right-spot.pro^
+||rigidnation.pro^
 ||api.rtnews.pro^
 ||rural-report.pro^
 ||satisfied-tour.pro^
@@ -17410,6 +17550,8 @@
 ||xo88.pro^
 ||zendplace.pro^
 ||www.zenfield.pro^
+||iq-option.promo^
+||iqbroker.promo^
 ||creatives.clevernetwork.pt^
 ||sapo.pt^
 ||id.sapo.pt^
@@ -17461,6 +17603,7 @@
 ||curietinures.rest^
 ||www.curietinures.rest^
 ||frazergraces.rest^
+||indoneviler.rest^
 ||cs.muonicpapegay.rest^
 ||altex.ro^
 ||afftrk.altex.ro^
@@ -17571,6 +17714,8 @@
 ||mc.yandex.ru^
 ||uaas.yandex.ru^
 ||yourbrowser.ru^
+||edge.run^
+||perfops.edge.run^
 ||tt88.sale^
 ||www.tt88.sale^
 ||18girlscam.sbs^
@@ -17631,6 +17776,7 @@
 ||eh.colleeniambi.shop^
 ||coniferyourt.shop^
 ||consloamed.shop^
+||cornrowbygone.shop^
 ||deliriamorula.shop^
 ||embainimplant.shop^
 ||etypicthawier.shop^
@@ -17736,6 +17882,7 @@
 ||my.imagechat.site^
 ||inmense.site^
 ||api.inmense.site^
+||iqtrade.site^
 ||j56y.site^
 ||jd56.site^
 ||jhavgy.site^
@@ -17861,6 +18008,7 @@
 ||syenitetatler.tech^
 ||ekomedia.technology^
 ||api.ekomedia.technology^
+||iqoption.co.th^
 ||sz.shopee.co.th^
 ||infra.sz.shopee.co.th^
 ||df.infra.sz.shopee.co.th^
@@ -17885,6 +18033,7 @@
 ||embed.tawk.to^
 ||gameland.today^
 ||api-csn-s.gameland.today^
+||iqtrading.today^
 ||octopus.tokyo^
 ||static.octopus.tokyo^
 ||16zoqtq3eowz.top^
@@ -19842,6 +19991,7 @@
 ||werywell56.xyz^
 ||go.werywell56.xyz^
 ||wfrhltaigw.xyz^
+||wheel-game.xyz^
 ||whempine.xyz^
 ||whulrima.xyz^
 ||wjxegxlsdvl.xyz^
@@ -20166,6 +20316,7 @@ quora.com#?#.AnswerListDiv > div.AnswerPagedList > div.pagedlist_item:has(a.prom
 quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-metadata],div[data-clog-metadata*="promoted_content"],.AdBundle,.NewGridQuestionPage .linked_content,.dom_annotate_ad_image_ad,.dom_annotate_ad_promoted_answer,.dom_annotate_ad_text_ad,.spacing_log_question_page_ad,.q-sticky[style*="box-sizing: border-box; position: sticky;"]:has-text(Advertisement)
 ! END QUORA$
 @@||b.cdnst.net/javascript/speedtest-main.js
+@@||copilot.microsoft.com/static/cmc/assets/use-ads-card-operations-*.js
 @@||google.com/recaptcha/enterprise.js
 @@||qwen-webui-prod.oss-accelerate.aliyuncs.com^
 @@||recaptcha.net/recaptcha/enterprise.js
@@ -20215,10 +20366,12 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||cdn-go.cn/aegis/aegis-sdk/
 ||cdn.jsdelivr.net/*/ga.js
 ||cdn.jsdelivr.net/*ad-shield/
+||cdn.jsdelivr.net/gh/jimaek/
 ||cdn.jsdelivr.net/npm/livcounter/counter.js
 ||cdn.jsdelivr.net/npm/yandex-metrica-watch/
 ||cdn.needrom.com/colorbox/*jquery.colorbox*.js
 ||cdn.needrom.com/wind14.js
+||cdn.perfops.net/rom3/
 ||cdn.statically.io/*ad-shield/
 ||cdn.truyenfull.tv/assets/truyenfull/js/aff_ads.js
 ||cdnjs.cloudflare.com/*cookieconsent
@@ -20335,6 +20488,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||kakaocdn.net/tiara/
 ||katfile.*/cgi-bin/stats.fcgi
 ||katfile.*/images/h527515_dl.gif
+||katfile.*/js/adframe.js
 ||katfile.*/js/pu*.js
 ||kimcartoon.si/api/pop.php
 ||kissanime.com.ru/rmad.php
@@ -20523,6 +20677,7 @@ hentaivnx.*#%#//scriptlet('prevent-addEventListener', 'click', '__popupunder1_la
 hitomi.la#%#//scriptlet('prevent-addEventListener', 'click', 'popMagic')
 hitomi.la#%#//scriptlet('set-constant', 'X', 'emptyArr')
 idoitmyself.xyz,listvpn.net#%#//scriptlet('prevent-addEventListener', 'contextmenu')
+infinityfree.com,onlinegdb.com,scribd.com,text-compare.com,urldecoder.org#%#//scriptlet('remove-attr', 'onload|onerror', 'script[data-cfasync="false"][src*="loader.min.js"][data]')
 jsfiddle.net#%#//scriptlet('set-constant', '_bsa', 'false')
 listvpn.net,vpnsplit.com#%#//scriptlet('set-constant', 'adBlockDetected', 'noopFunc')
 listvpn.net,vpnsplit.com#%#//scriptlet('set-constant', 'checkAdBlocker', 'noopFunc')
@@ -20534,7 +20689,6 @@ mixdrop.to,mixdrop.co#%#//scriptlet('abort-on-property-write', '_pop')
 mixdrop.to,mixdrop.co#%#//scriptlet('prevent-addEventListener', 'click', 'dtnoppu')
 mixdrop.to,mixdrop.co#%#//scriptlet('set-constant', 'MDCore.adblock', '0')
 nhentai.net#%#//scriptlet('set-constant', 'N_BetterJsPop', 'emptyObj')
-onlinegdb.com,scribd.com,text-compare.com,urldecoder.org#%#//scriptlet('remove-attr', 'onload|onerror', 'script[data-cfasync="false"][src*="loader.min.js"][data]')
 scribd.com#%#//scriptlet('set-constant', '__pages_to_blur', 'emptyArr')
 scribd.com#%#//scriptlet('set-constant', 'Scribd.NwayTestsWithWeights.content_preview_banner_removal.choices', 'emptyObj')
 scribd.com#%#//scriptlet('set-constant', 'Scribd.NwayTestsWithWeights.content_preview_banner_removal.id', '-1')
@@ -20577,7 +20731,7 @@ dailyuploads.net#%#(()=>{Object.defineProperties(window,{'adEnable':{value:true,
 dailyuploads.net,datavaults.co,filespayouts.com,up-load.io,uploadrar.com,zmamobile.com#%#(()=>{window.addEventListener('load',()=>{var e=document.getElementById('downloadbtn');if(e!==null){e.disabled=false}e=document.getElementById('gdpr-cookie-notice');if(e!==null){e.remove()}e=document.getElementById('adblock_detected');if(e!==null){e.value=0}})})();
 datavaults.co#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{var e=document.getElementById('dummy');if(e!==null){e.style.display='none'}e=document.getElementById('original');if(e!==null){e.style.display='block'}})})();
 dictionary.cambridge.org#%#(()=>{var isBadScript=e=>{try{if(e.tagName!=='SCRIPT'){return false}if((e.src||'').includes('html-load.com/loader.min.js')===true||e.hasAttribute('nowprocket')===true||(e.textContent||'').indexOf('function t(o,e){var r=n()')>=0){return true}}catch(t){}return false};document.querySelectorAll('script').forEach(t=>{if(isBadScript(t)===true){t.parentNode.removeChild(t)}});new MutationObserver(mutations=>{mutations.forEach(t=>{t.addedNodes.forEach(t=>{if(t.nodeType===Node.ELEMENT_NODE&&t.tagName==='SCRIPT'&&isBadScript(t)===true){t.parentNode.removeChild(t)}})})}).observe(document.documentElement,{childList:true,subtree:true});var _=window.fetch;window.fetch=function(e,r){try{var n=typeof e==='string'?e:e.url;if(n!==null&&n.includes('error-report.com')===true){return Promise.reject(Error('Blocked by client script'))}}catch(o){}return _.apply(this,arguments)}})();
-diffchecker.com#%#(()=>{localStorage.setItem('theme','dark');var d=new Date;d='-'+d.getMonth()+'-'+d.getFullYear();localStorage.setItem('closedDiffDesktopBanner',true);localStorage.setItem('alreadySawHomepageModal',true);localStorage.setItem('explainUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('mergeUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('textDiffLevelUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('textStatsUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('ignoreStringsUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('unifiedUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('collapsedUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('realTimeUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('syntaxHighlightUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('exportXlsxUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('exportPdfUses'+d,Number.MIN_SAFE_INTEGER);window.addEventListener('load',()=>{document.querySelectorAll('form > .hide-print').forEach(e=>{e.remove()});new MutationObserver(mutations=>{mutations.forEach(mutation=>{mutation.addedNodes.forEach(node=>{if(node.nodeType===1){if(typeof node.matches==='function'&&node.matches('form > .hide-print')===true){node.remove()}node.querySelectorAll('form > .hide-print').forEach(e=>{e.remove()})}})})}).observe(document.documentElement,{childList:true,subtree:true})})})();
+diffchecker.com#%#(()=>{localStorage.setItem('theme','dark');var d=new Date;d='-'+d.getMonth()+'-'+d.getFullYear();localStorage.setItem('closedDiffDesktopBanner',true);localStorage.setItem('alreadySawHomepageModal',true);localStorage.setItem('explainUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('mergeUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('textDiffLevelUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('textStatsUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('ignoreStringsUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('unifiedUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('collapsedUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('realTimeUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('syntaxHighlightUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('exportXlsxUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('exportPdfUses'+d,Number.MIN_SAFE_INTEGER);window.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('form > .hide-print').forEach(e=>{e.style.visibility='hidden';e.style.display='none'});new MutationObserver(mutations=>{mutations.forEach(mutation=>{mutation.addedNodes.forEach(node=>{if(node.nodeType===Node.ELEMENT_NODE){if(typeof node.matches==='function'&&node.matches('form > .hide-print')===true){node.style.visibility='hidden';node.style.display='none'}node.querySelectorAll('form > .hide-print').forEach(e=>{e.style.visibility='hidden';e.style.display='none'})}})})}).observe(document.documentElement,{childList:true,subtree:true})})})();
 filespayouts.com#%#(()=>{Object.defineProperty(window,'userAgent',{value:'mobi',writable:false})})();
 frdl.hk,frdl.io,frdl.my,frdl.pw,frdl.to,fredl.ru,freedl.ink#%#(()=>{window.addEventListener('DOMContentLoaded',(()=>{var e=document.getElementById('download_free');if(e!==null){e.value=1}e=document.getElementById('free-captcha');if(e!==null){e.style.display='block'}e=document.querySelector('img.img-fluid');if(e!==null){e.remove()}}))})();
 fullboys.com,rimsgay.com#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{var n=selector=>{var o=document.querySelector(selector);if(o!==null){var e=$._data(o,'events');return e!==null&&e!==undefined&&e.click!==null&&e.click!==undefined}return false};var o=setInterval(()=>{if(typeof $==='function'&&typeof $.isFunction==='function'){if(n('#loadMore')===true||n('#btn-download')===true){$('#loadMore').off('click');$('#btn-download').off('click')}if(n('#loadMore')===false&&n('#btn-download')===false){clearInterval(o);if(typeof downloadURI==='function'){$('#btn-download').click(()=>{downloadURI(document.getElementById('LinkMedia').value,document.getElementById('NameMedia').value)})}}}},100)})})();
@@ -20587,7 +20741,7 @@ hitomi.la#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{var e=document
 hitomi.la,myreadingmanga.info#%#(()=>{Object.defineProperty(window,'adConfig',{value:void 0,writable:false})})();
 idoitmyself.xyz#%#(()=>{console.clear=void 0;document.write=void 0;window.open=void 0;Object.defineProperties(window,{devtoolsDetector:{value:void 0,writable:false},ADS_CONFIG:{value:void 0,writable:false},get_ads_func:{value:void 0,writable:false},run:{value:void 0,writable:false},loadAds:{value:void 0,writable:false},ct_func:{value:void 0,writable:false}});Object.defineProperties(Object,{isEnable:{value:void 0,writable:false},isOpen:{value:void 0,writable:false}});window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelectorAll('.fx-right.fx-sda.affix');if(e.length!==0){e.forEach(el=>{el.remove()})}if(typeof $==='function'&&typeof $.isFunction==='function'){$(window).off('load');$('body').off('keydown');setTimeout(()=>{$('body').off('click')},1010)}})})();
 imgur.com#%#(()=>{window.usesABP=false})();
-katfile.com,katfile.online#%#(()=>{Object.defineProperty(window,'popns',{value:void 0,writable:false});var t=setInterval(()=>{if(typeof $==='function'&&typeof $.isFunction==='function'){$('#fbtn1,#m_fbtn1,.downloadbtn,#dlink').off('click');$('#fbtn1,#m_fbtn1').click(n=>{n.preventDefault();$('#freebtn').click()});$('button.downloadbtn:not(#downloadbtn)').click(function(n){n.preventDefault();this.form.submit()})}},100)})();
+katfile.com,katfile.online,katfile.vip#%#(()=>{Object.defineProperty(window,'popns',{value:void 0,writable:false});var t=setInterval(()=>{if(typeof $==='function'&&typeof $.isFunction==='function'){$('#fbtn1,#m_fbtn1,.downloadbtn,#dlink').off('click');$('#fbtn1,#m_fbtn1').click(n=>{n.preventDefault();$('#freebtn').click()});$('button.downloadbtn:not(#downloadbtn)').click(function(n){n.preventDefault();this.form.submit()})}},100)})();
 kenhdammy.com#%#(()=>{Object.defineProperties(window,{'defeatIE':{value:void 0,writable:false},'defeatNS':{value:void 0,writable:false},'shortcut':{value:void 0,writable:false},'vtlai_popup':{value:void 0,writable:false}});Object.defineProperty(document,'oncontextmenu',{value:void 0,writable:false})})();
 kimcartoon.si#%#(()=>{window.check_adblock=true;window.addEventListener('DOMContentLoaded',()=>{var el=document.querySelector('#container > #adsIfrme');if(el!==null){el.removeAttribute('id')}})})();
 mail.google.com,login.yahoo.com#%#(()=>{var s=/(?:\S+)?ads(?:\S+)?/gi;document.querySelectorAll('[class*="ads" i]').forEach(e=>{var matches=e.className.match(s);if(matches!==null){e.classList.remove(...matches)}});new MutationObserver(mutations=>{mutations.forEach(mutation=>{mutation.addedNodes.forEach(node=>{if(node.nodeType===1){if(typeof node.matches==='function'&&node.matches('[class*="ads" i]')===true){var matches=node.className.match(s);if(matches!==null){node.classList.remove(...matches)}}node.querySelectorAll('[class*="ads" i]').forEach(e=>{var matches=e.className.match(s);if(matches!==null){e.classList.remove(...matches)}})}})})}).observe(document.documentElement,{childList:true,subtree:true})})();
