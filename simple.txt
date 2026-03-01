@@ -5692,6 +5692,8 @@
 ||fengkongcloud.com^
 ||fp-sa-it.fengkongcloud.com^
 ||ferrisoisin.com^
+||fervouriliau.com^
+||cp.fervouriliau.com^
 ||festivefranchisetorrent.com^
 ||fetanews.com^
 ||1.fetanews.com^
@@ -6284,7 +6286,6 @@
 ||peoplestackwebexperiments-pa.clients6.google.com^
 ||realtimesupport.clients6.google.com^
 ||scone-pa.clients6.google.com^
-||signaler-pa.clients6.google.com^
 ||waa-pa.clients6.google.com^
 ||corp.google.com^
 ||uberproxy-pen-redirect.corp.google.com^
@@ -14023,6 +14024,8 @@
 ||media.bin898293.cyou^
 ||bncloudfl.cyou^
 ||cdn.bncloudfl.cyou^
+||corrumpskeptic.cyou^
+||lr.corrumpskeptic.cyou^
 ||daftarsalloovrow.cyou^
 ||bima.daftarsalloovrow.cyou^
 ||fast673bot.cyou^
@@ -17585,6 +17588,8 @@
 ||lutenew.qpon^
 ||outgoacosmic.qpon^
 ||wb.outgoacosmic.qpon^
+||scomfitchattelslipups.qpon^
+||teil.scomfitchattelslipups.qpon^
 ||umbrereforrard.qpon^
 ||wispslowbellcorebox.qpon^
 ||whr.wispslowbellcorebox.qpon^
@@ -20345,6 +20350,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||apkmody.com/*/admanager.js
 ||aplus.qwen.ai/aes.1.1
 ||aplus.qwen.ai/v.gif
+||arena.ai/ingest/
 ||arms-retcode.aliyuncs.com/r.png
 ||assets.alicdn.com/g/??/sd/baxia/
 ||audiomack.com/v1/analytics/
