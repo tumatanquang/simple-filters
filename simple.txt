@@ -2385,6 +2385,8 @@
 ||ajrosqokj.com^
 ||www.ajrosqokj.com^
 ||ajtoshak.com^
+||akaerocore.com^
+||i.akaerocore.com^
 ||whatismyip.akamai.com^
 ||ipv4.whatismyip.akamai.com^
 ||ipv6.whatismyip.akamai.com^
@@ -3393,6 +3395,8 @@
 ||bigboxads.com^
 ||xml.bigboxads.com^
 ||bigdatajsext.com^
+||bigotd.com^
+||good.bigotd.com^
 ||cm.bilibili.com^
 ||bilsyndication.com^
 ||assets.bilsyndication.com^
@@ -3599,6 +3603,11 @@
 ||brandmetrics.com^
 ||cdn.brandmetrics.com^
 ||collector.brandmetrics.com^
+||brandsmat.com^
+||js.brandsmat.com^
+||sd559908.js.brandsmat.com^
+||ob.sd559908.js.brandsmat.com^
+||obs.sd559908.js.brandsmat.com^
 ||branlesero.com^
 ||brasilschirrs.com^
 ||gz.brasilschirrs.com^
@@ -3962,6 +3971,7 @@
 ||cdn-fileserver.com^
 ||l.cdn-fileserver.com^
 ||s.cdn-fileserver.com^
+||sra-px.cdn-fileserver.com^
 ||cdn-fxgt.com^
 ||live.cdn-fxgt.com^
 ||cdn15.com^
@@ -4835,6 +4845,8 @@
 ||08d0fe3dc4.dfd1ec534a.com^
 ||dffc7e343b.com^
 ||dbd9542946.dffc7e343b.com^
+||dfndwfcwp.com^
+||www.dfndwfcwp.com^
 ||dfxofvzd.com^
 ||www.dfxofvzd.com^
 ||dfywakkasl.com^
@@ -6212,6 +6224,7 @@
 ||ads.glispa.com^
 ||gloatwhisper.com^
 ||global-gigabyte.com^
+||globalsearchresults.com^
 ||gloorajo.com^
 ||gloporn.com^
 ||pre.glotgrx.com^
@@ -6275,6 +6288,7 @@
 ||alt7-mtalk.google.com^
 ||alt8-mtalk.google.com^
 ||analytics.google.com^
+||client-channel.google.com^
 ||cello.client-channel.google.com^
 ||ogads-pa.clients.google.com^
 ||waa-pa.clients.google.com^
@@ -6286,7 +6300,7 @@
 ||peoplestackwebexperiments-pa.clients6.google.com^
 ||realtimesupport.clients6.google.com^
 ||scone-pa.clients6.google.com^
-||waa-pa.clients6.google.com^
+||signaler-pa.clients6.google.com^
 ||corp.google.com^
 ||uberproxy-pen-redirect.corp.google.com^
 ||cse.google.com^
@@ -6852,6 +6866,8 @@
 ||script.hotjar.com^
 ||static.hotjar.com^
 ||hotmuziko.com^
+||hottd88.com^
+||ha.hottd88.com^
 ||hotxxxcontent.com^
 ||houndxads.com^
 ||housebutsoon.com^
@@ -11980,6 +11996,12 @@
 ||tcklxsdxmpgrutc.com^
 ||tcudrocivr.com^
 ||www.tcudrocivr.com^
+||td88-uk.com^
+||td88ab.com^
+||tdxs.td88ab.com^
+||td88bet.com^
+||td88chat.com^
+||upload.td88chat.com^
 ||td88waq.com^
 ||tdweb.td88waq.com^
 ||tddmsmjbwtftgy.com^
@@ -13039,6 +13061,8 @@
 ||voowiche.com^
 ||voqqdmezdbbr.com^
 ||www.voqqdmezdbbr.com^
+||vospnsjswih.com^
+||www.vospnsjswih.com^
 ||concertads-configs.vox-cdn.com^
 ||optimize-stats.voxmedia.com^
 ||vpbceulnfbx.com^
@@ -14496,6 +14520,8 @@
 ||onmeta.in^
 ||platform.onmeta.in^
 ||oxbet.in^
+||pubkisakvsfy.in^
+||www.pubkisakvsfy.in^
 ||raramjqumo.in^
 ||www.raramjqumo.in^
 ||sahanaconventioncentre.in^
@@ -15028,6 +15054,7 @@
 ||cdn.transcend.io^
 ||sync.transcend.io^
 ||telemetry.transcend.io^
+||vhit.io^
 ||visitiq.io^
 ||pixel.visitiq.io^
 ||visitor-analytics.io^
@@ -15347,6 +15374,7 @@
 ||exmarkets.markets^
 ||track.exmarkets.markets^
 ||www.exmarkets.markets^
+||01-06.me^
 ||123qq88.me^
 ||7reader.me^
 ||stattest.7reader.me^
@@ -15867,6 +15895,7 @@
 ||d32jf5gjc44l9b.cloudfront.net^
 ||d32oduq093hvot.cloudfront.net^
 ||d33bhlp8xcppz2.cloudfront.net^
+||d33f51dyacx7bd.cloudfront.net^
 ||d33n2liusggxgp.cloudfront.net^
 ||d33vw3iu5hs0zi.cloudfront.net^
 ||d34ostmuvf1nzw.cloudfront.net^
@@ -17248,6 +17277,7 @@
 ||events.tubecup.org^
 ||native.tubecup.org^
 ||st.tubecup.org^
+||undaymidydles.org^
 ||userway.org^
 ||api.userway.org^
 ||cdn77.api.userway.org^
@@ -17967,6 +17997,8 @@
 ||collector.shorte.st^
 ||static.shorte.st^
 ||againstmor.store^
+||artcrafts.store^
+||my.artcrafts.store^
 ||cloudtransfer.store^
 ||g-site.store^
 ||wq24-1.g-site.store^
@@ -18702,6 +18734,8 @@
 ||b4.zobet.top^
 ||zoilusdoping.top^
 ||gw.zoilusdoping.top^
+||zorvec.top^
+||ads.zorvec.top^
 ||zrkyzwrwjlwqe.top^
 ||znel.zrkyzwrwjlwqe.top^
 ||zrrzblnzqkkaw.top^
@@ -18861,6 +18895,7 @@
 ||t.dailymail.co.uk^
 ||ted.dailymail.co.uk^
 ||ezoic.co.uk^
+||glazierexeter.co.uk^
 ||snack-projects.co.uk^
 ||widgets.snack-projects.co.uk^
 ||cmpv2.standard.co.uk^
@@ -20089,7 +20124,7 @@ stun:stun.l.google.com^
 /(?:sa-sdk-javascript|web-vitals)@/$script
 /(?<!(?:magnific|self-answer|tag-suggest)[-,])popup/$domain=~drive.google.com|~stackoverflow.com|~wikipedia.org,match-case
 /.*(?:_ads)\.js/$script
-/.*(?<!(?:downlo|spre|uplo))ads.*\.js/$match-case,script
+/.*(?<!(?:[A-Z][a-z]+|downlo|spre|uplo))ads.*\.js/$match-case,script
 /3[05]0[-x]2?5?0/$image
 /728[-x]90/$image
 /\.codes\/.*\.js/$script
