@@ -409,10 +409,13 @@
 ||ertyui5e5.cfd^
 ||faltchefeoffee.cfd^
 ||fileseess.cfd^
+||gauzilyaortal.cfd^
 ||haxmac.cfd^
 ||ji95rtg.cfd^
 ||jmbquy40.cfd^
 ||lackeysmuscids.cfd^
+||macabregrushpraos.cfd^
+||finales.macabregrushpraos.cfd^
 ||mad-webcams.cfd^
 ||pgvnyxf.cfd^
 ||r947v0sn.cfd^
@@ -423,6 +426,8 @@
 ||stumblegneiss.cfd^
 ||jf.stumblegneiss.cfd^
 ||termerraches.cfd^
+||unfancyvalericwides.cfd^
+||jaloppy.unfancyvalericwides.cfd^
 ||upstagecarvers.cfd^
 ||v5chb4tty0611249p.cfd^
 ||vickykilled.cfd^
@@ -3789,6 +3794,10 @@
 ||bumpingasbolin.com^
 ||ti.bumpingasbolin.com^
 ||bumzilxruqup.com^
+||bundlecda.com^
+||bundlecdn.com^
+||v3.bundlecdn.com^
+||optimize.v3.bundlecdn.com^
 ||bundlemoviepumice.com^
 ||bungeedubbah.com^
 ||bungeesleeves.com^
@@ -4496,6 +4505,7 @@
 ||www.cootek.com^
 ||cootlogix.com^
 ||exchange.cootlogix.com^
+||cordialbail.com^
 ||corot-24.com^
 ||cdn.corot-24.com^
 ||correlationcocktailinevitably.com^
@@ -6534,6 +6544,7 @@
 ||ds.metric.gstatic.com^
 ||122004-ipv6test.ds.metric.gstatic.com^
 ||12725-ipv6test.ds.metric.gstatic.com^
+||143080-ipv6test.ds.metric.gstatic.com^
 ||149544-ipv6test.ds.metric.gstatic.com^
 ||151415-ipv6test.ds.metric.gstatic.com^
 ||15737-ipv6test.ds.metric.gstatic.com^
@@ -6543,6 +6554,7 @@
 ||233042-ipv6test.ds.metric.gstatic.com^
 ||251824-ipv6test.ds.metric.gstatic.com^
 ||267525-ipv6test.ds.metric.gstatic.com^
+||283010-ipv6test.ds.metric.gstatic.com^
 ||313506-ipv6test.ds.metric.gstatic.com^
 ||349073-ipv6test.ds.metric.gstatic.com^
 ||387594-ipv6test.ds.metric.gstatic.com^
@@ -6598,6 +6610,7 @@
 ||763357-ipv6test.v4.metric.gstatic.com^
 ||769685-ipv6test.v4.metric.gstatic.com^
 ||830670-ipv6test.v4.metric.gstatic.com^
+||844085-ipv6test.v4.metric.gstatic.com^
 ||851763-ipv6test.v4.metric.gstatic.com^
 ||979299-ipv6test.v4.metric.gstatic.com^
 ||xcleq8-dnsotls-ds.metric.gstatic.com^
@@ -8115,7 +8128,6 @@
 ||a.libertystmedia.com^
 ||i.libertystmedia.com^
 ||connect.liblynx.com^
-||licdn.com^
 ||snap.licdn.com^
 ||lickingimprovementpropulsion.com^
 ||lifemoodmichelle.com^
@@ -10167,6 +10179,8 @@
 ||polygon-rpc.com^
 ||polyserbdom.com^
 ||ra.polyserbdom.com^
+||poneyviperid.com^
+||xg.poneyviperid.com^
 ||poosoahe.com^
 ||pop5sjhspear.com^
 ||popdemission.com^
@@ -10653,6 +10667,7 @@
 ||a.vhs.queerclick.com^
 ||quenchskirmishcohere.com^
 ||questioningcomplimentarypotato.com^
+||quge5.com^
 ||quhzaqfsfuljw.com^
 ||www.quhzaqfsfuljw.com^
 ||quicklyedit.com^
@@ -11389,6 +11404,7 @@
 ||serconmp.com^
 ||serenesurf.com^
 ||serinuswelling.com^
+||serv90.com^
 ||servedby-buysellads.com^
 ||m.servedby-buysellads.com^
 ||servedbyadbutler.com^
@@ -11613,6 +11629,8 @@
 ||ssbsync-global.smartadserver.com^
 ||sync.smartadserver.com^
 ||www15.smartadserver.com^
+||smartiwheel.com^
+||libs.smartiwheel.com^
 ||smartlook.com^
 ||rec.smartlook.com^
 ||web-sdk.smartlook.com^
@@ -12474,6 +12492,8 @@
 ||trckr.treexy.com^
 ||trello.com^
 ||tremblingkeyboardassistant.com^
+||tremendousrise.com^
+||www.tremendousrise.com^
 ||tremorhub.com^
 ||partners.tremorhub.com^
 ||trgwl.com^
@@ -14471,6 +14491,7 @@
 ||carasushi.fr^
 ||chevalier-mazenc.fr^
 ||cliniqueveterinairegrandangles.fr^
+||crocbot.fr^
 ||cyclindoor.fr^
 ||demfret.fr^
 ||energeia-solutions.fr^
@@ -14979,6 +15000,7 @@
 ||grammarly.io^
 ||f-log-js-plugin.grammarly.io^
 ||femetrics.grammarly.io^
+||inkwell.femetrics.grammarly.io^
 ||website.femetrics.grammarly.io^
 ||growthbook.io^
 ||cdn.growthbook.io^
@@ -15372,6 +15394,7 @@
 ||girlszone.lat^
 ||www12.girlszone.lat^
 ||knightdale.lat^
+||1wvkdx.life^
 ||allbonushere.life^
 ||allodiafeveret.life^
 ||awardbonus.life^
@@ -15410,6 +15433,7 @@
 ||realistic-reaction.life^
 ||remmbdockevrd.life^
 ||respincusser.life^
+||routerpp.life^
 ||shubasairy.life^
 ||sotpprdjanssnow.life^
 ||themy-bestprizes.life^
@@ -15814,6 +15838,8 @@
 ||cdn.adxfire.net^
 ||adzerk.net^
 ||e-9660.adzerk.net^
+||afcdn.net^
+||s3t3d2y1.afcdn.net^
 ||agurgeed.net^
 ||ahoopiphoopsoa.net^
 ||aimukreegee.net^
@@ -17444,6 +17470,7 @@
 ||thinksuggest.org^
 ||www.thinksuggest.org^
 ||tomlldahehun.org^
+||trustktr.org^
 ||trustx.org^
 ||ads.trustx.org^
 ||tubecup.org^
@@ -17503,6 +17530,7 @@
 ||rybczynskistudio.com.pl^
 ||cytogenetyczneryzyko.pl^
 ||detektyww.pl^
+||dkorczak.pl^
 ||dziur-met.pl^
 ||eliteestetique.pl^
 ||ewajarosart.pl^
@@ -17730,6 +17758,7 @@
 ||stupendousconcept.pro^
 ||terrible-sink.pro^
 ||terttalkinhitin.pro^
+||torncustomer.pro^
 ||touched35one.pro^
 ||u-7178.touched35one.pro^
 ||traffictrade.pro^
@@ -18044,6 +18073,7 @@
 ||kx.windsuredine.shop^
 ||xylidichiatus.shop^
 ||yanquisorigan.shop^
+||yasmakexdie.shop^
 ||yockingdey.shop^
 ||zerodeltanode.shop^
 ||as7.zerodeltanode.shop^
@@ -20560,8 +20590,10 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||api.facebook.com/method/logging.clientevent
 ||api.github.com/_private/browser/stats
 ||api.redgifs.com/v2/ads/slots
+||api.x.com/1.1/graphql/ces/
 ||api.x.com/1.1/graphql/user_flow.json
 ||api.x.com/1.1/jot/
+||api.x.com/1.1/onboarding/
 ||apkmody.com/*/admanager.js
 ||aplus.qwen.ai/aes.1.1
 ||aplus.qwen.ai/v.gif
@@ -20607,6 +20639,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||claude.ai/api/event_logging/batch
 ||claude.ai/isolated-segment.html
 ||claude.ai/sentry
+||client-api.arkoselabs.com/fc/
 ||cloud.google.com/log
 ||cnet.com/ext/
 ||cnet.com/irb/lib/dist/prod/bidbarrel-cnet*.js
@@ -20664,6 +20697,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||g.alicdn.com/aes/tracker-plugin-survey-ui/
 ||g.alicdn.com/sd/baxia*/
 ||g.alicdn.com/secdev/sufei_data/
+||gateway.grammarly.com/experimentation/treatment/get
 ||gemini.google.com/_/BardChatUi/cspreport/fine-allowlist
 ||gemini.google.com/_/BardChatUi/jserror
 ||geo.dailymotion.com/cookie.js
@@ -20678,6 +20712,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||google.com/js/google.js
 ||googleapis.com/androidantiabuse/
 ||googleapis.com/androidcheck/
+||grammarly.com/inkwell/
 ||graph.facebook.com/*/activities?access_token=&event=
 ||graph.facebook.com/*?fields=supports_implicit_sdk_logging
 ||graph.facebook.com/?id=$third-party
@@ -20757,13 +20792,23 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||oracle.com/visitorinfo/
 ||patreon.com/api/tracking
 ||pay.google.com/gp/p/_/InstantbuyFrontendBuyflowPayframeUi/jserror
+||perplexity.ai/pixel/
 ||perplexity.ai/rest/event/analytics
 ||perplexity.ai/rest/user/promotions
+||pinterest.com/_/_/report/string_usage/
+||pinterest.com/_/_/storage_report/
+||pinterest.com/_/_/trace/trace/
+||pinterest.com/resource/ActivateExperimentResource/create/
+||pinterest.com/resource/ActiveUserResource/create/
+||pinterest.com/resource/ApiCResource/create/
+||pinterest.com/resource/ApiSResource/create/
+||pinterest.com/resource/UserRegisterTrackActionResource/update/
 ||pixlr.com/fad/
 ||poe.com/api/ping
 ||poe.com/api/receive_POST
 ||pornhub.com/_i?type=event&event=
 ||pornhub.com/_xa/ads
+||pplx-next-static-public.perplexity.ai/_spa/assets/AnalyticsPixels-*.js
 ||qhimg.com/pkg/radarsdk/radar-analytic-js-sdk-*.js
 ||quora.com/ajax/receive_POST
 ||quoracdn.net^$domain=mupnungvl.pro,third-party
@@ -20943,7 +20988,7 @@ terabox.com#%#//scriptlet('json-prune', 'web_video_play_patch_ad_area.cfg_list.1
 ! Change imgur to imgur old frontpage: imgur.com#%#document.cookie="frontpagebetav2=0;domain=.imgur.com";
 ! X (Twitter) hide content warning crap source code: https://greasyfork.org/en/scripts/437359-twitter-hide-content-warning-crap/code
 ! 120fpsconfigfile.pro: https://www.programiz.com/online-compiler/9jRQgfHVuvBVP
-120fpsconfigfile.pro#%#(()=>{var n=window.setInterval,t=(window.clearInterval,Date.now),a=t(),e=false;Date.now=()=>{return e===true?a:t()};window.setInterval=(r,i,...o)=>{if(i===1E3){var w=i/20;t();return n(()=>{e=true,a+=1E3;try{r.apply(this,o)}finally{e=false}},w,...o)}return n(r,i,...o)};var _=window.fetch;window.fetch=(...n)=>{if(n[0]==='https://www.120fpsconfigfile.pro/wp-admin/admin-ajax.php'&&n[1]!==null&&n[1].method==='POST'){var a={...n[1]};if(a.body instanceof URLSearchParams){var e=new URLSearchParams(a.body);t();e.set('elapsed_time',(Date.now()-performance.timing.navigationStart).toString()),a.body=e}return _.apply(this,[n[0],a])}return _.apply(this,n)}})();
+120fpsconfigfile.pro#%#(()=>{var n=window.setInterval,t=(window.clearInterval,Date.now),a=t(),e=false;Date.now=()=>{return e===true?a:t()};window.setInterval=(r,i,...o)=>{if(i===1e3){var w=i/20;t();return n(()=>{e=true,a+=1e3;try{r.apply(this,o)}finally{e=false}},w,...o)}return n(r,i,...o)};var _=window.fetch;window.fetch=(...args)=>{if(args[0]==='https://www.120fpsconfigfile.pro/wp-admin/admin-ajax.php'&&args[1]!==null&&args[1].method==='POST'){if(args[1].body instanceof URLSearchParams){var e=new URLSearchParams(args[1].body);t();e.set('elapsed_time',(Date.now()-performance.timing.navigationStart).toString());args[1].body=e}return _.apply(this,[args[0],args[1]])}return _.apply(this,args)}})();
 123s.link,1link.vip,link1s.com#%#(()=>{Object.defineProperty(window,'go_popup',{value:void 0,writable:false});window.addEventListener('load',()=>{var e=document.querySelectorAll('[class*="banner" i]');if(e.length!==0){var a=/(?:\S+)?banner(?:\S+)?/gi;e.forEach(el=>{var matches=el.className.match(a);if(matches!==null){el.classList.remove(...matches)}})}if(typeof app_vars==='object'&&app_vars!==null){app_vars.counter_value=6;app_vars.force_disable_adblock=0}})})();
 adguard.com#%#(()=>{window.addEventListener('load',()=>{var e=document.querySelectorAll('.language-adblock');if(e.length!==0){e.forEach(el=>{el.classList.remove('language-adblock')})}})})();
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.sa,amazon.se,amazon.sg,bblink.com,live.com,mmo1s.com,naver.com,oraclecloud.com#%#(()=>{var e=/(?:\S+)?banner(?:\S+)?/gi;document.querySelectorAll('[class*="banner" i]').forEach(r=>{var matches=r.className.match(e);if(matches!==null){r.classList.remove(...matches)}});new MutationObserver(mutations=>{mutations.forEach(mutation=>{mutation.addedNodes.forEach(node=>{if(node.nodeType===1){if(typeof node.matches==='function'&&node.matches('[class*="banner" i]')===true){var matches=node.className.match(e);if(matches!==null){node.classList.remove(...matches)}}node.querySelectorAll('[class*="banner" i]').forEach(r=>{var matches=r.className.match(e);if(matches!==null){r.classList.remove(...matches)}})}})})}).observe(document.documentElement,{childList:true,subtree:true})})();
@@ -20982,6 +21027,7 @@ online-python.com#%#(()=>{localStorage.setItem('theme','dark')})();
 onlinegdb.com#%#(()=>{var t=setInterval(()=>{if(typeof savefile==='function'){Object.defineProperty(window,'savefile',{value:()=>{return true},writable:false});$('#control-btn-save').off('click');$('#control-btn-save').on('click',()=>{shareCode(true)});clearInterval(t)}},100);Object.defineProperties(window,{'no_ads':{value:true,writable:false},'check_fallback_ad_timer':{value:void 0,writable:false},'check_fallback_ad':{value:()=>{},writable:false},'check_fallback_ad_helper':{value:()=>{},writable:false},'repalce_fallback_ad':{value:()=>{},writable:false},'track_event':{value:()=>{},writable:false}})})();
 onlinetexttools.com#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{document.body.dataset.is_premium='True';document.body.dataset.discount_modal='False';var e=document.querySelectorAll('[data-subscription="free"]');if(e.length!==0){e.forEach(el=>{el.dataset.subscription='premium'})}e=document.querySelector('button.widget-save-as');if(e!==null){e.addEventListener('click',()=>{setTimeout(()=>{e.innerText='Download';e.disabled=false},100)})}})})();
 pass.proton.me#%#(()=>{var _=window.fetch;window.fetch=(...s)=>{return _(...s).then(async s=>{var e=await s.clone().json();if(e!==null&&e.Access!==null&&e.Access.Plan!==null){e.Access.Plan.AliasLimit=null;e.Access.Plan.DisplayName='Proton Plus';e.Access.Plan.HideUpgrade=true;e.Access.Plan.InternalName='plus';e.Access.Plan.TotpLimit=null;e.Access.Plan.Type='plus';e.Access.Plan.VaultLimit=null}return new Response(JSON.stringify(e),{status:s.status,statusText:s.statusText,headers:s.headers})})}})();
+perplexity.ai#%#(()=>{var _=window.fetch;window.fetch=(...args)=>{if(args[0]==='https://www.perplexity.ai/rest/sse/perplexity_ask'&&args[1]!==null&&n[1].method==='POST'){if(typeof args[1].body==='string'){var payload=JSON.parse(args[1].body);payload.params.sources=["web","scholar","social","edgar"];args[1].body=JSON.stringify(payload)}return _.apply(this,[args[0],args[1]])}return _.apply(this,args)}})();
 play.google.com#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelector('textarea[maxlength="500"]');if(e!==null){e.maxLength=5E3}new MutationObserver(mutations=>{mutations.forEach(mutation=>{mutation.addedNodes.forEach(node=>{if(node.nodeType===1){var selector='textarea[maxlength="500"]';var elToProcess=null;if(typeof node.matches==='function'&&node.matches(selector)===true){elToProcess=node}else if(typeof node.querySelector==='function'){elToProcess=node.querySelector(selector)}if(elToProcess!==null){elToProcess.maxLength=5E3}}})})}).observe(document.documentElement,{childList:true,subtree:true})})})();
 rule34.xxx#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelectorAll('[data-nosnippet]');if(e.length!==0){e.forEach(el=>{el.remove()})}})})();
 saostar.vn#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelector('div.layout > div.t--0');if(e!==null){e.remove()}e=document.getElementById('articlepage');if(e!==null){e.classList.remove('is-ads')}['div.w--160','div.w--300','div.article-medbottom'].forEach(t=>{e=document.querySelector(t);if(e!==null){e.remove()}})})})();
