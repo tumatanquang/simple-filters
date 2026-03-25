@@ -1039,6 +1039,8 @@
 ||2211039.com^
 ||2222039.com^
 ||2244039.com^
+||22712af0b1.com^
+||f1b3ff4e52.22712af0b1.com^
 ||227290wss.com^
 ||bet66-ws1-viet.227290wss.com^
 ||ee88-viet.227290wss.com^
@@ -1272,6 +1274,8 @@
 ||46bd8e62a2.com^
 ||43a8f5806e.46bd8e62a2.com^
 ||4710af267.com^
+||47757e9455.com^
+||14ef16fec4.47757e9455.com^
 ||47c8d48301.com^
 ||dc2242d761.47c8d48301.com^
 ||484930494.com^
@@ -5505,6 +5509,8 @@
 ||euizhltcd6ih.com^
 ||eunow4u.com^
 ||s.eunow4u.com^
+||euptnsyts.com^
+||www.euptnsyts.com^
 ||eurosptp.com^
 ||js1.eurosptp.com^
 ||ww.eurosptp.com^
@@ -6563,6 +6569,8 @@
 ||442616-ipv6test.ds.metric.gstatic.com^
 ||462663-ipv6test.ds.metric.gstatic.com^
 ||484694-ipv6test.ds.metric.gstatic.com^
+||493329-ipv6test.ds.metric.gstatic.com^
+||508802-ipv6test.ds.metric.gstatic.com^
 ||530692-ipv6test.ds.metric.gstatic.com^
 ||558137-ipv6test.ds.metric.gstatic.com^
 ||594555-ipv6test.ds.metric.gstatic.com^
@@ -6572,24 +6580,29 @@
 ||654912-ipv6test.ds.metric.gstatic.com^
 ||698258-ipv6test.ds.metric.gstatic.com^
 ||721902-ipv6test.ds.metric.gstatic.com^
+||729815-ipv6test.ds.metric.gstatic.com^
 ||735842-ipv6test.ds.metric.gstatic.com^
 ||742679-ipv6test.ds.metric.gstatic.com^
 ||743380-ipv6test.ds.metric.gstatic.com^
 ||745535-ipv6test.ds.metric.gstatic.com^
 ||759865-ipv6test.ds.metric.gstatic.com^
 ||763161-ipv6test.ds.metric.gstatic.com^
+||791668-ipv6test.ds.metric.gstatic.com^
 ||794222-ipv6test.ds.metric.gstatic.com^
 ||814773-ipv6test.ds.metric.gstatic.com^
 ||817097-ipv6test.ds.metric.gstatic.com^
 ||837653-ipv6test.ds.metric.gstatic.com^
 ||849632-ipv6test.ds.metric.gstatic.com^
+||873114-ipv6test.ds.metric.gstatic.com^
 ||922299-ipv6test.ds.metric.gstatic.com^
 ||93301-ipv6test.ds.metric.gstatic.com^
 ||946344-ipv6test.ds.metric.gstatic.com^
 ||955789-ipv6test.ds.metric.gstatic.com^
 ||97990-ipv6test.ds.metric.gstatic.com^
+||97998-ipv6test.ds.metric.gstatic.com^
 ||oty0id-dnsotls-ds.metric.gstatic.com^
 ||v4.metric.gstatic.com^
+||130139-ipv6test.v4.metric.gstatic.com^
 ||25432-ipv6test.v4.metric.gstatic.com^
 ||268531-ipv6test.v4.metric.gstatic.com^
 ||271046-ipv6test.v4.metric.gstatic.com^
@@ -6612,6 +6625,8 @@
 ||830670-ipv6test.v4.metric.gstatic.com^
 ||844085-ipv6test.v4.metric.gstatic.com^
 ||851763-ipv6test.v4.metric.gstatic.com^
+||929451-ipv6test.v4.metric.gstatic.com^
+||930392-ipv6test.v4.metric.gstatic.com^
 ||979299-ipv6test.v4.metric.gstatic.com^
 ||xcleq8-dnsotls-ds.metric.gstatic.com^
 ||gstguj.com^
@@ -12273,6 +12288,8 @@
 ||cdn.thisiswaldo.com^
 ||thisstartupdoesnotexist.com^
 ||ww25.thisstartupdoesnotexist.com^
+||thnmgtqib.com^
+||www.thnmgtqib.com^
 ||thoctv.com^
 ||p.thoctv.com^
 ||thoomsay.com^
@@ -13670,6 +13687,7 @@
 ||www.wzeocharram.com^
 ||wziharasgcra.com^
 ||ads.x.com^
+||ads-api.x.com^
 ||x7i0.com^
 ||x7r3mk6ldr.com^
 ||xabxtuuaboxpgo.com^
@@ -14676,6 +14694,8 @@
 ||publisher-assets.spot.im^
 ||www.123smsfun.in^
 ||4736.in^
+||altjtyjw.in^
+||www.altjtyjw.in^
 ||can-get-some.in^
 ||eu.can-get-some.in^
 ||fabet.in^
@@ -14714,6 +14734,8 @@
 ||view-mintads.in^
 ||zaxpujarb.in^
 ||www.zaxpujarb.in^
+||zmynapdza.in^
+||www.zmynapdza.in^
 ||52win.info^
 ||aasrs.info^
 ||n.aasrs.info^
@@ -15516,6 +15538,7 @@
 ||sb88vn.live^
 ||sikidlac.live^
 ||x0dpb16.sikidlac.live^
+||situshokix230jp.live^
 ||someahrule.live^
 ||296.someahrule.live^
 ||stipelyaya.live^
@@ -19033,6 +19056,8 @@
 ||onlinehentai.tv^
 ||onnetwork.tv^
 ||cdn.onnetwork.tv^
+||pscp.tv^
+||proxsee.pscp.tv^
 ||red88.tv^
 ||api.red88.tv^
 ||sock.red88.tv^
@@ -20591,9 +20616,12 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||api.github.com/_private/browser/stats
 ||api.redgifs.com/v2/ads/slots
 ||api.x.com/1.1/graphql/ces/
+||api.x.com/1.1/graphql/error_log.json
 ||api.x.com/1.1/graphql/user_flow.json
 ||api.x.com/1.1/jot/
-||api.x.com/1.1/onboarding/
+||api.x.com/1.1/onboarding/fatigue.json
+||api.x.com/1.1/onboarding/referrer.json
+||api.x.com/live_pipeline/events
 ||apkmody.com/*/admanager.js
 ||aplus.qwen.ai/aes.1.1
 ||aplus.qwen.ai/v.gif
@@ -20700,6 +20728,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||gateway.grammarly.com/experimentation/treatment/get
 ||gemini.google.com/_/BardChatUi/cspreport/fine-allowlist
 ||gemini.google.com/_/BardChatUi/jserror
+||genspark.ai/api/payment/add_tracking_event
 ||geo.dailymotion.com/cookie.js
 ||githack.com/ad-shield/
 ||google.*/ads/
@@ -20804,6 +20833,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||pinterest.com/resource/ApiSResource/create/
 ||pinterest.com/resource/UserRegisterTrackActionResource/update/
 ||pixlr.com/fad/
+||play.googleapis.com/play/log
 ||poe.com/api/ping
 ||poe.com/api/receive_POST
 ||pornhub.com/_i?type=event&event=
@@ -20868,8 +20898,11 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||wise.com/gateway/v2/savings
 ||wise.com/seo-landing-pages/web-vitals
 ||wise.com/visit/pixel.png
+||x.com/i/api/1.1/graphql/ces/
+||x.com/i/api/1.1/graphql/error_log.json
 ||x.com/i/api/1.1/graphql/user_flow.json
 ||x.com/i/api/1.1/jot/
+||x.com/i/api/1.1/strato/
 ||x.com^$removeparam=/(?:[st]|brid)=/
 ||xhamster2.*/*/advert/widget/promo/
 ||xnxx.*/picserror/
@@ -20988,7 +21021,7 @@ terabox.com#%#//scriptlet('json-prune', 'web_video_play_patch_ad_area.cfg_list.1
 ! Change imgur to imgur old frontpage: imgur.com#%#document.cookie="frontpagebetav2=0;domain=.imgur.com";
 ! X (Twitter) hide content warning crap source code: https://greasyfork.org/en/scripts/437359-twitter-hide-content-warning-crap/code
 ! 120fpsconfigfile.pro: https://www.programiz.com/online-compiler/9jRQgfHVuvBVP
-120fpsconfigfile.pro#%#(()=>{var n=window.setInterval,t=(window.clearInterval,Date.now),a=t(),e=false;Date.now=()=>{return e===true?a:t()};window.setInterval=(r,i,...o)=>{if(i===1e3){var w=i/20;t();return n(()=>{e=true,a+=1e3;try{r.apply(this,o)}finally{e=false}},w,...o)}return n(r,i,...o)};var _=window.fetch;window.fetch=(...args)=>{if(args[0]==='https://www.120fpsconfigfile.pro/wp-admin/admin-ajax.php'&&args[1]!==null&&args[1].method==='POST'){if(args[1].body instanceof URLSearchParams){var e=new URLSearchParams(args[1].body);t();e.set('elapsed_time',(Date.now()-performance.timing.navigationStart).toString());args[1].body=e}return _.apply(this,[args[0],args[1]])}return _.apply(this,args)}})();
+120fpsconfigfile.pro#%#(()=>{var n=window.setInterval,t=(window.clearInterval,Date.now),a=t(),e=false;Date.now=()=>e===true?a:t();window.setInterval=function(){if(arguments[1]===1e3){var callback=arguments[0];var boost=arguments[1]/20;t();arguments[0]=function(){e=true;a+=1e3;try{callback.apply(this,arguments)}finally{e=false}};arguments[1]=boost}return n.apply(this,arguments)};var _=window.fetch;var fetch=function(){if(typeof arguments[0]==='string'&&arguments[0]==='https://www.120fpsconfigfile.pro/wp-admin/admin-ajax.php'&&arguments[1]!==null&&arguments[1].method==='POST'){if(arguments[1].body instanceof URLSearchParams){var params=new URLSearchParams(arguments[1].body);t();params.set('elapsed_time',(Date.now()-performance.timing.navigationStart).toString());arguments[1].body=params}return _.apply(this,arguments)}return _.apply(this,arguments)};Object.defineProperty(window,'fetch',{get:()=>fetch,set:()=>{},configurable:false,enumerable:true})})();
 123s.link,1link.vip,link1s.com#%#(()=>{Object.defineProperty(window,'go_popup',{value:void 0,writable:false});window.addEventListener('load',()=>{var e=document.querySelectorAll('[class*="banner" i]');if(e.length!==0){var a=/(?:\S+)?banner(?:\S+)?/gi;e.forEach(el=>{var matches=el.className.match(a);if(matches!==null){el.classList.remove(...matches)}})}if(typeof app_vars==='object'&&app_vars!==null){app_vars.counter_value=6;app_vars.force_disable_adblock=0}})})();
 adguard.com#%#(()=>{window.addEventListener('load',()=>{var e=document.querySelectorAll('.language-adblock');if(e.length!==0){e.forEach(el=>{el.classList.remove('language-adblock')})}})})();
 amazon.ae,amazon.ca,amazon.cn,amazon.co.jp,amazon.co.uk,amazon.com,amazon.com.au,amazon.com.br,amazon.com.mx,amazon.com.tr,amazon.de,amazon.es,amazon.fr,amazon.in,amazon.it,amazon.nl,amazon.sa,amazon.se,amazon.sg,bblink.com,live.com,mmo1s.com,naver.com,oraclecloud.com#%#(()=>{var e=/(?:\S+)?banner(?:\S+)?/gi;document.querySelectorAll('[class*="banner" i]').forEach(r=>{var matches=r.className.match(e);if(matches!==null){r.classList.remove(...matches)}});new MutationObserver(mutations=>{mutations.forEach(mutation=>{mutation.addedNodes.forEach(node=>{if(node.nodeType===1){if(typeof node.matches==='function'&&node.matches('[class*="banner" i]')===true){var matches=node.className.match(e);if(matches!==null){node.classList.remove(...matches)}}node.querySelectorAll('[class*="banner" i]').forEach(r=>{var matches=r.className.match(e);if(matches!==null){r.classList.remove(...matches)}})}})})}).observe(document.documentElement,{childList:true,subtree:true})})();
@@ -21027,7 +21060,7 @@ online-python.com#%#(()=>{localStorage.setItem('theme','dark')})();
 onlinegdb.com#%#(()=>{var t=setInterval(()=>{if(typeof savefile==='function'){Object.defineProperty(window,'savefile',{value:()=>{return true},writable:false});$('#control-btn-save').off('click');$('#control-btn-save').on('click',()=>{shareCode(true)});clearInterval(t)}},100);Object.defineProperties(window,{'no_ads':{value:true,writable:false},'check_fallback_ad_timer':{value:void 0,writable:false},'check_fallback_ad':{value:()=>{},writable:false},'check_fallback_ad_helper':{value:()=>{},writable:false},'repalce_fallback_ad':{value:()=>{},writable:false},'track_event':{value:()=>{},writable:false}})})();
 onlinetexttools.com#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{document.body.dataset.is_premium='True';document.body.dataset.discount_modal='False';var e=document.querySelectorAll('[data-subscription="free"]');if(e.length!==0){e.forEach(el=>{el.dataset.subscription='premium'})}e=document.querySelector('button.widget-save-as');if(e!==null){e.addEventListener('click',()=>{setTimeout(()=>{e.innerText='Download';e.disabled=false},100)})}})})();
 pass.proton.me#%#(()=>{var _=window.fetch;window.fetch=(...s)=>{return _(...s).then(async s=>{var e=await s.clone().json();if(e!==null&&e.Access!==null&&e.Access.Plan!==null){e.Access.Plan.AliasLimit=null;e.Access.Plan.DisplayName='Proton Plus';e.Access.Plan.HideUpgrade=true;e.Access.Plan.InternalName='plus';e.Access.Plan.TotpLimit=null;e.Access.Plan.Type='plus';e.Access.Plan.VaultLimit=null}return new Response(JSON.stringify(e),{status:s.status,statusText:s.statusText,headers:s.headers})})}})();
-perplexity.ai#%#(()=>{var _=window.fetch;window.fetch=(...args)=>{if(args[0]==='https://www.perplexity.ai/rest/sse/perplexity_ask'&&args[1]!==null&&n[1].method==='POST'){if(typeof args[1].body==='string'){var payload=JSON.parse(args[1].body);payload.params.sources=["web","scholar","social","edgar"];args[1].body=JSON.stringify(payload)}return _.apply(this,[args[0],args[1]])}return _.apply(this,args)}})();
+perplexity.ai#%#(()=>{var _=window.fetch;var fetch=function(){if(arguments[0]instanceof URL&&arguments[0].href==='https://www.perplexity.ai/rest/sse/perplexity_ask'&&arguments[1]!==null&&arguments[1].method==='POST'){if(typeof arguments[1].body==='string'){var payload=JSON.parse(arguments[1].body);payload.params.sources=['web','scholar','social','edgar'];arguments[1].body=JSON.stringify(payload)}return _.apply(this,arguments)}return _.apply(this,arguments)};Object.defineProperty(window,'fetch',{get:()=>fetch,set:()=>{},configurable:false,enumerable:true})})();
 play.google.com#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelector('textarea[maxlength="500"]');if(e!==null){e.maxLength=5E3}new MutationObserver(mutations=>{mutations.forEach(mutation=>{mutation.addedNodes.forEach(node=>{if(node.nodeType===1){var selector='textarea[maxlength="500"]';var elToProcess=null;if(typeof node.matches==='function'&&node.matches(selector)===true){elToProcess=node}else if(typeof node.querySelector==='function'){elToProcess=node.querySelector(selector)}if(elToProcess!==null){elToProcess.maxLength=5E3}}})})}).observe(document.documentElement,{childList:true,subtree:true})})})();
 rule34.xxx#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelectorAll('[data-nosnippet]');if(e.length!==0){e.forEach(el=>{el.remove()})}})})();
 saostar.vn#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelector('div.layout > div.t--0');if(e!==null){e.remove()}e=document.getElementById('articlepage');if(e!==null){e.classList.remove('is-ads')}['div.w--160','div.w--300','div.article-medbottom'].forEach(t=>{e=document.querySelector(t);if(e!==null){e.remove()}})})})();
