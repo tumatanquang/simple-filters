@@ -41,6 +41,7 @@
 ||xeno.media-lab.ai^
 ||new88.ai^
 ||count.perplexity.ai^
+||edge.perplexity.ai^
 ||powerad.ai^
 ||reporting.powerad.ai^
 ||rebel.ai^
@@ -407,9 +408,13 @@
 ||dgedss.cfd^
 ||dulatkinic.cfd^
 ||ertyui5e5.cfd^
+||fairsoxgang.cfd^
+||sp.fairsoxgang.cfd^
 ||faltchefeoffee.cfd^
 ||fileseess.cfd^
 ||gauzilyaortal.cfd^
+||gnomistwheezycanful.cfd^
+||rotella.gnomistwheezycanful.cfd^
 ||haxmac.cfd^
 ||ji95rtg.cfd^
 ||jmbquy40.cfd^
@@ -420,6 +425,7 @@
 ||pgvnyxf.cfd^
 ||r947v0sn.cfd^
 ||rvmessage.cfd^
+||sabbatsslighty.cfd^
 ||serty5.cfd^
 ||shopspark.cfd^
 ||steamy-webcams.cfd^
@@ -431,6 +437,8 @@
 ||upstagecarvers.cfd^
 ||v5chb4tty0611249p.cfd^
 ||vickykilled.cfd^
+||virelairushiercurf.cfd^
+||reitbok.virelairushiercurf.cfd^
 ||vl718061124vpd.cfd^
 ||w2ev32h7.cfd^
 ||webcamglamour.cfd^
@@ -463,6 +471,7 @@
 ||freeplayer.click^
 ||vast.freeplayer.click^
 ||gaprit.click^
+||getpulse.click^
 ||growleading.click^
 ||cdn.growleading.click^
 ||ho88play.click^
@@ -519,6 +528,7 @@
 ||cdn.dreamdata.cloud^
 ||eppo.cloud^
 ||fscdn.eppo.cloud^
+||nxj0g7.fscdn.eppo.cloud^
 ||matomo.cloud^
 ||cdn.matomo.cloud^
 ||optmn.cloud^
@@ -886,6 +896,7 @@
 ||71ad083cf8.067f87da09.com^
 ||06cffaae87.com^
 ||c99e557214.06cffaae87.com^
+||073m.com^
 ||0741cb485e.com^
 ||a79a5e2f73.0741cb485e.com^
 ||0760571ca9.com^
@@ -3274,6 +3285,7 @@
 ||log.baomoi.com^
 ||w-api.baomoi.com^
 ||za.baomoi.com^
+||barabulya.com^
 ||baradoot.com^
 ||barbmerchant.com^
 ||bardismshagbag.com^
@@ -4101,6 +4113,8 @@
 ||cdnral.com^
 ||cdnregion.com^
 ||visitor-service-eu-central-1.cdnregion.com^
+||cdnsfree.com^
+||v2d.cdnsfree.com^
 ||cdnstoremedia.com^
 ||cdntechone.com^
 ||cdntrf.com^
@@ -4249,6 +4263,8 @@
 ||clammyendearedkeg.com^
 ||www.clammyendearedkeg.com^
 ||clear-tv.com^
+||clearbitjs.com^
+||grow.clearbitjs.com^
 ||clearbitscripts.com^
 ||tag.clearbitscripts.com^
 ||cleardexchange.com^
@@ -4308,6 +4324,7 @@
 ||clobberprocurertightwad.com^
 ||closedmyvideo.com^
 ||www.closedmyvideo.com^
+||cp.cloudflare.com^
 ||platform.dash.cloudflare.com^
 ||nel.cloudflare.com^
 ||a.nel.cloudflare.com^
@@ -6060,6 +6077,7 @@
 ||frovanexolyte.com^
 ||frozenpayerpregnant.com^
 ||www.frozenpayerpregnant.com^
+||frs2c.com^
 ||frsonnerie.com^
 ||frspecifics.com^
 ||collector-api.frspecifics.com^
@@ -6146,6 +6164,7 @@
 ||affilynx.g2afse.com^
 ||flamedigital.g2afse.com^
 ||nexters.g2afse.com^
+||trffk.g2afse.com^
 ||g2buddy.com^
 ||www.g2buddy.com^
 ||tracking.g2crowd.com^
@@ -6455,10 +6474,48 @@
 ||androidtvchannels-pa.googleapis.com^
 ||androidtvwatsonfe-pa.googleapis.com^
 ||auditrecording-pa.googleapis.com^
+||androidtvchannels-pa.clients6.googleapis.com^
+||androidtvwatsonfe-pa.clients6.googleapis.com^
+||auditrecording-pa.clients6.googleapis.com^
+||clienttracing-pa.clients6.googleapis.com^
+||cloudtrace.clients6.googleapis.com^
+||commondatastorage.clients6.googleapis.com^
+||ad-creatives-public.commondatastorage.clients6.googleapis.com^
+||crashlyticsreports-pa.clients6.googleapis.com^
+||digitalassetlinks.clients6.googleapis.com^
+||firebase.clients6.googleapis.com^
+||firebaseinappmessaging.clients6.googleapis.com^
+||firebaseinstallations.clients6.googleapis.com^
+||firebaselogging.clients6.googleapis.com^
+||firebaselogging-pa.clients6.googleapis.com^
+||firebaseremoteconfig.clients6.googleapis.com^
+||firebasestorage.clients6.googleapis.com^
+||footprints-pa.clients6.googleapis.com^
+||geller-pa.clients6.googleapis.com^
+||imasdk.clients6.googleapis.com^
+||jnn-pa.clients6.googleapis.com^
+||logging.clients6.googleapis.com^
+||monitoring.clients6.googleapis.com^
+||nearbysharing-pa.clients6.googleapis.com^
+||notifications-pa.clients6.googleapis.com^
+||ogads-pa.clients6.googleapis.com^
+||optimizationguide-pa.clients6.googleapis.com^
+||proactivebackend-pa.clients6.googleapis.com^
+||safebrowsing.clients6.googleapis.com^
+||searchlabspartnerservice-pa.clients6.googleapis.com^
+||gadasource.storage.clients6.googleapis.com^
+||pendo-static-5709969800560640.storage.clients6.googleapis.com^
+||telemetry.clients6.googleapis.com^
+||update.clients6.googleapis.com^
+||userlocation.clients6.googleapis.com^
+||xgapromomanager-pa.clients6.googleapis.com^
+||clienttracing-pa.googleapis.com^
 ||cloudtrace.googleapis.com^
 ||commondatastorage.googleapis.com^
 ||ad-creatives-public.commondatastorage.googleapis.com^
 ||crashlyticsreports-pa.googleapis.com^
+||digitalassetlinks.googleapis.com^
+||feedback-pa.googleapis.com^
 ||firebase.googleapis.com^
 ||firebaseinappmessaging.googleapis.com^
 ||firebaseinstallations.googleapis.com^
@@ -6466,19 +6523,25 @@
 ||firebaselogging-pa.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
 ||firebasestorage.googleapis.com^
+||footprints-pa.googleapis.com^
+||geller-pa.googleapis.com^
 ||imasdk.googleapis.com^
 ||jnn-pa.googleapis.com^
 ||logging.googleapis.com^
 ||monitoring.googleapis.com^
+||nearbysharing-pa.googleapis.com^
 ||notifications-pa.googleapis.com^
 ||ogads-pa.googleapis.com^
 ||optimizationguide-pa.googleapis.com^
+||proactivebackend-pa.googleapis.com^
 ||safebrowsing.googleapis.com^
+||searchlabspartnerservice-pa.googleapis.com^
 ||gadasource.storage.googleapis.com^
 ||pendo-static-5709969800560640.storage.googleapis.com^
 ||telemetry.googleapis.com^
 ||update.googleapis.com^
 ||userlocation.googleapis.com^
+||xgapromomanager-pa.googleapis.com^
 ||googleoptimize.com^
 ||www.googleoptimize.com^
 ||googlesyndication.com^
@@ -8423,6 +8486,7 @@
 ||events.mangarockhd.com^
 ||manokskub.com^
 ||www.manokskub.com^
+||events.mapbox.com^
 ||marazma.com^
 ||www.marazma.com^
 ||marchshotgun.com^
@@ -9946,6 +10010,11 @@
 ||pagefair.com^
 ||asset.pagefair.com^
 ||stats.pagefair.com^
+||pagelearnnextbest.com^
+||bqyu.pagelearnnextbest.com^
+||pib2.pagelearnnextbest.com^
+||pknt.pagelearnnextbest.com^
+||tvtl.pagelearnnextbest.com^
 ||pagiwp.com^
 ||pagkitahn.com^
 ||www.pagkitahn.com^
@@ -10766,6 +10835,8 @@
 ||rajamenang1.com^
 ||rammerslewing.com^
 ||ny.rammerslewing.com^
+||ramulussaip.com^
+||ea.ramulussaip.com^
 ||rancidmorsel.com^
 ||rangecake.com^
 ||rankjerryrounion.com^
@@ -10874,6 +10945,7 @@
 ||tags.refinery89.com^
 ||reflectedintegrity.com^
 ||reflushneuma.com^
+||refpa2518.com^
 ||refpadewok.com^
 ||refraintupaiid.com^
 ||reftagger.com^
@@ -11019,6 +11091,7 @@
 ||idsync.rlcdn.com^
 ||rlhldjrjfes.com^
 ||rlsospzbvquy.com^
+||rm358.com^
 ||rmcxyfqbm.com^
 ||www.rmcxyfqbm.com^
 ||rmfclbbo.com^
@@ -11323,6 +11396,8 @@
 ||go.schjmp.com^
 ||schmalzierloanshiftreengaging.com^
 ||scholarsslate.com^
+||schuhpinkify.com^
+||bn.schuhpinkify.com^
 ||scorchads.com^
 ||serve.scorchads.com^
 ||scorchthorny.com^
@@ -13031,6 +13106,7 @@
 ||uzxkuwalnjp.com^
 ||www.uzxkuwalnjp.com^
 ||v124mers.com^
+||v2006.com^
 ||v21xy.com^
 ||viva.v21xy.com^
 ||va88.com^
@@ -14276,6 +14352,8 @@
 ||smokerfiascos.cyou^
 ||apex.smokerfiascos.cyou^
 ||solddewrot.cyou^
+||theoriaemodins.cyou^
+||mw.theoriaemodins.cyou^
 ||verif323cloud2.cyou^
 ||media.verif323cloud2.cyou^
 ||xtraffic.cyou^
@@ -15772,6 +15850,7 @@
 ||appglobal.monster^
 ||api.appglobal.monster^
 ||appsuse.monster^
+||bestlivekey.monster^
 ||datablabmyfireeasytubeoyogen.monster^
 ||api.datablabmyfireeasytubeoyogen.monster^
 ||emonduplajifreefile.monster^
@@ -15921,6 +16000,8 @@
 ||3p.ampproject.net^
 ||analitycs.net^
 ||track.analitycs.net^
+||androidplatform.net^
+||appassets.androidplatform.net^
 ||anrdoezrs.net^
 ||www.anrdoezrs.net^
 ||apigame.net^
@@ -15982,6 +16063,7 @@
 ||bantinbds.net^
 ||static.bantinbds.net^
 ||beevakum.net^
+||betoholictrack.net^
 ||betv7.net^
 ||beywingws.net^
 ||bodergaw.beywingws.net^
@@ -18088,6 +18170,7 @@
 ||coniferyourt.shop^
 ||consloamed.shop^
 ||cornrowbygone.shop^
+||daftarfilles.shop^
 ||deliriamorula.shop^
 ||discsrelated.shop^
 ||embainimplant.shop^
@@ -18099,6 +18182,7 @@
 ||gibingbunchy.shop^
 ||gmtipburn.shop^
 ||jd.gmtipburn.shop^
+||gruidaeedna.shop^
 ||icodstatus.shop^
 ||ixoraxosa.shop^
 ||glashan.ixoraxosa.shop^
@@ -18356,6 +18440,7 @@
 ||16zoqtq3eowz.top^
 ||1ts17.top^
 ||p.1ts17.top^
+||1xlite-044647.top^
 ||1xlite-632331.top^
 ||30duzhes.top^
 ||789club.top^
@@ -20714,6 +20799,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||challenges.cloudflare.com/cdn-cgi/challenge-platform/h/*/cmg/1
 ||chat.baidu.com/aichat/api/visits
 ||chat.deepseek.com/api/v0/events
+||chat.qwen.ai/api/v2/users/status
 ||chat.qwen.ai/scripts/stat.js
 ||chatgpt.com/ces/
 ||chaturbate.com/in/
@@ -20904,7 +20990,12 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||qhimg.com/pkg/radarsdk/radar-analytic-js-sdk-*.js
 ||quora.com/ajax/receive_POST
 ||quoracdn.net^$domain=mupnungvl.pro,third-party
+||reddit.com/svc/shreddit/client-errors
+||reddit.com/svc/shreddit/data-protection-consent
+||reddit.com/svc/shreddit/perfMetrics
 ||redditstatic.com/ads/pixel.js
+||redditstatic.com/shreddit/assets/pix/ads/1.png
+||redditstatic.com/shreddit/sentry-*.js
 ||s.yimg.*/images/listing/tool/cv/ytag.js
 ||s.yimg.com/aaq/
 ||s.yimg.com/av/ads/
@@ -21199,7 +21290,7 @@ mixdrop.to,mixdrop.co##body > div[class][style^="position:absolute;"][style*=";w
 msn.com###displayAdCard,.me-stripe,display-ads,above-river-block,views-native-ad,cs-native-ad-card,cs-native-ad-card-intra-article-left-image,[data-ad-index],[class$="intra-ad"]
 mvnrepository.com##div.im:has(div.h-ad)
 myreadingmanga.info##.imgtop,.top_p:has(> ins[data-zoneid]),.top_page:has(> ins[data-zoneid]),[class*="th_post"].widget-area,center,div.widget_text.widget.after-image-widget.widget_custom_html:has(ins[data-zoneid]),div[style]:has(> ins[data-zoneid]),div[style]:has(a > img[width][height])
-perplexity.ai##div[style='height: auto;']
+perplexity.ai##div.bottom-md,div[style='height: auto;']
 pixiv.net##iframe:not([title*="reCAPTCHA"])
 poipiku.com##[class$="SideBarAd" i]
 pornhub.com##.ad-link,.adContainer,.adContainer,.pb_template,.premiumAdvertWrapper,.premiumPromoBannerWrapper,.removeAdLink,.sniperModeEngaged,.topAdContainter,div#pb_template,li.js_promoItem
