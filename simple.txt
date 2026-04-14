@@ -3245,6 +3245,8 @@
 ||eclick.baidu.com^
 ||fclog.baidu.com^
 ||fxgate.baidu.com^
+||gsp0.baidu.com^
+||h2tcbox.baidu.com^
 ||hector.baidu.com^
 ||hectorstatic.baidu.com^
 ||hm.baidu.com^
@@ -3344,7 +3346,6 @@
 ||hercules.cdn.bcebos.com^
 ||internal-amis-res.cdn.bcebos.com^
 ||mediago-static.cdn.bcebos.com^
-||ppui-static-pc.cdn.bcebos.com^
 ||bcgbbzxackpk.com^
 ||www.bcgbbzxackpk.com^
 ||bcloudhost.com^
@@ -3973,6 +3974,10 @@
 ||www.callyourinformer.com^
 ||calumetburka.com^
 ||yd.calumetburka.com^
+||cam4.com^
+||api.cam4.com^
+||cam4pays.com^
+||promo.cam4pays.com^
 ||camaligsalvatrefoils.com^
 ||campfirecroutondecorator.com^
 ||camspacelive.com^
@@ -5008,6 +5013,8 @@
 ||www.digifinex.com^
 ||digitalcaramel.com^
 ||ads.digitalcaramel.com^
+||digitalclickstime.com^
+||display.digitalclickstime.com^
 ||dilutegulpedshirt.com^
 ||dimacy.com^
 ||www.dimacy.com^
@@ -7819,6 +7826,8 @@
 ||justcovaqod.com^
 ||justonemorenews.com^
 ||www.justonemorenews.com^
+||justpornflix.com^
+||resources.justpornflix.com^
 ||justpremium.com^
 ||ads.justpremium.com^
 ||pre.ads.justpremium.com^
@@ -10683,9 +10692,11 @@
 ||beacon.cdn.qq.com^
 ||dp3.qq.com^
 ||e.qq.com^
+||sdk.e.qq.com^
 ||tangram.e.qq.com^
 ||gdt.qq.com^
 ||ii.gdt.qq.com^
+||mi.gdt.qq.com^
 ||xsweb.gdt.qq.com^
 ||huatuo.qq.com^
 ||ping.huatuo.qq.com^
@@ -10694,6 +10705,7 @@
 ||c.l.qq.com^
 ||p.l.qq.com^
 ||us.l.qq.com^
+||gatherer.m.qq.com^
 ||tdid.m.qq.com^
 ||pingjs.qq.com^
 ||pingma.qq.com^
@@ -10724,6 +10736,8 @@
 ||www.qsdsejarkznkqa.com^
 ||qstukqmsddqgs.com^
 ||www.qstukqmsddqgs.com^
+||qtpalfofvpsw.com^
+||www.qtpalfofvpsw.com^
 ||qtspkqzn.com^
 ||www.qtspkqzn.com^
 ||qualaroo.com^
@@ -11116,6 +11130,8 @@
 ||apps-demo.rokt.com^
 ||roktinternal.com^
 ||sourcemaps-wsdk.roktinternal.com^
+||rokymedia.com^
+||stat.rokymedia.com^
 ||rollbar.com^
 ||cdn.rollbar.com^
 ||rollercoin.com^
@@ -12017,6 +12033,8 @@
 ||ak.stoorgel.com^
 ||stoorgouzoy.com^
 ||storader.com^
+||storagexhd.com^
+||cdn.storagexhd.com^
 ||store4porn.com^
 ||storeip-shopify.com^
 ||api4.storeip-shopify.com^
@@ -12027,6 +12045,7 @@
 ||stossfussily.com^
 ||stougnee.com^
 ||strangeclocks.com^
+||strbh.com^
 ||streameventzone.com^
 ||streamrail.com^
 ||sdk.streamrail.com^
@@ -14801,6 +14820,8 @@
 ||www.altjtyjw.in^
 ||can-get-some.in^
 ||eu.can-get-some.in^
+||dagrtenihca.in^
+||www.dagrtenihca.in^
 ||fabet.in^
 ||freebitco.in^
 ||track.freebitco.in^
@@ -14844,6 +14865,8 @@
 ||zmynapdza.in^
 ||www.zmynapdza.in^
 ||52win.info^
+||aaaconnect.info^
+||cluster.aaaconnect.info^
 ||aasrs.info^
 ||n.aasrs.info^
 ||st-n.aasrs.info^
@@ -18371,6 +18394,8 @@
 ||nadiokufe.store^
 ||sv.nadiokufe.store^
 ||www.nadiokufe.store^
+||nettrck.store^
+||t.nettrck.store^
 ||news360.store^
 ||tracking.news360.store^
 ||piaroankenyte.store^
@@ -20743,6 +20768,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||101domain.com/js/widgets/cookie-policy-check*.js
 ||10minutemail.com/ub/
 ||a-cdn.anthropic.com/v1/projects/*/settings
+||account.live.com/API/ReportClientEvent
 ||accounts.google.com/_/IdpIFrameHttp/cspreport/fine-allowlist
 ||accounts.google.com/gsi/log
 ||accounts.google.com/v3/signin/_/AccountsSignInUi/browserinfo
@@ -21129,7 +21155,7 @@ boyfriend.tv,boyfriendtv.com#%#//scriptlet('prevent-addEventListener', 'chujBlok
 boyfriend.tv,boyfriendtv.com#%#//scriptlet('prevent-addEventListener', 'DOMContentLoaded', 'initBanners')
 boyfriend.tv,boyfriendtv.com#%#//scriptlet('set-constant', 'AdsCookie', 'noopFunc')
 camelliatransgroup.com,dhcc.xyz,javadecompilers.com,listvpn.net,quaanhdaocuteo.com#%#//scriptlet('prevent-bab')
-decompiler.com#%#//scriptlet('set-constant', 'mxxeq', 'true')
+decompiler.com#%#//scriptlet('set-constant', 'kdf', 'true')
 fullboys.com,rimsgay.com#%#//scriptlet('prevent-element-src-loading', 'script' ,'adsbygoogle')
 fullboys.com,rimsgay.com#%#//scriptlet('set-constant', 'countdownhomeebook5', 'noopFunc')
 fullboys.com,rimsgay.com#%#//scriptlet('set-constant', 'numberhomeebook5', '0')
@@ -21251,7 +21277,7 @@ mail.yahoo.com#?#a[href^="https://b.gemini.yahoo.com/mbclk?"][target="_blank"]
 mail.yahoo.com#?#a[href^="https://beap.gemini.yahoo.com/mbclk?"][target="_blank"]
 mail.yahoo.com#?#div[data-test-id="pencil-ad"]
 mail.yahoo.com#?#div[data-test-id="video-container"]
-###fbox-background,.ad,.ad-300,.ad-box,.ad-choices,.ad-container,.adbox,.admz,.ads,.banner,.cu-container,.dle_b_yandex,.float-ck,.imgac,.js-consent-banner,.med,.pl-carousel-wrapper,.sidebar-ad,.top-ads-container,[class$="-ads" i]:not(:has(> div[poster] > video)),[class$="_ads" i],[class*="-ads-" i],[class*="300x250" i],[class*="_ads_" i],[class*="ad-wrapper" i],[class*="adsbygoogle" i],[class*="adsbyvli" i],[class*="adslot" i],[class*="advertisement" i],[class*="advertising" i],[class*="adwrapper" i],[class*="catfix" i],[class*="exoclick" i],[class*="ezoic" i],[class*="google-ad" i],[class*="pb-f-ads" i],[class*="quangcao" i],[class*="revamp" i],[class*="sam-slot" i],[class*="sponsor" i],[class*="taitro" i],[class^="ad-top" i],[class^="ads" i],[class^="apreload-popup" i],[class^="catfish" i],[class^="inx-" i],[data-cid="TOP_PLA" i],[href*="bet"] img[src*=".gif"],[href*="doubleclick.net"],[href*="googlesyndication.com"],[id$="-ads" i],[id$="_ads" i],[id*="adblock" i],[id*="advertising" i],[id*="banner" i],[id*="catfish" i],[id*="exoclick" i],[id*="ezoic" i],[id*="gpt-ad" i],[id*="PixFuture" i],[id*="quangcao" i],[id*="ScriptRoot" i],[id*="sponsor" i],[id^="adm-slot" i],[id^="admzone" i],[id^="ads" i],[id^="advert" i],[rel*="sponsored" i],[rel="nofollow"][target="_blank"][href*="?invitecode=" i],[rel="nofollow"][target="_blank"][href*="bet"],[rel="nofollow"][target="_blank"][href*="Register?a=" i],[rel="nofollow"][target="_blank"][rel="nofollow"] img[src*=".quoracdn.net"],div[data-id^="CarouselPLA"],img[src$=".gif"][alt="ad"]
+###fbox-background,.ad,.ad-300,.ad-box,.ad-choices,.ad-container,.adbox,.admz,.ads,.banner,.cu-container,.dle_b_yandex,.float-ck,.imgac,.js-consent-banner,.med,.pl-carousel-wrapper,.sidebar-ad,.top-ads-container,[class$="-ads" i]:not(:has(> div[poster] > video)),[class$="_ads" i],[class*="-ads-" i],[class*="300x250" i],[class*="_ads_" i],[class*="adsbygoogle" i],[class*="adsbyvli" i],[class*="adslot" i],[class*="advertisement" i],[class*="advertising" i],[class*="adwrapper" i],[class*="catfix" i],[class*="exoclick" i],[class*="ezoic" i],[class*="google-ad" i],[class*="pb-f-ads" i],[class*="quangcao" i],[class*="revamp" i],[class*="sam-slot" i],[class*="sponsor" i],[class*="taitro" i],[class^="ad-top" i],[class^="ads" i],[class^="apreload-popup" i],[class^="catfish" i],[class^="inx-" i],[data-cid="TOP_PLA" i],[href*="bet"] img[src*=".gif"],[href*="doubleclick.net"],[href*="googlesyndication.com"],[id$="-ads" i],[id$="_ads" i],[id*="adblock" i],[id*="advertising" i],[id*="banner" i],[id*="catfish" i],[id*="exoclick" i],[id*="ezoic" i],[id*="gpt-ad" i],[id*="PixFuture" i],[id*="quangcao" i],[id*="ScriptRoot" i],[id*="sponsor" i],[id^="adm-slot" i],[id^="admzone" i],[id^="ads" i],[id^="advert" i],[rel*="sponsored" i],[rel="nofollow"][target="_blank"][href*="?invitecode=" i],[rel="nofollow"][target="_blank"][href*="bet"],[rel="nofollow"][target="_blank"][href*="Register?a=" i],[rel="nofollow"][target="_blank"][rel="nofollow"] img[src*=".quoracdn.net"],div[data-id^="CarouselPLA"],img[src$=".gif"][alt="ad"]
 9gag.com###stream-0 > article:last-child,#stream-1 > article.post-cell:nth-child(2),#stream-2 > article:nth-child(2),.inline-ad-container,.signup-list-banner,section.block-ad,section.salt-container,[id*="sidebar-stream" i] > h4:first-child
 anime3s.com,anime6.site##div.jw-logo
 animet.net###inx-content,#inx-overlay,.gnarty-offads,.gnartyx-offads
@@ -21270,7 +21296,7 @@ coderanch.com###txl,.forum-top-banner,.multbntab,.shngl
 dev.to##div[data-async-url]
 dnschecker.org##div#all_tools_below_more_tools,div#cookie-box,div[data-freestar-ad]
 fandom.com###WikiaBar,.bottom-ads-container,.page__right-rail,.top-ads-container,div[id^="featured-video"]
-fullboys.com,rimsgay.com###ad-native,#adBanner,#adfix,#bbdrl,#boxb,#overlay-if,.side-ad,.video-ad,aside.video-r
+fullboys.com,rimsgay.com###ad-native,#adBanner,#adfix,#bbdrl,#boxb,#overlay-if,.side-ad,.video-ad,.video-r
 genius.com##div[data-exclude-from-selection="true"],iframe[class^="AppleMusicPlayer"],[class^="DfpAd" i],[class^="InreadContainer__" i],[class^="LeaderboardOrMarquee" i],[class^="RightSidebar__" i],[class^="SectionLeaderboard__" i]
 google.*##div#search div:not([class]):not([id]) div[class]:not([id]):has(div[data-text-ad]),#taw,#tvcap,#bottomads,[id^="tads"]
 gpt4o.so##.block[class*="lg"],.hidden[class*="lg"]

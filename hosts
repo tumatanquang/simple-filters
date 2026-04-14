@@ -3246,6 +3246,8 @@
 0.0.0.0 eclick.baidu.com
 0.0.0.0 fclog.baidu.com
 0.0.0.0 fxgate.baidu.com
+0.0.0.0 gsp0.baidu.com
+0.0.0.0 h2tcbox.baidu.com
 0.0.0.0 hector.baidu.com
 0.0.0.0 hectorstatic.baidu.com
 0.0.0.0 hm.baidu.com
@@ -3345,7 +3347,6 @@
 0.0.0.0 hercules.cdn.bcebos.com
 0.0.0.0 internal-amis-res.cdn.bcebos.com
 0.0.0.0 mediago-static.cdn.bcebos.com
-0.0.0.0 ppui-static-pc.cdn.bcebos.com
 0.0.0.0 bcgbbzxackpk.com
 0.0.0.0 www.bcgbbzxackpk.com
 0.0.0.0 bcloudhost.com
@@ -3974,6 +3975,10 @@
 0.0.0.0 www.callyourinformer.com
 0.0.0.0 calumetburka.com
 0.0.0.0 yd.calumetburka.com
+0.0.0.0 cam4.com
+0.0.0.0 api.cam4.com
+0.0.0.0 cam4pays.com
+0.0.0.0 promo.cam4pays.com
 0.0.0.0 camaligsalvatrefoils.com
 0.0.0.0 campfirecroutondecorator.com
 0.0.0.0 camspacelive.com
@@ -5009,6 +5014,8 @@
 0.0.0.0 www.digifinex.com
 0.0.0.0 digitalcaramel.com
 0.0.0.0 ads.digitalcaramel.com
+0.0.0.0 digitalclickstime.com
+0.0.0.0 display.digitalclickstime.com
 0.0.0.0 dilutegulpedshirt.com
 0.0.0.0 dimacy.com
 0.0.0.0 www.dimacy.com
@@ -7820,6 +7827,8 @@
 0.0.0.0 justcovaqod.com
 0.0.0.0 justonemorenews.com
 0.0.0.0 www.justonemorenews.com
+0.0.0.0 justpornflix.com
+0.0.0.0 resources.justpornflix.com
 0.0.0.0 justpremium.com
 0.0.0.0 ads.justpremium.com
 0.0.0.0 pre.ads.justpremium.com
@@ -10684,9 +10693,11 @@
 0.0.0.0 beacon.cdn.qq.com
 0.0.0.0 dp3.qq.com
 0.0.0.0 e.qq.com
+0.0.0.0 sdk.e.qq.com
 0.0.0.0 tangram.e.qq.com
 0.0.0.0 gdt.qq.com
 0.0.0.0 ii.gdt.qq.com
+0.0.0.0 mi.gdt.qq.com
 0.0.0.0 xsweb.gdt.qq.com
 0.0.0.0 huatuo.qq.com
 0.0.0.0 ping.huatuo.qq.com
@@ -10695,6 +10706,7 @@
 0.0.0.0 c.l.qq.com
 0.0.0.0 p.l.qq.com
 0.0.0.0 us.l.qq.com
+0.0.0.0 gatherer.m.qq.com
 0.0.0.0 tdid.m.qq.com
 0.0.0.0 pingjs.qq.com
 0.0.0.0 pingma.qq.com
@@ -10725,6 +10737,8 @@
 0.0.0.0 www.qsdsejarkznkqa.com
 0.0.0.0 qstukqmsddqgs.com
 0.0.0.0 www.qstukqmsddqgs.com
+0.0.0.0 qtpalfofvpsw.com
+0.0.0.0 www.qtpalfofvpsw.com
 0.0.0.0 qtspkqzn.com
 0.0.0.0 www.qtspkqzn.com
 0.0.0.0 qualaroo.com
@@ -11117,6 +11131,8 @@
 0.0.0.0 apps-demo.rokt.com
 0.0.0.0 roktinternal.com
 0.0.0.0 sourcemaps-wsdk.roktinternal.com
+0.0.0.0 rokymedia.com
+0.0.0.0 stat.rokymedia.com
 0.0.0.0 rollbar.com
 0.0.0.0 cdn.rollbar.com
 0.0.0.0 rollercoin.com
@@ -12018,6 +12034,8 @@
 0.0.0.0 ak.stoorgel.com
 0.0.0.0 stoorgouzoy.com
 0.0.0.0 storader.com
+0.0.0.0 storagexhd.com
+0.0.0.0 cdn.storagexhd.com
 0.0.0.0 store4porn.com
 0.0.0.0 storeip-shopify.com
 0.0.0.0 api4.storeip-shopify.com
@@ -12028,6 +12046,7 @@
 0.0.0.0 stossfussily.com
 0.0.0.0 stougnee.com
 0.0.0.0 strangeclocks.com
+0.0.0.0 strbh.com
 0.0.0.0 streameventzone.com
 0.0.0.0 streamrail.com
 0.0.0.0 sdk.streamrail.com
@@ -14802,6 +14821,8 @@
 0.0.0.0 www.altjtyjw.in
 0.0.0.0 can-get-some.in
 0.0.0.0 eu.can-get-some.in
+0.0.0.0 dagrtenihca.in
+0.0.0.0 www.dagrtenihca.in
 0.0.0.0 fabet.in
 0.0.0.0 freebitco.in
 0.0.0.0 track.freebitco.in
@@ -14845,6 +14866,8 @@
 0.0.0.0 zmynapdza.in
 0.0.0.0 www.zmynapdza.in
 0.0.0.0 52win.info
+0.0.0.0 aaaconnect.info
+0.0.0.0 cluster.aaaconnect.info
 0.0.0.0 aasrs.info
 0.0.0.0 n.aasrs.info
 0.0.0.0 st-n.aasrs.info
@@ -18372,6 +18395,8 @@
 0.0.0.0 nadiokufe.store
 0.0.0.0 sv.nadiokufe.store
 0.0.0.0 www.nadiokufe.store
+0.0.0.0 nettrck.store
+0.0.0.0 t.nettrck.store
 0.0.0.0 news360.store
 0.0.0.0 tracking.news360.store
 0.0.0.0 piaroankenyte.store
