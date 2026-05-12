@@ -40,6 +40,11 @@
 ||js.media-lab.ai^
 ||xeno.media-lab.ai^
 ||new88.ai^
+||ourdream.ai^
+||img.ourdream.ai^
+||r.ourdream.ai^
+||static.ourdream.ai^
+||vid.ourdream.ai^
 ||count.perplexity.ai^
 ||edge.perplexity.ai^
 ||powerad.ai^
@@ -3436,6 +3441,9 @@
 ||l.betrad.com^
 ||betteradsystem.com^
 ||www.betteradsystem.com^
+||betterstackdata.com^
+||us-east-9.betterstackdata.com^
+||s2355349.us-east-9.betterstackdata.com^
 ||betweendigital.com^
 ||ads.betweendigital.com^
 ||betwingg.com^
@@ -5221,6 +5229,8 @@
 ||dsbtnw.com^
 ||s.dsbtnw.com^
 ||eu.dspmulti.com^
+||dsqyla.com^
+||s.dsqyla.com^
 ||dstillery.com^
 ||action.dstillery.com^
 ||dsw44z5igdmmbo.com^
@@ -5997,6 +6007,8 @@
 ||for3e.com^
 ||go1.for3e.com^
 ||for885803.com^
+||forbiddenhunter.com^
+||engine.forbiddenhunter.com^
 ||force.com^
 ||service.force.com^
 ||forexpeacearmy.com^
@@ -6291,6 +6303,8 @@
 ||gengingairt.com^
 ||genieessp.com^
 ||js.genieessp.com^
+||genipspillion.com^
+||cv.genipspillion.com^
 ||librato-collector.genius.com^
 ||geniusdexchange.com^
 ||www.geniusdexchange.com^
@@ -8002,6 +8016,8 @@
 ||kkiazspu.com^
 ||www.kkiazspu.com^
 ||kkqgwdcltl.com^
+||kkvjdbph.com^
+||www.kkvjdbph.com^
 ||kkwvy.com^
 ||klaviyo.com^
 ||a.klaviyo.com^
@@ -11894,6 +11910,7 @@
 ||dwt.soundcloud.com^
 ||w.soundcloud.com^
 ||static.sourcetobin.com^
+||sourshaped.com^
 ||sovrn.com^
 ||soysapslad.com^
 ||flagb98804.spankbang.com^
@@ -12043,6 +12060,8 @@
 ||www.stekpyarmba.com^
 ||stelagharris.com^
 ||stellarsaturn.com^
+||stemalbian.com^
+||rw.stemalbian.com^
 ||stickerchapelsailing.com^
 ||sticksurroundingsconstitutional.com^
 ||stickyadstv.com^
@@ -12609,6 +12628,7 @@
 ||cdn.trafficlide.com^
 ||n1.cdn.trafficlide.com^
 ||z.cdn.trafficlide.com^
+||trafficoza.com^
 ||trafficstars.com^
 ||cdn.trafficstars.com^
 ||trafficuser.com^
@@ -12667,6 +12687,8 @@
 ||triggersathlete.com^
 ||trikeunpured.com^
 ||nq.trikeunpured.com^
+||trioletfused.com^
+||ji.trioletfused.com^
 ||trizonemellite.com^
 ||trkk5.com^
 ||de.trkk5.com^
@@ -14105,6 +14127,8 @@
 ||yfetyg.com^
 ||ygiugqyccp.com^
 ||www.ygiugqyccp.com^
+||ygtdegcuuteq.com^
+||www.ygtdegcuuteq.com^
 ||yieldlove.com^
 ||cdn-a.yieldlove.com^
 ||ad.yieldmanager.com^
@@ -14375,9 +14399,11 @@
 ||cmd368.cv^
 ||9lqgw2.cyou^
 ||aeaeantimbers.cyou^
+||anomitefricace.cyou^
 ||aurawebcams.cyou^
 ||avourpimlicodoping.cyou^
 ||flossa.avourpimlicodoping.cyou^
+||azotesdanian.cyou^
 ||belayedsenlac.cyou^
 ||bin898293.cyou^
 ||media.bin898293.cyou^
@@ -14395,6 +14421,8 @@
 ||n2l565.cyou^
 ||poohedunebbeddoffs.cyou^
 ||oracles.poohedunebbeddoffs.cyou^
+||pouncelimitsiwearth.cyou^
+||ergodic.pouncelimitsiwearth.cyou^
 ||pugglewinkel.cyou^
 ||reautechider.cyou^
 ||smokerfiascos.cyou^
@@ -14494,6 +14522,8 @@
 ||t.counter.dev^
 ||decide.dev^
 ||cdn2.decide.dev^
+||dreamserve.dev^
+||core.dreamserve.dev^
 ||edgeone.dev^
 ||priaidaman.edgeone.dev^
 ||errortrace.dev^
@@ -14868,6 +14898,8 @@
 ||www.htmedia.in^
 ||huntnews.in^
 ||ipm-mintads.in^
+||jitqwooztonj.in^
+||www.jitqwooztonj.in^
 ||lucky88.in^
 ||m.mastisms.in^
 ||mazakmasti.in^
@@ -15121,6 +15153,9 @@
 ||browser.covatic.io^
 ||mobile-lon-lambda.covatic.io^
 ||api.cryptorank.io^
+||customer.io^
+||assets.customer.io^
+||track.customer.io^
 ||da88.io^
 ||static.da88.io^
 ||dable.io^
@@ -17755,6 +17790,7 @@
 ||klubszpilek.pl^
 ||kruzaesthetics.pl^
 ||kucharzmaciej.pl^
+||kursynauka.pl^
 ||lead5.pl^
 ||leanlab.pl^
 ||sentry.leanlab.pl^
@@ -18264,6 +18300,7 @@
 ||knevelfamily.shop^
 ||lidosquey.shop^
 ||lordedgeelbec.shop^
+||masonerthoria.shop^
 ||mayhemphage.shop^
 ||muermoabject.shop^
 ||nestlelento.shop^
@@ -18298,6 +18335,7 @@
 ||tenseberain.shop^
 ||topworkredbay.shop^
 ||trionyminglut.shop^
+||ulvantamal.shop^
 ||vuabet88.shop^
 ||windsuredine.shop^
 ||kx.windsuredine.shop^
@@ -18758,6 +18796,8 @@
 ||v1.five88.top^
 ||fixatealaloi.top^
 ||flenchnenes.top^
+||flimora.top^
+||vast.flimora.top^
 ||flokitefarrier.top^
 ||fluffdarky.top^
 ||fondlescany.top^
@@ -20776,7 +20816,7 @@ youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted
 ! youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('trusted-replace-fetch-response', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots', '', '/playlist\?list=|player\?|watch\?[tv]=|get_watch\?/')
 www.youtube.com#%#(()=>{var e={apply:(e,t,n)=>{var o=Reflect.apply(e,t,n);try{o instanceof HTMLIFrameElement&&o.src==='about:blank'&&o.contentWindow&&(o.contentWindow.fetch=window.fetch,o.contentWindow.Request=window.Request)}catch(e){}return o}};Node.prototype.appendChild=new Proxy(Node.prototype.appendChild,e)})();
 m.youtube.com,youtubekids.com,youtube-nocookie.com#%#//scriptlet('json-prune', 'playerResponse.adPlacements playerResponse.playerAds playerResponse.adSlots adPlacements playerAds adSlots')
-youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#(()=>{var STORAGE_KEY='ytHwDecodeSettings',settings=null;try{settings=JSON.parse(localStorage.getItem(STORAGE_KEY)||'null')}catch(e){}var origIsTypeSupported=MediaSource.isTypeSupported.bind(MediaSource);if(settings===null){var gpu=null;try{var canvas=document.createElement('canvas');var gl=canvas.getContext('webgl')||canvas.getContext('experimental-webgl');if(gl!==null){var debug=gl.getExtension('WEBGL_debug_renderer_info');if(debug!==null){gpu=gl.getParameter(debug.UNMASKED_RENDERER_WEBGL)}}}catch(e){}if(gpu===null)return;var aacSupported=false;var aacTypes=['audio/mp4; codecs="mp4a.40.2"','audio/mp4'];for(var i=0;i<aacTypes.length;++i){if(origIsTypeSupported(aacTypes[i])===true){aacSupported=true;break}}var userChoice=confirm('[YouTube Optimizer]\n\nGPU: '+gpu+'\n\nOK = AAC priority\nCancel = YouTube default');settings={gpuName:gpu,aacStrategy:userChoice===true&&aacSupported===true};try{localStorage.setItem(STORAGE_KEY,JSON.stringify(settings))}catch(e){}if(userChoice===true){window.location.reload(true);return}}var gpuName=settings.gpuName||'';var isGtx750=gpuName.length!==0&&/GTX\s*750/i.test(gpuName)===true;var isWeakGpu=gpuName.length!==0&&/GTX\s*106|GTX\s*166|RX\s*55|Mali-G57|Helio\s*G99/i.test(gpuName)===true;if(isGtx750===false&&isWeakGpu===false&&settings.aacStrategy===false)return;var blockVP8=isGtx750;var blockVP9=isGtx750;var blockHEVC=isGtx750;var blockAV1=isGtx750||isWeakGpu;var blockedPatterns=[];if(blockVP8===true)blockedPatterns.push('vp0?8');if(blockVP9===true)blockedPatterns.push('vp0?9');if(blockHEVC===true)blockedPatterns.push('he');if(blockAV1===true)blockedPatterns.push('av0?1');var blockRegex=blockedPatterns.length!==0?new RegExp(blockedPatterns.join('|'),'i'):null;var opusRegex=/opus/i;MediaSource.isTypeSupported=function(type){if(blockRegex!==null&&blockRegex.test(type)===true)return false;if(settings.aacStrategy===true&&opusRegex.test(type)===true)return false;return origIsTypeSupported(type)};var origCanPlayType=HTMLMediaElement.prototype.canPlayType;HTMLMediaElement.prototype.canPlayType=function(type){if(blockRegex!==null&&blockRegex.test(type)===true)return'';if(settings.aacStrategy===true&&opusRegex.test(type)===true)return'';return origCanPlayType.call(this,type)}})();
+youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#(()=>{var STORAGE_KEY='ytHwDecodeSettings',settings=null;try{settings=JSON.parse(localStorage.getItem(STORAGE_KEY)||'null')}catch(e){}var origIsTypeSupported=MediaSource.isTypeSupported.bind(MediaSource);if(settings===null){var gpu=null;try{var canvas=document.createElement('canvas');var gl=canvas.getContext('webgl')||canvas.getContext('experimental-webgl');if(gl!==null){var debug=gl.getExtension('WEBGL_debug_renderer_info');if(debug!==null){gpu=gl.getParameter(debug.UNMASKED_RENDERER_WEBGL)}}}catch(e){}if(gpu===null)return;var aacSupported=false;var aacTypes=['audio/mp4; codecs="mp4a.40.2"','audio/mp4'];for(var i=0,aacLength=aacTypes.length;i<aacLength;++i){if(origIsTypeSupported(aacTypes[i])===true){aacSupported=true;break}}var userChoice=confirm('[YouTube Optimizer]\n\nGPU: '+gpu+'\n\nOK = AAC priority\nCancel = YouTube default');settings={gpuName:gpu,aacStrategy:userChoice===true&&aacSupported===true};try{localStorage.setItem(STORAGE_KEY,JSON.stringify(settings))}catch(e){}if(userChoice===true){window.location.reload(true);return}}var gpuName=settings.gpuName||'';var isGtx750=gpuName.length!==0&&/GTX\s*750/i.test(gpuName)===true;var isWeakGpu=gpuName.length!==0&&/GTX\s*106|GTX\s*166|RX\s*55|Mali-G57|Helio\s*G99/i.test(gpuName)===true;if(isGtx750===false&&isWeakGpu===false&&settings.aacStrategy===false)return;var blockVP8=isGtx750;var blockVP9=isGtx750;var blockHEVC=isGtx750;var blockAV1=isGtx750||isWeakGpu;var blockedPatterns=[];if(blockVP8===true)blockedPatterns.push('vp0?8');if(blockVP9===true)blockedPatterns.push('vp0?9');if(blockHEVC===true)blockedPatterns.push('he');if(blockAV1===true)blockedPatterns.push('av0?1');var blockRegex=blockedPatterns.length!==0?new RegExp(blockedPatterns.join('|'),'i'):null;var opusRegex=/opus/i;MediaSource.isTypeSupported=function(type){if(blockRegex!==null&&blockRegex.test(type)===true)return false;if(settings.aacStrategy===true&&opusRegex.test(type)===true)return false;return origIsTypeSupported(type)};var origCanPlayType=HTMLMediaElement.prototype.canPlayType;HTMLMediaElement.prototype.canPlayType=function(type){if(blockRegex!==null&&blockRegex.test(type)===true)return'';if(settings.aacStrategy===true&&opusRegex.test(type)===true)return'';return origCanPlayType.call(this,type)}})();
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-prune', 'contents.sectionListRenderer.contents.0', 'contents.sectionListRenderer.contents.0.itemSectionRenderer.contents.0.adSlotRenderer')
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com#%#//scriptlet('json-prune', 'contents.sectionListRenderer.contents.1', 'contents.sectionListRenderer.contents.1.itemSectionRenderer.contents.0.adSlotRenderer')
 ||googlevideo.com/initplayback?source=youtube&*&c=TVHTML5&oad=$xmlhttprequest,domain=youtube.com
@@ -20956,6 +20996,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||google.*/httpservice/retry/ValidationAsyncService/Validate
 ||google.*/log?
 ||google.*/pagead/
+||google.*/rmkt/collect
 ||google.com/js/google.js
 ||googleapis.com/androidantiabuse/
 ||googleapis.com/androidcheck/
@@ -21348,6 +21389,7 @@ dnschecker.org##div#all_tools_below_more_tools,div#cookie-box,div[data-freestar-
 fandom.com###WikiaBar,.bottom-ads-container,.page__right-rail,.top-ads-container,div[id^="featured-video"]
 fullboys.com,rimsgay.com###ad-native,#adBanner,#adfix,#bbdrl,#boxb,#overlay-if,.side-ad,.video-ad,.video-r
 genius.com##div[data-exclude-from-selection="true"],iframe[class^="AppleMusicPlayer"],[class^="DfpAd" i],[class^="InreadContainer__" i],[class^="LeaderboardOrMarquee" i],[class^="RightSidebar__" i],[class^="SectionLeaderboard__" i]
+genspark.ai##div.banner-carousel,div.header-right > div.absolute:has(div.upgrade-promo-banner)
 google.*##div#search div:not([class]):not([id]) div[class]:not([id]):has(div[data-text-ad]),#taw,#tvcap,#bottomads,[id^="tads"]
 gpt4o.so##.block[class*="lg"],.hidden[class*="lg"]
 hentaivn.ltd###over,#page_ads_right,#qx-300x250,.a_d_s_115,.a_d_s_50,.qc_main,.qx_135,.size_70,.size_80,[class*="qx_main" i]
