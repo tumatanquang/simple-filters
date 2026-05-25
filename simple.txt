@@ -470,6 +470,8 @@
 ||media.cloud341.click^
 ||collecting.click^
 ||comarcalaveer.click^
+||defacesirras.click^
+||ym.defacesirras.click^
 ||dfyui8r5rs.click^
 ||dissaitknelled.click^
 ||dumpei.click^
@@ -1167,6 +1169,8 @@
 ||30bb2e98be.com^
 ||ca1ed7a0c2.30bb2e98be.com^
 ||30kuwin.com^
+||30v7gv9f8ge.com^
+||hoka2aq6.30v7gv9f8ge.com^
 ||3128e920ab.com^
 ||e04dbd6f50.3128e920ab.com^
 ||32abd54344.com^
@@ -1839,6 +1843,8 @@
 ||t.9gag.com^
 ||web-t.9gag.com^
 ||9p6ij.com^
+||9zmp9xxrv5.com^
+||fibwinwptv.9zmp9xxrv5.com^
 ||a-ads.com^
 ||acceptable.a-ads.com^
 ||ad.a-ads.com^
@@ -5184,6 +5190,10 @@
 ||download-adblockgenius.com^
 ||download-extension.com^
 ||dist.download-extension.com^
+||downloadatoz.com^
+||m.downloadatoz.com^
+||topdata.downloadatoz.com^
+||www.downloadatoz.com^
 ||downloading-addon.com^
 ||track.downloading-addon.com^
 ||downstairsnegotiatebarren.com^
@@ -5192,6 +5202,7 @@
 ||www.dpaadzogvgcy.com^
 ||dpuanrrmuz.com^
 ||dpuppers.com^
+||drabimprovement.com^
 ||draggedgram.com^
 ||dragstergibletshaded.com^
 ||draohvwfubi.com^
@@ -8545,6 +8556,8 @@
 ||cm.marketgid.com^
 ||markofathenaluk.com^
 ||brightcombid.marphezis.com^
+||married-ring.com^
+||www.married-ring.com^
 ||marsocode.com^
 ||sentry.marsocode.com^
 ||marunihotel.com^
@@ -9118,6 +9131,8 @@
 ||siape.veta.naver.com^
 ||wcs.naver.com^
 ||l.www.naver.com^
+||navyrecentuproot.com^
+||www.navyrecentuproot.com^
 ||nawpush.com^
 ||na.nawpush.com^
 ||naxadrug.com^
@@ -9531,6 +9546,7 @@
 ||config.fp.measure.office.com^
 ||f3ec63b080034cef48dbd3a28c8538ac.fp.measure.office.com^
 ||upload.fp.measure.office.com^
+||officialplenty.com^
 ||offoonguser.com^
 ||offpichuan.com^
 ||offrsmatch.com^
@@ -9762,6 +9778,8 @@
 ||spas.openrtb-banner.com^
 ||openwidget.com^
 ||cdn.openwidget.com^
+||oa.opera.com^
+||px.oa.opera.com^
 ||opgolan.com^
 ||ophoacit.com^
 ||opmnstr.com^
@@ -11099,6 +11117,8 @@
 ||richaudience.com^
 ||shb.richaudience.com^
 ||sync.richaudience.com^
+||richeryawp.com^
+||od.richeryawp.com^
 ||ride8stir.com^
 ||secure.ride8stir.com^
 ||rifjhukaqoh.com^
@@ -11960,6 +11980,8 @@
 ||springserve.com^
 ||vid.springserve.com^
 ||sproutstarbarnacle.com^
+||spskh34qf.com^
+||pryv090e.spskh34qf.com^
 ||sputniknews.com^
 ||a.sputniknews.com^
 ||cm.sputniknews.com^
@@ -12351,6 +12373,8 @@
 ||tdtc28.com^
 ||tearingrustsally.com^
 ||tearpilotzoo.com^
+||tebarncale.com^
+||sumbtf.tebarncale.com^
 ||tecdo-ec.com^
 ||click.tecdo-ec.com^
 ||techiteration.com^
@@ -12386,6 +12410,10 @@
 ||tetrdracausa.com^
 ||tetrylscullion.com^
 ||tfazuhaxfxre.com^
+||tfnews88.com^
+||www.tfnews88.com^
+||tfnohu18.com^
+||www.tfnohu18.com^
 ||tfosrv.com^
 ||tfybwaxufo.com^
 ||www.tfybwaxufo.com^
@@ -13182,6 +13210,8 @@
 ||js.vadmngr.com^
 ||vador.com^
 ||promo.vador.com^
+||vainbowl.com^
+||www.vainbowl.com^
 ||valiumbessel.com^
 ||vanhocviet.com^
 ||cc.vanhocviet.com^
@@ -14108,6 +14138,8 @@
 ||ps.yavaajoure.com^
 ||yawcoynag.com^
 ||yawnspuker.com^
+||ybloxl9m8u.com^
+||carixb8ztv.ybloxl9m8u.com^
 ||ybs2ffs7v.com^
 ||ybybvgqv.com^
 ||yckbqpombxalyx.com^
@@ -14415,6 +14447,7 @@
 ||bima.daftarsalloovrow.cyou^
 ||fast673bot.cyou^
 ||arch.fast673bot.cyou^
+||feuillearcs.cyou^
 ||handbagtableau.cyou^
 ||mzeecytisus.cyou^
 ||ld.mzeecytisus.cyou^
@@ -14914,6 +14947,10 @@
 ||oxbet.in^
 ||pubkisakvsfy.in^
 ||www.pubkisakvsfy.in^
+||qcavrasarod.in^
+||www.qcavrasarod.in^
+||qceoqfolwri.in^
+||www.qceoqfolwri.in^
 ||qidqmephogw.in^
 ||www.qidqmephogw.in^
 ||raramjqumo.in^
@@ -16170,6 +16207,8 @@
 ||gce-sc.bidswitch.net^
 ||x.bidswitch.net^
 ||bigrourg.net^
+||bizwd.net^
+||ads.bizwd.net^
 ||boftogro.net^
 ||bongdas.net^
 ||bounceads.net^
@@ -16289,6 +16328,7 @@
 ||d2adpaynhf6x63.cloudfront.net^
 ||d2ajue4o5x1lc3.cloudfront.net^
 ||d2b4jmuffp1l21.cloudfront.net^
+||d2dxy39sqorbhv.cloudfront.net^
 ||d2er1uyk6qcknh.cloudfront.net^
 ||d2ezz24t9nm0vu.cloudfront.net^
 ||d2fbkzyicji7c4.cloudfront.net^
@@ -17738,6 +17778,7 @@
 ||ads.x-cdn.org^
 ||ylowerhughester.org^
 ||youtubesave.org^
+||yronesefurther.org^
 ||yuthecapstan.org^
 ||ck.page^
 ||mymodernmet.ck.page^
@@ -18075,6 +18116,8 @@
 ||sowers.overrungobbedschlock.qpon^
 ||parcookgoofah.qpon^
 ||pe.parcookgoofah.qpon^
+||rebeckbingnecro.qpon^
+||operons.rebeckbingnecro.qpon^
 ||reinatwitted.qpon^
 ||vaguish.reinatwitted.qpon^
 ||scomfitchattelslipups.qpon^
@@ -18087,6 +18130,8 @@
 ||wispslowbellcorebox.qpon^
 ||whr.wispslowbellcorebox.qpon^
 ||wodenakasha.qpon^
+||wynesippiotreatee.qpon^
+||fumbles.wynesippiotreatee.qpon^
 ||cloudcomputing.quest^
 ||new8899.quest^
 ||new88w-pro.new8899.quest^
@@ -20910,6 +20955,8 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||cdn.perfops.net/rom3/
 ||cdn.statically.io/*ad-shield/
 ||cdn.truyenfull.tv/assets/truyenfull/js/aff_ads.js
+||cdn.vlplayer.com/*/GCCG.json
+||cdn.vlplayer.com/*/vast.js
 ||cdnjs.cloudflare.com/*cookieconsent
 ||challenges.cloudflare.com/cdn-cgi/challenge-platform/h/*/cmg/1
 ||chat.baidu.com/aichat/api/visits
@@ -20921,6 +20968,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||chaturbate.com/tours/
 ||chaturbate.com^$third-party,subdocument
 ||claude.ai/api/event_logging/batch
+||claude.ai/api/event_logging/v2/batch
 ||claude.ai/isolated-segment.html
 ||claude.ai/sentry
 ||client-api.arkoselabs.com/metrics/ui
@@ -21033,6 +21081,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||instagram.com/embed.js
 ||ipinfo.io/rt?r=err
 ||jwpcdn.com/*/jwpsrv.js
+||jwpcdn.com/*/vast.js
 ||kakaocdn.net/tiara/
 ||katfile.*/cgi-bin/stats.fcgi
 ||katfile.*/images/h527515_dl.gif
@@ -21078,6 +21127,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||openai.com/_vercel/
 ||openai.com/backend/exp/
 ||openai.com/policies/cookie-policy/
+||opera.com/sp.js
 ||oracle.com/us/assets/metrics/ora_ocom.js
 ||oracle.com/visitorinfo/
 ||patreon.com/api/tracking
