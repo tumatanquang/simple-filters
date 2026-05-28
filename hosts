@@ -41,6 +41,10 @@
 0.0.0.0 js.media-lab.ai
 0.0.0.0 xeno.media-lab.ai
 0.0.0.0 new88.ai
+0.0.0.0 octocom.ai
+0.0.0.0 api.octocom.ai
+0.0.0.0 chat.octocom.ai
+0.0.0.0 www.octocom.ai
 0.0.0.0 ourdream.ai
 0.0.0.0 img.ourdream.ai
 0.0.0.0 r.ourdream.ai
@@ -2645,6 +2649,7 @@
 0.0.0.0 tbd4rmdvjk.execute-api.us-east-1.amazonaws.com
 0.0.0.0 xcxrmtkxx5.execute-api.us-east-1.amazonaws.com
 0.0.0.0 client.rum.us-east-1.amazonaws.com
+0.0.0.0 good26.s3.us-east-1.amazonaws.com
 0.0.0.0 hb-scribd.s3.us-east-2.amazonaws.com
 0.0.0.0 pmc-pp-tou.s3.us-west-1.amazonaws.com
 0.0.0.0 cognito-identity.us-west-2.amazonaws.com
@@ -6094,6 +6099,8 @@
 0.0.0.0 static.freeskreen.com
 0.0.0.0 freestar.com
 0.0.0.0 www.freestar.com
+0.0.0.0 freewarelab.com
+0.0.0.0 www.freewarelab.com
 0.0.0.0 frenghiacred.com
 0.0.0.0 frequentjam.com
 0.0.0.0 widget.freshworks.com
@@ -6344,6 +6351,7 @@
 0.0.0.0 tag.getdrip.com
 0.0.0.0 www.getdrip.com
 0.0.0.0 api.getfiddler.com
+0.0.0.0 getfinefile.com
 0.0.0.0 getglue.com
 0.0.0.0 api.getglue.com
 0.0.0.0 getnitropack.com
@@ -7427,6 +7435,7 @@
 0.0.0.0 imgnxb.com
 0.0.0.0 api2-ram.imgnxb.com
 0.0.0.0 api2-rj2.imgnxb.com
+0.0.0.0 imgpv.com
 0.0.0.0 imgq8my9rfs.com
 0.0.0.0 img.imgq8my9rfs.com
 0.0.0.0 rt.imgur.com
@@ -10259,6 +10268,8 @@
 0.0.0.0 yz.pietasylphon.com
 0.0.0.0 pifnrihu.com
 0.0.0.0 pignuwoa.com
+0.0.0.0 pikeberth.com
+0.0.0.0 www.pikeberth.com
 0.0.0.0 ads.pinterest.com
 0.0.0.0 assets.pinterest.com
 0.0.0.0 ct.pinterest.com
@@ -10357,6 +10368,8 @@
 0.0.0.0 poprtb.com
 0.0.0.0 xml.poprtb.com
 0.0.0.0 track.popsww.com
+0.0.0.0 popularhitech.com
+0.0.0.0 www.popularhitech.com
 0.0.0.0 popupblocker-download.com
 0.0.0.0 popupblockernow.com
 0.0.0.0 popviking.com
@@ -11307,6 +11320,9 @@
 0.0.0.0 www.rwumucnasq.com
 0.0.0.0 rxeosevsso.com
 0.0.0.0 ryeeffortoccupy.com
+0.0.0.0 ryokorouter.com
+0.0.0.0 tracktor.ryokorouter.com
+0.0.0.0 www.ryokorouter.com
 0.0.0.0 ryvjgiyoxomii.com
 0.0.0.0 www.ryvjgiyoxomii.com
 0.0.0.0 rzuajmcaz.com
@@ -11951,6 +11967,8 @@
 0.0.0.0 specificallythesisballot.com
 0.0.0.0 speedcurve.com
 0.0.0.0 cdn.speedcurve.com
+0.0.0.0 spendsdetachment.com
+0.0.0.0 www.spendsdetachment.com
 0.0.0.0 spewyelks.com
 0.0.0.0 spidersprimary.com
 0.0.0.0 spikscabrin.com
@@ -12996,6 +13014,8 @@
 0.0.0.0 ultimeo-downloader.com
 0.0.0.0 ultra-rv.com
 0.0.0.0 static.ultra-rv.com
+0.0.0.0 ultrahub-zone.com
+0.0.0.0 www.ultrahub-zone.com
 0.0.0.0 ulukaris.com
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 umuziko.com
@@ -14289,6 +14309,8 @@
 0.0.0.0 www.zbwkapoit.com
 0.0.0.0 ekr.zdassets.com
 0.0.0.0 zebraicrudista.com
+0.0.0.0 zeforio.com
+0.0.0.0 www.zeforio.com
 0.0.0.0 zemanta.com
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 prebidtest.zemanta.com
@@ -14607,6 +14629,9 @@
 0.0.0.0 animewatch.onionlive.workers.dev
 0.0.0.0 peter-13d.workers.dev
 0.0.0.0 engagebay-forms-worker.peter-13d.workers.dev
+0.0.0.0 rapid-sun-36bc.workers.dev
+0.0.0.0 blue-bread-49a6.rapid-sun-36bc.workers.dev
+0.0.0.0 odd-meadow-2919.rapid-sun-36bc.workers.dev
 0.0.0.0 sbz.workers.dev
 0.0.0.0 app.sbz.workers.dev
 0.0.0.0 meniscigox.digita
@@ -14913,6 +14938,8 @@
 0.0.0.0 www.altjtyjw.in
 0.0.0.0 bajashpa.in
 0.0.0.0 www.bajashpa.in
+0.0.0.0 bicavhmr.in
+0.0.0.0 www.bicavhmr.in
 0.0.0.0 can-get-some.in
 0.0.0.0 eu.can-get-some.in
 0.0.0.0 dagrtenihca.in
@@ -15016,6 +15043,8 @@
 0.0.0.0 eownouncillors.info
 0.0.0.0 erdreamsofcryin.info
 0.0.0.0 ericanthesion.info
+0.0.0.0 errorfood.info
+0.0.0.0 connect.errorfood.info
 0.0.0.0 funtikapa.info
 0.0.0.0 getrunkhomuto.info
 0.0.0.0 www.gfae.info
@@ -15042,6 +15071,7 @@
 0.0.0.0 loaksandtheir.info
 0.0.0.0 lucklayed.info
 0.0.0.0 mentxviewsinte.info
+0.0.0.0 minutestretch.info
 0.0.0.0 www.monyb.info
 0.0.0.0 ngsinspiringtga.info
 0.0.0.0 nordeu.info
@@ -15663,6 +15693,8 @@
 0.0.0.0 1wvkdx.life
 0.0.0.0 allbonushere.life
 0.0.0.0 allodiafeveret.life
+0.0.0.0 antetthoinao.life
+0.0.0.0 www.antetthoinao.life
 0.0.0.0 awardbonus.life
 0.0.0.0 barlessclueing.life
 0.0.0.0 best-win-price.life
@@ -16301,6 +16333,7 @@
 0.0.0.0 d1llq9kjmh5kle.cloudfront.net
 0.0.0.0 d1lxhc4jvstzrp.cloudfront.net
 0.0.0.0 d1m65n7jd8cznd.cloudfront.net
+0.0.0.0 d1mmwjk4unkzcs.cloudfront.net
 0.0.0.0 d1n00d49gkbray.cloudfront.net
 0.0.0.0 d1nmxiiewlx627.cloudfront.net
 0.0.0.0 d1nubxdgom3wqt.cloudfront.net
@@ -18381,6 +18414,8 @@
 0.0.0.0 tenseberain.shop
 0.0.0.0 topworkredbay.shop
 0.0.0.0 trionyminglut.shop
+0.0.0.0 twiiemg.shop
+0.0.0.0 www.twiiemg.shop
 0.0.0.0 ulvantamal.shop
 0.0.0.0 vuabet88.shop
 0.0.0.0 windsuredine.shop
