@@ -70,6 +70,9 @@
 ||bbc-reporting-api.app^
 ||ws.bbc-reporting-api.app^
 ||events.bsky.app^
+||ip.bsky.app^
+||workers.bsky.app^
+||live-events.workers.bsky.app^
 ||chaty.app^
 ||cdn.chaty.app^
 ||pixel.chaty.app^
@@ -951,6 +954,8 @@
 ||8cbe12271a.0ffaf504b2.com^
 ||100b57dcae.com^
 ||a9529eca57.100b57dcae.com^
+||1015gamelogin.com^
+||pulse.1015gamelogin.com^
 ||11029984.com^
 ||images.11029984.com^
 ||111scvvbb-fe4.com^
@@ -14516,6 +14521,8 @@
 ||lr.corrumpskeptic.cyou^
 ||daftarsalloovrow.cyou^
 ||bima.daftarsalloovrow.cyou^
+||datapulseforge6.cyou^
+||dwn.datapulseforge6.cyou^
 ||fast673bot.cyou^
 ||arch.fast673bot.cyou^
 ||feuillearcs.cyou^
@@ -15350,6 +15357,7 @@
 ||gmwin.io^
 ||plausible.gofile.io^
 ||grammarly.io^
+||f-log-at.grammarly.io^
 ||f-log-js-plugin.grammarly.io^
 ||femetrics.grammarly.io^
 ||inkwell.femetrics.grammarly.io^
@@ -16304,6 +16312,8 @@
 ||bigrourg.net^
 ||bizwd.net^
 ||ads.bizwd.net^
+||bkcdn.net^
+||z6v2p9a8.bkcdn.net^
 ||boftogro.net^
 ||bongdas.net^
 ||bounceads.net^
@@ -16316,6 +16326,7 @@
 ||cdn4.buysellads.net^
 ||bvmcdn.net^
 ||cdn.bvmcdn.net^
+||n2j9y0x0.bxcdn.net^
 ||tenmax-static.cacafly.net^
 ||tenmaximg.cacafly.net^
 ||ambient.cachefly.net^
@@ -16393,6 +16404,7 @@
 ||d1iylq4m38r1re.cloudfront.net^
 ||d1j2jv7bvcsxqg.cloudfront.net^
 ||d1llq9kjmh5kle.cloudfront.net^
+||d1lolm601xn7i1.cloudfront.net^
 ||d1lxhc4jvstzrp.cloudfront.net^
 ||d1m65n7jd8cznd.cloudfront.net^
 ||d1mmwjk4unkzcs.cloudfront.net^
@@ -16400,6 +16412,7 @@
 ||d1nmxiiewlx627.cloudfront.net^
 ||d1nubxdgom3wqt.cloudfront.net^
 ||d1nx2jii03b4ju.cloudfront.net^
+||d1pc49c65wns8a.cloudfront.net^
 ||d1qggq1at2gusn.cloudfront.net^
 ||d1r90st78epsag.cloudfront.net^
 ||d1rkk61vj6xwh5.cloudfront.net^
@@ -16446,6 +16459,7 @@
 ||d2r1yp2w7bby2u.cloudfront.net^
 ||d2rzzcn1jnr24x.cloudfront.net^
 ||d2tvgfsghnrkwb.cloudfront.net^
+||d2u2q25a2apd5g.cloudfront.net^
 ||d2uy8iq3fi50kh.cloudfront.net^
 ||d2v02itv0y9u9t.cloudfront.net^
 ||d2wu036mkcz52n.cloudfront.net^
@@ -16480,6 +16494,7 @@
 ||d3c5iz4ik84vl3.cloudfront.net^
 ||d3c8j8snkzfr1n.cloudfront.net^
 ||d3cod80thn7qnd.cloudfront.net^
+||d3cxe0octlgvy9.cloudfront.net^
 ||d3d52lhoy0sh2w.cloudfront.net^
 ||d3dytsf4vrjn5x.cloudfront.net^
 ||d3e54v103j8qbb.cloudfront.net^
@@ -16504,11 +16519,13 @@
 ||d3tglifpd8whs6.cloudfront.net^
 ||d3ubdcv1nz4dub.cloudfront.net^
 ||d3ud741uvs727m.cloudfront.net^
+||d3umxeelmp57ak.cloudfront.net^
 ||d3v3bqdndm4erx.cloudfront.net^
 ||d3x0jb14w6nqz.cloudfront.net^
 ||d4tuoctqmanu0.cloudfront.net^
 ||d5i9o0tpq9sa1.cloudfront.net^
 ||d63a3au5lqmtu.cloudfront.net^
+||d67dbj4d5dgao.cloudfront.net^
 ||d6pg84g42vsru.cloudfront.net^
 ||d79i1fxsrar4t.cloudfront.net^
 ||d7luqmstmj331.cloudfront.net^
@@ -19569,6 +19586,9 @@
 ||engine.asf4f.us^
 ||askfollow.us^
 ||x.askfollow.us^
+||c55c.us^
+||c66c.us^
+||c88c.us^
 ||dangky789club.us^
 ||debet.us^
 ||x.disq.us^
@@ -21073,6 +21093,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||bing.com/images/sbi
 ||bing.com/retailexp/msn/api/*/trendingprods
 ||bing.com/web/xlsc.aspx
+||bing.com^$removeparam=rnoreward
 ||blackbox.ai/api/tlm
 ||booking.com/dealspage.html
 ||boyfriend.tv/ads/live-cam/popunder
@@ -21185,6 +21206,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||google.com/js/google.js
 ||googleapis.com/androidantiabuse/
 ||googleapis.com/androidcheck/
+||grammarly.com/api/tracking/
 ||grammarly.com/inkwell/
 ||graph.facebook.com/*/activities?access_token=&event=
 ||graph.facebook.com/*?fields=supports_implicit_sdk_logging
@@ -21267,6 +21289,9 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||opera.com/sp.js
 ||oracle.com/us/assets/metrics/ora_ocom.js
 ||oracle.com/visitorinfo/
+||pan.baidu.com/api/analytics
+||pan.baidu.com/bpapi/analytics
+||passport.baidu.com/viewlog
 ||patreon.com/api/tracking
 ||pay.google.com/gp/p/_/InstantbuyFrontendBuyflowPayframeUi/jserror
 ||perplexity.ai/pixel/
@@ -21368,6 +21393,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||xux-web-config.oss-accelerate.aliyuncs.com/aes-config/
 ||xvideos.*/picserror/
 ||xvideos.*/zoneload/
+||xvideos.com/capping-manager/i/c
 ||xvideos69.*/picserror/
 ||yandex.com/clck/click
 ||yandex.ru/ads/
@@ -21566,10 +21592,10 @@ apkpure.com###policy-info,.chrome-install-pop,.download-vip-subscribe-wrap,.js-a
 baeldung.com##div.code-block:has(div.topAdContainer)
 baidu.com###branding_ads,#web-right-view,.ad-multi-tips,.ad-platform-tips,.cps_wrap,.j_click_stats,.video-ad-creative-card
 bilibili.com###activity_vote,#bannerAd,#live_recommand_report,#slide_ad,.ad-floor-exp,.ad-report,.pop-live-small-mode,.right-bottom-banner,.video-page-game-card-small,.video-page-special-card-small,[href*="cm.bilibili.com"],div.activity-m-v1
-bing.com###adstop_gradiant_separator,.b_spa_adblock,.ins_exp.vsp,.irptaads,.rewards_promo_acf,.vsp_ads_c,div#b_pole,div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_context > li.b_ans.sb_genserp_va[data-partnertag],ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"]),ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_topw.b_results_eml > li[style="display: inline-block;"]
+bing.com###adstop_gradiant_separator,.b_spa_adblock,.ins_exp.vsp,.irptaads,.rewards_promo_acf,.vsp_ads_c,div#b_pole,div.b_ad,div.b_adcard,div.b_slidebar > div.slide:has(div.b_ad),div.b_slidebar > div.slide:has(div.b_adcard),div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_context > li.b_ans.sb_genserp_va[data-partnertag],ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"]),ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_topw.b_results_eml > li[style="display: inline-block;"]
 boyfriend.tv,boyfriendtv.com###js-ads-modal,#rightside2,.ads-wrapper,.eu-cookies,.js-right-no-ads,.vast-overlay,.video-extra-wrapper,.x-news-line,[class$="advi" i],[href*="gobanner"],[src*="paysite"],a.new-videoplayer-overlay,div.adblock:has(div.media-item.no-popup),div.container:has(div.video-listing > div.no-popup:first-child > div[data-id^="sc-"]),div.js-toggle-content-wrapper:has(div.adblock > div.main-see-more-wrapper),div.js-toggle-content-wrapper:has(div.media-item.no-popup),div.media-item.no-popup,div.no-popup:has(div[data-id^="sc-"]),div.wgt-container,div:not([class]):not([id]):has(a[class^="fh-"]),li.media-item.no-popup
 camelliatransgroup.com,dhcc.xyz##[id^="sticky-footer" i]
-check-host.net##div#content2 div[class$="tive"],div#content2 div[class^="mt-"]:not([id="terminal-frame"]),div.container > div.flex.w-full[id$="main"],div[id$="aeza-splash"],div[id^="yourip"] > div[class^="host"],div[id^="yourip"] > div[id^="host"],footer > div.countryAll,footer > div.countryIR
+check-host.net##div#content2 div[class$="tive"],div#content2 div[class^="mt-"]:not([id="terminal-frame"]),div.container > div.flex.w-full[id$="main"],div.ri-btive[id$="-line"],div[id$="aeza-splash"],div[id^="yourip"] > div[class^="host"],div[id^="yourip"] > div[id^="host"],footer > div.countryAll,footer > div.countryIR
 coderanch.com###txl,.forum-top-banner,.multbntab,.shngl
 dev.to##div[data-async-url]
 dnschecker.org##div#all_tools_below_more_tools,div#cookie-box,div[data-freestar-ad]
@@ -21617,7 +21643,7 @@ wattpad.com##[class^="reading-widget" i]
 xda-developers.com###spot_container_content_above,#spot_rsb_below,#spot_rsb_top,#spot_thread_above_messages,#xdadevelopers_leaderboard_atf,#xdadevelopers_leaderboard_btf,#xdadevelopers_right_1,.spot_container_content_above,.spot_rsb_below,.spot_rsb_top,.spot_thread_above_messages
 xhaccess.com,xhamster.com,xhamster.desi,xhamster2.com##aside[data-role="yld-pcpromo"],div.xp-banner-pause,div.xp-subscribe,div.yld-pcbottom-widget-section.yld-pc,div.yld-pccam-thumb,div.yld-pcno-ts-init,div.yld-pcpremium-n-overlay,div.yld-pcxplayer-hover-menu,div[class*="cam-thumb"],div[class*="cams-wgt"],div[data-role="promo-messages-wrapper"],div[data-role="yld-pcbanner-underplayer"],div[data-role="yld-pcbottom"],div[data-testid="right-banner-section"],div[data-role$="banner-underplayer"],div[class^="cookiesAnnounce"],div[class*="Rright-rectangle"]
 xnxx.com,xnxx3.com,xvideos.com,xvideos.es,xvideos3.com###ad-footer,#ad-footer2,#ad-header-mobile-contener,#content-ad-top-zone-contener,#video-ad,.no-rotate,.remove-ads,.thumb-ad-gold,.thumb-nat-exo-ad,.video-click-handler,div#content > div#video-right.exo-ad-ins-container,div#video-right ~ div[class]:not([id]),div.thumb-block.video-ad
-xvideos.com##.banner-game,.premium-results-line
+xvideos.com##.ad-placeholder,.banner-game,.mobile-ad,.premium-results-line
 yahoo.com###ad_xfpad_base,#Billboard-ad,#dialogue-wrapper,#feat-bar,#login-ads-gpt-iframe,#my-adsFOOT,#my-adsFPAD-base,#my-adsHPSPON-base,#my-adsLDRB,#my-adsLREC-base,#my-adsLREC4-base,#my-adsMON,#sda-Horizon,#sda-LREC-iframe,#sda-LREC3-iframe,.ad-transition,.fbtdv2,.login-bg-inner,.native-ad-item,.stream-ad,.stream-sm-ad,iframe:not([id$="-iframe"]),[data-test-id*="-ad-" i],[href*="beap.gemini.yahoo.com"]
 yaoimangaonline.com###block-12,#block-13,#block-14,#block-15,#block-16,#block-19,#block-20,#block-8,#text-2,#text-28,.code-block,[id^="block-"]:has(script),[id^="block-"]:not(.widget_text)
 youtu.be,youtube-nocookie.com,youtube.com,youtubekids.com###masthead-ad,#player-ads,.html5-video-player.ad-showing .ytp-title,.video-ads,.ytd-display-ad-renderer,.ytp-ad-action-interstitial,.ytp-ad-display-override,.ytp-ad-module,.ytp-featured-product,.ytp-suggested-action-badge.ytp-suggested-action-badge-content-forward,[layout*="display-ad"],ad-slot-renderer,div[class^="promoted-"],ytd-ad-slot-renderer,ytd-carousel-ad-renderer,ytd-display-ad-renderer,ytd-display-ad-renderer.style-scope,ytd-in-feed-ad-layout-renderer,ytd-merch-shelf-renderer,ytd-promoted-sparkles-text-search-renderer,ytd-promoted-sparkles-web-renderer,ytd-reel-shelf-renderer,ytd-rich-item-renderer:has(div#content.style-scope.ytd-rich-item-renderer > ytd-ad-slot-renderer),ytm-compact-playlist-renderer,ytm-companion-slot.scwnr-content,ytm-promoted-sparkles-text-search-renderer,ytm-promoted-sparkles-web-renderer,ytm-promoted-video-renderer
