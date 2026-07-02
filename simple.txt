@@ -27,6 +27,10 @@
 ||dm.hybrid.ai^
 ||intent.ai^
 ||rtb-eu-warsaw.intent.ai^
+||jst.ai^
+||aly.jst.ai^
+||cdn.jst.ai^
+||my.jst.ai^
 ||kapa.ai^
 ||metrics.kapa.ai^
 ||widget.kapa.ai^
@@ -168,6 +172,7 @@
 ||prod.pl.panorama.console.api.aws^
 ||us-east-1.prod.pl.panorama.console.api.aws^
 ||2aed6ghjsb4436qtebuqk3gfzq0xeauy.lambda-url.us-east-1.on.aws^
+||tctguyhimcwcyexxgullu3seem0fkhrh.lambda-url.us-west-2.on.aws^
 ||git4share.baby^
 ||media.git4share.baby^
 ||bokido.be^
@@ -656,6 +661,7 @@
 ||qq-web-legacy.cdn-go.cn^
 ||security-web.cdn-go.cn^
 ||tam.cdn-go.cn^
+||sdata.chatglm.cn^
 ||nav.fetion.com.cn^
 ||hypers.com.cn^
 ||t.hypers.com.cn^
@@ -756,6 +762,10 @@
 ||gotoda.co^
 ||sentry.gotoda.co^
 ||trochi.gotoda.co^
+||headwayapp.co^
+||assets0.headwayapp.co^
+||cdn.headwayapp.co^
+||www.headwayapp.co^
 ||hf.co^
 ||cdn-lfs-us-1.hf.co^
 ||t.html-load.co^
@@ -1673,6 +1683,8 @@
 ||b3949c73b6.80d42b11c9.com^
 ||8105bfd0ff.com^
 ||aec194b31a.8105bfd0ff.com^
+||811b27ab9f.com^
+||42017531ea.811b27ab9f.com^
 ||813d8347e7.com^
 ||ef68b6d176.813d8347e7.com^
 ||81438456aa.com^
@@ -2559,11 +2571,16 @@
 ||fe-log-prod.ap-southeast-1.log.aliyuncs.com^
 ||cn-beijing.log.aliyuncs.com^
 ||nami.cn-beijing.log.aliyuncs.com^
+||cn-hongkong.log.aliyuncs.com^
+||k8s-log-c1f874a604cb64b29bb69219c8faaf8b7.cn-hongkong.log.aliyuncs.com^
 ||oss-accelerate.aliyuncs.com^
 ||ksbe2u-1296-ppp.oss-accelerate.aliyuncs.com^
 ||xux-web-config.oss-accelerate.aliyuncs.com^
 ||yfnlog-2300-ppp.oss-accelerate.aliyuncs.com^
 ||storageinstance.oss-ap-southeast-1.aliyuncs.com^
+||rum.aliyuncs.com^
+||j2c03hoppk-default-cn.rum.aliyuncs.com^
+||sdk.rum.aliyuncs.com^
 ||alkavqcciag.com^
 ||all-ti-cod.com^
 ||cs09.all-ti-cod.com^
@@ -3228,6 +3245,8 @@
 ||c6e82a469d.b3b526dee6.com^
 ||b3bdc7e743.com^
 ||a0be2a7d71.b3bdc7e743.com^
+||b3d20e1c1e.com^
+||47399d82d4.b3d20e1c1e.com^
 ||b3f15cef69.com^
 ||b503477ae8.b3f15cef69.com^
 ||b40c7bfff2.com^
@@ -6002,7 +6021,9 @@
 ||www.flirt4free.com^
 ||flirtyhoookup.com^
 ||flitions-sealteger.com^
+||flixcdn.com^
 ||assets-widget-ah.flixcdn.com^
+||ic-nss.flixcdn.com^
 ||flixdot.com^
 ||flixtrial.com^
 ||engine.flixtrial.com^
@@ -7000,6 +7021,10 @@
 ||hexagon-analytics.com^
 ||hexingteeting.com^
 ||ya.hexingteeting.com^
+||hextom.com^
+||epb.hextom.com^
+||qab.hextom.com^
+||www.hextom.com^
 ||hfihifxagw.com^
 ||www.hfihifxagw.com^
 ||hfiximhirdpy.com^
@@ -7269,6 +7294,8 @@
 ||l.hyenadata.com^
 ||hyloistmithan.com^
 ||shz.hypeauditor.com^
+||hyperionwise.com^
+||www.hyperionwise.com^
 ||hyperpromote.com^
 ||cdn.hyperpromote.com^
 ||hyprmx.com^
@@ -8807,6 +8834,7 @@
 ||www.mhvllvgrefplg.com^
 ||mhyxciahfas.com^
 ||www.mhyxciahfas.com^
+||ssl-cdn.static.browser.mi-img.com^
 ||mi88.com^
 ||mibet.com^
 ||microadinc.com^
@@ -8893,6 +8921,7 @@
 ||misstaycedule.com^
 ||mistletoecaliberdecency.com^
 ||misunderstanddependableour.com^
+||apm-rum.inf.miui.com^
 ||mixpanel.com^
 ||api.mixpanel.com^
 ||api-js.mixpanel.com^
@@ -9311,6 +9340,8 @@
 ||nidofsofpo.com^
 ||www.nidofsofpo.com^
 ||nifodcoccsm.com^
+||nifty-feature.com^
+||www.nifty-feature.com^
 ||nijopvohmbiz.com^
 ||www.nijopvohmbiz.com^
 ||nikkimull.com^
@@ -10417,6 +10448,8 @@
 ||poprtb.com^
 ||xml.poprtb.com^
 ||track.popsww.com^
+||poptin.com^
+||www.poptin.com^
 ||popularhitech.com^
 ||www.popularhitech.com^
 ||popupblocker-download.com^
@@ -10438,6 +10471,8 @@
 ||porridgebring.com^
 ||portionlilacrig.com^
 ||portoteamo.com^
+||positivesomewhere.com^
+||www.positivesomewhere.com^
 ||possessionaddictedflight.com^
 ||posthog.com^
 ||app.posthog.com^
@@ -11926,6 +11961,8 @@
 ||api.snapkit.com^
 ||sdk.snapkit.com^
 ||snappedimpressive.com^
+||snappypractice.com^
+||www.snappypractice.com^
 ||sneeauihvnko.com^
 ||snigelweb.com^
 ||adengine.snigelweb.com^
@@ -14226,6 +14263,7 @@
 ||ua.yektanet.com^
 ||yellow-resultsbidder.com^
 ||xml-eu.yellow-resultsbidder.com^
+||yellowishgather.com^
 ||yellowmessenger.com^
 ||yengo.com^
 ||code.yengo.com^
@@ -14421,6 +14459,12 @@
 ||dash.zintrack.com^
 ||zipazvzu.com^
 ||www.zipazvzu.com^
+||zipify.com^
+||cdn03.zipify.com^
+||cdn05.zipify.com^
+||cdn16.zipify.com^
+||events-ocu.zipify.com^
+||www.zipify.com^
 ||zipoxpojfxk.com^
 ||www.zipoxpojfxk.com^
 ||zipthelake.com^
@@ -14995,6 +15039,8 @@
 ||4736.in^
 ||adpdkizzi.in^
 ||www.adpdkizzi.in^
+||agtcmuohbt.in^
+||www.agtcmuohbt.in^
 ||altjtyjw.in^
 ||www.altjtyjw.in^
 ||bajashpa.in^
@@ -15029,6 +15075,8 @@
 ||mazakmasti.in^
 ||adjust.net.in^
 ||app.adjust.net.in^
+||ntykiftp.in^
+||www.ntykiftp.in^
 ||odlkpuok.in^
 ||www.odlkpuok.in^
 ||onmeta.in^
@@ -15036,6 +15084,11 @@
 ||orcrcolf.in^
 ||www.orcrcolf.in^
 ||oxbet.in^
+||popt.in^
+||app.popt.in^
+||display.popt.in^
+||fonts.popt.in^
+||www.popt.in^
 ||pubkisakvsfy.in^
 ||www.pubkisakvsfy.in^
 ||qcavrasarod.in^
@@ -15044,6 +15097,8 @@
 ||www.qceoqfolwri.in^
 ||qidqmephogw.in^
 ||www.qidqmephogw.in^
+||qrejuwquqos.in^
+||www.qrejuwquqos.in^
 ||raramjqumo.in^
 ||www.raramjqumo.in^
 ||rizkigkmoa.in^
@@ -15054,6 +15109,8 @@
 ||sfaobvfic.in^
 ||www.sfaobvfic.in^
 ||www.smstextmessages.in^
+||tilstupi.in^
+||www.tilstupi.in^
 ||tiwaffrm.in^
 ||www.tiwaffrm.in^
 ||unibots.in^
@@ -15287,6 +15344,10 @@
 ||covatic.io^
 ||browser.covatic.io^
 ||mobile-lon-lambda.covatic.io^
+||crazyrocket.io^
+||api.crazyrocket.io^
+||cdn.crazyrocket.io^
+||www.crazyrocket.io^
 ||api.cryptorank.io^
 ||customer.io^
 ||assets.customer.io^
@@ -16410,6 +16471,7 @@
 ||d1mmwjk4unkzcs.cloudfront.net^
 ||d1n00d49gkbray.cloudfront.net^
 ||d1nmxiiewlx627.cloudfront.net^
+||d1npnstlfekkfz.cloudfront.net^
 ||d1nubxdgom3wqt.cloudfront.net^
 ||d1nx2jii03b4ju.cloudfront.net^
 ||d1pc49c65wns8a.cloudfront.net^
@@ -16479,6 +16541,7 @@
 ||d34r8q7sht0t9k.cloudfront.net^
 ||d35k22e9287vnh.cloudfront.net^
 ||d35xxde4fgg0cx.cloudfront.net^
+||d362h7pxdteoyk.cloudfront.net^
 ||d36zfztxfflmqo.cloudfront.net^
 ||d37j8pfxu2iogi.cloudfront.net^
 ||d38190um0l9h9v.cloudfront.net^
@@ -16506,6 +16569,7 @@
 ||d3jzhqnvnvdy34.cloudfront.net^
 ||d3l739e8r8y9v7.cloudfront.net^
 ||d3lcz8vpax4lo2.cloudfront.net^
+||d3lopmpcew67el.cloudfront.net^
 ||d3mr7y154d2qg5.cloudfront.net^
 ||d3mzokty951c5w.cloudfront.net^
 ||d3o9njeb29ydop.cloudfront.net^
@@ -17450,6 +17514,7 @@
 ||recommendation-hybrid.wpdigital.net^
 ||wsknow.net^
 ||xenofiles.net^
+||sentry.d.xiaomi.net^
 ||xxxadultsex.net^
 ||edgecast-cf-prod.yahoo.net^
 ||edgecast-vod.yahoo.net^
@@ -18155,6 +18220,7 @@
 ||cms.staticga88.pro^
 ||stepsothohe.pro^
 ||stibetazi.pro^
+||stiffindividual.pro^
 ||stoceezes.pro^
 ||stupendousconcept.pro^
 ||terrible-sink.pro^
@@ -19773,7 +19839,11 @@
 ||portal-sop.fpt.vn^
 ||ads.fptplay.vn^
 ||storage.fshare.vn^
+||d-cdp.hasaki.vn^
 ||log.hasaki.vn^
+||px.hasaki.vn^
+||tracking.hasaki.vn^
+||hsk-media-cdp-prod.hcdn.vn^
 ||home.vn^
 ||ads.home.vn^
 ||service.home.vn^
@@ -20921,7 +20991,7 @@ gtm.js
 idzone
 invoke.js
 ipacdn.txt
-js.cookie.min.js
+js.cookie.min.js$domain=~beautifier.io
 native-push
 NativeAdsRequest
 pBlock
@@ -21085,6 +21155,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||assets.alicdn.com/g/??/sd/baxia/
 ||audiomack.com/v1/analytics/
 ||b.cdnst.net/javascript/
+||beautifier.io/web/google-analytics.js
 ||bing.com/api/*/mediation/clientauction
 ||bing.com/api/v1/mediation/tracking
 ||bing.com/fd/ls/
@@ -21100,8 +21171,10 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||boyfriend.tv/allow-preferred/
 ||boyfriendtv.com/ads/live-cam/popunder
 ||boyfriendtv.com/allow-preferred/
+||boyfriendtv.com/api/tiles
 ||boyfriendtv.com/bftv/b/*.html
 ||boyfriendtv.com/bftv/b/*.xml
+||boyfriendtv.com/bftv/bb/mob-*.html
 ||cdn-go.cn/aegis/aegis-sdk/
 ||cdn.jsdelivr.net/*/ga.js
 ||cdn.jsdelivr.net/*ad-shield/
@@ -21115,6 +21188,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||cdn.truyenfull.tv/assets/truyenfull/js/aff_ads.js
 ||cdn.vlplayer.com/*/GCCG.json
 ||cdn.vlplayer.com/*/vast.js
+||cdn.web-global.fds.api.mi-img.com/*/sentry/sentry*.js
 ||cdnjs.cloudflare.com/*cookieconsent
 ||challenges.cloudflare.com/cdn-cgi/challenge-platform/h/*/cmg/1
 ||chat.baidu.com/aichat/api/visits
@@ -21188,7 +21262,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||g.alicdn.com/aes/tracker-plugin-survey-ui/
 ||g.alicdn.com/sd/baxia*/
 ||g.alicdn.com/secdev/sufei_data/
-||gateway.grammarly.com/experimentation/treatment/get
+||gateway.grammarly.com/experimentation/treatment/
 ||gaymaletube.com/js/analytics
 ||gemini.google.com/_/BardChatUi/cspreport/fine-allowlist
 ||gemini.google.com/_/BardChatUi/jserror
@@ -21216,6 +21290,8 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||gstatic.com/cv/js/sender/v1/cast_sender.js
 ||gstatic.com/feedback/
 ||hasaki.vn/*/cookie-consent
+||hasaki.vn/scripts/pixel.js
+||hasaki.vn/scripts/tiktok.js
 ||hasaki.vn/wap-static/js/fb-pixel.js
 ||hasaki.vn/wap-static/js/gtm-hasaki.js
 ||hasaki.vn/wap-static/js/log.js
@@ -21286,6 +21362,9 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||openai.com/_vercel/
 ||openai.com/backend/exp/
 ||openai.com/policies/cookie-policy/
+||openrouter.ai/537s/
+||openrouter.ai/api/frontend/v1/statsig/
+||openrouter.ai/ingest/
 ||opera.com/sp.js
 ||oracle.com/us/assets/metrics/ora_ocom.js
 ||oracle.com/visitorinfo/
@@ -21514,7 +21593,7 @@ apkmirror.com#%#(()=>{Math.floor=void 0;Object.defineProperties(window,{'APKMez'
 apkmody.com#%#(()=>{Object.defineProperties(window,{'isAdBot':{value:()=>{return false},writable:false},'handleDownloadLink':{value:()=>{},writable:false}});window.addEventListener('DOMContentLoaded',()=>{var e=document.getElementById('download-loading');if(e!==null){e.style.display='none'}e=document.getElementById('download-button');if(e!==null){e.style.display='block';e.href=atob(e.dataset.href)}e=document.getElementById('download-button-text');if(e!==null){e.style.display='block'}})})();
 appvn.com#%#(()=>{Math.floor=void 0;setTimeout=void 0;Object.defineProperty(window,'adcashMacros',{value:void 0,writable:false});window.addEventListener('load',()=>{var e=document.getElementById('info');if(e!==null){e.style.display='block'}})})();
 beautifier.io#%#(()=>{document.cookie='tabsize=1';document.cookie='keep-array-indentation=off';document.cookie='break-chained-methods=off';document.cookie='unescape-strings=off';document.cookie='jslint-happy=off';document.cookie='end-with-newline=off';document.cookie='wrap-line-length=0';document.cookie='indent-scripts=normal';document.cookie='additional-options={}';document.cookie='indent-inner-html=off';document.cookie='comma-first=off';document.cookie='e4x=off';document.cookie='indent-empty-lines=off';document.cookie='max-preserve-newlines=-1';document.cookie='brace-style=end-expand';document.cookie='space-before-conditional=off';document.cookie='detect-packers=off'})();
-boyfriend.tv,boyfriendtv.com#%#(()=>{Object.defineProperties(window,{'adblock':{value:void 0},'adInterval':{value:void 0},'allowurl':{value:void 0}});window._Userdata={};Object.defineProperties(window._Userdata,{'id':{value:1,writable:true},'noAds':{value:1},'isAmateur':{value:1},'isPaying':{value:1},'keyboardNavigation':{value:true}});Object.defineProperty(self,'Userdata',{configurable:false,set:function(e){this._Userdata.id=e.id},get:function(){return this._Userdata}});window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelector('.zeroTable');if(e!==null){e.remove()}});window.addEventListener('load',()=>{var e=document.querySelectorAll('li.js-pop');if(e.length!==0){e.forEach(el=>{el.classList.remove('js-pop')})}e=document.getElementById('maincolumn2');if(e!==null){e.classList.remove('has-right-ads','js-no-ads')}e=document.getElementById('rightside2');if(e!==null){e.remove()}e=document.querySelector('a.new-videoplayer-overlay');if(e!==null){e.remove()}e=document.getElementById('video');if(e!==null){if(e.style.display==='none'){e.style.display=''}}if(typeof player==='object'&&player!==null){player.options.prollAd.enabled=false;player.options.prollAd.vastURL=void 0;player.optionsDefault.prerollAd.enabled=false;player.optionsDefault.prerollAd.vastURL=void 0;localStorage.setItem('html5PlayerVolume',0);localStorage.setItem('html5PlayerVolumeMuted',true)}})})();
+boyfriend.tv,boyfriendtv.com#%#(()=>{document.cookie='rta_terms_accepted=1';Object.defineProperties(window,{adblock:{value:void 0},adInterval:{value:void 0},allowurl:{value:void 0}});window._Userdata={};Object.defineProperties(window._Userdata,{id:{value:1,writable:true},noAds:{value:1},isAmateur:{value:1},isPaying:{value:1},keyboardNavigation:{value:true}});Object.defineProperty(self,'Userdata',{configurable:false,set:function(e){this._Userdata.id=e.id},get:function(){return this._Userdata}});window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelector('.zeroTable');if(e!==null){e.remove()}});window.addEventListener('load',()=>{var e=document.querySelectorAll('li.js-pop');if(e.length!==0){e.forEach(el=>{el.classList.remove('js-pop')})}e=document.getElementById('maincolumn2');if(e!==null){e.classList.remove('has-right-ads','js-no-ads')}e=document.querySelectorAll('li.mtile-x7.js-quiet');if(e.length!==0){e.forEach(el=>{el.remove()})}e=document.getElementById('rightside2');if(e!==null){e.remove()}e=document.querySelector('a.new-videoplayer-overlay');if(e!==null){e.remove()}e=document.getElementById('video');if(e!==null&&e.style.display==='none'){e.style.display=''}if(typeof player==='object'&&player!==null){player.options.prollAd.enabled=false;player.options.prollAd.vastURL=void 0;player.optionsDefault.prerollAd.enabled=false;player.optionsDefault.prerollAd.vastURL=void 0;localStorage.setItem('html5PlayerVolume',0);localStorage.setItem('html5PlayerVolumeMuted',true)}})})();
 camelliatransgroup.com,dhcc.xyz#%#(()=>{Object.defineProperties(window,{'KiemTraAnh3Chap':{value:void 0,writable:false},'topContentBanneri9':{value:void 0,writable:false}})})();
 check-host.net#%#(()=>{Object.defineProperty(window,'ad_prepend',{value:void 0,writable:false})})();
 d0000d.com,do0od.com,dood.la,dood.pm,dood.re,dood.so,dood.to,dood.wf,dood.yt,doods.pro,dooood.com,ds2play.com,dsvplay.com#%#(()=>{Object.defineProperties(window,{'check':{value:()=>{},writable:false},'minimalUserResponseInMiliseconds':{value:void 0,writable:false},'tryCount':{value:void 0,writable:false}});window.addEventListener('DOMContentLoaded',()=>{if(typeof dsplayer==='object'&&dsplayer!==null){dsplayer.on('keydown',e=>{if(e.ctrlKey===true&&e.key==='s'&&dsplayer.cache_.src!==null){e.preventDefault();if(confirm('Download video?')===true){window.open(dsplayer.cache_.src)}}});dsplayer.volume(0);dsplayer.muted(true);localStorage.setItem('volume',0)}Object.defineProperties(window,{'disabledEvent':{value:()=>{},writable:false},'DoodPop':{value:void 0,writable:false},'googleAd':{value:null,writable:true},'hab':{value:()=>{return false},writable:false},'minimalUserResponseInMiliseconds':{value:void 0,writable:false},'PushOpen':{value:()=>{},writable:false},'sendGA':{value:()=>{},writable:false},'tryCount':{value:void 0,writable:false}})})})();
@@ -21592,8 +21671,8 @@ apkpure.com###policy-info,.chrome-install-pop,.download-vip-subscribe-wrap,.js-a
 baeldung.com##div.code-block:has(div.topAdContainer)
 baidu.com###branding_ads,#web-right-view,.ad-multi-tips,.ad-platform-tips,.cps_wrap,.j_click_stats,.video-ad-creative-card
 bilibili.com###activity_vote,#bannerAd,#live_recommand_report,#slide_ad,.ad-floor-exp,.ad-report,.pop-live-small-mode,.right-bottom-banner,.video-page-game-card-small,.video-page-special-card-small,[href*="cm.bilibili.com"],div.activity-m-v1
-bing.com###adstop_gradiant_separator,.b_spa_adblock,.ins_exp.vsp,.irptaads,.rewards_promo_acf,.vsp_ads_c,div#b_pole,div.b_ad,div.b_adcard,div.b_slidebar > div.slide:has(div.b_ad),div.b_slidebar > div.slide:has(div.b_adcard),div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_context > li.b_ans.sb_genserp_va[data-partnertag],ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"]),ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_topw.b_results_eml > li[style="display: inline-block;"]
-boyfriend.tv,boyfriendtv.com###js-ads-modal,#rightside2,.ads-wrapper,.eu-cookies,.js-right-no-ads,.vast-overlay,.video-extra-wrapper,.x-news-line,[class$="advi" i],[href*="gobanner"],[src*="paysite"],a.new-videoplayer-overlay,div.adblock:has(div.media-item.no-popup),div.container:has(div.video-listing > div.no-popup:first-child > div[data-id^="sc-"]),div.js-toggle-content-wrapper:has(div.adblock > div.main-see-more-wrapper),div.js-toggle-content-wrapper:has(div.media-item.no-popup),div.media-item.no-popup,div.no-popup:has(div[data-id^="sc-"]),div.wgt-container,div:not([class]):not([id]):has(a[class^="fh-"]),li.media-item.no-popup
+bing.com###adstop_gradiant_separator,.b_spa_adblock,.ins_exp.vsp,.irptaads,.rewards_promo_acf,.vsp_ads_c,div#b_pole,div.b_ad,div.b_adcard,div.b_slidebar > div.slide:has(div.b_ad),div.b_slidebar > div.slide:has(div.b_adcard),div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_context > li.b_ans.sb_genserp_va[data-partnertag],ol#b_context > li.b_ans[data-partnertag]:has(div.va_gc_ads),ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"]),ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_topw.b_results_eml > li[style="display: inline-block;"]
+boyfriend.tv,boyfriendtv.com###js-ads-modal,#rightside2,.ads-wrapper,.eu-cookies,.js-right-no-ads,.vast-overlay,.video-extra-wrapper,.x-news-line,[class$="advi" i],[href*="gobanner"],[src*="paysite"],a.new-videoplayer-overlay,div.adblock:has(div.media-item.no-popup),div.container:has(h3 > a[href="/live-cam-models/"]),div.content-block.js-quiet:has(iframe),div.js-toggle-content-wrapper:has(div.adblock > div.main-see-more-wrapper),div.js-toggle-content-wrapper:has(div.media-item.no-popup),div.js-toggle-content-wrapper:has(li.mtile-x7.js-quiet),div.media-item.no-popup,div.no-popup:has(div[data-id^="sc-"]),div.video-listing > div.js-quiet:has(div[data-id^="sc-"]),div.wgt-container,div:not([class]):not([id]):has(a[class^="fh-"]),li.media-item.no-popup,li.mtile-x7.js-quiet
 camelliatransgroup.com,dhcc.xyz##[id^="sticky-footer" i]
 check-host.net##div#content2 div[class$="tive"],div#content2 div[class^="mt-"]:not([id="terminal-frame"]),div.container > div.flex.w-full[id$="main"],div.ri-btive[id$="-line"],div[id$="aeza-splash"],div[id^="yourip"] > div[class^="host"],div[id^="yourip"] > div[id^="host"],footer > div.countryAll,footer > div.countryIR
 coderanch.com###txl,.forum-top-banner,.multbntab,.shngl
