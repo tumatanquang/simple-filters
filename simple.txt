@@ -5344,6 +5344,18 @@
 ||duckswillsmoochyou.com^
 ||dugout.com^
 ||embed.dugout.com^
+||duhquietly.com^
+||0.duhquietly.com^
+||1.duhquietly.com^
+||2.duhquietly.com^
+||3.duhquietly.com^
+||4.duhquietly.com^
+||5.duhquietly.com^
+||6.duhquietly.com^
+||7.duhquietly.com^
+||8.duhquietly.com^
+||9.duhquietly.com^
+||www.duhquietly.com^
 ||dukgikax.com^
 ||www.dukgikax.com^
 ||duloqtszesmu.com^
@@ -7663,6 +7675,8 @@
 ||js.intercomcdn.com^
 ||intergient.com^
 ||cdn.intergient.com^
+||v3.internetdownloadmanager.com^
+||plugin.v3.internetdownloadmanager.com^
 ||interst12.com^
 ||interstitial-07.com^
 ||intorterraon.com^
@@ -16613,6 +16627,7 @@
 ||d38190um0l9h9v.cloudfront.net^
 ||d3888oxgux3fey.cloudfront.net^
 ||d38psrni17bvxu.cloudfront.net^
+||d38v7yvxhkp1uk.cloudfront.net^
 ||d395dw5zk780j2.cloudfront.net^
 ||d39mzzwe2ijlir.cloudfront.net^
 ||d3a3ewgd1iewwz.cloudfront.net^
@@ -21651,6 +21666,7 @@ boyfriend.tv,boyfriendtv.com#%#//scriptlet('prevent-addEventListener', 'DOMConte
 boyfriend.tv,boyfriendtv.com#%#//scriptlet('set-constant', 'AdsCookie', 'noopFunc')
 camelliatransgroup.com,dhcc.xyz,javadecompilers.com,listvpn.net,quaanhdaocuteo.com#%#//scriptlet('prevent-bab')
 decompiler.com#%#//scriptlet('set-constant', 'kdf', 'true')
+fandom.com#%#//scriptlet('set-constant', 'fandomAdsSlotsConfig ', 'emptyObj')
 fullboys.com,rimsgay.com#%#//scriptlet('prevent-element-src-loading', 'script' ,'adsbygoogle')
 fullboys.com,rimsgay.com#%#//scriptlet('set-constant', 'countdownhomeebook5', 'noopFunc')
 fullboys.com,rimsgay.com#%#//scriptlet('set-constant', 'numberhomeebook5', '0')
