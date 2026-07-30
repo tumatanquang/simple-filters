@@ -2751,6 +2751,7 @@
 0.0.0.0 lab.amplitude.com
 0.0.0.0 api.lab.amplitude.com
 0.0.0.0 flag.lab.amplitude.com
+0.0.0.0 sr-client-cfg.amplitude.com
 0.0.0.0 ampqpyvhof.com
 0.0.0.0 amqfjkhzn.com
 0.0.0.0 amuckafternoon.com
@@ -7290,6 +7291,8 @@
 0.0.0.0 hostedprebid.com
 0.0.0.0 1086.hostedprebid.com
 0.0.0.0 frontend-event-api.hostinger.com
+0.0.0.0 hostingerapp.com
+0.0.0.0 frontend-event-api.hostingerapp.com
 0.0.0.0 hotboysnearby.com
 0.0.0.0 addxl.hotboysnearby.com
 0.0.0.0 hotcoin.com
@@ -15277,6 +15280,8 @@
 0.0.0.0 www.bicavhmr.in
 0.0.0.0 can-get-some.in
 0.0.0.0 eu.can-get-some.in
+0.0.0.0 cunppiapja.in
+0.0.0.0 www.cunppiapja.in
 0.0.0.0 dagrtenihca.in
 0.0.0.0 www.dagrtenihca.in
 0.0.0.0 fabet.in

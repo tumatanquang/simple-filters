@@ -2750,6 +2750,7 @@
 ||lab.amplitude.com^
 ||api.lab.amplitude.com^
 ||flag.lab.amplitude.com^
+||sr-client-cfg.amplitude.com^
 ||ampqpyvhof.com^
 ||amqfjkhzn.com^
 ||amuckafternoon.com^
@@ -7289,6 +7290,8 @@
 ||hostedprebid.com^
 ||1086.hostedprebid.com^
 ||frontend-event-api.hostinger.com^
+||hostingerapp.com^
+||frontend-event-api.hostingerapp.com^
 ||hotboysnearby.com^
 ||addxl.hotboysnearby.com^
 ||hotcoin.com^
@@ -15276,6 +15279,8 @@
 ||www.bicavhmr.in^
 ||can-get-some.in^
 ||eu.can-get-some.in^
+||cunppiapja.in^
+||www.cunppiapja.in^
 ||dagrtenihca.in^
 ||www.dagrtenihca.in^
 ||fabet.in^
@@ -21649,6 +21654,11 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||hentaivnx.*/js/modscript.js
 ||hentaivnx.*/js/random-click-opener.js
 ||hentaivnx.*/js/sps.js
+||hostinger.com/*/gtag*.js
+||hostinger.com/api-proxy/api/sentry/tunnel
+||hostinger.com/cake/
+||hostinger.com/cdn-cgi/speculation
+||hostinger.com/metrics/g/collect
 ||huggingface.co/api/event
 ||i.imgur.com/*.gif$domain=yaoimangaonline.com,third-party
 ||id.google.*/verify/
@@ -21746,6 +21756,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||redditstatic.com/ads/pixel.js
 ||redditstatic.com/shreddit/assets/pix/ads/1.png
 ||redditstatic.com/shreddit/sentry-*.js
+||s.pinimg.com/ct/
 ||s.yimg.*/images/listing/tool/cv/ytag.js
 ||s.yimg.com/aaq/
 ||s.yimg.com/av/ads/
