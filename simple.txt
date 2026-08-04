@@ -290,6 +290,18 @@
 ||cipledecline.buzz^
 ||fb68vn.buzz^
 ||lust-goddess.buzz^
+||r7vpn1.buzz^
+||file780484.r7vpn1.buzz^
+||file846477.r7vpn1.buzz^
+||file856965.r7vpn1.buzz^
+||generate511558.r7vpn1.buzz^
+||generateb975ab.r7vpn1.buzz^
+||generatedb4899.r7vpn1.buzz^
+||link257238.r7vpn1.buzz^
+||link612693.r7vpn1.buzz^
+||share511558.r7vpn1.buzz^
+||shareb975ab.r7vpn1.buzz^
+||sharedb4899.r7vpn1.buzz^
 ||re-captha-version-3-275.buzz^
 ||zap.buzz^
 ||beacon.by^
@@ -1048,6 +1060,10 @@
 ||192169459.com^
 ||54df5dcc5deb95c0c5442b0a.192169459.com^
 ||8be2fc1bffc8aae32b12b8.192169459.com^
+||192169465.com^
+||0acf00855a9877013a.192169465.com^
+||26041e12ea84fd6f6fa5f4.192169465.com^
+||f2bdb72b088e93ea9992d767d4b40c05.192169465.com^
 ||193bde9ab1.com^
 ||25470c9fb7.193bde9ab1.com^
 ||199a4ae627.com^
@@ -7289,7 +7305,9 @@
 ||hornsbundlebetter.com^
 ||hostedprebid.com^
 ||1086.hostedprebid.com^
+||experiment-api.hostinger.com^
 ||frontend-event-api.hostinger.com^
+||rvlclick.hostinger.com^
 ||hostingerapp.com^
 ||frontend-event-api.hostingerapp.com^
 ||hotboysnearby.com^
@@ -14814,6 +14832,9 @@
 ||mw.theoriaemodins.cyou^
 ||verif323cloud2.cyou^
 ||media.verif323cloud2.cyou^
+||vid4me.cyou^
+||cdn.vid4me.cyou^
+||media.vid4me.cyou^
 ||xtraffic.cyou^
 ||www.xtraffic.cyou^
 ||xxx188.cyou^
@@ -14941,6 +14962,8 @@
 ||storage.tigris.dev^
 ||fly.storage.tigris.dev^
 ||right-pages.fly.storage.tigris.dev^
+||ui-wp.dev^
+||css.ui-wp.dev^
 ||westats.dev^
 ||admetricspro.workers.dev^
 ||pioeg.admetricspro.workers.dev^
@@ -14985,6 +15008,9 @@
 ||no1mov.diy^
 ||cdn1.no1mov.diy^
 ||video1.no1mov.diy^
+||oneclips.diy^
+||cdn3.oneclips.diy^
+||video3.oneclips.diy^
 ||ad.tiny.do^
 ||ingress.linktr.ee^
 ||automocionati.es^
@@ -15844,6 +15870,7 @@
 ||o17766.ingest.sentry.io^
 ||o18766.ingest.sentry.io^
 ||o19233.ingest.sentry.io^
+||o215831.ingest.sentry.io^
 ||o22381.ingest.sentry.io^
 ||o245575.ingest.sentry.io^
 ||o343074.ingest.sentry.io^
@@ -15865,6 +15892,7 @@
 ||us.sentry.io^
 ||ingest.us.sentry.io^
 ||2cb2a7b32f5c43f4e020eb1ef6dfc066@o4509963614355457.ingest.us.sentry.io^
+||o30969.ingest.us.sentry.io^
 ||o4504890550255616.ingest.us.sentry.io^
 ||o4505071687041024.ingest.us.sentry.io^
 ||o4507594317103104.ingest.us.sentry.io^
@@ -18606,6 +18634,8 @@
 ||frazergraces.rest^
 ||indoneviler.rest^
 ||cs.muonicpapegay.rest^
+||twimgx.rest^
+||media9.twimgx.rest^
 ||altex.ro^
 ||afftrk.altex.ro^
 ||blackfridaysales.ro^
@@ -21656,6 +21686,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||hentaivnx.*/js/sps.js
 ||hostinger.com/*/gtag*.js
 ||hostinger.com/api-proxy/api/sentry/tunnel
+||hostinger.com/api/ingestion-api/
 ||hostinger.com/cake/
 ||hostinger.com/cdn-cgi/speculation
 ||hostinger.com/metrics/g/collect
@@ -22030,7 +22061,7 @@ bilibili.com###activity_vote,#bannerAd,#live_recommand_report,#slide_ad,.ad-floo
 bing.com###adstop_gradiant_separator,.b_spa_adblock,.ins_exp.vsp,.irptaads,.rewards_promo_acf,.vsp_ads_c,div#b_pole,div.b_ad,div.b_adcard,div.b_slidebar > div.slide:has(div.b_ad),div.b_slidebar > div.slide:has(div.b_adcard),div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_context > li.b_ans.sb_genserp_va[data-partnertag],ol#b_context > li.b_ans[data-partnertag]:has(div.va_gc_ads),ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"]),ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_topw.b_results_eml > li[style="display: inline-block;"]
 boyfriend.tv,boyfriendtv.com###js-ads-modal,#rightside2,.ads-wrapper,.eu-cookies,.js-right-no-ads,.vast-overlay,.video-extra-wrapper,.x-news-line,[class$="advi" i],[href*="gobanner"],[src*="paysite"],a.new-videoplayer-overlay,div.adblock:has(div.media-item.no-popup),div.container:has(h3 > a[href="/live-cam-models/"]),div.content-block.js-quiet:has(iframe),div.js-toggle-content-wrapper:has(div.adblock > div.main-see-more-wrapper),div.js-toggle-content-wrapper:has(div.media-item.no-popup),div.js-toggle-content-wrapper:has(li.mtile-x7.js-quiet),div.js-toggle-content-wrapper[style=""]:has(a[href="/live-cam-models/"]),div.media-item.no-popup,div.no-popup:has(div[data-id^="sc-"]),div.video-listing > div.box-listing:has(div.js-quiet),div.video-listing > div.js-quiet:has(div[data-id^="sc-"]),div.wgt-container,div:not([class]):not([id]):has(> div[style] > span[title="FapHouse" i]),div:not([class]):not([id]):has(a[class^="fh-"]),li.media-item.no-popup,li.mtile-x7.js-quiet
 camelliatransgroup.com,dhcc.xyz##[id^="sticky-footer" i]
-check-host.net##div#content2 div[class$="tive"],div#content2 div[class^="mt-"]:not([id="terminal-frame"]),div.container > div.flex.w-full[id$="main"],div.ri-btive[id$="-line"],div[id$="aeza-splash"],div[id^="yourip"] > div[class^="host"],div[id^="yourip"] > div[id^="host"],footer > div.countryAll,footer > div.countryIR
+check-host.net##div#content2 div[class$="tive"],div#content2 div[class^="mt-"]:not([id="terminal-frame"]),div.container > div.flex.w-full[id$="main"],div.ri-btive:has(a.aforce),div.ri-btive[id$="-line"],div[id$="aeza-splash"],div[id^="yourip"] > div[class^="host"],div[id^="yourip"] > div[id^="host"],footer > div.countryAll,footer > div.countryIR
 coderanch.com###txl,.forum-top-banner,.multbntab,.shngl
 dev.to##div[data-async-url]
 dnschecker.org##div#all_tools_below_more_tools,div#cookie-box,div[data-freestar-ad]
