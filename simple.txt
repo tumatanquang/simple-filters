@@ -2561,6 +2561,8 @@
 ||akxnizcz.com^
 ||www.akxnizcz.com^
 ||al5sm.com^
+||alaphoid.com^
+||www.alaphoid.com^
 ||alas4kanmfa6a4mubte.com^
 ||alasvow.com^
 ||albacross.com^
@@ -3846,6 +3848,8 @@
 ||brattyogor.com^
 ||brave888.com^
 ||record.brave888.com^
+||braveryriftraining.com^
+||www.braveryriftraining.com^
 ||braze.com^
 ||dashboard-02.braze.com^
 ||dashboard-03.braze.com^
@@ -4834,6 +4838,8 @@
 ||cultergoy.com^
 ||cultivatedcauldron.com^
 ||culxawxafsw.com^
+||cumbersomeassistance.com^
+||www.cumbersomeassistance.com^
 ||cunmryquz.com^
 ||www.cunmryquz.com^
 ||cunzietapery.com^
@@ -5601,6 +5607,9 @@
 ||pl16512805.effectivecpmgate.com^
 ||pl16576529.effectivecpmgate.com^
 ||pl16590018.effectivecpmgate.com^
+||effectivecpmnetwork.com^
+||pl30655595.effectivecpmnetwork.com^
+||www.effectivecpmnetwork.com^
 ||effectivecreativeformat.com^
 ||www.effectivecreativeformat.com^
 ||effectivedisplaycontent.com^
@@ -6162,6 +6171,8 @@
 ||fo88.com^
 ||foamidsputt.com^
 ||fobogruca.com^
+||focusameneducation.com^
+||www.focusameneducation.com^
 ||foerpo.com^
 ||eu.foerpo.com^
 ||click.eu.foerpo.com^
@@ -6196,6 +6207,8 @@
 ||ak.formismagiustor.com^
 ||formulearchin.com^
 ||fe.formulearchin.com^
+||forsungxylols.com^
+||fa.forsungxylols.com^
 ||forter.com^
 ||cdn.forter.com^
 ||f34f062a778f41409c32fc5f7457af08-f71dec87d3ed.cdn.forter.com^
@@ -9103,6 +9116,7 @@
 ||mkcurches.com^
 ||mkeqmafk.com^
 ||www.mkeqmafk.com^
+||mks98.com^
 ||107-coj-713.mktoresp.com^
 ||mkyattmdqt.com^
 ||www.mkyattmdqt.com^
@@ -9631,6 +9645,8 @@
 ||www.nqtnwvwigvo.com^
 ||nrahbqtlt.com^
 ||www.nrahbqtlt.com^
+||nresystems.com^
+||static.nresystems.com^
 ||nrotuzagll.com^
 ||www.nrotuzagll.com^
 ||nrovmibm.com^
@@ -10496,6 +10512,7 @@
 ||phloxsub73ulata.com^
 ||phoolreekrowobs.com^
 ||phooltutoopoo.com^
+||phoroglopsu.com^
 ||phortaub.com^
 ||phoudson.com^
 ||phuapkol.com^
@@ -10591,6 +10608,8 @@
 ||plumbummoca.com^
 ||plungescreeve.com^
 ||nr.plungescreeve.com^
+||pluteiedgar.com^
+||mj.pluteiedgar.com^
 ||pmahcualf.com^
 ||www.pmahcualf.com^
 ||pmc.com^
@@ -10802,6 +10821,18 @@
 ||if.psmimg.com^
 ||psoadraphife.com^
 ||psoptopi.com^
+||pssthumidity.com^
+||stg.pssthumidity.com^
+||0.stg.pssthumidity.com^
+||1.stg.pssthumidity.com^
+||2.stg.pssthumidity.com^
+||3.stg.pssthumidity.com^
+||4.stg.pssthumidity.com^
+||5.stg.pssthumidity.com^
+||6.stg.pssthumidity.com^
+||7.stg.pssthumidity.com^
+||8.stg.pssthumidity.com^
+||9.stg.pssthumidity.com^
 ||psucnqdrke.com^
 ||www.psucnqdrke.com^
 ||psuptyweze.com^
@@ -11290,6 +11321,9 @@
 ||matrix.redditspace.com^
 ||redfast.com^
 ||conduit.redfast.com^
+||redgarto.com^
+||cdn.redgarto.com^
+||www.redgarto.com^
 ||metrics.redgifs.com^
 ||pixel.redgifs.com^
 ||redirdom.com^
@@ -13181,6 +13215,7 @@
 ||www.txzvtgkthjq.com^
 ||tybngmrgo.com^
 ||tylosischewer.com^
+||tylulewe.com^
 ||tynt.com^
 ||cdn.tynt.com^
 ||de.tynt.com^
@@ -14181,6 +14216,8 @@
 ||europe.wrldinf.com^
 ||wroopkbu.com^
 ||www.wroopkbu.com^
+||wsimg.com^
+||img1.wsimg.com^
 ||wsjlbbqemr23.com^
 ||wsod.com^
 ||ad.wsod.com^
@@ -14830,6 +14867,8 @@
 ||solddewrot.cyou^
 ||theoriaemodins.cyou^
 ||mw.theoriaemodins.cyou^
+||tubemananattosostmen.cyou^
+||quintet.tubemananattosostmen.cyou^
 ||verif323cloud2.cyou^
 ||media.verif323cloud2.cyou^
 ||vid4me.cyou^
@@ -15005,6 +15044,9 @@
 ||fem.prod.postmedia.digital^
 ||pwerpshtraff.digital^
 ||scuddydecrial.digital^
+||video4.fun4clips.diy^
+||hitclips.diy^
+||cdn4.hitclips.diy^
 ||no1mov.diy^
 ||cdn1.no1mov.diy^
 ||video1.no1mov.diy^
@@ -15666,6 +15708,7 @@
 ||aws.found.io^
 ||us-west-2.aws.found.io^
 ||apm.us-west-2.aws.found.io^
+||cca039482a104d5d9b04bd2e20f6bb64.apm.us-west-2.aws.found.io^
 ||e602a0de7e604ec0a43ac13c9dbb35e8.apm.us-west-2.aws.found.io^
 ||fpapi.io^
 ||stun.fpapi.io^
@@ -16147,6 +16190,7 @@
 ||yourdesire.life^
 ||retrono2.lifestyle^
 ||media.retrono2.lifestyle^
+||media6.retrono2.lifestyle^
 ||acam.link^
 ||t.acam.link^
 ||app.link^
@@ -18590,6 +18634,7 @@
 ||laissebilked.qpon^
 ||locnrivalry.qpon^
 ||lutenew.qpon^
+||margedsurfle.qpon^
 ||mehallatompon.qpon^
 ||meltonosse.qpon^
 ||oerstedcalumba.qpon^
@@ -18807,6 +18852,8 @@
 ||blkrectums.shop^
 ||reheats.blkrectums.shop^
 ||bowlingjumbie.shop^
+||bromesrovers.shop^
+||walach.bromesrovers.shop^
 ||bumpkinclon.shop^
 ||bushetedemas.shop^
 ||carbarnbonang.shop^
@@ -18918,6 +18965,7 @@
 ||twiiemg.shop^
 ||www.twiiemg.shop^
 ||ulvantamal.shop^
+||vitaflora.shop^
 ||vuabet88.shop^
 ||windsuredine.shop^
 ||kx.windsuredine.shop^
@@ -19085,6 +19133,8 @@
 ||trongtu.store^
 ||viadata.store^
 ||worshippers.store^
+||lessbutbetter.studio^
+||u.lessbutbetter.studio^
 ||bbwsex.su^
 ||freesex.su^
 ||hindiporn.su^
@@ -21498,6 +21548,8 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||101domain.com/js/widgets/cookie-policy-check*.js
 ||10minutemail.com/ub/
 ||a-cdn.anthropic.com/v1/projects/*/settings
+||abs.twimg.com/x-web/x-web/assets/install-sentry-tracing-*.js
+||abs.twimg.com/x-web/x-web/assets/tap-hand-*.js
 ||account.live.com/API/ReportClientEvent
 ||accounts.google.com/_/IdpIFrameHttp/cspreport/fine-allowlist
 ||accounts.google.com/gsi/log
@@ -21523,6 +21575,9 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||arena.ai/ingest/
 ||arms-retcode.aliyuncs.com/r.png
 ||assets.alicdn.com/g/??/sd/baxia/
+||assets.genius.com/javascripts/compiled/DfpAd-*.js
+||assets.genius.com/javascripts/compiled/reactAds-*.js
+||assets.genius.com/javascripts/compiled/SidebarAd-*.js
 ||audiomack.com/v1/analytics/
 ||b.cdnst.net/javascript/
 ||beautifier.io/web/google-analytics.js
@@ -21552,6 +21607,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||cdn.jsdelivr.net/*ad-shield/
 ||cdn.jsdelivr.net/gh/jimaek/
 ||cdn.jsdelivr.net/npm/livcounter/counter.js
+||cdn.jsdelivr.net/npm/search-insights
 ||cdn.jsdelivr.net/npm/yandex-metrica-watch/
 ||cdn.needrom.com/colorbox/*jquery.colorbox*.js
 ||cdn.needrom.com/wind14.js
@@ -21628,6 +21684,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||facebook.com/widgets/$third-party
 ||facebook.com^$removeparam=extid
 ||facebook.com^$removeparam=mibextid
+||fandom.com/*/resources-ucp/*/dist/scripts/
 ||fcmatch.google.com/pixel
 ||fcmatch.youtube.com/pixel
 ||foxit.com/g*w9/
@@ -21642,6 +21699,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||gaymaletube.com/js/analytics
 ||gemini.google.com/_/BardChatUi/cspreport/fine-allowlist
 ||gemini.google.com/_/BardChatUi/jserror
+||genius.com/guiver
 ||genspark.ai/api/payment/add_tracking_event
 ||geo.dailymotion.com/cookie.js
 ||githack.com/ad-shield/
@@ -21799,6 +21857,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||scribd.com/doc-page/afa
 ||scribd.com/documents/*/pingback
 ||script.wikia.nocookie.net/fandom-ae-assets/identity-service/*/static-consents.js
+||script.wikia.nocookie.net/fandom-ae-assets/odyssey/*/production/main.js
 ||script.wikia.nocookie.net/fandom-ae-assets/platforms/*/ucp-desktop/main.bundle.js
 ||script.wikia.nocookie.net/fandom-ae-assets/tracking-opt-in/*/tracking-opt-in*.js
 ||services.fandom.com/experiments/
@@ -21925,7 +21984,7 @@ boyfriend.tv,boyfriendtv.com#%#//scriptlet('prevent-addEventListener', 'DOMConte
 boyfriend.tv,boyfriendtv.com#%#//scriptlet('set-constant', 'AdsCookie', 'noopFunc')
 camelliatransgroup.com,dhcc.xyz,javadecompilers.com,listvpn.net,quaanhdaocuteo.com#%#//scriptlet('prevent-bab')
 decompiler.com#%#//scriptlet('set-constant', 'kdf', 'true')
-fandom.com#%#//scriptlet('set-constant', 'fandomAdsSlotsConfig ', 'emptyObj')
+fandom.com#%#//scriptlet('remove-attr', 'onload|onerror', 'script[data-cfasync="false"][src="html-load.com"]')
 fullboys.com,rimsgay.com#%#//scriptlet('prevent-element-src-loading', 'script' ,'adsbygoogle')
 fullboys.com,rimsgay.com#%#//scriptlet('set-constant', 'countdownhomeebook5', 'noopFunc')
 fullboys.com,rimsgay.com#%#//scriptlet('set-constant', 'numberhomeebook5', '0')
@@ -21987,8 +22046,9 @@ d0000d.com,do0od.com,dood.la,dood.pm,dood.re,dood.so,dood.to,dood.wf,dood.yt,doo
 dailyuploads.net#%#(()=>{Object.defineProperties(window,{'adEnable':{value:true,writable:false},'artvideovr':{value:void 0,writable:false},'_gaq':{value:void 0,writable:false}});window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelector('.banner');if(e!==null){e.className='0'}if(typeof $==='function'&&typeof $.isFunction==='function'){$('#downloadbtn').off('click')}})})();
 dailyuploads.net,datavaults.co,filespayouts.com,up-load.io,uploadrar.com,zmamobile.com#%#(()=>{window.addEventListener('load',()=>{var e=document.getElementById('downloadbtn');if(e!==null){e.disabled=false}e=document.getElementById('gdpr-cookie-notice');if(e!==null){e.remove()}e=document.getElementById('adblock_detected');if(e!==null){e.value=0}})})();
 datavaults.co#%#Object.defineProperty(window,'clicked',{value:2,writable:false});(()=>{window.addEventListener('DOMContentLoaded',()=>{var e=document.getElementById('dummy');if(e!==null){e.style.display='none'}e=document.getElementById('original');if(e!==null){e.style.display='block'}})})();
-dictionary.cambridge.org#%#(()=>{var isBadScript=e=>{try{if(e.tagName!=='SCRIPT'){return false}if((e.src||'').includes('html-load.com/loader.min.js')===true||e.hasAttribute('nowprocket')===true||(e.textContent||'').indexOf('function t(o,e){var r=n()')>=0){return true}}catch(t){}return false};document.querySelectorAll('script').forEach(t=>{if(isBadScript(t)===true){t.parentNode.removeChild(t)}});new MutationObserver(mutations=>{mutations.forEach(t=>{t.addedNodes.forEach(t=>{if(t.nodeType===Node.ELEMENT_NODE&&t.tagName==='SCRIPT'&&isBadScript(t)===true){t.parentNode.removeChild(t)}})})}).observe(document.documentElement,{childList:true,subtree:true});var _=window.fetch;window.fetch=function(e,r){try{var n=typeof e==='string'?e:e.url;if(n!==null&&n.includes('error-report.com')===true){return Promise.reject(Error('Blocked by client script'))}}catch(o){}return _.apply(this,arguments)}})();
+dictionary.cambridge.org,fandom.com#%#(()=>{var isBadScript=e=>{try{if(e.tagName!=='SCRIPT'){return false}if((e.src||'').includes('html-load.com/loader.min.js')===true||e.hasAttribute('nowprocket')===true||(e.textContent||'').indexOf('function t(o,e){var r=n()')>=0){return true}}catch(t){}return false};document.querySelectorAll('script').forEach(t=>{if(isBadScript(t)===true){t.parentNode.removeChild(t)}});new MutationObserver(mutations=>{mutations.forEach(t=>{t.addedNodes.forEach(t=>{if(t.nodeType===Node.ELEMENT_NODE&&t.tagName==='SCRIPT'&&isBadScript(t)===true){t.parentNode.removeChild(t)}})})}).observe(document.documentElement,{childList:true,subtree:true});var _=window.fetch;window.fetch=function(e,r){try{var n=typeof e==='string'?e:e.url;if(n!==null&&n.includes('error-report.com')===true){return Promise.reject(Error('Blocked by client script'))}}catch(o){}return _.apply(this,arguments)}})();
 diffchecker.com#%#(()=>{localStorage.setItem('theme','dark');var d=new Date;d='-'+d.getMonth()+'-'+d.getFullYear();localStorage.setItem('closedDiffDesktopBanner',true);localStorage.setItem('alreadySawHomepageModal',true);localStorage.setItem('explainUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('mergeUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('textDiffLevelUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('textStatsUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('ignoreStringsUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('unifiedUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('collapsedUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('realTimeUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('syntaxHighlightUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('exportXlsxUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('exportPdfUses'+d,Number.MIN_SAFE_INTEGER);window.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('form > .hide-print').forEach(e=>{e.style.visibility='hidden';e.style.display='none'});new MutationObserver(mutations=>{mutations.forEach(mutation=>{mutation.addedNodes.forEach(node=>{if(node.nodeType===Node.ELEMENT_NODE){if(typeof node.matches==='function'&&node.matches('form > .hide-print')===true){node.style.visibility='hidden';node.style.display='none'}node.querySelectorAll('form > .hide-print').forEach(e=>{e.style.visibility='hidden';e.style.display='none'})}})})}).observe(document.documentElement,{childList:true,subtree:true})})})();
+fandom.com#%#(()=>{Object.defineProperties(window,{fandomAdsSlotsConfig:{value:{},writable:false},_plc:{value:{},writable:false},ads:{value:{},writable:false},FANDOM_ODYSSEY:{value:false,writable:false},ALGOLIA_INSIGHTS_SRC:{value:'',writable:false},__as_ready_resolve:{value:void 0,writable:false}})})();
 filespayouts.com#%#(()=>{Object.defineProperty(window,'userAgent',{value:'mobi',writable:false})})();
 frdl.hk,frdl.io,frdl.my,frdl.pw,frdl.to,fredl.ru,freedl.ink#%#(()=>{window.addEventListener('DOMContentLoaded',(()=>{var e=document.getElementById('download_free');if(e!==null){e.value=1}e=document.getElementById('free-captcha');if(e!==null){e.style.display='block'}e=document.querySelector('img.img-fluid');if(e!==null){e.remove()}}))})();
 fullboys.com,rimsgay.com#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{var n=selector=>{var o=document.querySelector(selector);if(o!==null){var e=$._data(o,'events');return e!==undefined&&e!==null&&e.click!==undefined&&e.click!==null}return false};var o=setInterval(()=>{if(typeof $==='function'&&typeof $.isFunction==='function'){if(n('#loadMore')===true||n('#btnDownload')===true){$('#loadMore').off('click');$('#btnDownload').off('click')}if(n('#loadMore')===false&&n('#btnDownload')===false){clearInterval(o);$('#btnDownload').click(()=>{open($('#btnDownload').data('link'))})}}},1e3);var oldDlBtn=document.getElementById('btnDownload'),newDlBtn=oldDlBtn.cloneNode(true);oldDlBtn.parentNode.replaceChild(newDlBtn,oldDlBtn);newDlBtn.addEventListener('click',()=>{var link=newDlBtn.dataset.link,name=newDlBtn.dataset.name;open(link,name)})})})();
