@@ -426,6 +426,7 @@
 ||6meeripw061124z.cfd^
 ||90003cfd.cfd^
 ||abovebaklawa.cfd^
+||apocopepotgun.cfd^
 ||arguesdevex.cfd^
 ||asdfdr.cfd^
 ||b6cb78mf.cfd^
@@ -3024,6 +3025,8 @@
 ||argrowlitheor.com^
 ||ak.argrowlitheor.com^
 ||arguerepetition.com^
+||arhatsfenman.com^
+||tw.arhatsfenman.com^
 ||arhribadjqp.com^
 ||arhxroxasgib.com^
 ||arleavannya.com^
@@ -3047,6 +3050,8 @@
 ||asbfala.com^
 ||asccdn.com^
 ||ascentmatrimonypistol.com^
+||asdfix.com^
+||cdn.asdfix.com^
 ||asewlfjqwlflkew.com^
 ||asfohjolrojj.com^
 ||www.asfohjolrojj.com^
@@ -5634,6 +5639,7 @@
 ||ejaculationnation.com^
 ||ekeritecosec.com^
 ||nd.ekeritecosec.com^
+||ekkoyas.com^
 ||elasticpossible.com^
 ||eldrurjtsbl.com^
 ||www.eldrurjtsbl.com^
@@ -6140,6 +6146,8 @@
 ||engine.flixtrial.com^
 ||floitcarites.com^
 ||floodprincipal.com^
+||floralincreasinglysuperserver.com^
+||www.floralincreasinglysuperserver.com^
 ||floweryfact.com^
 ||fluffredelay.com^
 ||fluffynyasquirell.com^
@@ -7147,6 +7155,9 @@
 ||www.helpwire.com^
 ||hem41xm47.com^
 ||hentaitracking.com^
+||hentok.com^
+||cdn3.hentok.com^
+||www.hentok.com^
 ||heplhvadpmkq.com^
 ||www.heplhvadpmkq.com^
 ||heratheacle.com^
@@ -7570,6 +7581,8 @@
 ||ietyofedinj89yewtburgh.com^
 ||ievjylvqfjry.com^
 ||www.ievjylvqfjry.com^
+||iexyxnegvztmaf.com^
+||www.iexyxnegvztmaf.com^
 ||iezxmddndn.com^
 ||ifajchpeyibtm.com^
 ||ifdilptsw.com^
@@ -8799,6 +8812,8 @@
 ||maltunfaithfulpredominant.com^
 ||mambcaopskfy.com^
 ||mamcijmusos.com^
+||mamshirt.com^
+||www.mamshirt.com^
 ||mamydirect.com^
 ||js.mamydirect.com^
 ||events.mangarockhd.com^
@@ -10804,6 +10819,8 @@
 ||prowlenthusiasticcongest.com^
 ||proworldtrade.com^
 ||proxyhell.com^
+||prplad.com^
+||cdn.prplad.com^
 ||prplads.com^
 ||cdn.prplads.com^
 ||prprocess.com^
@@ -11191,6 +11208,8 @@
 ||www.qzaaknonzw.com^
 ||qzfegwpwdugb.com^
 ||www.qzfegwpwdugb.com^
+||qzhwkhkpnpjxq.com^
+||www.qzhwkhkpnpjxq.com^
 ||qzybazja.com^
 ||www.qzybazja.com^
 ||qzyztuwulo.com^
@@ -15047,6 +15066,9 @@
 ||video4.fun4clips.diy^
 ||hitclips.diy^
 ||cdn4.hitclips.diy^
+||mov4clips.diy^
+||go5.mov4clips.diy^
+||media5.mov4clips.diy^
 ||no1mov.diy^
 ||cdn1.no1mov.diy^
 ||video1.no1mov.diy^
@@ -15373,6 +15395,8 @@
 ||lucky88.in^
 ||m.mastisms.in^
 ||mazakmasti.in^
+||misovxorsrti.in^
+||www.misovxorsrti.in^
 ||adjust.net.in^
 ||app.adjust.net.in^
 ||ntykiftp.in^
@@ -18243,6 +18267,8 @@
 ||seeip.org^
 ||ipv4.seeip.org^
 ||ipv6.seeip.org^
+||seminarycentral.org^
+||www.seminarycentral.org^
 ||serbiancathedral.org^
 ||setitoefanyor.org^
 ||sionscormation.org^
@@ -18860,6 +18886,8 @@
 ||cartfly.shop^
 ||chagalcuticle.shop^
 ||rs.chagalcuticle.shop^
+||cocobilcock.shop^
+||fc.cocobilcock.shop^
 ||colleeniambi.shop^
 ||eh.colleeniambi.shop^
 ||coniferyourt.shop^
@@ -20527,6 +20555,8 @@
 ||ndenthaitin.work^
 ||otongocha.work^
 ||owecouldl.work^
+||princesscecilia-wifbrie.work^
+||www.princesscecilia-wifbrie.work^
 ||princessphoebe-bwypsix.work^
 ||1.princessphoebe-bwypsix.work^
 ||reacheffecti.work^
@@ -21866,7 +21896,13 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||shopee.*/api/v4/abtest/traffic/get_web_experiments
 ||shopee.vn/__t__
 ||shopee.vn^$removeparam=/(?:affiliate_id|fu_tracking_id|gads_t_sig|uls_trackid)=/
+||stackoverflow.com/Content/Js/google-analytics*.js
+||stackoverflow.com/Content/Js/islands/one-tap*.js
+||stackoverflow.com/Content/Js/sidebar/stackoverflow-for-agents-sidebar-promo*.js
+||stackoverflow.com/Content/Js/sprinkles/cookie-consent*.js
+||stackoverflow.com/Content/Js/stub*.js
 ||stackoverflow.com/px.js
+||stackoverflow.com/stackheartbeat/heartbeat
 ||static-web.grammarly.com/web-heartbeat/
 ||static.wikia.nocookie.net/silversurfer/prod/latest/marketingNotificationsUnit-pathfinder.js
 ||static.wikia.nocookie.net/silversurfer/prod/latest/sdk.js
