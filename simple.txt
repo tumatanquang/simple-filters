@@ -23,6 +23,7 @@
 ||stats.finechat.ai^
 ||fiza.ai^
 ||app.fiza.ai^
+||t.genspark.ai^
 ||hybrid.ai^
 ||dm.hybrid.ai^
 ||intent.ai^
@@ -2141,6 +2142,17 @@
 ||v1.addthisedge.com^
 ||addtoany.com^
 ||static.addtoany.com^
+||adelion.com^
+||us-east-srv1.adelion.com^
+||us-east-srv2.adelion.com^
+||us-east-srv3.adelion.com^
+||us-east-srv4.adelion.com^
+||us-east-srv5.adelion.com^
+||us-east-srv6.adelion.com^
+||us-east-srv7.adelion.com^
+||us-east-srv8.adelion.com^
+||us-east-srv9.adelion.com^
+||www.adelion.com^
 ||adenforce.com^
 ||log.adenforce.com^
 ||adex.com^
@@ -3052,6 +3064,7 @@
 ||ascentmatrimonypistol.com^
 ||asdfix.com^
 ||cdn.asdfix.com^
+||p.asdfix.com^
 ||asewlfjqwlflkew.com^
 ||asfohjolrojj.com^
 ||www.asfohjolrojj.com^
@@ -4026,6 +4039,8 @@
 ||bygliscortor.com^
 ||bymyth.com^
 ||byrledmtscmd.com^
+||byspotify.com^
+||pixel.byspotify.com^
 ||byte-test.com^
 ||perfops.byte-test.com^
 ||perfops2.byte-test.com^
@@ -4155,6 +4170,8 @@
 ||caqzirxawnr.com^
 ||carbonads.com^
 ||cdn.carbonads.com^
+||cardiaccrystaleternity.com^
+||www.cardiaccrystaleternity.com^
 ||cardiganpalmreconcile.com^
 ||cardiwersg.com^
 ||cardloomed.com^
@@ -4828,6 +4845,9 @@
 ||mydisplay.ctfile.com^
 ||ctljdfkdz.com^
 ||www.ctljdfkdz.com^
+||ctrtraffic.com^
+||www.ctrtraffic.com^
+||xml.ctrtraffic.com^
 ||ctsma.com^
 ||ctubhxbaew.com^
 ||ctxoxmia.com^
@@ -6100,6 +6120,7 @@
 ||firebaseio.com^
 ||dbest-rating-default-rtdb.firebaseio.com^
 ||dubox-analysis.firebaseio.com^
+||embedso-default-rtdb.firebaseio.com^
 ||posts-views-1.firebaseio.com^
 ||video-95566-default-rtdb.firebaseio.com^
 ||firstosama.com^
@@ -8456,6 +8477,9 @@
 ||lanky-bar.com^
 ||lapblra5do4j7rfit7e.com^
 ||lapre28rmcat2.com^
+||larapush.com^
+||cdn.larapush.com^
+||www.larapush.com^
 ||larkenjoyedborn.com^
 ||larun-khf.com^
 ||web-analytics.lastpass.com^
@@ -10928,6 +10952,9 @@
 ||purgedhope.com^
 ||wr.purgedhope.com^
 ||push-sdk.com^
+||push-sense.com^
+||www.push-sense.com^
+||xml.push-sense.com^
 ||push-signalsnewone11072023.com^
 ||pushagim.com^
 ||pushance.com^
@@ -12500,6 +12527,7 @@
 ||studybreakmedia.com^
 ||atc-edge.studybreakmedia.com^
 ||stuffedpebblegerman.com^
+||stuins.com^
 ||stumbleupon.com^
 ||www.stumbleupon.com^
 ||stunthedge.com^
@@ -13394,6 +13422,8 @@
 ||ads.undertone.com^
 ||cdn.undertone.com^
 ||usr.undertone.com^
+||unemployedscarinterbase.com^
+||www.unemployedscarinterbase.com^
 ||unequalbrake.com^
 ||unequaledchair.com^
 ||unexpectedcambridgespotlight.com^
@@ -15540,6 +15570,8 @@
 ||orgotitedu.info^
 ||ourtshipanditlas.info^
 ||ozonestsscareer.info^
+||playkclub.info^
+||www.playkclub.info^
 ||policityseriod.info^
 ||prchecker.info^
 ||pr.prchecker.info^
@@ -20108,6 +20140,9 @@
 ||go88.us^
 ||tai.go88.us^
 ||may88.us^
+||money123.us^
+||go.money123.us^
+||www.money123.us^
 ||red88.us^
 ||sky88.us^
 ||api.sky88.us^
@@ -21731,14 +21766,18 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||gemini.google.com/_/BardChatUi/jserror
 ||genius.com/guiver
 ||genspark.ai/api/payment/add_tracking_event
+||genspark.ai/api/tracking/events
 ||geo.dailymotion.com/cookie.js
 ||githack.com/ad-shield/
 ||google.*/ads/
 ||google.*/adsense/domains/caf.js
 ||google.*/async/bgasy
 ||google.*/ccm/collect
+||google.*/gen_204
+||google.*/httpservice/retry/jserror
 ||google.*/httpservice/retry/ValidationAsyncService/Validate
 ||google.*/log?
+||google.*/measurement/
 ||google.*/pagead/
 ||google.*/rmkt/collect
 ||google.com/js/google.js
@@ -21833,6 +21872,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||openai.com/_vercel/
 ||openai.com/backend/exp/
 ||openai.com/policies/cookie-policy/
+||openai.com/sdk/oaiq*.js
 ||openrouter.ai/537s/
 ||openrouter.ai/api/frontend/v1/statsig/
 ||openrouter.ai/ingest/
