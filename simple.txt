@@ -583,6 +583,8 @@
 ||nxj0g7.fscdn.eppo.cloud^
 ||matomo.cloud^
 ||cdn.matomo.cloud^
+||ntl.cloud^
+||mtm.ntl.cloud^
 ||optmn.cloud^
 ||cdn.optmn.cloud^
 ||sailthru.cloud^
@@ -2483,6 +2485,8 @@
 ||agafurretor.com^
 ||agbztxludkdx.com^
 ||www.agbztxludkdx.com^
+||ageverif.com^
+||www.ageverif.com^
 ||aggestose.com^
 ||aggfkyqu.com^
 ||www.aggfkyqu.com^
@@ -7287,6 +7291,8 @@
 ||www.highperformanceformat.com^
 ||highrevenuecpmnetwork.com^
 ||pl18656360.highrevenuecpmnetwork.com^
+||highrevenueformat.com^
+||www.highrevenueformat.com^
 ||highrevenuegate.com^
 ||pl19200896.highrevenuegate.com^
 ||pl19879344.highrevenuegate.com^
@@ -8267,6 +8273,8 @@
 ||kerumal.com^
 ||ketchcdn.com^
 ||global.ketchcdn.com^
+||kettledroopingcontinuation.com^
+||www.kettledroopingcontinuation.com^
 ||keysdigita.com^
 ||click2offers.keysdigita.com^
 ||kfabilcizka.com^
@@ -8870,6 +8878,7 @@
 ||cs.marinsm.com^
 ||tag.marinsm.com^
 ||cm.marketgid.com^
+||marketplacia.com^
 ||markofathenaluk.com^
 ||brightcombid.marphezis.com^
 ||married-ring.com^
@@ -9004,6 +9013,7 @@
 ||9.lady.mehcleverly.com^
 ||meishesdk.com^
 ||api.meishesdk.com^
+||melbet-79215.com^
 ||melodiouscomposition.com^
 ||meltedacrid.com^
 ||memberful.com^
@@ -10045,6 +10055,10 @@
 ||one-mob-file.com^
 ||js.one-mob-file.com^
 ||onebitco.com^
+||onedollarstats.com^
+||assets.onedollarstats.com^
+||collector.onedollarstats.com^
+||www.onedollarstats.com^
 ||onefootball88.com^
 ||skynet.onefootball88.com^
 ||onepointnews.com^
@@ -11228,6 +11242,8 @@
 ||reverselookup.quicksetcloud.com^
 ||quiltscaudata.com^
 ||quintag.com^
+||quintessentialcash.com^
+||www.quintessentialcash.com^
 ||analytics.quizizz.com^
 ||quokkacheeks.com^
 ||a.quora.com^
@@ -11411,6 +11427,7 @@
 ||reflectedintegrity.com^
 ||reflushneuma.com^
 ||refpa2518.com^
+||refpa89554.com^
 ||refpadewok.com^
 ||refraintupaiid.com^
 ||reftagger.com^
@@ -11928,6 +11945,7 @@
 ||seaskydvd.com^
 ||euob.seaskydvd.com^
 ||obseu.seaskydvd.com^
+||second-subject.com^
 ||secretdatingclub.com^
 ||lp.secretdatingclub.com^
 ||secretprivat.com^
@@ -12392,6 +12410,7 @@
 ||sync.search.spotxchange.com^
 ||sprig.com^
 ||api.sprig.com^
+||cdn.sprig.com^
 ||springserve.com^
 ||vid.springserve.com^
 ||sproutstarbarnacle.com^
@@ -12587,6 +12606,7 @@
 ||news.sun-asterisk.com^
 ||sunmaker.com^
 ||ads.sunmaker.com^
+||sunnyreception.com^
 ||sunriseholler.com^
 ||superbdolly.com^
 ||supercounters.com^
@@ -12906,6 +12926,7 @@
 ||p.thoctv.com^
 ||thoomsay.com^
 ||thor-pom.com^
+||thoroughgear.com^
 ||threadloom.com^
 ||cdn.threadloom.com^
 ||threwawaythetv.com^
@@ -13089,6 +13110,9 @@
 ||cdn.trafficstars.com^
 ||trafficuser.com^
 ||code.trafficuser.com^
+||traffmovie.com^
+||cdn.traffmovie.com^
+||z.cdn.traffmovie.com^
 ||trafican.com^
 ||of.trafican.com^
 ||trafmag.com^
@@ -17068,6 +17092,7 @@
 ||dnhfi5nn2dt67.cloudfront.net^
 ||dntgjk0do84uu.cloudfront.net^
 ||doo6pwib3qngu.cloudfront.net^
+||dpjf9a2rbjbvp.cloudfront.net^
 ||dq06u9lt5akr2.cloudfront.net^
 ||dq3yxnlzwhcys.cloudfront.net^
 ||drda5yf9kgz5p.cloudfront.net^
@@ -18030,6 +18055,7 @@
 ||revcontent.network^
 ||m.stripe.network^
 ||yoads.network^
+||s.h2.nexus^
 ||yasir252.com.ng^
 ||files.yasir252.com.ng^
 ||123abetterme.nl^
@@ -18383,6 +18409,7 @@
 ||stathome.org^
 ||a.stathome.org^
 ||cfcdn.stathome.org^
+||summertisaridicu.org^
 ||swetrix.org^
 ||telugump3.org^
 ||hqzone.telugump3.org^
@@ -18512,6 +18539,8 @@
 ||zalew-domaniowski.pl^
 ||ad.plus^
 ||cdn.ad.plus^
+||1xlite-6439.pro^
+||www.1xlite-6439.pro^
 ||4y3vbu5bxql6177n.pro^
 ||adfinity.pro^
 ||cdn.adfinity.pro^
@@ -19217,6 +19246,7 @@
 ||silencyboubous.space^
 ||spacefree.space^
 ||eu.spacefree.space^
+||us.spacefree.space^
 ||tmematapyramid.space^
 ||topmovies.space^
 ||vidsreal.space^
@@ -21689,6 +21719,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||accounts.google.com/_/IdpIFrameHttp/cspreport/fine-allowlist
 ||accounts.google.com/gsi/log
 ||accounts.google.com/v3/signin/_/AccountsSignInUi/browserinfo
+||aistudio.google.com/_/MakerSuite/jserror
 ||amazonaws.com/*/*prebid.js
 ||amazonaws.com/*jsstore/
 ||amazonaws.com/telemetry.bydata/freeconvert/bydataAnalytics.js
@@ -21707,6 +21738,9 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||apkmody.com/*/admanager.js
 ||aplus.qwen.ai/aes.1.1
 ||aplus.qwen.ai/v.gif
+||apps.microsoft.com/assets/js/telemetry-*.js
+||apps.microsoft.com/clarity.js
+||apps.microsoft.com/offline.html
 ||arena.ai/ingest/
 ||arms-retcode.aliyuncs.com/r.png
 ||assets.alicdn.com/g/??/sd/baxia/
@@ -21758,6 +21792,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||cdnx.stream/jwplayer@master/vast.js
 ||challenges.cloudflare.com/cdn-cgi/challenge-platform/h/*/cmg/1
 ||chat.baidu.com/aichat/api/visits
+||chat.deepseek.com/api/v0/client/settings/report
 ||chat.deepseek.com/api/v0/events
 ||chat.qwen.ai/api/v2/users/status
 ||chat.qwen.ai/scripts/stat.js
@@ -21771,6 +21806,8 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||chaturbate.com^$third-party,subdocument
 ||claude.ai/api/event_logging/
 ||claude.ai/api/organizations/*/experiences/
+||claude.ai/api/v2/rum
+||claude.ai/edge-api/client-health/
 ||claude.ai/isolated-segment.html
 ||claude.ai/sentry
 ||client-api.arkoselabs.com/metrics/ui
@@ -21841,6 +21878,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||genspark.ai/api/payment/add_tracking_event
 ||genspark.ai/api/tracking/events
 ||geo.dailymotion.com/cookie.js
+||gitclear.com/plausible-proxy/
 ||githack.com/ad-shield/
 ||github.com/dashboard/cap_banner
 ||github.com/in-product-messaging/copilot-budget-request-banner
@@ -21848,6 +21886,8 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||google.*/adsense/domains/caf.js
 ||google.*/async/bgasy
 ||google.*/ccm/collect
+||google.*/client_204
+||google.*/g/collect
 ||google.*/gen_204
 ||google.*/httpservice/retry/jserror
 ||google.*/httpservice/retry/ValidationAsyncService/Validate
