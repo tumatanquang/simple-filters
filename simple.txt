@@ -285,6 +285,7 @@
 ||df.gov.br^
 ||agenciabrasilia.df.gov.br^
 ||www.agenciabrasilia.df.gov.br^
+||btmessage^
 ||4hal7ck1kh.buzz^
 ||4pmhvo5qzf.buzz^
 ||bestdealfor.buzz^
@@ -2337,6 +2338,9 @@
 ||cdn-f.adsmoloco.com^
 ||adspredictiv.com^
 ||www.adspredictiv.com^
+||adspsp.com^
+||prod.adspsp.com^
+||www.adspsp.com^
 ||adspyglass.com^
 ||www.adspyglass.com^
 ||adsrv4k.com^
@@ -3983,6 +3987,8 @@
 ||btixtaodva.com^
 ||btloader.com^
 ||api.btloader.com^
+||api.btmessage.com^
+||cdn.btmessage.com^
 ||btse.com^
 ||www.btse.com^
 ||bu3le2lp4t45e6i.com^
@@ -7201,6 +7207,7 @@
 ||ana.headerlift.com^
 ||pub.headerlift.com^
 ||headlinecamp.com^
+||rvo-cohesion.healthline.com^
 ||heapanalytics.com^
 ||cdn.heapanalytics.com^
 ||heapedkroons.com^
@@ -8644,6 +8651,8 @@
 ||cdn.lifemoodmichelle.com^
 ||lifetimeroyaltybestial.com^
 ||www.lightboxcdn.com^
+||lighthearted-awareness.com^
+||www.lighthearted-awareness.com^
 ||lightindividual.com^
 ||lightlycauldron.com^
 ||lijawxhfip.com^
@@ -10630,6 +10639,7 @@
 ||static.philacct.com^
 ||phimhayvi.com^
 ||phloxsub73ulata.com^
+||phonydepth.com^
 ||phoolreekrowobs.com^
 ||phooltutoopoo.com^
 ||phoroglopsu.com^
@@ -11778,6 +11788,11 @@
 ||partner.rvadnet.com^
 ||rvigxvvpkgvvbo.com^
 ||rvltfgyvx.com^
+||rvohealth.com^
+||cdn.rvohealth.com^
+||make.rvohealth.com^
+||ingest.make.rvohealth.com^
+||www.rvohealth.com^
 ||rw88110.com^
 ||www.rw88110.com^
 ||rwovzozkyg.com^
@@ -21915,7 +21930,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||chatgpt.com/backend-api/beacons/
 ||chatgpt.com/backend-api/sentinel/
 ||chatgpt.com/ces/
-||chatgpt.com/unauth-mweb/
+||chatgpt.com/unauth-mweb/connectivity-probe
 ||chaturbate.com/in/
 ||chaturbate.com/tours/
 ||chaturbate.com^$third-party,subdocument
@@ -22093,7 +22108,6 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||nhentai.net/api/hit
 ||nordcdn.com/d/consent/
 ||nordvpn.com/static/TrackersRuntimeScript*.js
-||oaistatic.com/assets/datadog-*.js
 ||oceanbase.com/_vercel/
 ||online-python.com/detroitchicago/
 ||online-python.com/ezais/
@@ -22381,7 +22395,7 @@ onlinegdb.com#%#(()=>{var t=setInterval(()=>{if(typeof savefile==='function'){Ob
 onlinetexttools.com#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{document.body.dataset.is_premium='True';document.body.dataset.discount_modal='False';var e=document.querySelectorAll('[data-subscription="free"]');if(e.length!==0){e.forEach(el=>{el.dataset.subscription='premium'})}e=document.querySelector('button.widget-save-as');if(e!==null){e.addEventListener('click',()=>{setTimeout(()=>{e.innerText='Download';e.disabled=false},100)})}})})();
 pass.proton.me#%#(()=>{var _=window.fetch;window.fetch=(...s)=>{return _(...s).then(async s=>{var e=await s.clone().json();if(e!==null&&e.Access!==null&&e.Access.Plan!==null){e.Access.Plan.AliasLimit=null;e.Access.Plan.DisplayName='Proton Plus';e.Access.Plan.HideUpgrade=true;e.Access.Plan.InternalName='plus';e.Access.Plan.TotpLimit=null;e.Access.Plan.Type='plus';e.Access.Plan.VaultLimit=null}return new Response(JSON.stringify(e),{status:s.status,statusText:s.statusText,headers:s.headers})})}})();
 perplexity.ai#%#(()=>{var _=window.fetch;var aa_=async fp=>{var response=await fp;var data=await response.json();if(Array.isArray(data?.config)){data.config.forEach(item=>{item.subscription_tier='free'})}return new Response(JSON.stringify(data),{status:response.status,statusText:response.statusText,headers:response.headers})};var fetch=function(){if(arguments[0]instanceof URL&&arguments[1]!==null){if(arguments[0].href.startsWith('https://www.perplexity.ai/rest/models/config')&&arguments[1].method==='GET'){return aa_(_.apply(this,arguments))}else if(arguments[0].href==='https://www.perplexity.ai/rest/sse/perplexity_ask'&&arguments[1].method==='POST'&&typeof arguments[1].body==='string'){var payload=JSON.parse(arguments[1].body);payload.params.sources=['web','scholar','social','health','edgar'];arguments[1].body=JSON.stringify(payload)}return _.apply(this,arguments)}return _.apply(this,arguments)};Object.defineProperty(window,'fetch',{get:()=>fetch,set:()=>{},configurable:false,enumerable:true})})();
-play.google.com#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelector('textarea[maxlength="500"]');if(e!==null){e.maxLength=5E3}new MutationObserver(mutations=>{mutations.forEach(mutation=>{mutation.addedNodes.forEach(node=>{if(node.nodeType===1){var selector='textarea[maxlength="500"]';var elToProcess=null;if(typeof node.matches==='function'&&node.matches(selector)===true){elToProcess=node}else if(typeof node.querySelector==='function'){elToProcess=node.querySelector(selector)}if(elToProcess!==null){elToProcess.maxLength=5E3}}})})}).observe(document.documentElement,{childList:true,subtree:true})})})();
+play.google.com#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelector('textarea[maxlength="500"]');if(e!==null){e.maxLength=5e3}new MutationObserver(mutations=>{mutations.forEach(mutation=>{mutation.addedNodes.forEach(node=>{if(node.nodeType===1){var selector='textarea[maxlength="500"]';var elToProcess=null;if(typeof node.matches==='function'&&node.matches(selector)===true){elToProcess=node}else if(typeof node.querySelector==='function'){elToProcess=node.querySelector(selector)}if(elToProcess!==null){elToProcess.maxLength=5e3}}})})}).observe(document.documentElement,{childList:true,subtree:true})})})();
 rule34.xxx#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelectorAll('[data-nosnippet]');if(e.length!==0){e.forEach(el=>{el.remove()})}})})();
 saostar.vn#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelector('div.layout > div.t--0');if(e!==null){e.remove()}e=document.getElementById('articlepage');if(e!==null){e.classList.remove('is-ads')}['div.w--160','div.w--300','div.article-medbottom'].forEach(t=>{e=document.querySelector(t);if(e!==null){e.remove()}})})})();
 sbchill.com,sblongvu.com,streamsss.net,watchsb.com#%#(()=>{Object.defineProperties(window,{'check':{value:void 0,writable:false},'isadb':{value:void 0,writable:false},'minimalUserResponseInMiliseconds':{value:void 0,writable:false},'tryCount':{value:void 0,writable:false},'__Y':{value:void 0,writable:false}});window.addEventListener('DOMContentLoaded',()=>{if(typeof player==='object'&&player!==null){player.setVolume(0);player.setMute(true);localStorage.setItem('jwplayer.volume',0);localStorage.setItem('jwplayer.mute',true)}})})();
@@ -22401,7 +22415,7 @@ xhamster.com#%#(()=>{document.cookie='ts_popunder=true;domain=.xhamster.com';doc
 xhamster.desi#%#(()=>{document.cookie='ts_popunder=true;domain=.xhamster.desi';document.cookie='ts_popunder2=true;domain=.xhamster.desi'})();
 xhamster2.com#%#(()=>{document.cookie='ts_popunder=true;domain=.xhamster2.com';document.cookie='ts_popunder2=true;domain=.xhamster2.com'})();
 xvideos.com#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{Object.defineProperty(xv,'sda',{value:{},writable:false})})})();
-yaoimangaonline.com#%#(()=>{Object.defineProperty(window,'random_imglink',{value:()=>{},writable:false});window.addEventListener('DOMContentLoaded',()=>{['#block-12','#block-13','#block-14','#block-15','#block-16','#block-19','#block-20','#block-8','#text-2','#text-28','.code-block','[id^="block-"]:has(script)','[id^="block-"]:not(.widget_text)'].forEach(selector=>{var elements=document.querySelectorAll(selector);if(elements.length!==0){elements.forEach(el=>{el.remove()})}})})})();
+yaoimangaonline.com#%#(()=>{Object.defineProperties(window,{'AdProvider':{value:{},writable:false},'dataLayer':{value:{},writable:false},'random_imglink':{value:()=>true,writable:false}});window.addEventListener('DOMContentLoaded',()=>{['#block-12','#block-13','#block-14','#block-15','#block-16','#block-19','#block-20','#block-8','#text-2','#text-28','.code-block','[id^="block-"]:has(script)','[id^="block-"]:not(.widget_text)'].forEach(selector=>{var elements=document.querySelectorAll(selector);if(elements.length!==0){elements.forEach(el=>{el.remove()})}})})})();
 mail.yahoo.com#$##main { max-width: 2560px !important; }
 mail.yahoo.com#$##yucs { max-width: 2560px !important; }
 mail.yahoo.com#$##yuhead-bucket { max-width: 2560px !important; }
@@ -22432,7 +22446,7 @@ bilibili.com###activity_vote,#bannerAd,#live_recommand_report,#slide_ad,.ad-floo
 bing.com###adstop_gradiant_separator,.b_spa_adblock,.ins_exp.vsp,.irptaads,.rewards_promo_acf,.vsp_ads_c,div#b_pole,div.b_ad,div.b_adcard,div.b_slidebar > div.slide:has(div.b_ad),div.b_slidebar > div.slide:has(div.b_adcard),div[elementtiming="frp.AdsTop"],li.b_ad,li.b_adTop,ol#b_context > li.b_ans.sb_genserp_va[data-partnertag],ol#b_context > li.b_ans[data-partnertag]:has(div.va_gc_ads),ol#b_results > li.b_algo > div.b_vlist2col:has(div[class^="ad_"]),ol#b_results > li.b_algo:has(> div.adsMvCarousel),ol#b_topw.b_results_eml > li[style="display: inline-block;"]
 boyfriend.tv,boyfriendtv.com###js-ads-modal,#rightside2,.ads-wrapper,.eu-cookies,.js-right-no-ads,.vast-overlay,.video-extra-wrapper,.x-news-line,[class$="advi" i],[href*="gobanner"],[src*="paysite"],a.new-videoplayer-overlay,div.adblock:has(div.media-item.no-popup),div.container:has(h3 > a[href="/live-cam-models/"]),div.content-block.js-quiet:has(iframe),div.js-toggle-content-wrapper:has(div.adblock > div.main-see-more-wrapper),div.js-toggle-content-wrapper:has(div.media-item.no-popup),div.js-toggle-content-wrapper:has(li.mtile-x7.js-quiet),div.js-toggle-content-wrapper[style=""]:has(a[href="/live-cam-models/"]),div.media-item.no-popup,div.no-popup:has(div[data-id^="sc-"]),div.video-listing > div.box-listing:has(div.js-quiet),div.video-listing > div.js-quiet:has(div[data-id^="sc-"]),div.wgt-container,div:not([class]):not([id]):has(> div[style] > span[title="FapHouse" i]),div:not([class]):not([id]):has(a[class^="fh-"]),li.media-item.no-popup,li.mtile-x7.js-quiet
 camelliatransgroup.com,dhcc.xyz##[id^="sticky-footer" i]
-check-host.net##div#content2 div[class$="tive"],div#content2 div[class^="mt-"]:not([id="terminal-frame"]),div.container > div.flex.w-full[id$="main"],div.ri-btive:has(a.aforce),div.ri-btive[id$="-line"],div[id$="aeza-splash"],div[id^="yourip"] > div[class^="host"],div[id^="yourip"] > div[id^="host"],footer > div.countryAll,footer > div.countryIR
+check-host.net##div#content2 div[class$="tive"],div#content2 div[class^="mt-"]:not([id="terminal-frame"]),div#prepender[data-prefix],div.container > div.flex.w-full[id$="main"],div.ri-btive:has(a.aforce),div.ri-btive[id$="-line"],div[id$="-splash"],div[id^="yourip"] > div[class^="host"],div[id^="yourip"] > div[id^="host"],footer > div.countryAll,footer > div.countryIR
 coderanch.com###txl,.forum-top-banner,.multbntab,.shngl
 dev.to##div[data-async-url]
 dnschecker.org##div#all_tools_below_more_tools,div#cookie-box,div[data-freestar-ad]
