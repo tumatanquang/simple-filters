@@ -6746,6 +6746,8 @@
 ||gijqmewim.com^
 ||www.gijqmewim.com^
 ||gingerconnoisseur.com^
+||gingubbin.com^
+||rp.gingubbin.com^
 ||ginhpozi.com^
 ||giraffepiano.com^
 ||giriucat.com^
@@ -13609,6 +13611,7 @@
 ||tzujcudmyh.com^
 ||tzvroyuhmkvlsa.com^
 ||www.tzvroyuhmkvlsa.com^
+||u5s5.com^
 ||u9axpzf50.com^
 ||ubbfpm.com^
 ||ubembed.com^
@@ -15450,6 +15453,7 @@
 ||development-create-checkout.paddle.dev^
 ||staging-checkout.paddle.dev^
 ||adscx.pages.dev^
+||clickshow.pages.dev^
 ||porxx.pages.dev^
 ||pub-75e171aa9805431591635361c0f059a2.r2.dev^
 ||pub-bc3614246086443b83b7f1cf684d4284.r2.dev^
@@ -15844,6 +15848,8 @@
 ||www.bajashpa.in^
 ||bicavhmr.in^
 ||www.bicavhmr.in^
+||bkontegudnm.in^
+||www.bkontegudnm.in^
 ||can-get-some.in^
 ||eu.can-get-some.in^
 ||ciqfawsa.in^
@@ -17203,6 +17209,8 @@
 ||consent.azureedge.net^
 ||msadsscale.azureedge.net^
 ||privacytermsprod.azureedge.net^
+||b02.azurefd.net^
+||uhf-exp-fd-gbcrdgggfbggh0g3.b02.azurefd.net^
 ||consentdeliveryfd.azurefd.net^
 ||afdcdnperf-e8aeffg7frd0a3c0.z01.azurefd.net^
 ||yabo-b3g0esbzcggye4d3.z01.azurefd.net^
@@ -18791,6 +18799,7 @@
 ||optout.networkadvertising.org^
 ||www.networkadvertising.org^
 ||nlargeconsult.org^
+||nolatec.org^
 ||ntoftheusysia.org^
 ||onlinehentai.org^
 ||otdev.org^
@@ -19576,6 +19585,32 @@
 ||ulvantamal.shop^
 ||vitaflora.shop^
 ||vuabet88.shop^
+||wf98ozot.shop^
+||archivekn4u.wf98ozot.shop^
+||assets-gqqo.wf98ozot.shop^
+||bucket-nppi.wf98ozot.shop^
+||collectb02v.wf98ozot.shop^
+||confirm-6n47.wf98ozot.shop^
+||data-b02v.wf98ozot.shop^
+||fastadu8.wf98ozot.shop^
+||file-link-23chm.wf98ozot.shop^
+||file-link-5sspt.wf98ozot.shop^
+||file-link-8gryk.wf98ozot.shop^
+||file-link-cwzw5.wf98ozot.shop^
+||file-link-e8au0.wf98ozot.shop^
+||file-link-pkmz3.wf98ozot.shop^
+||files-lyyk.wf98ozot.shop^
+||folderel2q.wf98ozot.shop^
+||forum-xg91.wf98ozot.shop^
+||mediai2wq.wf98ozot.shop^
+||node13yg.wf98ozot.shop^
+||out13yg.wf98ozot.shop^
+||panel3quc.wf98ozot.shop^
+||prepareadu8.wf98ozot.shop^
+||unlock3quc.wf98ozot.shop^
+||validatexg91.wf98ozot.shop^
+||vip-6n47.wf98ozot.shop^
+||www.wf98ozot.shop^
 ||windsuredine.shop^
 ||kx.windsuredine.shop^
 ||xylidichiatus.shop^
@@ -22613,6 +22648,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||twitter.com/i/api/1.1/jot/
 ||unpkg.com/web-vitals
 ||useblackbox.io/tlm
+||viblo.asia/v3/stats/track/
 ||vimeo.com/ablincoln/
 ||virustotal.com/gui/_log-error
 ||virustotal.com/ui/collect
@@ -22763,7 +22799,7 @@ check-host.net#%#(()=>{Object.defineProperty(window,'ad_prepend',{value:void 0,w
 d0000d.com,do0od.com,dood.la,dood.pm,dood.re,dood.so,dood.to,dood.wf,dood.yt,doods.pro,dooood.com,ds2play.com,dsvplay.com#%#(()=>{Object.defineProperties(window,{'check':{value:()=>{},writable:false},'minimalUserResponseInMiliseconds':{value:void 0,writable:false},'tryCount':{value:void 0,writable:false}});window.addEventListener('DOMContentLoaded',()=>{if(typeof dsplayer==='object'&&dsplayer!==null){dsplayer.on('keydown',e=>{if(e.ctrlKey===true&&e.key==='s'&&dsplayer.cache_.src!==null){e.preventDefault();if(confirm('Download video?')===true){window.open(dsplayer.cache_.src)}}});dsplayer.volume(0);dsplayer.muted(true);localStorage.setItem('volume',0)}Object.defineProperties(window,{'disabledEvent':{value:()=>{},writable:false},'DoodPop':{value:void 0,writable:false},'googleAd':{value:null,writable:true},'hab':{value:()=>{return false},writable:false},'minimalUserResponseInMiliseconds':{value:void 0,writable:false},'PushOpen':{value:()=>{},writable:false},'sendGA':{value:()=>{},writable:false},'tryCount':{value:void 0,writable:false}})})})();
 dailyuploads.net#%#(()=>{Object.defineProperties(window,{'adEnable':{value:true,writable:false},'artvideovr':{value:void 0,writable:false},'_gaq':{value:void 0,writable:false}});window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelector('.banner');if(e!==null){e.className='0'}if(typeof $==='function'&&typeof $.isFunction==='function'){$('#downloadbtn').off('click')}})})();
 dailyuploads.net,datavaults.co,filespayouts.com,up-load.io,uploadrar.com,zmamobile.com#%#(()=>{window.addEventListener('load',()=>{var e=document.getElementById('downloadbtn');if(e!==null){e.disabled=false}e=document.getElementById('gdpr-cookie-notice');if(e!==null){e.remove()}e=document.getElementById('adblock_detected');if(e!==null){e.value=0}})})();
-datavaults.co#%#Object.defineProperty(window,'clicked',{value:2,writable:false});(()=>{window.addEventListener('DOMContentLoaded',()=>{var e=document.getElementById('dummy');if(e!==null){e.style.display='none'}e=document.getElementById('original');if(e!==null){e.style.display='block'}})})();
+datavaults.co#%#Object.defineProperty(window,'clicked',{value:2,writable:false});(()=>{window.addEventListener('DOMContentLoaded',()=>{var e=document.getElementById('dummy');if(e!==null){e.style.display='none'}e=document.getElementById('original');if(e!==null){e.style.display='block'}if(typeof $==='function'&&typeof $.isFunction==='function'){$('#downloadbtn').off('click');$('#downloadbtn').click(function(){this.form.submit()})}})})();
 dictionary.cambridge.org,fandom.com#%#(()=>{var isBadScript=e=>{try{if(e.tagName!=='SCRIPT'){return false}if((e.src||'').includes('html-load.com/loader.min.js')===true||e.hasAttribute('nowprocket')===true||(e.textContent||'').indexOf('function t(o,e){var r=n()')>=0){return true}}catch(t){}return false};document.querySelectorAll('script').forEach(t=>{if(isBadScript(t)===true){t.parentNode.removeChild(t)}});new MutationObserver(mutations=>{mutations.forEach(t=>{t.addedNodes.forEach(t=>{if(t.nodeType===Node.ELEMENT_NODE&&t.tagName==='SCRIPT'&&isBadScript(t)===true){t.parentNode.removeChild(t)}})})}).observe(document.documentElement,{childList:true,subtree:true});var _=window.fetch;window.fetch=function(e,r){try{var n=typeof e==='string'?e:e.url;if(n!==null&&n.includes('error-report.com')===true){return Promise.reject(Error('Blocked by client script'))}}catch(o){}return _.apply(this,arguments)}})();
 diffchecker.com#%#(()=>{localStorage.setItem('theme','dark');var d=new Date;d='-'+d.getMonth()+'-'+d.getFullYear();localStorage.setItem('closedDiffDesktopBanner',true);localStorage.setItem('alreadySawHomepageModal',true);localStorage.setItem('explainUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('mergeUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('textDiffLevelUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('textStatsUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('ignoreStringsUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('unifiedUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('collapsedUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('realTimeUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('syntaxHighlightUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('exportXlsxUses'+d,Number.MIN_SAFE_INTEGER);localStorage.setItem('exportPdfUses'+d,Number.MIN_SAFE_INTEGER);window.addEventListener('DOMContentLoaded',()=>{document.querySelectorAll('form > .hide-print').forEach(e=>{e.style.visibility='hidden';e.style.display='none'});new MutationObserver(mutations=>{mutations.forEach(mutation=>{mutation.addedNodes.forEach(node=>{if(node.nodeType===Node.ELEMENT_NODE){if(typeof node.matches==='function'&&node.matches('form > .hide-print')===true){node.style.visibility='hidden';node.style.display='none'}node.querySelectorAll('form > .hide-print').forEach(e=>{e.style.visibility='hidden';e.style.display='none'})}})})}).observe(document.documentElement,{childList:true,subtree:true})})})();
 fandom.com#%#(()=>{Object.defineProperties(window,{fandomAdsSlotsConfig:{value:{},writable:false},_plc:{value:{},writable:false},ads:{value:{},writable:false},FANDOM_ODYSSEY:{value:false,writable:false},ALGOLIA_INSIGHTS_SRC:{value:'',writable:false},__as_ready_resolve:{value:void 0,writable:false}})})();
@@ -22776,7 +22812,7 @@ hitomi.la#%#(()=>{window.addEventListener('DOMContentLoaded',()=>{var e=document
 hitomi.la,myreadingmanga.info#%#(()=>{Object.defineProperty(window,'adConfig',{value:void 0,writable:false})})();
 idoitmyself.xyz#%#(()=>{console.clear=void 0;document.write=void 0;window.open=void 0;Object.defineProperties(window,{devtoolsDetector:{value:void 0,writable:false},ADS_CONFIG:{value:void 0,writable:false},get_ads_func:{value:void 0,writable:false},run:{value:void 0,writable:false},loadAds:{value:void 0,writable:false},ct_func:{value:void 0,writable:false}});Object.defineProperties(Object,{isEnable:{value:void 0,writable:false},isOpen:{value:void 0,writable:false}});window.addEventListener('DOMContentLoaded',()=>{var e=document.querySelectorAll('.fx-right.fx-sda.affix');if(e.length!==0){e.forEach(el=>{el.remove()})}if(typeof $==='function'&&typeof $.isFunction==='function'){$(window).off('load');$('body').off('keydown');setTimeout(()=>{$('body').off('click')},1010)}})})();
 imgur.com#%#(()=>{window.usesABP=false})();
-katfile.biz,katfile.co,katfile.com,katfile.online,katfile.space,katfile.vip#%#(()=>{Object.defineProperty(window,'popns',{value:void 0,writable:false});var t=setInterval(()=>{if(typeof $==='function'&&typeof $.isFunction==='function'){$('#fbtn1,#m_fbtn1,.downloadbtn,#dlink').off('click');$('#fbtn1,#m_fbtn1').click(n=>{n.preventDefault();$('#freebtn').click()});$('button.downloadbtn:not(#downloadbtn)').click(function(n){n.preventDefault();this.form.submit()})}},100)})();
+katfile.biz,katfile.co,katfile.com,katfile.online,katfile.space,katfile.vip#%#(()=>{Object.defineProperties(window,{popns:{value:void 0,writable:false},kfSlowPopAd:{value:void 0,writable:false},KF_SLOW_ADS_ON:{value:false,writable:false}});var t=setInterval(()=>{if(typeof $==='function'&&typeof $.isFunction==='function'){$('#fbtn1,#m_fbtn1,.downloadbtn,#dlink').off('click');$('#fbtn1,#m_fbtn1').click(n=>{n.preventDefault();$('#freebtn').click()});$('button.downloadbtn:not(#downloadbtn)').click(function(n){n.preventDefault();$('#btn_download').submit()})}},100)})();
 kenhdammy.com#%#(()=>{Object.defineProperties(window,{'defeatIE':{value:void 0,writable:false},'defeatNS':{value:void 0,writable:false},'shortcut':{value:void 0,writable:false},'vtlai_popup':{value:void 0,writable:false}});Object.defineProperty(document,'oncontextmenu',{value:void 0,writable:false})})();
 kimcartoon.si#%#(()=>{window.check_adblock=true;window.addEventListener('DOMContentLoaded',()=>{var el=document.querySelector('#container > #adsIfrme');if(el!==null){el.removeAttribute('id')}})})();
 mail.google.com,login.yahoo.com#%#(()=>{var s=/(?:\S+)?ads(?:\S+)?/gi;document.querySelectorAll('[class*="ads" i]').forEach(e=>{var matches=e.className.match(s);if(matches!==null){e.classList.remove(...matches)}});new MutationObserver(mutations=>{mutations.forEach(mutation=>{mutation.addedNodes.forEach(node=>{if(node.nodeType===1){if(typeof node.matches==='function'&&node.matches('[class*="ads" i]')===true){var matches=node.className.match(s);if(matches!==null){node.classList.remove(...matches)}}node.querySelectorAll('[class*="ads" i]').forEach(e=>{var matches=e.className.match(s);if(matches!==null){e.classList.remove(...matches)}})}})})}).observe(document.documentElement,{childList:true,subtree:true})})();
@@ -22853,7 +22889,7 @@ gpt4o.so##.block[class*="lg"],.hidden[class*="lg"]
 hentaivn.ltd###over,#page_ads_right,#qx-300x250,.a_d_s_115,.a_d_s_50,.qc_main,.qx_135,.size_70,.size_80,[class*="qx_main" i]
 hentaivnx.*##.ads-banner
 home.blog,wordpress.com##.cookie-banner,.widget_eu_cookie_law_widget
-katfile.*##div#container p:has(> a[target="_blank"][rel="noopener"])
+katfile.*##a.kf-shorts-promo,div#container p:has(> a[target="_blank"][rel="noopener"])
 link1s.com###baolink1s
 lpsg.com##.samCodeUnit
 luckypatchers.com##div.l-cookie
