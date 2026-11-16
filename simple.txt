@@ -332,6 +332,9 @@
 ||soogandrooped.cam^
 ||ulcerstopers.cam^
 ||yeusex.cam^
+||tot88.capital^
+||gw.tot88.capital^
+||www.tot88.capital^
 ||blogtienao.care^
 ||bs_bc4ec2e8.blogtienao.care^
 ||beenmeekwarmth.casa^
@@ -1291,6 +1294,8 @@
 ||2osb.com^
 ||2performant.com^
 ||event.2performant.com^
+||2q9pow.com^
+||rybbit-analytics.2q9pow.com^
 ||2qj7mq3w4uxe.com^
 ||305421ba72.com^
 ||3626e5e71a.305421ba72.com^
@@ -2994,6 +2999,8 @@
 ||www.appbrain.com^
 ||appcmd368.com^
 ||appealtime.com^
+||amp-api-edge.media.apple.com^
+||xp.apple.com^
 ||applovin.com^
 ||a.applovin.com^
 ||assets.applovin.com^
@@ -4056,6 +4063,7 @@
 ||budgepenitent.com^
 ||budtawney.com^
 ||ft.budtawney.com^
+||bufingarribes.com^
 ||bugaruche.com^
 ||bugsnag.com^
 ||notify.bugsnag.com^
@@ -4732,6 +4740,8 @@
 ||company-target.com^
 ||api.company-target.com^
 ||s.company-target.com^
+||complicated-power.com^
+||www.complicated-power.com^
 ||concealedtripssurgical.com^
 ||condenastdigital.com^
 ||capture.condenastdigital.com^
@@ -6015,6 +6025,8 @@
 ||ezojs.com^
 ||www.ezojs.com^
 ||ezozojawg.com^
+||ezvimalk.com^
+||www.ezvimalk.com^
 ||ezyenrwcmo.com^
 ||f029332141.com^
 ||9797eebeee.f029332141.com^
@@ -9569,6 +9581,9 @@
 ||mybettermb.com^
 ||mychecklist4u.com^
 ||www.mychecklist4u.com^
+||mychoice2027.com^
+||myemailtracking.com^
+||www.myemailtracking.com^
 ||myhvmudzmrbl.com^
 ||www.myhvmudzmrbl.com^
 ||myip.com^
@@ -12215,6 +12230,8 @@
 ||live.sekindo.com^
 ||video.sekindo.com^
 ||selfishsnake.com^
+||sellitauto.com^
+||www.sellitauto.com^
 ||sellwild.com^
 ||cache.sellwild.com^
 ||widget.sellwild.com^
@@ -14302,6 +14319,8 @@
 ||fj.wageredbrinies.com^
 ||waggersapostle.com^
 ||oc.waggersapostle.com^
+||wagtrackmailing.com^
+||www.wagtrackmailing.com^
 ||waisheph.com^
 ||waisterisabel.com^
 ||oh.waisterisabel.com^
@@ -15838,6 +15857,8 @@
 ||publisher-assets.spot.im^
 ||www.123smsfun.in^
 ||4736.in^
+||abkagndabsa.in^
+||www.abkagndabsa.in^
 ||adpdkizzi.in^
 ||www.adpdkizzi.in^
 ||agtcmuohbt.in^
@@ -18223,6 +18244,7 @@
 ||rek5.savefrom.net^
 ||sb21.net^
 ||be.sb21.net^
+||nowsjk.sb21.net^
 ||sc-static.net^
 ||searchad.net^
 ||secureserver.net^
@@ -18485,6 +18507,8 @@
 ||d.pub.network^
 ||revcontent.network^
 ||m.stripe.network^
+||tot88.network^
+||www.tot88.network^
 ||yoads.network^
 ||s.h2.nexus^
 ||yasir252.com.ng^
@@ -18710,6 +18734,7 @@
 ||cdn.billybobandirect.org^
 ||bobabillydirect.org^
 ||booraq.org^
+||brijmohan.org^
 ||browser-update.org^
 ||captureukdmyatyten.org^
 ||rsc.cdn77.org^
@@ -19104,6 +19129,7 @@
 ||www.nifty-drive.pro^
 ||nikugrawe.pro^
 ||www.nikugrawe.pro^
+||oddball-fat.pro^
 ||oldassist.pro^
 ||www.oldassist.pro^
 ||olineman.pro^
@@ -19476,6 +19502,7 @@
 ||daftarfilles.shop^
 ||deliriamorula.shop^
 ||discsrelated.shop^
+||docvithanhcong.shop^
 ||doeglicbeeper.shop^
 ||dtyopj.shop^
 ||archive-1fsz.dtyopj.shop^
@@ -20758,6 +20785,9 @@
 ||thethaofabet.us^
 ||xo88.us^
 ||x2.xo88.us^
+||sin88.viajes^
+||sk.sin88.viajes^
+||www.sin88.viajes^
 ||elements.video^
 ||capi.elements.video^
 ||open.video^
@@ -22002,7 +22032,7 @@ $removeparam=/(?:aff_id|campaign_?id|fbclid|gad_[a-z]+|gbra_?id|gclid|pxl|spot_i
 /(?:blank|empty|ren|solid|stats|trans)\.gif/$image
 /(?:code|D1ySi8Uk|sfp|snowplow\.sp)\.js/$match-case,script
 /(?:csi|error|gen(?:erate)?)_?204/
-/(?:fac|fp\.rev11|ntfc|out|promo|vast)\.php/
+/(?:fac|fp\.rev11|ntfc|(?<!log)out|promo|vast)\.php/
 /(?:sa-sdk-javascript|web-vitals)@/$script
 /(?<!(?:magnific|self-answer|tag-suggest)[-,])popup/$domain=~drive.google.com|~stackoverflow.com|~wikipedia.org,match-case
 /.*(?:_ads)\.js/$script
@@ -22308,6 +22338,7 @@ quora.com##.spacing_log_question_page_ad,div.Bundle:not([class*=" "])[data-clog-
 ||boyfriend.tv/allow-preferred/
 ||boyfriendtv.com/ads/live-cam/popunder
 ||boyfriendtv.com/allow-preferred/
+||boyfriendtv.com/api/analytics/
 ||boyfriendtv.com/api/r4mx
 ||boyfriendtv.com/api/tiles
 ||boyfriendtv.com/bftv/b/*.html
